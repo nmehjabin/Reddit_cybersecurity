@@ -1,0 +1,5 @@
+bat_threshold,cve_threshold,pearson_r,pearson_p,spearman_r,spearman_p
+n_bat_ge1,n_cve_run1,0.1599,0.0,0.3102,0.0
+n_bat_ge1,n_cve_run2,0.1503,0.0,0.1799,0.0
+n_bat_ge2,n_cve_run1,0.0872,0.0,0.2049,0.0
+n_bat_ge2,n_cve_run2,0.1201,0.0,0.1499,0.0

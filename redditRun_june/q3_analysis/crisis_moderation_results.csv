@@ -1,0 +1,3 @@
+intensity_measure,interaction_coef,interaction_p,significant,n_obs
+Run1 (>9.5),0.0025,0.745124,False,135897
+Run2 (==10),-0.0008,0.915606,False,135897

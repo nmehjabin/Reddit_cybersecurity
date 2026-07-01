@@ -1,0 +1,92 @@
+{
+  "7z1myu": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "I am happy to say, after months of studying, I passed the CISSP exam",
+    "exit_reasoning": "The post expresses excitement and accomplishment after passing the CISSP exam, with no language indicating burnout or desire to leave the field, and instead shows interest in further certification."
+  },
+  "9ni8m6": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 0.9,
+    "exit_evidence_span": "I want to write 'roadmap' and risk mitigation plan",
+    "exit_reasoning": "The post expresses a proactive and engaged tone, seeking input for a project, with no language indicating burnout, frustration, or desire to leave the job or field."
+  },
+  "b4c1cv": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "Do you use a third party encryption software to secure your company's sensitive files in the cloud?",
+    "exit_reasoning": "The post is a neutral, inquiring message about encryption software usage, with no language indicating burnout, frustration, or consideration of leaving a job."
+  },
+  "b8x8zc": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "Has anyone used the CMMI framework to evaluate their current state",
+    "exit_reasoning": "The post is a question about comparing frameworks and does not express any burnout or intention to leave, indicating no exit intention."
+  },
+  "bcg08g": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "With California and GDPR lite going into effect",
+    "exit_reasoning": "The post expresses a question about staying informed on regulatory changes, with no language indicating burnout, frustration, or consideration of leaving the field."
+  },
+  "bn7jqk": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "Will be presenting to our board",
+    "exit_reasoning": "The post discusses a work-related task and shows engagement with the job, with no language indicating a desire to leave."
+  },
+  "c3dq8o": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 0.9,
+    "exit_evidence_span": "Can anyone recommend some good resources on how to get started on this?",
+    "exit_reasoning": "The post expresses a work-related challenge and a request for help, but does not contain any language indicating burnout, frustration, or consideration of leaving the job or field."
+  },
+  "cz5hcn": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "I am taking the exam",
+    "exit_reasoning": "The post expresses a positive and proactive tone, with the author seeking input and information to support their career advancement, showing no indication of burnout or desire to leave their job or the field."
+  },
+  "d6lr99": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 1.0,
+    "exit_evidence_span": "Backup Solution? Hi, I was wondering if anyone had recommendations",
+    "exit_reasoning": "The post is a technical inquiry about device backup software and does not express any language related to burnout, frustration, or leaving a job."
+  },
+  "ekva8d": {
+    "exit_intention_class": "no_exit",
+    "exit_level": null,
+    "exit_reason_primary": null,
+    "exit_reason_secondary": null,
+    "exit_confidence": 0.9,
+    "exit_evidence_span": "As part of my current employment",
+    "exit_reasoning": "The post discusses a work-related task and seeks advice, with no language indicating burnout, frustration, or desire to leave the job or field."
+  }
+}

@@ -1,0 +1,17 @@
+bat_threshold,cve_threshold,diff_order,criterion,lag,direction,f_stat,p_value
+n_bat_ge1,n_cve_run1,1,AIC,28,cve_to_bat,1.4519,0.05896
+n_bat_ge1,n_cve_run1,1,BIC,14,cve_to_bat,1.3658,0.161215
+n_bat_ge1,n_cve_run1,1,AIC,28,bat_to_cve,0.876,0.653126
+n_bat_ge1,n_cve_run1,1,BIC,14,bat_to_cve,1.0581,0.391467
+n_bat_ge1,n_cve_run2,1,AIC,41,cve_to_bat,1.133,0.259702
+n_bat_ge1,n_cve_run2,1,BIC,9,cve_to_bat,1.2365,0.267503
+n_bat_ge1,n_cve_run2,1,AIC,41,bat_to_cve,0.7337,0.894696
+n_bat_ge1,n_cve_run2,1,BIC,9,bat_to_cve,0.424,0.922983
+n_bat_ge2,n_cve_run1,1,AIC,27,cve_to_bat,1.0774,0.357564
+n_bat_ge2,n_cve_run1,1,BIC,14,cve_to_bat,1.1264,0.328221
+n_bat_ge2,n_cve_run1,1,AIC,27,bat_to_cve,0.822,0.726868
+n_bat_ge2,n_cve_run1,1,BIC,14,bat_to_cve,1.1432,0.313741
+n_bat_ge2,n_cve_run2,1,AIC,41,cve_to_bat,0.9335,0.592177
+n_bat_ge2,n_cve_run2,1,BIC,14,cve_to_bat,0.8335,0.632783
+n_bat_ge2,n_cve_run2,1,AIC,41,bat_to_cve,1.0165,0.442085
+n_bat_ge2,n_cve_run2,1,BIC,14,bat_to_cve,0.7614,0.712406
