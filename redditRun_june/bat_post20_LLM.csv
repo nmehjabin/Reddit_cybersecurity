@@ -1,0 +1,163 @@
+row_type,post_id,comment_id,text,triage,na_subtype,triage_reason,EX,EMO,COG,MD,bat_score,EX_reasoning,EMO_reasoning,COG_reasoning,MD_reasoning
+post,1aj80uw,,"Help Me by Sharing Your Career Break Experience
+Hi everyone, I landed a security consulting job last year and have been miserable since. No work life balance, rowdy clients, etc. As a result, my health has been deteriorating since I then. So I have been considering a career break for about 6-12 months (depending on when I will land another job).
+
+Can anyone share their career-break experience and how it impacts your life? I just want another perspective from people in security to push/deter me from pursuing this",,,,YES,YES,NO,YES,3,my health has been deteriorating since I then,I have been miserable since,"The text does not mention any difficulty with memory, focus, or decision-making at work.",I have been miserable since
+post,1b9mg72,,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.  
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:  
+·       Perceived lack of control  
+·       Lack of clear expectations of you or the role  
+·       Heavy workloads/Unreasonable deadlines  
+·       Poor relationships/Lack of support/Unfair treatment  
+·       Problems with work-life balance  
+  
+I will add ""A persistent stream of negativity"" to the pile.  
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",,,,NO,NO,NO,NO,0,The text does not mention any personal experience of energy loss or physical and mental depletion.,"The text does not express any intense, persistent, or disproportionate emotional reactions tied to work.","The text does not describe any difficulty with memory, focus, or decision-making at work.",The text does not express any persistent psychological withdrawal or detachment from work.
+post,1bc28ef,,"Burnout
+Anyone ever feel they would just want a “normal job”. 
+
+Zero disrespect to anyone that has a different job, no offence meant. 
+
+Iv been in cybersecurity 6.5 years now have had multiple roles and generally very very happy with the line of work. 
+
+BUT I am starting to feel I would just want a job where I can go do what I need to do and go home. The nature of the field of work is very fast paced meaning the constant upkeep in news , threats , vulnerabilities and general information sometimes gets a bit much ! 
+
+And the constant need to up skill is a killer sometimes when you just want to work away for a while if life is super busy outside work. 
+
+For context I got my degree in cybersecurity nearly 7 years ago. Since then I feel like it’s been nonstop and a bit of a pressure cooker since then. 
+
+Granted maybe I need a new role with a different company that has more of a balance. 
+
+But can’t help feel I’d love to just have a job and go home and not worry about anything in between. 
+
+
+If and when you have felt like this what steps did you take to shake it up and help ?",,,,YES,NO,NO,YES,2,“a bit of a pressure cooker since then” and “the constant need to up skill is a killer sometimes”,"The text does not express intense, persistent, or disproportionate emotional reactions tied to work, only a general feeling of being overwhelmed.","The text does not describe difficulty with memory, focus, or decision-making at work, only the feeling of being overwhelmed by the need to keep up with information.",“But can’t help feel I’d love to just have a job and go home and not worry about anything in between” indicates a desire to withdraw from the psychological demands of the job.
+post,1bos6in,,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?",,,,NO,NO,NO,NO,0,The text does not mention any personal experience of exhaustion or energy loss.,The post does not express any intense or disproportionate emotional reactions tied to work.,"There is no mention of difficulty with memory, focus, or decision-making at work.",The text does not indicate any psychological withdrawal or detachment from work.
+post,1bu50qq,,"Cybersecurity Analyst US/ Europe
+Hello,
+
+I am a Cybersecurity Analyst with a master's degree in cyber, I moved to the US from North Africa 6 years ago,
+I worked everything except IT jobs.. I couldn't land an IT job, I have severe anxiety and forget a lot and recently diagnosed with ADHD so every interview is a nightmare to me, which impacted my health more and more.
+
+I have a small car and I finally got a good place where to live  with not very expensive rent but I feel that I have no energy anymore and I am very depressed.
+
+I am planning to go back to my country and take some rest and try to start again from over there to look for a job in Europe or maybe come back here but it is like I am going to start everything again from scratch and I am very scared of that.
+
+I am lost and can't even decide because of my health problems.
+
+What is the best move in my case?",,,,YES,YES,YES,YES,4,I feel that I have no energy anymore,I am very depressed,I have severe anxiety and forget a lot and recently diagnosed with ADHD,I am lost and can't even decide because of my health problems
+post,1c1u1na,,"anyone w/ mental illness (ie. bipolar disorder) pursuing or have a career in cybersecurity
+I am exploring a career change, and having doubts whether to pursue cybersecurity. I'm wondering if it is viable and reasonable for someone with a mental illness to puruse and be successful academically and professional in the field of cybersecurity.",,,,NO,NO,NO,NO,0,"The text does not mention any energy loss, physical or mental depletion, or health deterioration.","The post does not express intense, persistent, or disproportionate emotional reactions tied to work, but rather general doubts about a career change.","There is no mention of difficulty with memory, focus, or decision-making, or feeling cognitively overwhelmed by job demands.","The text does not indicate a loss of interest, indifference, or psychological withdrawal from work, but rather an exploration of a new career path."
+post,1d6k4br,,"Threat Hunting while Incident Response
+I've recently been offered threat hunter role, have never done it but recently started going through lots of threat hunting reports that are available.
+
+I would say I'm pretty good with Incident Response but threat hunting is a completely different beast, it is easy to identify simple things through KQL but problem comes when you move up the Pyramid of Pain.
+
+Unable to understand the hypothesis work and seems like I won't be able to sleep properly if I took this role, how should I know if it is for me or not. Where can I dive deep, I do have understanding of theoretical concepts but no practical experience with hypothesis and reports.",,,,YES,NO,NO,NO,1,seems like I won't be able to sleep properly if I took this role,"The text does not express intense, persistent, or disproportionate emotional reactions tied to work.","The text does not describe difficulty with memory, focus, or decision-making at work, but rather a lack of practical experience.","The text does not indicate a persistent psychological withdrawal or loss of interest in the role, but rather uncertainty about taking it."
+post,1dokjdp,,"I am burnt out and need advice
+Let me start off with saying that I am a person with ADHD and currently work as a Security Architect.
+
+For the past few months I cannot handle my job. I feel burnt out, I feel like everything I do is boring and monotonous. I do the same things every day and I no longer want to expand my knowledge at work. I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it. I was considering starting with pentesting but with ADHD it is incredibly hard as any obstacle just stops me from trying. 
+
+I start reading about ethical hacking, pentesting, programming and I get excited but the moment I try it, I just get bored of it instantly.
+
+Currently I feel like maybe I cannot do any other job correctly or perhaps that I am not made for this job or even that I will end up jobless without any perspectives. 
+
+Is there anyone here that can advise, suggest or share tips? I am already seeing psychiatrist and therapist and this hasn't helped much.",,,,YES,YES,NO,YES,3,I feel burnt out,I feel like everything I do is boring and monotonous,"The text does not mention difficulty with memory, focus, or decision-making at work, despite mentioning ADHD and difficulties with tasks, the context suggests more of a motivational issue rather than a cognitive impairment.","I no longer want to expand my knowledge at work, I don't want to take on new tasks"
+post,1e5a03e,,"Pushback - rant
+A bit of a background, I'm a Security Engineer working in the banking industry. Prior to this I came from a company that was pretty lax. Meaning, no red tape - things get done, fast, proficiently and effectively. 
+
+If a project, such as a new security solution was approved and budgeted from the top down, all I needed to do was do my due diligence - questions, risk assessment, demos, POC, documentation, etc., and once I give my thumbs up, it was good to go. Things would get done in a matter of days if not week or two.
+
+Now, in my new gig, it takes so much time, effort, and energy just to roll something out. For example, the project I am working on is board approved from the top down. All relevant stake holders were aware from day one. All were invited and only some joined some of the meetings. We've been having discussions/demos with multiple vendors for the past few months. We had a meeting to finally kick off the POC, but all of the folks on the IT side suddenly decided to have questions from out of left field, questions that needed to be asked to the vendors, which they had plenty of opportunities to. This put me in a bind. I didn't have the answers. It was so frustrating. I wasn't unprepared. I was prepared to talk about the solution. What it is. What it can do to help the bank succeed. Relevant stakeholders roles and responsibilities as it pertains to integrations. How it fills a gap. How it meets an audit/compliance check box, etc...this whole process started back in Q4 2023 for perspective.
+
+I don't like to throw folks under the bus, but it needed to be done today. A C level and IT Manager were asking questions, which should have been asked to the vendor during one of the many calls we've had. We even had a scoping call to flesh out any questions or concerns that IT may have had. They were part of this call, and yet, the questions wasn't asked! I called them out on this.
+
+If it takes this much effort, energy, and time to roll something out, I don't think I want to be a part of it. Not worth my time. Thoughts?",,,,YES,YES,NO,YES,3,"it takes so much time, effort, and energy just to roll something out",I wasn't unprepared. I was prepared to talk about the solution...This put me in a bind. I didn't have the answers. It was so frustrating,"The text does not describe difficulty with memory, focus, or decision-making at work beyond normal frustration with a process","If it takes this much effort, energy, and time to roll something out, I don't think I want to be a part of it"
+post,1ektxux,,"Cybersecurity and Public Health
+I’m currently working in public health and although I enjoy it, I don’t really enjoy the area I specialize in, which would be mental health promotion and suicide prevention. I’ve been interested in Cybersecurity for a bit and was wondering if there are any areas in the field that would let me utilize my public health background as well? Thanks in advance!",,,,NO,NO,NO,NO,0,"The text does not mention any energy loss, physical or mental depletion, or health deterioration.","The text does not express intense, persistent, or disproportionate emotional reactions tied to work.","The text does not describe difficulty with memory, focus, or decision-making at work.","The text does not indicate persistent psychological withdrawal, but rather a career exploration driven by interest and curiosity."
+post,1fchbkh,,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out",,,,YES,NO,NO,NO,1,im already burnt out,"The text does not express intense, persistent, or disproportionate emotional reactions tied to work beyond the mention of burnout.","The text does not describe difficulty with memory, focus, or decision-making at work.",The text does not indicate persistent psychological withdrawal or detachment from work.
+post,1fdw53a,,"Work/life balance in cybersecurity.. is there really such a thing?
+Hey folks.. I am about to move from a Coordinator to a management role within Cybersecurity. It’s been a tough couple of years honestly. Huge projects, impossible deadlines, big demanding incidents, GRC, compliance and the never ending VM cycle.. found it very difficult to find that sweet spot in between work and life.. was wondering if y’all might have some tips and tricks to balance this shit out..",,,,YES,NO,NO,NO,1,"it’s been a tough couple of years honestly. Huge projects, impossible deadlines","The text does not express intense, persistent, or disproportionate emotional reactions tied to work beyond a general inquiry about work-life balance.","The text does not describe difficulty with memory, focus, or decision-making at work, only the challenge of balancing work and life.","The text does not indicate a persistent psychological withdrawal or loss of interest in the work, but rather a desire to find a better balance between work and life."
+post,1fuf9pw,,"What frustrates you the most about working in the field, and what keeps you going anyway?
+Hey everyone! I wanted to ask about your experience working in cybersecurity. What are the most difficult parts of your day-to-day work, and what motivates you to keep going?",,,,NO,NO,NO,NO,0,The text does not mention any personal experience of exhaustion or energy loss.,"The post is asking others about their frustrations, not expressing personal emotional distress.",There is no mention of cognitive difficulties or feeling overwhelmed by job demands.,The text does not express any personal detachment or disengagement from work.
+post,1fz5d4m,,"My boss completed some of my work for me and now I feel like I look really bad. How can I fix this?
+I posted this recently and got a lot of hate and brutal comments, so thought I'd make this more clear. My boss put me on this project to troubleshoot a bunch of machines. It's been ongoing but he sent me a new list for it 1-2 weeks ago. Some days, I was slow with it and some other days, I had other tasking so I'd focus on those first. I hadn't made a huge dent in the list but I made it through almost half in a week. When I say I was slow with it, I mean this is how I would do it: If a machine was giving me issues, I'd move on to the next, or I'd have to message somebody else about it. Sometimes, I'd be stupidly stuck on a machine and be like ""this isn't working"" and have my boss tell me much later that the OS version isn't compatible with an application I'd try to install on it. 
+
+Anyways, on Thursday, he sent an email to me and a couple others saying that the progress seemed to be better and thanked us three and gave us a couple notes to keep in mind. Yesterday (Monday), he sends an updated list of machines. He sends me a message letting me know and he was like ""You are probably tired of chasing this squirrel"". I told him it's no worries. I was stressed out about a couple things yesterday and was in my head about them and I also had a couple meetings, so I was being really slow working on the updated list of machines. My boss started working on the list and was sending me updates as he was going down the list, so I tracked a couple of the other machines down and I was focusing on one difficult machine that was having trouble installing an application on. 
+
+I left things up in the air when I left for the day, and figured I'd pick up where I left off when I came in today morning. I co go me in today morning, and I'm looking at emails and any chats I missed, and 30 minutes in, my boss tells me he's made more progress on the updated list he sent yesterday. He literally finished half of it at this point. I told him I'm currently looking at the few machines I took a look at yesterday (and specified the names of them), and he said he already finished those! He even finished the difficult one that was having trouble installing things and it's working fine now! I feel like I look incredibly incompetent. How can I make this up?",,,,NO,YES,NO,NO,1,"The text does not mention any sustained physical or mental exhaustion, only a single day of being slow and stressed.",I feel like I look incredibly incompetent,"The text does not describe any difficulty with memory, focus, or decision-making, only being slow with a task due to other responsibilities and difficulties with specific machines.","The text does not indicate any persistent psychological withdrawal or indifference, but rather a desire to make up for the perceived incompetence."
+post,1g1kclu,,"Got a Junior SOC Engineer Position – Feeling Overwhelmed, Need Advice
+Hey everyone, I recently started as a Junior SOC Engineer about a month ago, I'm learning a lot on the job and making progress but kind of slowly, I'm also feeling a bit overwhelmed. Before this role, I was mainly focusing on SOC Analyst tasks, so most of my knowledge is in analysis.
+
+Now, in my new position, my daily tasks include working with SOAR, ticketing systems, and SIEM 
+
+What areas should I prioritize learning to become better at the engineering aspects of the role? Also, are there any good courses or resources you’d recommend? 
+
+Thanks in advance for any advice!",,,,YES,NO,YES,NO,2,feeling a bit overwhelmed,"The text does not express intense, persistent, or disproportionate emotional reactions tied to work.",feeling a bit overwhelmed,The text does not express persistent psychological withdrawal or detachment from the work.
+post,1ga6hmb,,"What Do You Like and Dislike About Your Job in Cybersecurity? Here’s My Experience as a Developer
+Hi everyone! This post is for you to share what you love and what you don’t about working in cybersecurity. I’ll start by giving you my perspective from the world of software development.
+
+I’ve been working as a software developer for 3 years now, and after going through a tough consultancy job, I’m now at a good company where the work is pretty chill, and the salaries are decent. However, despite these advantages, I’m starting to feel increasingly bored. What frustrates me the most is the feeling that projects never end. No matter what I accomplish in a day, there’s always something left to do, and the next day, I have to pick up right where I left off. This creates a sense of “dread” because I know I’ll be facing the same issue tomorrow, and when I solve it, the cycle repeats. There’s never a day where I feel mentally clear and satisfied because everything’s wrapped up. That lack of closure makes the days feel endless.
+
+On the flip side, there are good things too. The satisfaction of completing a project when everything goes well is an emotional high. But over time, even that doesn’t seem like enough for me anymore.
+
+I’d love to hear about your experiences in cybersecurity. What are your days like? Do you feel the same monotony, or is it different? Cybersecurity has always intrigued me, and I’m seriously considering making the switch.
+
+What’s your take on it?",,,,YES,YES,NO,YES,3,"feeling that projects never end, and the next day, I have to pick up right where I left off, creates a sense of sustained overload","feeling of dread because I know I’ll be facing the same issue tomorrow, and when I solve it, the cycle repeats, indicates strong negative emotion tied to work","The text does not describe difficulty with memory, focus, or decision-making at work, only a sense of monotony and lack of closure.","starting to feel increasingly bored, and the satisfaction of completing a project doesn’t seem like enough anymore, indicates a loss of interest and psychological withdrawal"
+post,1gdqpjt,,"Frustrated with being an intern, despite feeling like a full-timer.
+I'm going to sound an ungrateful SOB (and probably get some flack for it) to all those who have yet to secure internships or any cyber related position but....
+
+I HATE being an intern. Don’t get me wrong, I’m beyond grateful to even have a position in today’s job market, but the title feels like a punch in the face considering the effort I’m putting in. I’ve worked hard, get regular praise from colleagues for my work, and they genuinely value what I bring to the team. But somehow, it feels like I'm playing the ""intern"" game wrong.
+
+There’s not much expected of you as an intern. They say you’re mostly there to learn, but how can I stand around and just learn all day? Well, obviously no sane person in my field would do that. I didn’t just shadow. I took on tasks, tackled incident response, got brought into projects, and became skilled at so many different technologies.
+
+After six months, I felt ready for a full-time position. I was balancing school, getting certifications, and putting in real work every day to drive and make change. Of course, this is not up to me to decide when I’ll get an offer.
+
+My company acknowledged my interest in going full-time, yet gave me the “after you graduate” talk. Due to “legal” and “tax” reasons, they said I had to stay an intern until I finish my degree in May 2025. My only thought was - *are you serious?* But really? Shouldn’t I decide how much I can handle as a student?
+
+  
+I suspect there's more to the story -  probably about budgets, but the official explanation feels like another punch in the face.
+
+Then there’s school. My experience on the job has taught me more about cybersecurity in 14 months than my degree has in almost four years. 
+
+The irony is that many of my colleagues don’t even have degrees in cyber. They came from different fields, took a cert or two, and got the job. Yet here I am, balancing school, getting certifications, and building real work experience—only to be told I still need the piece of paper before I can move forward.
+
+Anyone else been in this position? How do you view the “intern” title in a positive light? And what’s the right work ethic for an intern? For me, I keep feeling like I need to match full-timers. I feel I have so much value to provide, but providing that value as an intern doesn't feel right.
+
+*And yes, I am applying to other places, and I will continue to do so...*",,,,NO,YES,NO,NO,1,"The text does not mention physical or mental exhaustion, energy loss, or sustained overload.","I HATE being an intern, the title feels like a punch in the face, and the official explanation feels like another punch in the face, indicating strong negative emotions.","The text does not describe difficulty with memory, focus, or decision-making, and the author seems to be handling their workload and responsibilities effectively.","Although the author expresses frustration with their situation, they do not indicate a sense of detachment, cynicism, or withdrawal from their work, and are instead motivated to provide value and advance in their career."
+post,1cfnxvb,,"Burnout
+I’m currently on vacation from work. For the first time in so long, I feel actual peace. My phone will not ring randomly from an OpsGenie on-call alert. I deleted Microsoft Teams so nobody can ping me when I am eating or after 5pm. I deleted Microsoft Outlook so I have no status update emails.
+
+I really liked my job, but I don’t think I am going to go back. I do not have another job lined up. I know that’s a bad idea, but I have enough in savings to feel comfortable quitting when I get back.
+
+My job used to be really cool. And then they fired half my team. And then the other half left because the company thought about outsourcing. I know you’re not supposed to be best friends with the people you worked with, but all the breaches we went through really bonded me to them. We worked awful hours to save the day and we made it happen time and time again.
+
+Now my company has a layoff every few months. I had a private conversation with of the VPs and he told me not to worry about the upcoming layoffs because “people just don’t know how to take it”. He was laid off right after them. They fired one of the few people telling everyone things were okay.
+
+I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways. I just want to enjoy Security again.",,,,YES,YES,NO,YES,3,"I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways",my now ex-job has really messed with my head so many ways,"The text does not mention difficulty with memory, focus, or decision-making at work.",I don’t think I am going to go back
+post,1jvsfxh,,"Acer TravelMate Spin P4
+Kia ora all,
+
+I manage the IT at our school. A technology classroom here is currently using HP Probook 430 G8s, which are soon to be at the end of their lease cycle. 
+
+We've had quotes for replacements (HP ProBook 445 G11s) but have also been offered/recommended a cheaper deal on some Acer TravelMate Spin P4's of similar spec, by our supplier. For non Chrome OS devices the school typically sticks with HP,  but the price  point here is definitely appealing - especially if these are reliable machines. 
+
+I have seen however, mixed reviews for these online. Has anyone here had experience with this model of Acer in a classroom or enterprise environment? I have questions about how the hinges will hold up being a 2-1 flip type device. 
+
+Appreciate any advice...",,,,NO,NO,NO,NO,0,"The text does not mention any energy loss, physical or mental depletion, or health deterioration.","The text does not express any intense, persistent, or disproportionate emotional reactions tied to work.","The text does not describe any difficulty with memory, focus, or decision-making at work.",The text does not indicate any persistent psychological withdrawal or detachment from work.
+post,1aq6c44,,"Software approval
+Anyone think they have a good software approval process and procedure? Do you use any specific tools to evaluate software requests?",,,,NO,NO,NO,NO,0,The text does not mention any energy loss or depletion.,The text does not express any intense or disproportionate emotional reactions.,The text does not describe any difficulty with cognitive functions such as memory or focus.,The text does not indicate any psychological withdrawal or disengagement from work.

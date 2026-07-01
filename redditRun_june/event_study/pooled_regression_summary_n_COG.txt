@@ -1,0 +1,37 @@
+Model used: Poisson
+Dispersion ratio: 1.18
+
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  n_COG   No. Observations:                  671
+Model:                            GLM   Df Residuals:                      652
+Model Family:                 Poisson   Df Model:                           18
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -957.94
+Date:                Wed, 01 Jul 2026   Deviance:                       817.55
+Time:                        16:48:29   Pearson chi2:                     772.
+No. Iterations:                     5   Pseudo R-squ. (CS):             0.2415
+Covariance Type:              cluster                                         
+=============================================================================================================
+                                                coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------
+Intercept                                     0.0666      0.080      0.837      0.403      -0.089       0.222
+C(event_name)[T.Citrix Bleed]                 0.4060      0.002    222.457      0.000       0.402       0.410
+C(event_name)[T.CrowdStrike outage]           0.4177      0.004     97.475      0.000       0.409       0.426
+C(event_name)[T.Follina]                      0.0896   4.51e-16   1.99e+14      0.000       0.090       0.090
+C(event_name)[T.Log4Shell]                   -0.0785      0.004    -19.645      0.000      -0.086      -0.071
+C(event_name)[T.MOVEit]                       0.1122      0.004     31.467      0.000       0.105       0.119
+C(event_name)[T.Snowflake breach]             0.3597      0.004     89.966      0.000       0.352       0.368
+C(event_name)[T.SolarWinds]                  -0.2025      0.002    -99.266      0.000      -0.206      -0.198
+C(event_name)[T.Starwood/Marriott breach]    -0.4435      0.004   -103.499      0.000      -0.452      -0.435
+C(event_name)[T.Stryker cyberattack]          0.5132      0.004    146.491      0.000       0.506       0.520
+C(event_name)[T.npm worm (Shai-Hulud)]        0.6369   5.42e-16   1.18e+15      0.000       0.637       0.637
+C(day_of_week)[T.1]                           0.3444      0.134      2.575      0.010       0.082       0.607
+C(day_of_week)[T.2]                           0.2851      0.113      2.522      0.012       0.064       0.507
+C(day_of_week)[T.3]                           0.2261      0.113      2.010      0.044       0.006       0.447
+C(day_of_week)[T.4]                          -0.0072      0.108     -0.067      0.947      -0.218       0.204
+C(day_of_week)[T.5]                          -0.4279      0.097     -4.415      0.000      -0.618      -0.238
+C(day_of_week)[T.6]                          -0.8451      0.185     -4.578      0.000      -1.207      -0.483
+post                                         -0.0334      0.096     -0.350      0.727      -0.221       0.154
+patch_tuesday                                -0.1739      0.223     -0.780      0.435      -0.611       0.263
+=============================================================================================================

@@ -1,0 +1,46 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   rate   R-squared:                       0.968
+Model:                            OLS   Adj. R-squared:                  0.968
+Method:                 Least Squares   F-statistic:                     1769.
+Date:                Thu, 18 Jun 2026   Prob (F-statistic):          5.74e-101
+Time:                        14:22:22   Log-Likelihood:                 1302.8
+No. Observations:                 400   AIC:                            -2590.
+Df Residuals:                     392   BIC:                            -2558.
+Df Model:                           7                                         
+Covariance Type:              cluster                                         
+==============================================================================================
+                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+Intercept                      0.0532      0.002     35.093      0.000       0.050       0.056
+C(construct)[T.EMO]            0.0941      0.002     46.027      0.000       0.090       0.098
+C(construct)[T.COG]           -0.0282      0.002    -17.316      0.000      -0.031      -0.025
+C(construct)[T.MD]            -0.0178      0.001    -12.169      0.000      -0.021      -0.015
+t_year                         0.0030      0.000     10.083      0.000       0.002       0.004
+t_year:C(construct)[T.EMO]     0.0008      0.000      1.899      0.058   -2.72e-05       0.002
+t_year:C(construct)[T.COG]    -0.0018      0.000     -5.568      0.000      -0.002      -0.001
+t_year:C(construct)[T.MD]      0.0012      0.000      3.556      0.000       0.001       0.002
+==============================================================================
+Omnibus:                       18.767   Durbin-Watson:                   1.315
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               35.622
+Skew:                           0.266   Prob(JB):                     1.84e-08
+Kurtosis:                       4.362   Cond. No.                         46.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+
+Joint Wald test (term-level):
+                                  statistic                  pvalue  \
+Intercept             [[1231.506962771164]]  8.670227783216011e-270   
+C(construct)          [[3068.111930118786]]                     0.0   
+t_year               [[101.66351678764998]]   6.580118594168031e-24   
+t_year:C(construct)   [[64.67547109155664]]   5.885393537997099e-14   
+
+                     df_constraint  
+Intercept                        1  
+C(construct)                     3  
+t_year                           1  
+t_year:C(construct)              3  
+
+Interaction (slope-difference) joint p-value: 0.000000

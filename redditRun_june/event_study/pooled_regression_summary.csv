@@ -1,0 +1,6 @@
+metric,model,dispersion,post_coef,post_se,post_pvalue,irr,irr_ci_low,irr_ci_high,significant
+n_burnout,Poisson,1.298,-0.0014,0.0489,0.977741,0.999,0.907,1.099,False
+n_EX,Poisson,1.112,0.0722,0.0701,0.302673,1.075,0.937,1.233,False
+n_EMO,Poisson,1.204,-0.0015,0.0499,0.97571,0.998,0.906,1.101,False
+n_COG,Poisson,1.184,-0.0334,0.0955,0.726551,0.967,0.802,1.166,False
+n_MD,Poisson,1.26,-0.0852,0.0809,0.292214,0.918,0.784,1.076,False

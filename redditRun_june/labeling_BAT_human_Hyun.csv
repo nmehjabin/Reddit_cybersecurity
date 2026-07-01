@@ -1,0 +1,164 @@
+row_type,post_id,comment_id,text,EX,EMO,COG,MD,Reason,Context (Y/N),Context Reason/ (things were not explicitly mentioned in the prompt??)
+post,1ga6hmb,,"What Do You Like and Dislike About Your Job in Cybersecurity? Here’s My Experience as a Developer
+Hi everyone! This post is for you to share what you love and what you don’t about working in cybersecurity. I’ll start by giving you my perspective from the world of software development.
+
+I’ve been working as a software developer for 3 years now, and after going through a tough consultancy job, I’m now at a good company where the work is pretty chill, and the salaries are decent. However, despite these advantages, I’m starting to feel increasingly bored. What frustrates me the most is the feeling that projects never end. No matter what I accomplish in a day, there’s always something left to do, and the next day, I have to pick up right where I left off. This creates a sense of “dread” because I know I’ll be facing the same issue tomorrow, and when I solve it, the cycle repeats. There’s never a day where I feel mentally clear and satisfied because everything’s wrapped up. That lack of closure makes the days feel endless.
+
+On the flip side, there are good things too. The satisfaction of completing a project when everything goes well is an emotional high. But over time, even that doesn’t seem like enough for me anymore.
+
+I’d love to hear about your experiences in cybersecurity. What are your days like? Do you feel the same monotony, or is it different? Cybersecurity has always intrigued me, and I’m seriously considering making the switch.
+
+What’s your take on it?",0,0,0,1,,,
+post,1fdw53a,,"Work/life balance in cybersecurity.. is there really such a thing?
+Hey folks.. I am about to move from a Coordinator to a management role within Cybersecurity. It’s been a tough couple of years honestly. Huge projects, impossible deadlines, big demanding incidents, GRC, compliance and the never ending VM cycle.. found it very difficult to find that sweet spot in between work and life.. was wondering if y’all might have some tips and tricks to balance this shit out..",1,1,0,1,,Y,"Words like huge, impossible, big, demanding, never-ending sounds persistent and emotionally overwhelming tone. While they may not be direct indicators, they can suggest EX (managing such workload would require substantial energy) or EMO (response itself seems pretty emotional with all those words used)
+
+I think EX and EMO already mentions sustained strain including never ending. Maybe adding a guidance on strong terms like huge, impossible, big demand (maybe not by itself automatically triggering EX or EMO but only when it's combined with overload,etc) would also help with classification?"
+post,1gdqpjt,,"Frustrated with being an intern, despite feeling like a full-timer.
+I'm going to sound an ungrateful SOB (and probably get some flack for it) to all those who have yet to secure internships or any cyber related position but....
+
+I HATE being an intern. Don’t get me wrong, I’m beyond grateful to even have a position in today’s job market, but the title feels like a punch in the face considering the effort I’m putting in. I’ve worked hard, get regular praise from colleagues for my work, and they genuinely value what I bring to the team. But somehow, it feels like I'm playing the ""intern"" game wrong.
+
+There’s not much expected of you as an intern. They say you’re mostly there to learn, but how can I stand around and just learn all day? Well, obviously no sane person in my field would do that. I didn’t just shadow. I took on tasks, tackled incident response, got brought into projects, and became skilled at so many different technologies.
+
+After six months, I felt ready for a full-time position. I was balancing school, getting certifications, and putting in real work every day to drive and make change. Of course, this is not up to me to decide when I’ll get an offer.
+
+My company acknowledged my interest in going full-time, yet gave me the “after you graduate” talk. Due to “legal” and “tax” reasons, they said I had to stay an intern until I finish my degree in May 2025. My only thought was - *are you serious?* But really? Shouldn’t I decide how much I can handle as a student?
+
+  
+I suspect there's more to the story -  probably about budgets, but the official explanation feels like another punch in the face.
+
+Then there’s school. My experience on the job has taught me more about cybersecurity in 14 months than my degree has in almost four years. 
+
+The irony is that many of my colleagues don’t even have degrees in cyber. They came from different fields, took a cert or two, and got the job. Yet here I am, balancing school, getting certifications, and building real work experience—only to be told I still need the piece of paper before I can move forward.
+
+Anyone else been in this position? How do you view the “intern” title in a positive light? And what’s the right work ethic for an intern? For me, I keep feeling like I need to match full-timers. I feel I have so much value to provide, but providing that value as an intern doesn't feel right.
+
+*And yes, I am applying to other places, and I will continue to do so...*",0,1 (added based on frustration & I HATE being an intern),0,1,,Y,"Something like putting in real work everyday, balancing school, feel like I'm playing this wrong, feel like I should show this much performance but I'm only an intern? sounds like pretty emotional to me. Although the wording like frustration, hate would already include EMO classification, thought this could be a contextual way to express frustration toward the role or situation"
+post,1fuf9pw,,"What frustrates you the most about working in the field, and what keeps you going anyway?
+Hey everyone! I wanted to ask about your experience working in cybersecurity. What are the most difficult parts of your day-to-day work, and what motivates you to keep going?",0,0,0,0,Not about their current work,,
+post,1bos6in,,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?",0,0,0,0,Not about their current work,,
+post,1ektxux,,"Cybersecurity and Public Health
+I’m currently working in public health and although I enjoy it, I don’t really enjoy the area I specialize in, which would be mental health promotion and suicide prevention. I’ve been interested in Cybersecurity for a bit and was wondering if there are any areas in the field that would let me utilize my public health background as well? Thanks in advance!",0,0,0,0,"Very shortly expressed dislike in their field of work, however, not enough context to say that the reason is burnout",,
+post,1d6k4br,,"Threat Hunting while Incident Response
+I've recently been offered threat hunter role, have never done it but recently started going through lots of threat hunting reports that are available.
+
+I would say I'm pretty good with Incident Response but threat hunting is a completely different beast, it is easy to identify simple things through KQL but problem comes when you move up the Pyramid of Pain.
+
+Unable to understand the hypothesis work and seems like I won't be able to sleep properly if I took this role, how should I know if it is for me or not. Where can I dive deep, I do have understanding of theoretical concepts but no practical experience with hypothesis and reports.",0,0,0,0,"This looks more like feeling unprepared for a new role, difficult understanding what would be needed for that new role, and anxiety on if they will be able to handle the work. (when they haven't even properly started the role)
+
+I don't see any current exhaustion, mental distance with either the current work/new work, nor cognitive impairment or emotional impairment based on this text.
+
+Just by the word used, the 'unable to understand the hypothesis work' and 'seems like i won't be able to sleep properly' might seem like an indication for burnout, but that reflects their thoughts for the future possibility, not what actually happened and burnt them out.
+
+To me, nothing here looks like persistent problems that is currently happening. It's more of uncertainty on an unfamiliar role.",,"- Burnout defition in the prompt as well, this kind of the examples how mnay there, anything have not gone through, we are focusing on experiening it , go to 300 samples, if there are confusing ones like this and mark them as irrelevant , how many of them is confusing, agreement vs disagreement between these labeling, if it more than 5% ."
+post,1fchbkh,,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out",1,1,0,0,"Clear note on burnout, but not enough context given to specify which category it should be in",,
+post,1dokjdp,,"I am burnt out and need advice
+Let me start off with saying that I am a person with ADHD and currently work as a Security Architect.
+
+For the past few months I cannot handle my job. I feel burnt out, I feel like everything I do is boring and monotonous. I do the same things every day and I no longer want to expand my knowledge at work. I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it. I was considering starting with pentesting but with ADHD it is incredibly hard as any obstacle just stops me from trying. 
+
+I start reading about ethical hacking, pentesting, programming and I get excited but the moment I try it, I just get bored of it instantly.
+
+Currently I feel like maybe I cannot do any other job correctly or perhaps that I am not made for this job or even that I will end up jobless without any perspectives. 
+
+Is there anyone here that can advise, suggest or share tips? I am already seeing psychiatrist and therapist and this hasn't helped much.",0,0,1,1,,,
+post,1bc28ef,,"Burnout
+Anyone ever feel they would just want a “normal job”. 
+
+Zero disrespect to anyone that has a different job, no offence meant. 
+
+Iv been in cybersecurity 6.5 years now have had multiple roles and generally very very happy with the line of work. 
+
+BUT I am starting to feel I would just want a job where I can go do what I need to do and go home. The nature of the field of work is very fast paced meaning the constant upkeep in news , threats , vulnerabilities and general information sometimes gets a bit much ! 
+
+And the constant need to up skill is a killer sometimes when you just want to work away for a while if life is super busy outside work. 
+
+For context I got my degree in cybersecurity nearly 7 years ago. Since then I feel like it’s been nonstop and a bit of a pressure cooker since then. 
+
+Granted maybe I need a new role with a different company that has more of a balance. 
+
+But can’t help feel I’d love to just have a job and go home and not worry about anything in between. 
+
+
+If and when you have felt like this what steps did you take to shake it up and help ?",1,0,0,0,,,
+post,1aj80uw,,"Help Me by Sharing Your Career Break Experience
+Hi everyone, I landed a security consulting job last year and have been miserable since. No work life balance, rowdy clients, etc. As a result, my health has been deteriorating since I then. So I have been considering a career break for about 6-12 months (depending on when I will land another job).
+
+Can anyone share their career-break experience and how it impacts your life? I just want another perspective from people in security to push/deter me from pursuing this",1,1,0,0,,,
+post,1b9mg72,,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.
+  
+
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer
+: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:
+  
+·       Perceived lack of control
+  
+·       Lack of clear expectations of you or the role
+  
+·       Heavy workloads/Unreasonable deadlines
+  
+·       Poor relationships/Lack of support/Unfair treatment
+  
+·       Problems with work-life balance
+  
+
+  
+I will add ""A persistent stream of negativity"" to the pile.
+  
+
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",0,0,0,0,Not about their current work,,
+post,1c1u1na,,"anyone w/ mental illness (ie. bipolar disorder) pursuing or have a career in cybersecurity
+I am exploring a career change, and having doubts whether to pursue cybersecurity. I'm wondering if it is viable and reasonable for someone with a mental illness to puruse and be successful academically and professional in the field of cybersecurity.",0,0,0,0,Not about their current work,,
+post,1gjdtol,,Which roles are the best for work-life balance ?,0,0,0,0,Not about their current work,,
+post,1fz5d4m,,"My boss completed some of my work for me and now I feel like I look really bad. How can I fix this?
+I posted this recently and got a lot of hate and brutal comments, so thought I'd make this more clear. My boss put me on this project to troubleshoot a bunch of machines. It's been ongoing but he sent me a new list for it 1-2 weeks ago. Some days, I was slow with it and some other days, I had other tasking so I'd focus on those first. I hadn't made a huge dent in the list but I made it through almost half in a week. When I say I was slow with it, I mean this is how I would do it: If a machine was giving me issues, I'd move on to the next, or I'd have to message somebody else about it. Sometimes, I'd be stupidly stuck on a machine and be like ""this isn't working"" and have my boss tell me much later that the OS version isn't compatible with an application I'd try to install on it. 
+
+Anyways, on Thursday, he sent an email to me and a couple others saying that the progress seemed to be better and thanked us three and gave us a couple notes to keep in mind. Yesterday (Monday), he sends an updated list of machines. He sends me a message letting me know and he was like ""You are probably tired of chasing this squirrel"". I told him it's no worries. I was stressed out about a couple things yesterday and was in my head about them and I also had a couple meetings, so I was being really slow working on the updated list of machines. My boss started working on the list and was sending me updates as he was going down the list, so I tracked a couple of the other machines down and I was focusing on one difficult machine that was having trouble installing an application on. 
+
+I left things up in the air when I left for the day, and figured I'd pick up where I left off when I came in today morning. I co go me in today morning, and I'm looking at emails and any chats I missed, and 30 minutes in, my boss tells me he's made more progress on the updated list he sent yesterday. He literally finished half of it at this point. I told him I'm currently looking at the few machines I took a look at yesterday (and specified the names of them), and he said he already finished those! He even finished the difficult one that was having trouble installing things and it's working fine now! I feel like I look incredibly incompetent. How can I make this up?",0,0,1,0,"Not sure if they are feeling burnt out or if they're just struggling to be more competent. If I have to vote for something it would be COG, but I think this might not be a burn out at all",,
+post,1e5a03e,,"Pushback - rant
+A bit of a background, I'm a Security Engineer working in the banking industry. Prior to this I came from a company that was pretty lax. Meaning, no red tape - things get done, fast, proficiently and effectively. 
+
+If a project, such as a new security solution was approved and budgeted from the top down, all I needed to do was do my due diligence - questions, risk assessment, demos, POC, documentation, etc., and once I give my thumbs up, it was good to go. Things would get done in a matter of days if not week or two.
+
+Now, in my new gig, it takes so much time, effort, and energy just to roll something out. For example, the project I am working on is board approved from the top down. All relevant stake holders were aware from day one. All were invited and only some joined some of the meetings. We've been having discussions/demos with multiple vendors for the past few months. We had a meeting to finally kick off the POC, but all of the folks on the IT side suddenly decided to have questions from out of left field, questions that needed to be asked to the vendors, which they had plenty of opportunities to. This put me in a bind. I didn't have the answers. It was so frustrating. I wasn't unprepared. I was prepared to talk about the solution. What it is. What it can do to help the bank succeed. Relevant stakeholders roles and responsibilities as it pertains to integrations. How it fills a gap. How it meets an audit/compliance check box, etc...this whole process started back in Q4 2023 for perspective.
+
+I don't like to throw folks under the bus, but it needed to be done today. A C level and IT Manager were asking questions, which should have been asked to the vendor during one of the many calls we've had. We even had a scoping call to flesh out any questions or concerns that IT may have had. They were part of this call, and yet, the questions wasn't asked! I called them out on this.
+
+If it takes this much effort, energy, and time to roll something out, I don't think I want to be a part of it. Not worth my time. Thoughts?",1,1,0,1,,,
+post,1g1kclu,,"Got a Junior SOC Engineer Position – Feeling Overwhelmed, Need Advice
+Hey everyone, I recently started as a Junior SOC Engineer about a month ago, I'm learning a lot on the job and making progress but kind of slowly, I'm also feeling a bit overwhelmed. Before this role, I was mainly focusing on SOC Analyst tasks, so most of my knowledge is in analysis.
+
+Now, in my new position, my daily tasks include working with SOAR, ticketing systems, and SIEM 
+
+What areas should I prioritize learning to become better at the engineering aspects of the role? Also, are there any good courses or resources you’d recommend? 
+
+Thanks in advance for any advice!",1,0,1,0,,,
+post,1988cgl,,"AI poisoning could turn open models into destructive “sleeper agents,” says Anthropic",0,0,0,0,Not about their current work,,
+post,1cc4iax,,XZ Utils Rundown: What We Learned and What To Do Next,0,0,0,0,Not about their current work,,
+post,1bu50qq,,"Cybersecurity Analyst US/ Europe
+Hello,
+
+I am a Cybersecurity Analyst with a master's degree in cyber, I moved to the US from North Africa 6 years ago,
+I worked everything except IT jobs.. I couldn't land an IT job, I have severe anxiety and forget a lot and recently diagnosed with ADHD so every interview is a nightmare to me, which impacted my health more and more.
+
+I have a small car and I finally got a good place where to live  with not very expensive rent but I feel that I have no energy anymore and I am very depressed.
+
+I am planning to go back to my country and take some rest and try to start again from over there to look for a job in Europe or maybe come back here but it is like I am going to start everything again from scratch and I am very scared of that.
+
+I am lost and can't even decide because of my health problems.
+
+What is the best move in my case?",1,1,1,0,,Y,"Simply feeling scared about work shouldn't be directly considered as burnout, but fear or anxiety on prologned job searching, interviews, or returning to work that was already stressful might indicate EMO. Here the person describes this as a nightmare, affecting their health, scared on starting this again, etc. If the prompt doesn't have this part, I think adding this might help"

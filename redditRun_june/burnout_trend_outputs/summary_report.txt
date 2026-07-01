@@ -1,0 +1,42 @@
+==============================================================================
+BURNOUT DISCOURSE TREND ANALYSIS - SUMMARY REPORT
+Data: 2018-01 to 2026-04  (n=100 months)
+==============================================================================
+
+--- Q1: Has prevalence increased significantly, 2018-2026? ---
+      burnout_rate: HAC-OLS slope=+0.00401/yr (p=9.555e-17, SIGNIFICANT); Mann-Kendall tau=+0.545 (p=8.882e-16); Theil-Sen slope=+0.00390/yr
+    bat_score_mean: HAC-OLS slope=+0.01219/yr (p=3.873e-10, SIGNIFICANT); Mann-Kendall tau=+0.497 (p=2.474e-13); Theil-Sen slope=+0.01181/yr
+  burnout_rate: 2018 mean=0.0640 -> 2025 mean=0.0881 (+37.7% relative change, last full year vs. first year)
+
+--- Q2: Do the four constructs grow at different rates? ---
+              Exhaustion: HAC-OLS slope=+0.00300/yr (p=2.208e-12); Theil-Sen=+0.00300/yr
+    Emotional Impairment: HAC-OLS slope=+0.00384/yr (p=5.919e-05); Theil-Sen=+0.00369/yr
+    Cognitive Impairment: HAC-OLS slope=+0.00117/yr (p=1.134e-05); Theil-Sen=+0.00120/yr
+         Mental Distance: HAC-OLS slope=+0.00418/yr (p=8.844e-12); Theil-Sen=+0.00420/yr
+  Pooled regression, joint Wald test that all four slopes are equal: p=5.885e-14 (REJECT equal slopes -> compositional shift)
+  Share-of-signal trends (is each construct gaining/losing relative weight?):
+        EX_share: slope=+0.00148/yr (p=0.004803, SIGNIFICANT)
+       EMO_share: slope=-0.00857/yr (p=7.287e-22, SIGNIFICANT)
+       COG_share: slope=-0.00001/yr (p=0.9887, n.s.)
+        MD_share: slope=+0.00710/yr (p=3.575e-10, SIGNIFICANT)
+  Disengagement index (EX+MD)/(EMO+COG): slope=+0.02186/yr (p=2.144e-20); Theil-Sen=+0.02167/yr
+
+--- Q3: Gradual/secular or punctuated? ---
+  Acceleration test (significant +quadratic term = accelerating):
+            burnout_rate: quadratic coef=-0.00024, p=0.2538 (no significant acceleration)
+          bat_score_mean: quadratic coef=-0.00089, p=0.3322 (no significant acceleration)
+     disengagement_index: quadratic coef=-0.00140, p=0.1881 (no significant acceleration)
+  Single-breakpoint structural break test (bootstrap p-value, block-bootstrap n=400):
+            burnout_rate: breakpoint=2021-01, slope before=+0.00002/yr, after=+0.00241/yr, bootstrap p=0.21 (not significant), within 1 mo of SolarWinds
+          bat_score_mean: breakpoint=2021-06, slope before=+0.00025/yr, after=+0.00377/yr, bootstrap p=0.0625 (not significant) (6 mo from nearest named event, SolarWinds)
+     disengagement_index: breakpoint=2020-12, slope before=-0.00826/yr, after=+0.01102/yr, bootstrap p=0.01 (SIGNIFICANT BREAK), within 0 mo of SolarWinds
+  Descriptive BIC across 0/1/2 breakpoints (lower = better fit penalized for complexity):
+            burnout_rate | k=0: BIC=-946.468  breaks=[]
+            burnout_rate | k=1: BIC=-954.536  breaks=['2021-01']
+            burnout_rate | k=2: BIC=-960.506  breaks=['2019-06', '2023-11']
+          bat_score_mean | k=0: BIC=-709.820  breaks=[]
+          bat_score_mean | k=1: BIC=-730.208  breaks=['2021-06']
+          bat_score_mean | k=2: BIC=-742.779  breaks=['2019-02', '2022-07']
+     disengagement_index | k=0: BIC=-577.107  breaks=[]
+     disengagement_index | k=1: BIC=-590.101  breaks=['2020-12']
+     disengagement_index | k=2: BIC=-585.908  breaks=['2019-06', '2020-12']
