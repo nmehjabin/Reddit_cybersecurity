@@ -1,0 +1,86 @@
+[
+  {
+    "id": "L00",
+    "source": "lloom",
+    "name": "Workplace Problem Guidance",
+    "prompt": "Determine whether the commenter advises the post author on handling workplace problems through prioritization, documentation, boundaries, escalation, or management support."
+  },
+  {
+    "id": "L01",
+    "source": "lloom",
+    "name": "Career Planning Advice",
+    "prompt": "Determine whether the commenter advises the post author about career direction, job searching, certifications, education, resumes, compensation, or changing workplaces."
+  },
+  {
+    "id": "L02",
+    "source": "lloom",
+    "name": "Emotional Support",
+    "prompt": "Determine whether the commenter validates, reassures, empathizes with, or ,encourages the post author and their emotional well-being. Includes validates,reassures, encourages, or celebrates the post author in response to their experiences or emotions."
+  },
+  {
+    "id": "L03",
+    "source": "lloom",
+    "name": "Critical Pushback",
+    "prompt": "Determine whether the commenter challenges, questions, corrects, dismisses, or strongly criticizes the post author's claims, choices, assumptions, or expectations."
+  },
+  {
+    "id": "L04",
+    "source": "lloom",
+    "name": "Personal Relating",
+    "prompt": "Determine whether the commenter connects with the post author by sharing a similar personal, professional, or emotional experience or perspective."
+  },
+  {
+    "id": "L05",
+    "source": "lloom",
+    "name": "Discussion Direction",
+    "prompt": "Determine whether the commenter seeks additional context from the post author or redirects, rejects, or manages the discussion according to community norms."
+  },
+  {
+    "id": "L06",
+    "source": "lloom",
+    "name": "Practical Advice",
+    "prompt": "Determine whether the commenter recommends concrete actions, strategies, tools, procedures, or implementation steps to help the post author address a problem or goal."
+  },
+  {
+    "id": "L07",
+    "source": "lloom",
+    "name": "Support Connections",
+    "prompt": "Determine whether the commenter offers or recommends practical assistance, resources, contacts, referrals, communities, or other connections that could help the post author."
+  },
+  {
+    "id": "T1",
+    "source": "taxonomy",
+    "name": "informational_support",
+    "prompt": "The commenter provides advice, factual information, instruction, referral to a source of knowledge, or an assessment of the poster's situation. Includes suggesting a course of action, explaining how something works, teaching a skill, or offering an interpretation of what is happening to the poster."
+  },
+  {
+    "id": "T2",
+    "source": "taxonomy",
+    "name": "emotional_support",
+    "prompt": "The commenter expresses care, concern, sympathy, understanding, encouragement, or reassurance. Includes acknowledging the poster's feelings, expressing sorrow for their situation, or offering comfort."
+  },
+  {
+    "id": "T3",
+    "source": "taxonomy",
+    "name": "esteem_support",
+    "prompt": "The commenter validates the poster's worth, competence, or judgment. Includes expressing confidence in their abilities, telling them their reaction is reasonable or justified, complimenting them, or relieving them of blame."
+  },
+  {
+    "id": "T4",
+    "source": "taxonomy",
+    "name": "tangible_support",
+    "prompt": "The commenter offers concrete assistance or resources. Includes offering to help directly, offering to review a resume or make an introduction, or pointing to a specific service, document, template, or tool the poster can use."
+  },
+  {
+    "id": "T5",
+    "source": "taxonomy",
+    "name": "network_support",
+    "prompt": "The commenter conveys belonging or connection to others in the same situation. Includes stating that the poster is not alone, describing the experience as widely shared among peers, or directing them to a community or group."
+  },
+  {
+    "id": "T6",
+    "source": "taxonomy",
+    "name": "unsupportive_response",
+    "prompt": "The commenter minimizes, dismisses, criticizes, blames, or mocks the poster. Includes stating the problem is normal and not worth raising, attributing it to the poster's own failings or weakness, or responding with derision."
+  }
+]

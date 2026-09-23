@@ -1,0 +1,66 @@
+======================================================================
+TWO-WAY AGREEMENT ANALYSIS: Nadia vs. Jihyun
+======================================================================
+
+--- Loading files & normalizing values ---
+
+======================================================================
+STEP 1: SANITY CHECK — do both files cover the same posts?
+======================================================================
+  Nadia vs Jihyun: MATCH
+  Row count [Nadia]: 40
+  Row count [Jihyun]: 40
+
+  Using 40 common posts for the analysis below.
+
+======================================================================
+STEP 2: PER-CONSTRUCT YES/NO COUNTS & AGREEMENT
+======================================================================
+
+--- EX ---
+  Nadia   : YES= 11  NO= 29
+  Jihyun  : YES= 14  NO= 26
+  Agreement: 33/40 (82.5%)   Cohen's kappa = 0.595 (moderate)
+
+--- EMO ---
+  Nadia   : YES= 13  NO= 27
+  Jihyun  : YES= 13  NO= 27
+  Agreement: 34/40 (85.0%)   Cohen's kappa = 0.658 (substantial)
+
+--- COG ---
+  Nadia   : YES=  7  NO= 33
+  Jihyun  : YES=  6  NO= 34
+  Agreement: 35/40 (87.5%)   Cohen's kappa = 0.541 (moderate)
+
+--- MD ---
+  Nadia   : YES=  4  NO= 36
+  Jihyun  : YES= 11  NO= 29
+  Agreement: 33/40 (82.5%)   Cohen's kappa = 0.453 (moderate)
+
+======================================================================
+STEP 3: PER-POST EXACT MATCH (all 4 constructs agree, all-or-nothing)
+======================================================================
+  Posts where Nadia and Jihyun agree on ALL 4 constructs: 26/40 (65.0%)
+
+======================================================================
+STEP 4: POOLED OVERALL AGREEMENT (all constructs combined)
+======================================================================
+  Pooled decisions: 160 (40 posts x 4 constructs)
+  Overall agreement: 135/160 (84.4%)
+  Overall Cohen's kappa (pooled): 0.582 (moderate)
+  (For reference: simple average of the 4 per-construct kappas = 0.562)
+
+======================================================================
+STEP 5: bat_score AGREEMENT
+======================================================================
+  Exact match: 26/40 (65.0%)
+  Mean absolute difference: 0.45
+
+======================================================================
+SUMMARY
+======================================================================
+  EX   : kappa = 0.595 (moderate)
+  EMO  : kappa = 0.658 (substantial)
+  COG  : kappa = 0.541 (moderate)
+  MD   : kappa = 0.453 (moderate)
+  POOLED: kappa = 0.582 (moderate), agreement = 84.4%

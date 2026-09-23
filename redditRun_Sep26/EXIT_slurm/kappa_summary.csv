@@ -1,0 +1,5 @@
+metric,value
+cohen_llm_nadia,0.8778625954198473
+cohen_llm_jihyun,0.7856049004594181
+cohen_jihyun_nadia,0.7660271408516612
+fleiss_three_way,0.8098207860740841

@@ -1,0 +1,717 @@
+topic,n_comments,auto_name,example_1,example_2,example_3,my_label
+0,2244,0_security_people_team_role,"Congrats on the job! 
+
+Honestly, though you’re just starting out, some certification books can be super informative and helpful. I’m getting my CISM currently and the All-In-One basically walks through standing up an infosec program in certain ways.
+
+That being said, I’ve had to do this a couple of ","While your question is valid it does not related to information security.  [Rule 2]
+
+*****
+Depending on your country, laws, and contracts you signed when you were hired it is most your companies work product and out of your control.",Which company do you have experience with? FAANG? Fortune? Mid-size?,
+11,2126,11_boss_guy_manager_let,"Agree 100%. Need employees of the company held personally accountable. Put them in jail, seize their assets, gut the company and let it be a lesson to everyone else.
+
+Not sure what there really is for us to do besides freeze, monitor, and write your congressman who won't do anything meaningful.","Our Sr. Sysadmin is just about there I think.  Been working with him for almost 13 years now and I've never seen him so constantly bitter and angry.  He's talking about getting out of IT and into something else, and I've been encouraging him a little bit.  Most of his kids are out of the house now, ","If the new company isn't talking to you about transitioning your stuff over to them, there's a reason. You say the owner isn't thinking about it -- you're assuming he's naive about it, but he's selling and it isn't going to be his problem. The company buying isn't thinking about it and it \*is\* the",
+3,1624,3_cybersecurity_cyber security_cyber_entry level,"I'm not in cyber security, but I am an IT guy with a background in law enforcement and physical/administration security, and a degree in criminal justice.
+
+I know that I am not lacking in security knowledge. I've got that in spades. What I do not have is network ok knowledge. The more I learn about ","Take the job and do cyber security as hobby in free time. Learn, attend meetings and conferences and aim to become a private counsultant and freelancer. In this way you enjoy cybersecurity. In a job you have to do what is required by the company and after  working for them day and night they will fi","If a career in cybersecurity is your goal, then taking the system admin job is a backwards move.",
+2,1313,2_hours_week_work_hour,"I'm pretty on board with 1-3, but not really 4-7.","Sunk cost fallacy. Learn this now. You're 6 weeks in. Change now, not later.
+
+But, do give yourself grace that online learning is hard. Is it possible for you to shift to an in-person program? I would have personally failed college so hard if I did it all online.","I had a similar situation at my previous job. One night at 8PM, I get a call from a Project Manager asking me if I can work on a technical document for a client. It had to be done tonight for whatever reason. So I worked 2 hours that night on the document. The next morning after 10HAM, I ask the Pro",
+14,1306,14_years_life_20_career,"Not in 20 years or so. ""Yes, I work with computers, but but in that way. I'm not even allowed to do that stuff at work."" Over the years everyone just forgot I was once the IT guy.   
+
+
+Now, around the house? I strategically worked Christmas this year so that my wife is going to be pleased with getti","I wish I had gone in to a trade but once you’re degreed, certed up and making 5x what an apprentice would make… there’s no do overs. Might as well do what I can to the best of my ability and retire early.","Good for you.  I'm at a decision point in my career as well.  Haven't made it any farther than, ""I don't like managing people"".  I've really tried to learn and implement what I've learned.  I suppose I could improve over time, but it's not something I enjoy doing.  I haven't talked to anyone at work",
+8,1213,8_stress_health_mental_mental health,"I work to live. I don’t live to work.
+
+  
+Anything that gets in the way of having a healthy life goes out of the window. Find yourself a better job.","Perhaps talking to an expert in the field of changing ones behavior ( a psychiatrist ) would be beneficial.  
+You have identified the symptoms of your issue, We are great at empathizing with you.  
+When it comes to changing our behavior, as a collection of people we would not be the best source of a","Give dog a lot of affection, take for walks. Watch TV shows.",
+1,1138,1_windows_updates_update_windows 10,"Download, install and configure Lansweeper. 
+
+If there is any question about buying it, 20 day free trial. Apply to Lansweeper with a business email, and they will remove the 100 endpoint limit for the trial.
+
+Once you know what boxes are out there, what software is installed on each, you can then m","* Weekly urgent updates
+* Monthly minor updates
+* Annual major revisions
+
+Seems the best way","Between making shit products(Windows 10 and Server 2016) and this type of crap, the environment is ripe for a Novell situation to happen.
+
+Someone come in with an alternative to Windows and I'm switching.
+",
+4,1019,4_certs_cert_experience_certifications,Or be the guy they look towards when creating certs.,"Yes. Comp Sci degree in 2001. Did desktop/server support initially and then systems administration + security + iam, and then into solely security role(s).
+
+No certs. I'll take random courses we get offered by way of vendor purchases/affiliations (e.g., AWS, GCP), but I never bothered to pay to test","This right here [no really understands what I’m saying].
+
+I’m pretty decorated/peppered w/ experience & certs but after seeing this specific post and hearing your story, think I’ll stay on technical side & just be that goto Batman-type of brain trust when ppl need me to give my spin or thoughts and ",
+6,974,6_phone_vacation_calls_email,"
+What are these ""cold calls"" you speak of?
+
+I use google voice with an ObiHai adapter. The forwarding rules are set so that only calls from numbers on a very short list of direct family and very close friends ring through. Everything else goes to voicemail without the phone making a peep. I get a no","Congrats... I'm still 30 odd years off being able to do the same thing :(
+
+Still nice to be able to go on holiday with everyone knowing that you're not to be contacted. Ripped the work SIM out of my phone (BYOD) and blocked my own emails before I left just to be on the safe side. ","You could DIY -  Make sure that your monitoring system is such that, if the power, internet connection, public DNS (mail routing) or mail server fails it doesn't go down with everything else. On the cheap you could send critical alerts by e-mail to a 24 x 7 answering service and have them get you an",
+7,895,7_soc_soc analyst_analyst_ir,"Sec engineer 
+I'm a soc team lead and it's a headache 24/7 ...","My entire team (13 people) work SOC tier 2 and none of us have certs, degrees in cybersecurity or even experience in cyber security 🤣.  We were voluntold we were doing SOC with our normal duties",I'd concentrate on pivoting up instead of pivoting out. Look for security engineering role at a big organization. The scope is usually one security application or system and will pay more than a SOC analyst role.,
+21,867,21_luck_good luck_thank_hope,Why would you give up when your much ahead of others,"Wow! Thank you everyone for your thoughts, advice and experience.
+
+I'm going to try going the route of asking my peer what they've done prior to asking me and then trying to guide them through some next steps and thought processes where they can get the information themselves.",Good luck. Hope you find what you are looking for!,
+5,856,5_ticket_tickets_ticketing_priority,"In my company our helpdesk is just ticket jockeys. T1 opens tickets and T2 says ""ok passing to T3!"" Unless you type up exactly what they should do for every issue that can come up they won't do it. Sometimes it is maddening. ","I've been told, literally, that ""You always run to problems, that's why you have more work than the guy next to you"". That's always the case. Thankfully, it will pay off in some form. Either the guys that don't do work will be squeezed out or left behind.   
+
+
+In the meantime, if you think you have ","The MSP I work for also does web application programming. We built our own CRM that ties together customer information, ticket notifications, employee time management, and customer billing. We have full access to ticket histories (when techs actually enter the data right), escalating tickets is easy",
+12,854,12_burnout_burnt_work_life,"So i also started feel burnout shortly after covid started, 4 more jobs later finally at a spot that has a tempo and management thats more fitting to my personality. I really did not like the 8-5 hourly meetings with atleast a few days per week with no lunch breaks. I also did not like having to spe","I was a security analyst for nearly 7 years. Burnout was charging me like a freight train. I found a new job with less urgency in a better-staffed team. It was imperative that I did this before working myself, maybe literally, to death.","I can't respond to everyone because I'm being an idiot at work. :) But I feel better now knowing that these feelings are normal. Even if I feel bad and burnt out occasionally, my work is fun. Not a lot of people get to have careers that are consistently interesting. We'll all be okay!!!!",
+22,764,22_help desk_desk_helpdesk_sysadmin,"Your first problem is referring to a person as $Bitch. Thats pretty disrespectful. Instead, try to find out why they are resistant to the idea of a helpdesk. Try to find a middle ground, and if you cant, go above them with documented evidence of non-cooperation.",Reading these comments I realize some of you have very different ideas about the proper role of a sysadmin than I do. Not to mention different ideas about personal responsibility. ,"The first thing any sysadmin does when they join a company is shit over the previous sysadmin's work, and redo it all.
+
+&#x200B;
+
+This is why it's a bad idea to only have 1 sysadmin.  You need 3.  2 of which can't be friends with the other one(so that if they quit, you don't lose all your staff).  T",
+36,729,36_tech_skills_technical_career,"Do you have a bachelor's degree? That's a very big help in separating yourself from the competition.
+
+Have you tried applying to a local college/university? You may be able to work yourself into an IT slave job where you get mediocre pay, decent benefits, and pay into a retirement system. After a fe",">I wont regret learning a VERY VALUABLE skillset and be able to land a decent job but i also dont feel very happy with IT and technical stuff anymore.
+
+Sorry to say, but if this is how you're feeling, I don't know if I foresee a long career in IT Security for you. Everyone wants the high paying job,","I just left a career, went back to school, and got a job last month. It's not crazy money but it's good and it's way less stressful than what I was doing before.",
+23,701,23_cyber_entry_role_cyber job,"I think it would be a mistake to move out of cyber, you are already in and this field can pay you a lot of money if you have some more experience, it's a fancy tech job, maybe not right now but in a few more years you could be doing way better than most.   ",I see so many posts about people wanting to get out of cyber sec and worries me because I'm working so hard to get there,"I've been in cyber for 8 years and have never had to worry about coding. It's something I'd like to pick up, but as I move more into management it becomes more irrelevant.",
+19,669,19_raise_pay_promotion_raises,"while it seems to be a really good experience and rich but I would not recommend to take the job if:  
+
+
+* no increase in pay \(why would you take a second job with no remuneration?\). Nothing is free, the time that you are spending on IT stuff should be paid for.
+* no contract describing what you a",This is where only YOU can decide your priorities. I will tell you from personal experience that accepting a counter-offer will just keep you rowing in the same boat. If they have not pro-actively stepped up to promote you or provide bonuses and/or raises at the appropriate times to convey their bel,"Shopping sprees aside, when it comes to infrastructure, I drop this on people trying to play with requirements for cost-saving:
+
+""Pay less now, pay more later. Either way, your only choice is to pay or be buried.""",
+10,662,10_msp_msps_clients_work msp,"As everyone else said, you're already hosed. They're outsourcing to an MSP.
+
+For your next job:
+
+Metrics. Deliver your executives metrics so they have a legitimate, detailed knowledge of exactly what you do. It can be useful to both parties as well. A line chart with your ticket breakdown is a good ",Living it right now.  Working at a MSP as a field tech and completely over it.  Found another job at a college doing their IT work and will pay for tuition. So going to do the needful during the day and go to school at night.  Tired of doors being shut because I don't have my degree.,"The thing that stuck out for me was this
+
+> There's no room to progress and I've really learned most of what's pertinent to the job.
+
+Forget about everything else. This is the important thing. Eating a shit sandwich for a little while so you can learn is something we've all done at some point or ano",
+9,634,9_dell_lenovo_laptops_hp,"I ordered 120 HP Elitebook 360 G2 models for the company i worked for last year. Within 5 weeks we had  11 failures. Laptop wouldn't power on, 2 lost any touchpad function, 1 wouldn't charge, 3 or 4 would randomly shut off and the drives would fail. That's over 10% failure rate within a month. I was","> the Ethernet port is absolute trash
+
+You're lucky to have one, here most of our newest Dell laptops needs a USB-C dongle for imaging.","""I only work with networks and servers, I do not deal with Laptops, I'm probably no better than you are with consumer stuff""",
+27,613,27_resume_resumes_update resume_job,"Your resume wouldn't pass for security at my global engineering job. I'll say it again, most companies do not hire on certifications. We don't. Personality and willingness to learn from a lower job get you where you want to be.","Resume writing is a skill though, so what are we as a community doing to help people get better at it?
+
+There should be a  pinned post here on good resume examples for 2023 and then it gets updated annually","Hey buddy, can you paste us your resume please?  
+
+I have a theory based on what you said in your opening statement and what could be your resume issue.",
+38,612,38_quit_new job_job_quit job,"You realize that takes work during personal time, and long hours. Being in a senior position doesn't mean you aren't working your ass off. It doesn't mean you don't run into shit managers and Jerks. There are more of those then good managers. And your work/life balance does go out the window. You're","You'll regret leaving. Every job is like this, now. Shit pay for enough work to give you mental issues.",Well they can’t be on a hiring freeze if you all quit so there’s that,
+13,610,13_phishing_email_emails_spam,"That’s why there is saying”1000 days of hard work gets destroyed by 1 data breach, phishing a user” welcome to security engineers team….","Tbf you can’t blame them. Either the Chief of Security is overzealous or the company/industry has been through some tough times recently. If you need to inspect links and emails, I recommend getting acquainted with some free tools like Cyberchef, it provides a lot of functionality (like decoding) bu","Im sure all of those services are of high quality. Ask him maybe you will also get option to drive formula1 car and sometimes play soccer as well. And if thats not possible at least maybe you will be given F16 to train Ukraininan soldiers!
+
+Im pretty sure this company is great, and their services ar",
+33,574,33_interview_interviews_questions_interviewing,If both sides are honest it’s the best situation I have had interviews where they started Good nag over their list of stuff and told them yes and no on things then told them that they missed items that they needed if they are doing some of the roles they are after and then told them I’m not interest,"Soooo did you hire them? What was the interview process? Did someone verify his resume?
+
+I know multiple interviews suck, but this right here is why they exist.","take a deep breath. You've got experience. You'll get interviews. Holidays are around the corner, economy is tight. Hang in there friend.",
+16,561,16_clearance_military_dod_army,"If veterans made good employees there wouldnt be laws barring discrimination against them, instead the free market would have sought them out.","I'm a recent graduate with no internships or experience outside of college. I’m really disappointed with the market right now. I feel like I have no chances. I’m female, a mom, and a military wife who moves every 2-3 years. I don’t even know what direction to take… For those with more experience in ",Join the military. The Army never has enough new bodies. Go 25 series if you can't get 17 series.,
+17,553,17_testing_pentesting_pen_pen testing,"I wouldn't say it is impossible, but I will say it is highly unlikely to achieve given that you have no experience and your mental health is not in the best spot right now, which I am sorry to hear. Why would any company hire your small business run by someone who has little to no experience? (no of",You are in the wrong field of pentesting my friend. Go into a consulting firm that is strictly penetration testing for variety of clients. Avoid all the companies that just do automated scanning for a checkbox or compliance. We don’t do any of that in the consulting firm I work for. It also depends ,"Hey man. Sorry to hear. I understand you lack of enthusiasm for pentesting now. If you feel like trying the blue side of it, just do it. I just went from blue to red as i was feeling the same way on that end. Worst case scenario you go back to the red side after a while and know have a better unders",
+15,534,15_ai_use ai_tool_use,Exactly what problem do you want to solve? Just implementing some AI or what? Maybe you don't need AI to solve your situation.,"I think AI is a tool like a hammer. Everything looks like a nail to some people who use it. That isn't a hammer problem but a people problem. It's no different than the nonAI code complete suggesting what types to use, finishing a variable name, etc. You still have to understand the types and use th","Your company is obviously lacking a CISO. Hire smart ppl to tell you what to do, not to tell them what to do.
+
+Brands, AI and other buzzwords are nothing without experts that know how to put them in proper use.",
+32,515,32_office_room_open_server room,"Hahahaha I love being the first one in the office in the morning. I used to be, but fuck that shit. I make sure I'm nice and late","it's nice to have a server room that is sound-proof so I can get in there from time to time, just to yell.","Nah, the sleeping bag goes in the card table-blanket fort in the computer room.   ",
+25,513,25_week_rotation_oncall_calls,"If it's during work. No. After work Sure, but I cost four times my pay rate. If I make $25/hr, then I charge $100/hr. If they are someone I really don't want to deal with then I double or triple the $100/hr.
+
+My personal time is precious to me. I don't work for free. If you want me to help you move,","I mean I get that everyone thinks their problem is important but it's the grasping of the simple part I don't get. Our 'on call' is for critical calls only but you always get the password issue calls. 
+
+Usually I'm pretty straight, ""This line is for business critical calls affecting production or su","Rotation is the answer. I'm on call 2 weeks on, 6 weeks off. 
+We were paid standby time which is nice but now they took last year's standby wage and added it to our pay; same thing less paperwork. 
+
+If you are alone in your position and oncall all the time it is not a good work life balance. I was i",
+48,501,48_computer_computers_users_basic,"First, take a vacation.  
+
+
+Next, you can't change the nature of others, but you can change your perspective.    It's odd to me that frequently people in this industry see our role as adversarial.  While you get frustrated by the dumb shit your cow-orkers do, it's not necessarily fair.  Think of sup",We monitor your work computer. We know exactly who is working and who’s slacking off. Superstars rarely get cut.,"After a few years of trying to explain to people that I worked with data centers and networks and was merely a computer user like everyone else, I just started telling people that I was a “pet psychologist” and if they had a dog or a cat with emotional problems, please send them my way. I really lik",
+45,499,45_degree_masters_experience_school,"Are you learning anything in this degree? Are you enjoying it? Decide first if this is what you want.
+
+It’s never a mistake to get a degree. In my many years of experience people with technology degrees tend to think out of the box better then those who don’t.
+
+But you need to think of a way to bala","If you're in the US, have you tried government jobs? [usajobs.gov](https://usajobs.gov) They seem to always put masters degree in the description of what they're looking for. It's been awhile since I browsed the site but I remember thinking ""wow, all the descriptions want a masters""","I'm 30 years in tech/security and do not have a degree (and not for lack of trying). I've done general IT, consulting/security service delivery, and been individual contributor and management.
+
+I'm not a fan of academia and my real-world job made my completing a degree difficult. It's made harder by",
+29,487,29_cs_coding_programming_code,"You can write code every day for 5 years and you'll still find yourself looking things up online.
+
+That doesn't change. You will though get objectively better at filtering out what is incomplete, inefficient, outdated, or just plain wrong.","Learn networking and software development first. Make sure it’s hands-on. Once you can put together some code and analyze packet logs, the security stuff makes much more sense.",This is really not the appropriate forum.  This has literally nothing to do with systems administration.,
+18,482,18_grc_technical_compliance_audit,"This can sometimes be tricky. If someone has been in GRC for a long long time, it can be hard. Most companies will want to consider you and steer you into GRC irrespective of your wants or intentions. If you have minimal exp, it can be easier. You need to upskill in something more valuable than GRC,","lol 😂 sorry for laughing is that the crazy part about it is your “coding” skill set is going to be pretty low value when anthropic can do it faster, cheaper and better than you in about 5 years.  Don’t believe me look up project glass wing.  For what ever god or gods there may be, you have found fav","Look for security adjacent roles like GRC, technical writing, or technical project management.",
+49,472,49_client_clients_pay_service,"No. Not unless they reach out. It's not your problem, and you're running a business. It sounds like you've already started an assessment for free that you could have billed for.  The fact that they responded to a marketing email just to berate you... They sound like they might be a nightmare of a cu","Try customer pain point and also what they like.
+Adjust with their budget plan. Suggest to accept what they desire but also describe why your plan is supportive to their idea. There is no complete solution for their security. If client is too much rely on u, not good for you. I'm not telling not to ",Tell the customer to go pound sand and have them try managing their own expectations.,
+58,464,58_post_posts_sub_reddit,"Funny how all of the posts from experienced people agreeing with the op are being downvoted, while the ""ok boomer"" posts are being upvoted. Just shows that some people don't actually want help or advice. They just want to play the victim and blame others for their problems.","I'm never a fan of rule-happy mods who immediately shut down a discussion stating ""ReAd ThE StIcKy."" It's such a pompous stance.","I disagree.  **There's way too much gatekeeping, especially on reddit**.",
+20,459,20_alerts_alert_false_tuning,"Anytime you add a new tool, you are going to be flooded with new signals. You need to look through your alerts and deal with the high priority alerts as well as find the false positives, adjust your DLP settings, and determine what policies need to be changed and what risks should be mitigated. (Is ","*""I know “tuning” is the simple answer. Only engineers are allowed to tune production alerts after it has been approved through our change control process because of the risk associated with the changing think in production. ""*
+
+Regarding tuning process, to do the changes in production is normal to ","Sounds like you're using rubbish old tech. That's just how it works. It takes a serious data science skills and time to develop something that translates individual signals and events into something more meaningful for an analyst. If your system leaves that to you, there is no winning with it.
+
+My s",
+42,427,42_risk_risks_business_assessment,"Man, I just pentest everything at work whether they ask for it or not. Raise a incidence every time, when the owner wants to deal with it or not, as write up the risk. This is for just random stuff I come across.","Back in the day, it used to be a reasonable approach to assume that risk could be eliminated in many cases.
+
+In the modern threat landscape risk can never be eliminated, just managed. As a result, we now need a department to manage that risk, and InfoSec doesn't always know how this aligns with the ","I would add this-  Speak to them in a language that they can understand:  $$$  Have them sign off on the accepted risk but include a worst case scenario.  ""Should an intern become disgruntled and physically damage the hardware they now have access to, this is what it will cost to recover it.""  Expre",
+30,420,30_vulnerability_vulnerabilities_vuln_critical,Something also worth considering based on the relative age of your environment is that vulnerable installations of programs in unused profiles on certain endpoints count towards those vulnerability scores you're seeing.  I'd check and make sure your company has a policy for deleting unused user prof,"Honestly, most VM jobs turn you into a report generator. You're not lost, you're just bored of being the messenger. If I were you, I'd skip patch management (more of the same chasing) and look into attack surface reduction instead tools that automatically strip out the junk so you stop drowning in C","Read this as if I were biased... because I am. :P
+
+As many have mentioned here, prioritise based on contextualised risk.
+
+The same vulnerability is different depending where it is, so before anything else figure out what represents the most business risk if it were down/compromised (ideally mapped t",
+31,394,31_firewall_vpn_ip_rdp,"Fail2ban is great with nginx zone limits, but you could also use cloud flare and white-list only cloud flare IPs in your firewall that stopped all the bots on my website.","From the thread on that Twitter feed it seems like someone at Slack got a bit out of hand. The restrictions against US based companies selling to Iranians, North Koreans and a few other nations has been long standing. Looks like someone at Slack searched for anyone who had ever logged in from an IP ","At my current job I wouldn't be able to order any IP blocks either, since it's just one guy that does it all... and I'm the network guy... urgh...",
+92,384,92_market_job market_job_layoffs,"SWE job market is 100x better than cybersecurity.
+
+Cybersecurity is dead unless you've already got experience.",If you want to make constant reliable money you should switch careers. This industry is the worst I've ever seen.,"The market IS hot right now.  If you're in a shitty company, it's a great time to do something about it. ",
+28,372,28_infosec_experience_security_years,"> think that every infosec candidate should ""Know everything"" 
+
+No decent place actually believes that. Job postings are basically a pie in the sky type look and the exact requirements are somewhat fluid. You should, however, be able to do the core of the job. Unless you're applying for a junior pos","I'm in my mid 40s, a weekend dad living alone most of the time and paying for a child. I've just moved to a £25k ($35k) IT job in the hope to make the move to an infosec role. I know how you feel, after 8 hours in front on a PC closing tickets, the last thing I want to do in the evenings is sit in f","I've been saying now for a long time that infosec needs a guild type of setup where anybody with a little bit of IT experience can join and get a mentor at a journeyman level. Journeymen levels can get a expert level, and an expert level can get a master.
+
+How those are all setup is a hurdle but the",
+24,371,24_ciso_cisos_cto_cio,Being a CISO sucks. You are great until something goes wrong. Then when you tell them they never approved your budget forecast in the last 3 years everyone is sitting around sating what do we do next,"Depends on your business. 
+
+If you are SaaS I love reporting to CTO. Whole focus is to build for revenue which makes it easier to get headcount and build security into the product. You are not thought of as a cost center. I don’t have any issues with conflict of interest, maybe it’s that we agree th",Can you escalate to a level that can make a call? Ideally to a CTO/someone who has at least some understand of the complexity.,
+52,358,52_documentation_document_wiki_documenting,"Passwords: document every password you can find, KeePass will do for now
+
+Documentation: Hell, even Word and Excel will do for now. Powerpoint or draw.io for simple diagrams if you don't have Vision available.
+
+Backups: What? How? How often? Where?
+
+Information gathering: Every IT department has a s",Paper is necessary if you are not in management level,"Flirt with them, plan a date and then don't show up.",
+26,352,26_cissp_certs_cert_cism,I went for most of my career with no certs. Got a CISSP late in career - was worth doing.,"9? Years into my CyberSec journey, still not picked the CISSP book up, never mind the exam. Fuck that noise. I am in the UK though, does it carry more weight in the US of A or worldwide? A lot of people here, even in management positions don't think it holds much water these days.",I expect to be wearing my CISSP pin on my Wal-Mart vest within the next year or so.,
+46,333,46_backup_backups_veeam_restore,"$900 for capable backup solution 
+
+Or % of the current price of bitcoin to recover your business data + still have to pay your employees + insurance goes up if you make a claim = which has more zeroes at the end of it? ","Honestly, some of the best support I've gotten out of all of our vendors was from Veeam. I've found that if it's something critical, usually a call gets the job done quickly. Having said that, they've also been very responsive with e-mails.","Sounds like an awesome opportunity for a 17 year old.  I think the hot topic here is ""Get your backups Square"" and I second, third, fourth, or tenth that notion.  If you do not have backups and something breaks the business could be destroyed.  I walked into a place with 2 hosts running about 20 Win",
+65,329,65_money_cost center_cost_center,"What do we need IT for everything is working fine?
+What does IT even do, everything is broken!
+
+True when I started 30 years ago, true today. It's not the company just businesses in general. Unless your core business is IT then it's usually a cost center. Probably worse today because ""everyone knows","This is some ""how Hollywood sees cool edgy I.T. people working"" level of dumbfuckery.
+
+This isn't Ferris Bueller's Day Off.  You just fucked your companies productivity.  My boss (small company) charges clients 4k a day to work on their projects.  Scale that kind of costing up and you can easily (ho","Detailed onboarding and implementation assistance. How much help do you need to make it successful 
+
+There are always two costs to software. The cost to buy it and the cost to use it.",
+34,323,34_syndrome_imposter_imposter syndrome_impostor,I'm a 40 year old director and just started a new role. I was also previously a director and I feel like I have imposter syndrome all the time especially now. You are in the role you are in because someone believes in you just know that and don't be afraid to ask questions.,"Imposter syndrome will be something you deal with for your whole career. Transitioning from community college to a R1 undergrad was a shock for me. I got up to speed after a term. The shock from undergrad to grad school was just as much a vertical learning curve.  
+  
+Find stuff you're honestly curi","LMAO
+
+
+YOU'RE ME, DUDE. OMFG...so glad to see I'm the only one who feels imposter syndromey in my role and yet everyone is satisfied with my work. Weirdest place I've ever been in my life, tbh",
+43,320,43_database_sql_access_dba,Why did you stop reaming them out for using Access in prod software to write this post? Go back to yelling at them until they stop using Access. Fucking ridiculous,"I have a lot of experience in this realm for %embarrasing_reasons%. 
+
+Migrate the MS Access DB to MS SQL.
+
+Create a new empty MS Access DB with the **exact same file name**
+
+Create links in the new MS Access DB to the SQL tables using the **exact same names**
+
+This works stupidly well for a stupid h",DEV should never be working with live customer data this is a huge failure on multiple levels. They should have a dev database and can generate fake data to test their application without compromising confidentiality.,
+47,320,47_consulting_consultant_clients_consulting company,It is because in consulting you either do the work nobody wants or can't perform.,"I wouldn't stress out too much about not understanding something. Focus on getting it to work even if you don't understand why it works, and the understanding will come with time. Doing stuff in the real world helps a lot with grasping concepts. I think IT is full of people who make stuff work witho","Bro I just wanna say you are killing the game haha. You’re probably right about being too young for a managerial position but you can definitely progress your career in a ton of other ways. Maybe move to security architecture, or consulting like you said. You have experience and drive, I wouldn’t be",
+44,315,44_cloud_aws_azure_hardware,"It's 2018, I'd question the need for hardware load balancers if you're not getting the service you expect.  What is it that requires you to use one?
+
+HAProxy is fantastic and supports some of the biggest websites in the world.  Nginx works OK as a load balancer even if it's not great at it and proba","You’re not off track, you’ve just hit the “too many directions” phase, which is common in this field. You already have a good base with SOC experience and solid certs. Now it’s time to focus.
+
+Cloud security is a smart next step. You don’t need to learn everything about AWS, just enough to understan","This is a problem with Microsoft-stack dev shops that haven't been keeping track of Microsoft (or the industry at large) since Nadella took over. Most such shops are used to writing software in full-fat .NET (or ASP.NET), getting to a release point, then having customers install that release on-prem",
+40,312,40_internship_intern_internships_interns,"I've been working in IT for 25 years, and I'd work here for free. Just for shits and giggles!!!!
+
+This is truly awesome, best internship you could ever get. Because you do not learn anything if everything runs perfect. You learn from problems, preferably someone else's problems! I envy you.","Hey! I do some security hiring for internships and full time jobs at my company when they come around, so let me see if I can give you some insight. 
+
+Internships, particularly the more exclusive ones, look for interest in the field over completed coursework. This means that they’ll look at what pro",Spoken like someone who's never had to CYA on the job yet.  :),
+87,312,87_study_studying_time_motivation,Totally agree with guys who are advising to stay for now. Try to study as much as you can and apply for a new position,"The keyword for me in your post was ""overwhelmed"" - this is often a symptom of attempting to tackle something really big without breaking it down into smaller, more manageable pieces, for example: Learning cybersecurity is huge and overwhelming; learning basic networking is much less scary. I'm also","Its not easy, 2 hours a day during the week, and at least 4 hours a day on the weekends. Its not really that much really. Studies show that the brain is more conductive to learning new things in the morning, and more creative in the evening. I made the switch to morning studying and working on proje",
+62,310,62_title_director_big picture_titles,The move to a new team is just the first step in a larger plan already in motion.  Expect a title change (for better or worse) and different responsibilities (for better or worse).  Keep the resume up-to-date and looking for new employment.,"A few thoughts here....  If you're a SysAdmin and you're being tasked with work that your Help Desk team should be doing it sounds like your department is understaffed.    
+
+
+Also, some of the initiatives you've laid out, like a SIEM,  are going to cost no small amount of money.   If your org is bei",In one job application I actually made my past and current title janitor. What matters is the work you did and know. A title is for ego crazy maniacs. Just care about the work you do and the money for the job. Are you paid sufficiently for the role?,
+88,310,88_applications_interviews_applying_applied,"Kind of, i Admin our Great Plains and MetaViewer applications. ","I see a lot of comments here . Im going add my view as well. Drop an upvote if you feel its worth the read.
+
+I am a Security Engineer by profession by transitioned into SoC team. I have just under 2 years of experience excluding internships.
+
+On salary Id advise you to take the job if the salary is ","I applied to 700+ jobs before I landed my job.
+
+It sucked and took years but was worth it.
+
+Good luck",
+99,300,99_field_career field_career_people,"I was made to do this. 
+
+Started “tinkering” with computers in middle school way before cybersecurity was even a degree field. I am fortunate to have done this line of work for over a decade now. I also got my masters in it, teach it at a graduate level, and work in the field. 
+
+That said, there are",What the hell is it about IT that makes people think we will work for free ?? Stuff that.......,"The structure is honestly one of the major selling points for training courses and certifications. Cybersecurity is a difficult career field as it is, and when you aren't experienced in it, it's going to be very difficult to teach yourself it, let alone know what to study.
+
+Have you applied for scho",
+53,296,53_google_search_google search_know,The difference between a Jr. Admin and a Sr. Admin is their ability to google.,"Use the phrase ""Sorry, I'm not that familiar with consumer level products and software.  I work only on Servers and don't know much about home setups anymore"".     I just don't do it for anyone any longer and just tell them that all I'd do would be to google it.   Just don't send them to Geek Squad.","I have been in this position multiple times. I found the best results are just having a chat about it.
+
+Saying something along the lines of ""do you know when i help you with your work, i dont mind but the frequency is not cool and the need for me to drop my work is hard sometimes, its making me unco",
+35,292,35_wifi_cable_wireless_meraki,"This comment will probably get buried but here goes:
+
+I’m a network engineer that also happens to be the WiFi subject matter expert at a company of about 10,000 employees, over 15 locations. 
+
+This is also the direction we are going. Any new campus/building doesn’t get wires or access switching, jus",i see alot of people saying to contract out the wiring which is obviously fine and if the payroll is willing to back it go for it but knowing how to run ethernet and terminate it both to patch panels and to keystones is great knowledge to have. the only bad part to running wire is when it comes to t,"Just got told the same thing by the company that bought us.
+
+They too drank the ""Meraki"" kool-aid.
+
+One of them: ""Ethernet is just so old"".
+
+I nearly lost it.",
+83,286,83_notes_practice_material_book,Thank you so much. I'm currently studying before I start a 4 month program and this is SUPER helpful to stay informed.,I wish I knew how much stuff I've forgotten.,Do you keep notes of what you’ve learned from past challenges? That helps a ton over time.,
+97,286,97_red_red team_blue_blue team,"Every. Damn. Day. This industry lends itself to it, more than anything I’ve seen. The worst part is the abuse I’ve had at some jobs make it more ingrained. 
+
+My current job is the first time I don’t feel it as badly because I have such a supportive environment and team. 
+
+I’ve been in this industry ","This is part of the issue with the ""skills gap"" narrative. Every wants to sell the Red Team, breaking into the box hacker stuff. Companies real problems are managing risks and fundamentals like vulnerability management and basically the CIS Top 20. You've been there a month. It may not be what you e","Blue team blues. Gotta be good all the time, and Red team only has to be lucky once.",
+50,286,50_password_passwords_reset_account,"Go to all of your social media accounts and APPS and email accounts settings, under the security section there should be options to see where you’ve logged in and which sessions are still active. 
+
+You can “log out from all devices” and change password for that specific account. Rinse and repeat for","I work for a small MSP. I've never encountered a warm hand-off in the last 18 years. Your first aim will be to find the password list he had, and they always have one. With a bit of luck it's in something like Keepass.
+
+I've been dropped into organizations where all they had was a post-it note with ","I have always been interested to know, is there a legality / liability or is it just in the contract that was signed that you had to  have an IT transition meeting ?  In this case I can see why you sat down and did so but I can imagine some cases people just telling them to go fuck themselves and th",
+37,286,37_comcast_fiber_modem_spectrum,Fool I setup VPNs on 128k isdn lines and know CBOS,"If you read the recent news, it appears as if Telcos are being killed by stupidity, and some are creating a vacuum being filled by Muni broadband:  https://www.techdirt.com/articles/20190227/09355541689/us-telcos-teeter-toward-bankruptcy-as-comcasts-broadband-monopoly-grows.shtml
+
+Do what you can to",At&t is a dumpster fire of a company.  The network people they send to my site... always top notch.,
+98,276,98_network_networking_network team_issue,Have you talked to your network? Ask former coworkers and friends. Cold applying doesn’t work as well.,Try working in the Ag industry where shitty software is the norm. The problem is on the other end 99% of the time. I continually deal with vendors pointing fingers at our infrastructure for their problems and after a few hours or days we discover the problem in their code or a problem with their und,"Everything's working - what do I pay you guys for?
+
+Everything's broken - what do I pay you guys for?
+
+Welcome to IT.",
+57,274,57_remote_remote work_fully remote_remote job,"after reading comments i just gotta put my two cents in, there are absolutely better opportunities out there.  I am on my second year in professional Cybersecurity (i have a bachelor degree in it as well) and I do fully remote for 115k + 10k bonus. my previous(first gig) was 95k at first and an 8% r","Sounds like your company sucks. My company is fully remote and there is no silly nonsense. I like my coworkers and they are fantastic people, but we are there to work, and we build a great product that improves people's lives. And the pay is reasonable for the responsibilities. We meet up once per y",Hi random wife on reddit. Can you find me a remote job? That would be great.,
+56,273,56_audit_controls_compliance_audits,"1 of 3 things will convince the upper.
+
+1. Compelling savings (or revenue)
+
+2. How something will keep them out of trouble with authority (auditors, IRS, etc. if applicable)
+
+3. Something they can see, liked, and can brag about.
+
+The problem with 1 is it needs to be proven. Problem with 2 is it usua",Try moving closer to compliance work some items have to be done by US citizens only….,"Audit is primarily the reason. Beside this, it's usually pushed to EOY due to prioritization.",
+93,272,93_error_user_message_blah,My CPU isn't working. Is there something wrong with the server?,"Traditional change control is what happens when someone wants to avoid a negative outcome, but they're not sophisticated or smart enough to realize the inevitable results of their diktat.
+
+To make a change you have to use a bit of salesmanship instead of engineering prowess. Start with the benefit i","BAHAHAHAHAHA you have it so easy.  
+This is the quality of notes for incidents I get from the internal service desk.  
+I have sent them screen shots of the asset register saying an asset is a Laptop not a thin client, but nooooo they believe the user in that its a Citrix thin client.  
+The error mes",
+70,272,70_salary_range_100k_salaries,"worked at a small company in SoCal. I got paid about 37k as a new grad, B.S degree in IT","I mean you admit yourself you don’t want new tasks. Do you want to make more only or do you want to grow and improve and make more? 
+
+Reported salaries are not the same as salaries you can get. Amazon has amazing salaries but not everyone is going to get a job there nor want that work life balance.",My wife is a career coach and she says ‘never take a counter offer’,
+166,272,166_family_family members_help_family member,"Your question isn’t really clear to me I’m sorry.
+
+Is it that you don’t feel your experience isn’t technical enough? If so, this is felt quite frequently by juniors and seniors alike.
+
+Or is it that you are working more than your peers an making less? In which case, this is a massively variable situ","I got lucky and my predecessor was a complete dick to most people that had issues he considered ""not worth his time"". When I showed up they were too timid to ask me to help with anything and now that they know i'm nice we have a happy medium of them feeling comfortable to ask me for shit without tak","Discipline and distractions.
+
+It took me years, but I can drop work the instant I go out the door. Part of that is that I have interesting things to do at home, whether that's family, games, going out, whatever.",
+68,267,68_mistakes_mistake_make mistakes_make mistake,nc decision. just dont forget to learn from ur mistakes and then be careful. always study and ask so u always know what to do,"Guilt? I've been in the business for almost 30 years. I've seen a few breaches. I have never felt any guilt at all. The owner/CEO accepts the risk and are the ones responsible no matter what. They set the budget, the priorities, and approve the policies. Not you. 
+
+It isn't your fault and anyone who","I have encountered far too many ""our shit don't stink"" IT departments over the years. They are never the problem. Everything they do is perfect. It gets maddening because we all make mistakes. We all screw up. Changes aren't always communicated even in a well managed department. Shit happens.
+
+There",
+71,264,71_data_credit_breach_ssn,"The only winners in this seem to be the credit monitoring bureaus, one of which had their own breach.","I'm assuming that the procedures you speak of have been developed and agreed upon by the entire department, including buy in from the CIO.  Do you have documented instances of him not following the procedures including ones that caused downtime, data losses, or security breaches?
+
+If so, take that i",It’s about votes!  Everyone is focused on credit and identity theft… but why post all the data for free instead of selling it?  Having everything fully in the open makes it easier for voter fraud in an important election year!,
+84,263,84_department_understaffed_staff_departments,"Both my post\-college IT jobs were in understaffed operations groups within IT. Lot's of time you'll see departments heavy on ""business analysts"" and IT managers and short on what I call ""people who actually do work"". You kinda have to enjoy the stress or just be able to let it roll off your shoulde","To answer your question. Yes IT always understaffed. And it's normal.
+
+Because just exactly your case. It's not like daily you prepare for ISO audit and you feel understaffed. What you mention is a project that has a deadline. And now because you worked late you wish you had more staff! In reality a","I recently got the ""Please go from dept. to dept. and ask if there is some aspect of their jobs that I can make better""....",
+159,256,159_know_don know_answer_don,"""I don't know, but this is how I would go about finding out""","ive learned after my 13 years...you will never know everything, you just need to know where to find it...","We are currently doing an assumed breach drill. 
+
+We know we are not secure. We know they have persistence by now. But we will get findings to fix, and know we still will have holes. 
+
+We have outsourced the SoC - but they only know so much about us - and depends to some degree on us for further inf",
+59,252,59_insurance_cyber_risk_cybersecurity,"I bet a lot of companies take a risk based approach to your point.  Sure breaches happen, but the first try to minimize the impact if a breach does occur.  They look at everything from reputation loss to financial loss.","Cybersecurity is low priority to almost every company/agency, medium-low at best. 
+
+  
+
+This has nothing to do with security and everything to do with money being spent on security vs. money being spent when/if a spillage happens. We think it's a huge priority because it's our business, but from an ","Cyber Security is actually ""Regular system administration with some extra steps.""  Their manager needs to make them aware that this is what they signed up for.  Plugging up the holes, keeping the environment tidy and documented and patching stuff is your life in this industry.",
+119,247,119_support_customer_tv_fix,I’m not allowed to help with out of support items.,Where are you located? I’m trying to fill a position paying roughly 25/hr for tech support.,Why are you doing this? We support it for thousands of people and don't do any kind of reverse engineering. What are you trying to do?,
+67,242,67_linkedin_recruiters_jobs_resume,"LinkedIn, Clearancejobs.com, usajobs.gov, DICE are a few places that come to mind off the top of my head.",Two things to consider are certifications (CompTIA has several) and online certificate programs from a university/tech school.  Compare the in-state costs of accredited programs in Utah with larger out-of-state programs. Both of these routes will help him end up with that piece of paper that will he,"Not a federal job but there is lots of opportunities for anyone cyber. The people you see bitching on here are IT guys who don’t know shit about cyber attacks or warfare. Get on LinkedIn and start making connections. It sucks but it’s an evil necessity to get a job faster. Also be active, go to even",
+54,242,54_domain_gpo_dc_user,"_Scene: Some random application we support (doesn't really matter which one) stops working for some reason._
+
+**Admin:** Welp, let me restart it. \*restarts service\*
+
+**Admin:** Works now. Looks like a restart fixed the problem.
+
+No. No, it didn't. And I know it didn't, because it fails in the same",If you are processing a ton of policy exceptions your policy probably needs to be updated.,"Hell, I could be condescending and say it barely appears that *you* know what Active Directory is. I mean, it doesn't do anything with a users profile, unless you mean optional profile roaming (the devil, how I hates it) or UE-V. 
+
+If you were troubleshooting a users profile, which is different from",
+61,240,61_recruiter_recruiters_interview_job,"I think you are overthinking this.
+
+>It's probably a comment to get you on the back foot for future rate negotiation. 
+
+They are just trying to find potential candidates, and it's free to add such sentence at the end of an email in case you are not interested but can recommend someone else.
+
+We all ","Just apply anyway. Get with some recruiters who can get to know you and work their way in to an opening. If you/the recruiter can find the right place, the type of person can be more important than the knowledge/experience. 
+
+I was a SysAdmin for 5 years with an associates in related field, and I go",What certs and/or degrees are recruiters REALLY looking for?? I heard Sec+ is an instant turndown for you guys haha.,
+108,239,108_bored_hobby_boring_hobbies,"I was also bored and after much much much thinking i decided to start my own security agency to hunt pedophile, child molester and peoples abusing girls for prostitutions,  
+
+
+Super exciting, not bored anymore at all 😁","I got into bonsai when I became a SOC analyst and it’s extremely therapeutic. I think I also like the fact that the tree will be there in many years as long as I look after it, whereas in Cyber we so often juggle a million tasks and tick things off so fast that the small wins aren’t celebrated. I al",if you dont want boring you can go be a criminal !!,
+104,238,104_manager_management_managers_technical,Skip the middle middle management path tech is full of them and a lot of them get laid off.First be a single contributor of high skills and value. Tech is bloated with middle manager skill sets and m b as.,"> hires someone … due to this individual having a background in personnel management
+
+It’s possible that they thought more line management was required than the team was getting beforehand, or that they wanted the team to have more ownership from a technical perspective.","Soon forth manager in 3 years, that place has more problem than just that one property. Not your problem anymore.",
+41,238,41_printer_print_printers_printing,"Up until about January 2015, we had a ""computer operator"" at my last employer that would run green bar reports from a dot matrix printer.  He would print out sales reports/forecasts from iSeries and walk these stacks of paper to all of the execs...every day!  That was until SAP was implemented and t","Hey, Yes, first things first, get a static IP address onto that printer, and then reconfigure the installed printers on each computer so that the printer is pointed to the static IP (Hope that made sense)
+
+Secondly, scan to email requires a SMTP server i am assuming they do not have a inhouse SMTP r","If my users are installing PDF printers, I'm failing as a sysadmin.",
+39,233,39_ssd_hdd_ssds_laptop,"Yeah, I am an outlier, I do a lot of windbg and xperf analysis, and my data files on D: and boot files for C: add up to about 1TB. So I could potentially see me going to a spindle for D:, or maybe add a spindle for E: for long term mothballing.
+
+But, for end users? Most people on the planet, yes SSD","""Do you have an SSD for me to clone your computer to? Buy one and buy me whiskey and you are in luck."" This year i had 2 family members that had gotten SSD's and Whiskey. So i was happy and they were happy.",Eliminating all spinning drives from your environment will also help a great deal. It is basically an operating requirement now especially with Windows 10 feature updates.,
+51,231,51_outlook_exchange_calendar_ios,"Well with some scripting skills you should be able to do this yourself. Any major programming language has libs to connect to exchange - with imap enabled for this account it should even easier.
+
+We are doing something similar, we have big central mailboxes for each of our products. We then import t","Yup, we have this problem too. Nearly all staff use Apple workstations and mobiles. O365 is a nightmare, made worse by the fact Apple users are reluctant to not use Apple software.
+
+The iOS app is garbage. I'm pretty sure they use it to test new job candidates. If you can get support from the top, t","Fucking SALES people constantly emailing and calling to ask for “time on my calendar” to sell garbage. Fuck you, seriously.  
+
+
+Upvoted",
+60,231,60_linux_windows_admins_windows admin,"As said before, if the employer isn't willing to spend money to have proper infra then run. Otherwise, you might be able to convince them that if they don't fix it now it'll only become more expensive.
+
+Replacing the VyOS laptop with a Ubiquite Edgerouter should be doable and is pretty low cost.
+
+As","I use Linux in my strictly ms win environment, so I would like to know as well. I understood it could not be done and was not designed to be done.","What you need right now is a first step. Something you can start today and that will help you along the journey.
+
+Why don't you start by REALLY getting a grasp on Linux? There are many courses out there that teach you a lot of skills many security professionals skip in the beginning but end up missi",
+122,228,122_sector_public_private_government,"Central authority or agency? No, no there isn't.
+
+One specific to the industry or a sector of the industry that that major corporation is involved in? Maybe. You'd need to do your research. And find out whether they'd accept an anonymous tip.","Sorry to hear this is happening again. Public sector security sounds like a solid move for stability. Wishing you the best, hope you find a great role soon!","You could consider doing pro-bono work on the side. I've assisted some charities and journalists with guidance and help on how to improve their security.  
+  
+If you're interested in doing the policy thing, consider being a public intellectual- write & present on the topics you're interested in for ",
+116,227,116_dad_family_mom_pc,Dear sir . Please delete some child porn for us . What a great favor they asked of you. Glad you’re still one of the good guys we got left on this planet.,"Came home to my parents over the holidays. My dad loves tech but doesnt understand it that well.
+They had internet problems, or more specific, Wi-Fi  troubles. Turned my cellphone Wi-Fi on, saw 4 diffrent connections. After 2 hours i realized dad bought 4 diffrent routers and plugged them in like a ",Just buy the complete parts for very little and stop whinging.,
+133,221,133_months_hiring_short_month,"Lol, took me 4-5 months to find a role when i was looking. Most places take at least a week to respond, some took much longer","They’re out of their damn minds. 
+
+Good call on bouncing from that insane asylum. ",There is a wide gap between what goes on in a business and what universities teach you about what goes on in a business. ,
+64,220,64_files_drive_storage_drives,"I know I'm preaching to the choir here, but that's basically begging for the user to keep 2tb of business critical files locally. You want catastrophic data loss? Here's one quick way to get it.","You should look into not doing this for free.  Or even better, have a local Windows MSP handle it.  When you wrote 1000GBP I said to myself ""that's a lot of Good Boy Points for a server"", before remembering that meme currencies aren't real.","Depending on how long this has been in use, it might be a moot point, but couldn't you explain the situation to that department and ask them to try and help you get rid of old/unneeded data from the volume?
+
+It might at least buy you a little time and make them aware that they need to conscientious ",
+95,214,95_question_favorite_quick_answer,"OMG, you are me!…I mean EVERY one of those things are pet peeves of mine. Now, I’m kinda OCD but that aside, people need to put in a little effort/check over their crap. Attention to detail!!","""We need this in two days"" and it's a month later and fuck all's been done.","My favorite has been a phone picture of a bluescreen with no context or name/contact information. We could see his shirtless reflection though!
+
+(through some digging we were able to figure out who it was)",
+146,213,146_hate_job_hate job_life,"Reduce your hours and start car selling as a side hustle, see how it goes, if you really want to do it as main or even only job, if you can live from it as you can from your current job etc
+
+If the problem is not what you do, but how you do it, maybe look for alternatives. Some people need a slow an","From '99 until 2014. Wasted my life in I.T. 
+
+All problems become people problems and not taking care of systems. I hated becoming the BOFH... 
+
+Honestly I stopped caring and couldn't do it anymore. 
+
+Original tag line for this subreddit was better. Overworked and Crushed I.T. souls.","Agreed, hate them and no one in my company pays any attention to them.",
+114,210,114_passion_passionate_love_need passion,">I’m now in a better place but my interest for cybersecurity is gone. All  
+ I do is put minimal effort and play video games after work. I don’t   
+stay up to date with the news or practice labs, read security books.
+
+Yea so this industry has a real problem conflating work and passion. Sometimes you","Going to turn this around.  If you're not enjoying the job, then why do it and what are you passionate about?
+
+","Actually, it's not about motivation, but discipline. In the beginning, motivation is an excellent fuel to break your limits (something very necessary in the early stages), but then it fades.  
+Personally, my line of thinking doesn't go beyond the simple logic of ""I need money, and this is the only t",
+73,209,73_ceo_company_new ceo_hr,"The person accountable for a breach is the CEO, period. Unless gross negligence is at play, it’s on the CEO to manage risk according to their risk appetite and listen to the professionals advising them, which it sounds like you did.","This will play out like so many others in the past, but regrettably will either destroy or cripple a company when its over.
+
+1. Things internally were great with the past CEO, but either shareholders or the owners of the company let greed cloud their judgement. 
+2. Under the guise that CEO is under ","Another bad idea: letting any tier 1 help the CEO. In our org, ALL tickets no matter how mi or get automatically bumped to tier 2 if a senior management name is attached. ",
+127,206,127_white_black_race_friends,"That's pure BS. Knowledge and commitment sees no race, sex. Whoever these folks are, you saved yourself. Find a good company that will value your knowledge, dedication!","White hat is for losers, black hat is where the topGs are at.","i am a programmer, hacker, white hat. I work by myself despite spending years on several projects... i am very good at what i do but i dont want to be forced to do it or have to do it, i do shit on my own so i can stop when i want and take breaks",
+118,206,118_hi_im_say_just say,"Hi. I'm working on a side project on how to structure security programs from start to end and various fee structures. I haven't published anything yet but working on the first couple of posts.
+
+[https://notes.techimpossible.com](https://notes.techimpossible.com)",I wouldn't say it's indispensable but it is useful.,"I bugs me when I answer the phone and after I greet them, the other person says,
+
+""Hi, now listen..."" It isn't said in a condescending tone. Just the way EVERY phone call starts with this person.  I think just answering the phone and greeting them indicates I am listening.",
+117,200,117_ctf_ctfs_learn_tryhackme,"You ain’t dumb. These challenges are hard. It will take time and most importantly be consistent for you to be good at them. But cyber security ain’t those challenges, I work in cyber and I bet you no one at my job can solve an easy challenge without a walkthrough lol. If you love cybersecurity, stic","What sort of training have you done already, just CTF and getting a hacking cert?",I'm 37 and in my senior year at a local university doing a cybersecurity major and minor in CompSci. I could care less about calculus or discrete math but I've had an absolute blast with my cybersecurity courses and the various labs we've done. Using tools like OSForensics in my Digital Forensics co,
+63,196,63_av_virus_mcafee_dlp,What’s the big deal? You probably call other products by some nick name?,Oops. Looks like you got that virus that puts dicks on your wallpaper. ,"You might want to run kape, or dissect/acquire, or any other forensic tool to obtain forensic data.
+
+If you know the hash, you might want to visit the device timeline / advanced hunting in Microsoft's security portal to find the entry vector.
+
+You can also analyze the files in online sandboxes (any.",
+66,188,66_devops_bi_modern_dev,"I've spent a lot of time recently learning the in's and out's of Jenkins, if you remember the issue I'll give it my best shot to help out.",If you don't want to code don't do anything devops related... Bit the days of a non coding sys admin are being marginalized daily,"IMHO, creating relationships with the different teams from the get going goes a long way. Don't play the cop card. Instead, sit in their meeting and talk to them so you can start to see things from their point of view. Make them see you as a person want to help them, not block them while dressed as ",
+121,186,121_email_reply_emails_subject,"Remember, it is the companies problem, not yours. Your job is to identify problems, report them and provide fixes. You have done all of that and to company has chose to not do it. Provide email to your boss detailing the problem and make sure to CC your external email for a CYA. ","Not sysadmin, per se. But I put in a PO request for project I'm working on with a different division and left the budget line blank (I don't know budget line numbers - not my job.) and the only text in the email body was ""This is a PO request for a purchase by *blank* Division. It needs to come out ",Oh people that type in all caps waste my oxygen.,
+75,186,75_chatgpt_browser_data_ai,"It has been a while since I worked on Data Loss Prevention, but back in 2020 or so, I was able to figure out a way to monitor/block Discord using a combination of Symantec DLP, WSS, and their CASB product. It was clunky and cumbersome, but it seemed to work. I no longer work for that company, so I c","Honestly, once I realized I enjoy my family and hobbies more I just looked for a job / specialty that allowed me maximum income value for the minimum effort. I don’t need meaning from my job. I check out when my stuff is done.  
+  
+  
+You don’t really need to “learn” new tech. It’s all basically sha","ChatGPT, learn how to use it immediately. Ask it questions just like you would a person. I would also recommend paying the $20 a month for the paid version. Tell it what your experience is. Tell it that you need help as a security engineer. When a problem or a question comes up, treat ChatGPT like a",
+81,179,81_healthcare_hipaa_dr_profit,Take advantage of your position and add to your own toolset. IT is not a lovely place when it comes to advancing your career. Take each job as a stepping stone and a good conversation during interviews. I've had 5 jobs in the past 9 years and right now I'm the IT manager in a healthcare facility and,"In my experience no, it does not pay better, but my organization is not for profit","You found a hype machine! 
+
+I worked for one that was in Healthcare during COVID. Their value prop for an exit was seemingly the ""brand"" they were building. It was all about the funnel and the image.",
+72,177,72_jira_zscaler_netskope_free,This sounds exactly like someone I used to work with…,"We use a tool called Netskope to stop this kinda thing, works well they have a pretty solid ztna bolt on as well.","check out knowbe4, it's exactly what you're looking for I think.",
+161,176,161_power_building_shut_ups,"Sounds like a shit show and HR need to get their shit in order. But to help you deal with what’s happening if you have the office suite, power automate I’ve seen be used literally for this exact reason. So if you can connect or if you have power automate available I’d recommend creating a workflow e",I agree with your friends.  You had the power to change things but didn't.,That's what happens when you have an assbackwards government in power. ,
+105,175,105_history_browser_browsing_web,My work checks browser history but only in the event we have reasonable suspicion they aren't working or misusing company resources. To just check everyone seems a bit... slimy. ,"""Woops, in my attempts to automate this, I accidently cleared everyone's browser histories! Sorry boss""","If the manager of a department suspects people wasting time, then he needs to come up with some solutions to combat that. As IT you can consult, but often times those solutions involve better management, incentives, employee moral, etc. Even if, for example, the average employee spends an hour on fa",
+144,174,144_conferences_local_meetups_conference,"Actually don't discount the vendor conferences, although keep in mind most are 50-50 fluff/commercial and actual good content. I learned things at Microsoft Ignite that really made an impact over the past couple years. I've also gone to a couple AWS events and got some good info from those as well.
+","I work in local gov, we have an association for us and bunch of other middle-ranked professionals (Middle managers, engineers, technicians, etc).  They've helped a lot in my experience insulating and protecting us from political issues, and dues are only around $25/mo","Don’t forget state, local, tribal, and territorial entities- they count too",
+69,173,69_oscp_ceh_pentesting_cissp,Hmm. I would initially advise getting the Security+ certification. It's well known and should be an entry into SOC type positions. After that i'd look at the INE/ELS Pentest Student cert. It is more of a stepping stone giving you knowledge and practical experience. Give it a year to 2 years in the S,"I'd say it's not over-rated, people just don't realise it's a basic certification. So you have a large number of people who fail, then call it shit, because they think they're better than they are.
+
+It's a great certification that weeds the egotistical ""hackers"" from people with basic skills. It wou","you’re not an imposter, you’re just stuck in a job that’s draining the life out of you, and no cert is happening under those conditions. Quitting, going home, getting healthy, and grinding OSCP for a few months is a sane move, not a risky one, because your Big 4 experience already makes you employab",
+79,173,79_licenses_license_licensing_cores,"Closest I've had... someone forgot to pay the renewal on an SSL cert.
+
+It was fixed within a couple of hours. Falls under the ""Shit Happens"" category of IT problems.
+
+You, on the other hand, need a new job. Also, give him only one week notice. He only needs half the time.",One of the locations I work has 110 licenses for their HIS that everybody uses for everything. They have a total of about 350 users who never close out of the application when they're done with it. So running out of licenses is almost an hourly thing. But they won't buy more licenses because they've,"That is correct.
+
+The *license* and the *activation key* are two separate things. Your computers already have a *license* for windows, it doesn't matter what key you use to activate them.
+
+You just have the buy one to get the mak key.  You can also get a KMS key which lets you use KMS or AD based ac",
+115,172,115_account_accounts_passed away_disable,"Drinking isn't the answer, although fully understandable.  I think the key thing is to empathize with the sadness and frustration of those being let go, but understand that your involvement (killing access) is separate from that.  You didn't fire them, you're just doing your job which happens to inv",It is illegal for US businesses to do do business with countries that are trade embargoed by US. The accounts should have never existed in the first place.,I once had to disable the AD account of my own wife. Guess what... We are still married.,
+158,168,158_learning_normal_totally normal_learn,"Dude, there is no way to learn like jumping in the fire. It may be a little learning process in the beginning but 6 months to a year, you will be comfortable. I would be excited.  ","Just finish your ba even if you end up doing something else. I went the other way and now I'm just behind in life. You're 3/4ths of they way there, just finish.","You'll be fine, it takes a little while to feel comfortable and learn the ropes in any job regardless of experience.",
+100,167,100_splunk_logs_log_elk,"Why do they need 2 years of archive logs? 
+
+We have crons clear those out weekly. ",What are your guys thoughts on not using NAT anymore? Pros cons?,"Tuning. The answer is Tuning and prioritizing. 
+
+Despite what Splunk sales will tell you, you cannot just slap Splunk in out of the box without a mountain of false positives.",
+135,167,135_toxic_toxic environment_toxic work_culture,I had this issue had to leave the company it was way too toxic to be in. CEO created an environment of this and feeding novices to think they were skilled fixing simple tasks. This place is an example why you don’t do that setup. What upset me was how they butchered my solutions to the point that th,"Sorry to hear this, brings back memories that I thought I had repressed.  Take solace in the fact that there was most likely nothing you could have done to prevent this.  Companies don't always act rationally, and sometimes you are on the wrong end of that.
+
+The one thing that I regret doing was sta",Your negative experience in a toxic workplace doesn’t apply to the rest of us. Good luck cutting some wood I guess. Wear eye protection and stuff.,
+110,167,110_automation_automate_tasks_manual,">but the environments are all the same, just basic windows fileservers, ad and office365, no linux, no automation, they barely update the servers, and they dont even have a fucking ticket system, the documentation is a mess and anytime i ask about something customers setup the response is ""oh, only ",I'm dealing with this right now. I went from a fully automated process. Apparently I also need to automate troubleshooting if something goes wrong.,"Blindly escalating ""issues"" with our automation and/or RMM systems without any troubleshooting. ",
+80,166,80_o365_exchange_365_office 365,"Yeah i reached my breaking point when our CTO (basically Kim Jong-un with a beard) decided we needed O365 MANUAL deployment on over 900 machines in a week. Also part of my team was busy migrating the user mailboxes to O365, so there were like 4 dudes doing this deployment.
+
+
+I slowly started to get ",Escalate to your O365 support. If that is the o365 support person...sigh. Sounds like a tier 1 tech who doesn't understand how O365 licensing and installation work.,I believe Azure AD Sync is being deprecated in favor of Azure AD Connect. Don’t know if it’s related but figured I’d share.,
+55,164,55_women_woman_men_male,After freelancing for several years I stay far away from non profits. I had a non profit flat out deny most every security measure I suggested after doing everything I could to present the risks they face. For context it was a woman’s rights non profit that operated in an African country that was he,"Pure bullshit... I am man, and I was on a team comprised of 3 women and 2 men, and the ladies were very good at their work, and even 1 of them was a PoC for some apps we offered service.","It’s been happening to a lot of us for years. Mostly writing and marketing related professions. Sorry you’re dealing with this though, it sucks.",
+85,164,85_sla_10 minutes_minutes_10,"Your company needs to set demands and ensure they're carried out according to the contract.
+
+Don't expect anyone else to care as much about your IT as you do.","One computer I saw had, for some reason, the (none) screensaver, but with 1 minute until it activates.  And this resulted in the computer locking after 1 minute.
+The minute spinner is disabled less you pick a screensaver, but you can pick one, up the minutes, and set it back to none.  That worked fo","I once spent about 10-15 minutes trying to convince HP to send me some new disks under our contract with them. One of our servers had had a load of water chucked into it courtesy of a badly decommissioned aircon unit, and we wanted new disks to transfer the data to (this was a few years back, so can",
+123,163,123_domain_access_admin_domain admin,"10 out of 10 Hackers, Malware, Virus creators agree that all users should be in the domain admin group.
+
+Can't go against those facts.","One place I worked at had the same password for the domain admin account, local admin accounts on PCs and in a few other locations.",Heard a story once about a place where they had all their users set as schema admins....wow....,
+76,159,76_apple_mac_macs_mdm,"Below is the copy-pasta that I usually share with new Apple Users. I'm not sharing it with you because I think these specific items help you (although some of them definitely will!).. but more so just from a general philosophy/approach standpoint. 
+
+**************************
+
+* Your Mac is not Wind","To answer ""Why the hell do you name your service tickets MACs?""  
+
+
+We're going to require a MACD opened with the DIAF group.  Please login to a website with a bunch of ads and other services we offer so you can click on a link for the Security Center buried amongst the ads.  Then click on a third l","I dont have a good podcast recommendation but Ill shamelessly plug my own. More Cyber than sysadmin though
+
+[https://errantsecurity.com/podcasts.html](https://errantsecurity.com/podcasts.html) or available on Apple Podcasts.  
+
+
+Would appreciate any feedback you have!",
+131,158,131_source_open source_open_software,"Shutdown all software and computers, you will be hard-pressed to find anything that isn’t part open-source. "," nothing new? If I understand this correctly, the model works of open source.
+
+There are currently loads of other tools that scan code for vulnerabilities, the impresive part for some might be the fact that it can built working poc's. 
+
+I guess like with all tech currently it will reduce work load f",We have done iso 27001 audits 6ish years and we use plenty of open source software and have never been questioned.,
+82,154,82_india_indian_offshore_outsourcing,I am from India have some knowledge of security if u want I can help u with your work didn't want to dm you,"Think ""Girl in India about to board an all-male bus,"" fucked.
+
+Distance yourself asap, or arm yourself with a newly outlined job duty and take em for what is fair for the aggravation they foist upon you.",Sorry. No thanks. I'll take a ton of Indians here we can work with than shipping it overseas and losing control. ,
+77,150,77_isp_outage_internet_eta,"This is your opportunity to start sewing a deep-seated hatred of your ISP into the minds of your bosses/users. That way when the ISP does drop connection, the firing squad is redirected away from you. I'm happy enough with our ISP but the few times a year they drop, it's nice to see everyone grab a ","Phones were down yesterday too, well to be more specific the DSL that handles the phone lines was down.
+Due town ""rules"" then only ISP provider (aside their own) I can use for Internet is a DSL Verizon. 
+I spent 4 hours in the phone with Verizon jumping from one Department to the other and all for n","""Hey, NeverDeploy, do you have any spare Internet lying around? If so, can you hook it up? Appreciate it.""",
+94,150,94_webex_zoom_meeting_meetings,"Yeah we are, I even get video recordings of some of our conversations so I can mill through those once we leaves.","I'll schedule a zoom call to start our planning session. Need 2 PMs and the 3 managers from IR, cloud, and product, ooh you know the director for risk might want to join too and his team of 4. Also it ops should be in in the loop. Ok we're going to need 20 different spreadsheets software and 200 jir","Recently switched to Zoom because Cisco tried to jack up the price on our WebEx renewal and Zoom was available at a fraction of the cost.
+
+It’s been mostly fine so far.  Retraining and transitioning our users was surprisingly drama-free.  The only recurring complaint is it doesn’t have the “call me”",
+107,149,107_unemployment_lawyer_contract_employment,"I quote them my contract rate. If they claim it’s work related, I point out having company data on a non-company machine is a firing offense. ","So you were fired for refusing violate the law? Talk to a lawyer, that may qualify as a whistleblower action in your state. That termination may have been illegal and that employer sounds like they need to be sued.","\+1000 for lawyering up.
+
+&#x200B;
+
+On a positive note, an engineer buddy of mine fought an unemployment dispute successfully. The people who arbitrate those cases are actually pretty reasonable, and seem to root for the underdog. Maybe that was just his case, but he was awarded full unemployment wi",
+130,148,130_gig_new gig_new_finding new,"I had a job like that I got fired from after 10 months, and it instantly got rid of my restless legs. I was like a long tailed cat in a room full of rocking chairs at my current gig for a while because of it, but I’m good now.
+","""fixing the problem"" requires one major thing - money. Go to your director of IT and recommend spending hundreds of thousands of dollars to ""fix"" a problem you can't even detail in a Reddit post. Good luck, let us know where you land your next gig.","> I've tried to stay mindful that it's only temporary and that being salty at work or performing poorly will only hurt me in the long run. 
+
+You're right, of course, but at the same time you shouldn't be over-performing for a company that's not compensating you for your work.  If they are refusing t",
+160,148,160_notice_weeks notice_weeks_notice period,">I assured her I'll do my best on Major Project and to complete everything I can during my notice.
+
+No. You leave. Let it go, it's not your circus or your monkeys anymore.","You can always change what you do but with that said, remember that IT is one of those things that ""You don't notice until they're gone"".  What you do is most likely appreciated and needed, even if most of the users don't notice or know.","In the UK.  Been doing it for just over 3 years so not very long in the grand scheme of things.  It suits me very well, getting paid twice as much as the permie next to me who does the same job.
+
+I'm work in central London where probably 90% of the IT contracts are, not sure I'd do it if I lived any",
+109,146,109_analyst_analysts_new hires_hires,"IMO, engineers and analyst are interchangeable. In both scenarios you're just an underling. Once you're a manager/director etc thats where it makes a difference.","I got A+ to get in the door with an IT Support role, then after a few years, I applied internally for a Jr Security Analyst position while studying for Sec+. Good luck","I have seen this in some. Regardless of the type of analyst and engineer. Usually this is due to soft skills. 
+
+I had an engineer that went back to analyst because he had bad time management. Smart dude, but got nothing done and needed someone to lay out all his work for him piece by piece. Our Scru",
+136,144,136_hr_change_legal_display,"I hoped the same for As/400.
+
+But now I'm sure it will be the one that will dance on MY grave.","Regardless of your company's size, you have a legal team. 
+
+Punt shit like this over the fence. All you should be doing is assisting legal as THEY draft the approved language that should be used for all of these.
+
+This ain't your problem.","Overwhelm them.  Its worked for me.  Just go fucking ham with information, even shit like IP addresses and names of machines you work on and with.  OD them with info.",
+111,142,111_ccna_cisco_exam_cheating,Are you renewing your CCNA for the same company? I could understand doing so for a new job but fuck that for the same place.,Do you wanna take my GICSP exam for me? I’m dying here 😂,The light at the end of the tunnel is an oncoming train. Get out of the way now !,
+154,141,154_siem_edr_sentinel_logs,Start doing role based task assesments. Like analysing and producing a report on a PCAP.  Or creating a custom ADX cluster as a mock SIEM. That's where you will see actual skills used.,Sounds like yall need to better tune your SIEM and EDR,A lot of places would like 2 years of experience at least so you can say you know a thing or two ... you can also get your security+ certification in the meantime if you don't have it. Since you're already a security/SIEM engineer you can probably study for a week or two and now you have an attracti,
+128,140,128_questions_asking_candidate_wireless,"Turning into? You mean ""always has been"".
+
+Of the probably 100+ PMs I've dealt with, *maybe* 2 of them were worth listening to, the rest just put up unnecessary roadblocks and halted processes until they understood the details, or introduced complications and workflow management styles (looking at y",WPA 3 introduced idiots like you who thought these were good interview questions,It's a business question.  Are your customers asking for it? Is it their expectation?,
+102,140,102_powershell_script_scripting_scripts,"\> Poorly written PS scripts that barely get the job done.
+
+Push it out completed and documented or not at all.  And learn to tell people no, you don't have the time.","I personally find powershell too wordy, but if you are a windows admin, there is no way around it.",Any tips on what you read/used for your PowerShell learning?,
+74,139,74_mssp_mssps_soc_work mssp,Sounds very familiar.  Id stick it out for a year then switch.  Are you by chance located in Indy?,They are a smaller MSSP but totally legit. They were a competitor when I was at a former job. I did interact with one of their sales guys and he seemed decent. Can't give you any real insight to them as to how good they are. Sorry.,"Consulting is one option.  EY, PWC, etc all hire straight from school and will help you get experience.  They also all have MSSP operations that you may be able to get work in if you’re willing to relocate to the city it’s based in.  
+
+Anything in IT is fine, help desk is often suggested because it ",
+157,133,157_reports_report_reporting_findings,"I’m under NDA for specifics, but the data science involved  in these products is janky AF as well.  Our Sr. data scientist actually got their team to admit their model purposefully applied techniques incorrectly.  The excuse was “there’s no other way to do it” - to which he replied “it’s wrong, you ",If you're spending 5 days doing report g then something is terribly wrong. That shit should be 90% automated.,"Look at plextrac, pentest.ws, ghostwriter. Hell even a word doc template for a report is simple enough. Reporting isn’t going anywhere. 
+
+For other deliverables, sometimes my company will provide checklists that serve to enhance or expand on what was tested. But a report is always still there",
+103,132,103_azure_ad_azure ad_365,"So yeah. You are not going to get a comprehensive technical plan in the time you have. You need help. Contact a local ISP and see if they can host your servers on their equipment for a monthly opex cost. I hope you like opex, because that's the world you're in now. Get O365 E3/M3 or higher because y","The bottom part of this post is an ad for a fictional snack: 
+
+#Doions
+
+*mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm*","Everything has pros and cons, you should have asked more info before you took the job. You can either go back or just give it more time. You may adapt to it ad times go by. You can only make the best decision for you in that situation.",
+139,129,139_vm_server_vmware_vms,"> The Hyper-V servers are monsters in itself. I break into a literal cold sweat having to bring all Virtual Machines down...
+
+If you have multiple Hyper-V servers, why aren't they in a failover cluster? You can live-migrate the VMs to the nodes not about to undergo maintenance and the users won't ev",I always install the GUI on a Hyper-V host in a non-production environment. Even after several years of maintaining a dual-server Hyper-V homelab I still end up remoting into the server for occasional tasks. It is very helpful to know you can always remote into the host GUI to get that one task done,"> I was asked what ""tool"" I would use to clone a system from a failing disk onto a new disc.
+
+Well, the answer is I probably wouldn't.  I would take the opportunity to reimage and build a new machine for the user.  If this was a ""workstation"" that was performing server tasks and couldn't be rebuilt,",
+91,128,91_cd_patient_hospital_usb,"This is not your problem. This is Risk Management’s problem.  Go talk to them about it. If you tell them there is a policy that is unnecessarily making air ambulances wait for 10 minutes on the pad and exposing the hospital to needless liability, they will change those policies, and people will list",Noooooo! I just ripped all my old CD's to MP3. Where can I put them?,"Oh setup Automounts? Sure! 
+
+Login as Root
+cd /
+
+mv * /dev/null
+
+Reboot the computer
+
+???
+
+Profit!
+
+
+Better yet!
+mv sysadmin /dev/null",
+132,127,132_lawyer_illegal_sue_signed,"There's a lawyer that says that he could've been a butcher instead.
+
+So, maybe try that?","I don’t know if it was already mentioned, you can ask in r/legaladvice",Just give them the info and let whoever replaces you destroy the place. ,
+137,127,137_acquiring_merger_company_acquired,I wrote a third-party integration for this piece of garbage some years ago. I cannot say enough bad things about it.,"This sounds eerily similar to situations I've been in when the C levels were preparing the company for acquisition.  
+
+While this might not mean your job is in jeopardy and you very well might make it out the other side unscathed... sustaining on dregs isn't fun and finding other employment is in yo","At my previous job we would transfer these guys around the team to various ""supervisors"" and ""people in charge of purchases"" then put them on hold for as long as possible. We had some of them on hold for the better part of 2 hours while we convinced him we had every intention of buying something.",
+106,122,106_keyboard_equipment_new keyboard_keyboards,"Even if this was a good idea... which it sounds like the IT equivalent of being shagged in the rear by an angry rhino's horn... why would you remove perfectly functional and current equipment? I mean, the infrastructure is there, and it's not like you're running 10/100Mb equipment; why remove?
+
+This","Simple, tell them that since they decided to get their own POS crap none of it is supported. You are happy to help them with anything involving equipment and environments that you provide but if they want to use stuff that you have not signed off on than they are on their own.","When I was helpdesk a few crazy older ladies would always complain about strange issues (mostly were keyboard related PEBKACs). Every now and again our encryption software would spit random error messages at you (these were XP days). Quite often, they would think it was me working in the background ",
+86,122,86_batteries_mouse_wireless_mice,"My policy on keyboards/mice/heasets is simple.  I never reuse them user to user.  I don't want anyone else's gross lunch drippings or earwax.  Monitors--if it's not a custom order then you get what you get.  I'm a one-man IT team, don't have time for polishing the silver.","Need a battery and you insist on IT providing it? Fine. Submit a low priority helpdesk ticket (high priority tickets will be reprioritized as low and sent to the back of the queue) and wait until someone has time to come and evaluate battery status and replace as necessary. 
+
+Submitting an emergency","I'm in the wonderful position where people want wireless mice. Except our IT manager doesn't allow us to order wireless mice, only complete sets.
+
+I'm now stuck with a box full of wireless keyboards that people have been leaving all over the place.",
+129,120,129_startup_startups_equity_product,I think your first step should be contacting a few large recruiting organizations. It also sounds like a startup might be perfect for you.,Do you leverage containers at all? We have very low cost hardened base images at VulnFree. Smaller orgs may qualify for startup pricing.,I’m a PM working on a big platform for a series D startup in the OT space. Best job I’ve ever had.,
+90,119,90_ransomware_attack_ransom_ransomware attack,"Seems like in most cases companies expect by putting a title to a person problem will be solve.
+
+cyber security is actually quite easy if you have been doing BCP and ITIL. There are many cybersecurity products out there. The unfortunate thing is cybersecurity is more towards process and documentatio","I used to handle it fine. Ransomware took it to another level though
+
+Just having perfect backups and lots of backup options cuts the anxiety down 75%.
+
+You can ask your company to pre-purchase some Microsoft support hours. We have endless hardware support but almost nothing for the software.
+
+You c","If you’re still feeling like your organization isn’t taking security seriously in today’s environment then it might be time to start looking. Some of these recent ransoms have made nearly everyone I talk to more aware of security, even people completely outside of our industry. Recently talked to a ",
+89,119,89_goat_farm_farmer_farming,"Running local Sharepoint farm without any prior knowledge. Also wasn't part of the project team before it came to the implementation. Sharepoint is kinda complicated, but it was a great learning experience.","Don't overdo it though, you might land an internal blacklists and will never do any business with us anymore.","Hear! Hear! Asking for 6-legged sheeps wearing 50 different hats with 15 years of experience, 10 useless bullshit certifications from extorting organisms to keep the company's platinum partners badge and the will to work extra hours and weekend if needed (+ other duties at the discretion of manageme",
+140,118,140_dns_records_hosting_domain,Disable AD and DNS for 4 hours and see how he reacts,I have sent 10 emails to about 12 people at AT&T just trying to figure out what our site ID is. No answer. So every two years when I need to have them make CNAME records for certificate validation they can never do it without the damn site ID. Oh and the customer facing DNS tool does not work proper,Check the email metadata and reverse DNS records for the MX.,
+124,112,124_smb_dhcp_server_file,"Use wireshark, snoop the traffic and see the smb transaction, probably see what's happening ","Any event logs on the file server stating why it wouldn't connect? Sounds more like it's a permissions issue, as opposed to SMB/MS, especially if using different creds worked.","Let me tell you a long story about a man. While reading, remember: at each step, people told him it was career suicide...
+
+Got his first job after his computer degree, a very well known retailer.
+
+After 9 months, he resigned to go cycling around Europe for 8 months.
+
+Came back and was offered a job ",
+101,112,101_aws_cloud_azure_aws azure,"What do you like doing or have an interest in doing? This isn't a question that you can ask somebody else to determine for you and requires self-reflection. There are many great paths out there, but if you don't actually know what you like/enjoy, you will probably continue to not have any direction ","Coming from 20yo IT experience in.  The market is brutal, I’ve seen salaries decrease.  As the another person said,  a degree in CS will carry you farther than a degree in cyber.
+
+I have experience in T-SQL,Windows,Linux,Python,Poweshell,Bash, CI/CD,K8s,Networking, Oracle, 
+
+Certified in Comptia A+,",Hey man a lot of good advice in these threads... but use this time to level up on cloud... start with AWS certs.. Cloud practitioner class Udemy + exam is under $85 and will take 2 weeks study.... and then you get 1/2 off voucher for aws architect associate exam. Then you can now say soc + cloud exp,
+113,111,113_commute_home_miles_hour,"I left a $70,000 + options job for one at 40k 
+
+The latter came with 13 weeks holiday and replaced 3 hours commuting per day with 20 minutes. ","I love my job, but I would like to transition into a work from home position, or at the very least a hybrid one. I currently commute an hour both ways to the office, and work from home is not an option for my position. I'm also the type of person that gets bored easily when stagnant, which kind of s","I'm a year into my first cyber position. Honestly the commute is the only thing I actively hate (an hour each way, on a road that should take 30 mins or less to drive). 
+
+I'm very grateful to have a relaxed position, light SOC-type work with ticketing for some proactive things (like making people up",
+78,110,78_adobe_uninstall_creative_license,"Just install CC on the new pc and login as the user and it should tell you you're already using that license on another pc and ask if you want to move it.
+
+But yes, I hate Adobe...","I live in the Netherlands.
+I've had to contact Adobe support two times now, and never have I spoken to a single person which had a name that resembled anything european.
+
+Not that's it's a bad thing that they are not european, but i've literally spoken to 4 representatives before finally getting a t","Was never happier than the day we dumped ReliaQuest & QRadar. 
+
+Rapid7 suite is so much better.",
+126,109,126_bug_bounty_bug bounty_bounties,"What about these people who get bug's on sites like H1 and make like 3-15k$ per 3 month's or so , do these type of people struggle to get jobs too?","bro im new to this and cant help with the job, but know i would kill to have a drop of your knowledge with that bug bounty exp. Do not let someone that can barely open their email diminish your own self worth. If thet dont hire you thats your loss. BUG BOUNTIES ARE A REAL JOB. do not let anyone tell","First, hiring's fucked, especially for people coming from nontraditional backgrounds. Really frustrated that this has been a struggle for you.
+
+Second, you've got a much larger ace than I think you think you do, but you're not playing it. Being a HackerOne/BugCrowd MVP and 'doing bug bounties' means",
+156,104,156_car_wash_car wash_tire,I exactly take my car to the mechanic and say something is wrong with my car.,"Asking you to do tire rotations and sell window tint after having hired you as ""head of IT"" is definitely way past this line in the sand that we all have. It's not the same for everyone, but I'm sure this is crossing the line for literally everyone here.
+
+Good luck on the interview!","""I work in IT so I would never have to rotate a tire or sell window tint. Thanks but no thanks.""
+
+Make sure you warn the next applicants by posting about them on Glassdoor.",
+164,103,164_water_hotel_hot_asshole,"I manage like 200 pbxes and a few call centers with multiple dialers, welcome to my life lol","When traveling there where a few things that would set me off like no other.  
+
+1) Airline loosing my tools
+
+2) Airline loosing my clothes
+
+3) No beer in the hotel or lack of nearby source
+
+4) No Internet
+
+5) No warm water
+
+Now the reason water is last because with enough beer all can be forgiven.  ","While unreasonable expectations and many many shortcomings by others can lead there.. your own attitude is something you own and shape.
+
+&#x200B;
+
+I know.. often I fall back into being an asshole.  Fortunately my better half is able to gently notify me when I am.",
+153,103,153_fires_dumpster_alarm_putting fires,"Ah yes. The weekly ""I'm so much smarter than everyone else"" post. ","Life is not tried, it is merely survived, if you're standing outside the fire. ","Be honest with your co-workers, this has happened to everyone.  Don't wait until you go to bed to set your alarm.  That is when you are the most tired.  Sincerely, Captain Hindsight.  LOL!",
+125,101,125_h1b_visa_sponsorship_companies,"What's the software? Curious what it does and how much it costs
+ You might find it cheaper to hire a developer to build a full replacement.","Don't know if internship can sponsor VISA, but that would be what I'd be looking for.
+
+It's very hard, almost impossible, for companies to hire entry level cybersec technical position with no prior tech experience.",That is crazy. Companies are just ruthless now. Just ruthless.,
+134,101,134_outsourcing_outsource_outsourced_company,"\>  Very expensive agile consultants were brought in to bring the project back on track   
+
+
+I'm sorry I can't stop laughing.
+
+&#x200B;","""IT sure costs a lot, lets cut it"" seen it time and again, and almost always it's akin to saying ""Brake pads sure cost a lot, lets just cut the lines"".
+
+There are a gargantuan array of IT teams that are ran poorly, be it a single point-of-failure in management, be it systemic cultural issues, be it ","> Then the leadership took the cash out.
+>
+> We have a new board of directors and a new equity partner and one of their strategies is to increase 'value' by any means possible. Cut bonuses, cut training, cut perks, cut vacation, and put a freeze on wages. 
+
+This smells like a classic pump and dump s",
+112,99,112_appsec_code_engineering_security,"Security Engineering has VERY little to do with development. You might be thinking of AppSec Engineering. While I do write software for internal use for my tiny team, it isn’t my main function and it’s more of a passion project.
+
+Your current function is more inline with some of the things I do.",I'm one of the founders at Ghost Security and I can tell you that it is real what is happening and not marketing hype.  Basically the fundamental truth is LLM's are trained on text with a training focus on code generation.  Because application source code and vulnerabilities are all text this makes ,"I am in the same boat. Looking for a different company or an internal offensive position such as AppSec, commonly referred to as application security engineer. How many man-days are allocated to your typical project? About 5 MD here, which I find ridiculous. The management is just same old boomer bu",
+147,94,147_excel_spreadsheet_folder_file,Have you considered moving into a project management role?  I bet you would excel there and the money can be really good.,"We put everything into a Google Doc and shared it to everyone with view-only access; any updates are reflected automatically, so no need to send the entire thing out quarterly like we did when it was stored as an Excel file.","I use ""Still"" a lot but never realised how annoying this can be. I will pay more attention to it.",
+162,90,162_bottle_drink_scotch_whiskey,"IT Doesn't Make Money.  
+
+I KNOW it doesn't. 
+
+Neither does alcohol, but you're forcing me to drink it to stay here.","Every time I read ""the feels"" I cringe and have the urge to jam a fork into my eye.","Bourbon, firearms and power tools.  However, don't mix any of them unless you want to be called something like ""Lefty"".",
+138,89,138_headphones_noise_hearing_cancelling,"Headphones. And when I’m on calls, I just talk really loud and people complain. Eventually our team got moved to another area lol","Work in the server room. Wear headphones of some kind if you can't stand the noise. You'll get less people walking by to interrupt you, fewer phonecalls and more work done.
+
+Seriously. I am an old retired fart and used to have to spend 50% of my day in the server room because remote consoles weren't","Been using computers since before UIs. It's not any harder. Really, the difference is cosmetic. The UI elements themselves are still largely the same with the difference mostly bring whether or not they have some 3D effect.
+
+Might as well complain that 3D text FX is better than flat text.
+
+Definitel",
+96,85,96_oracle_corporation_run_db,"little known fact about the future: the reason for the apocalypse was that Oracle's legal team created an AI that was designed to recover licensing dues using any means necessary, and they didn't give it safety limitations. while at the same time, Oracles licensing department created an AI designed ",Just don’t vote blue again because we’ll have no tech jobs anymore. Black hat and oracle and a data center in my city has lost 120+ jobs in my city alone. This isn’t good seems like a new trend. Tell me why we worked so hard to get degrees and certs just to be kicked to the curb.,Is this Opera and Micros? Good luck friend.... i gave up trying to figure that shit out years ago. Relevant flair.,
+165,83,165_kitchen_dishes_clean_cleaning,"I've actually suggested we do this. It was only half in-jest.
+
+Our company can't (or doesn't want to) hire somebody that walks around the office all day and cleans up after everybody (some people sometimes seem to forget to flush or clean properly afterwards). 
+Some seem unable to operate a dish-was","In my experience the people that trash this and that are the “well ackchyually…” people that don’t have much positive to say about anything but think they know everything. 
+
+The path you choose should be what fits in your budget and your schedule.","Hey, it one thing if he said only you wash the dishes. But he dividing it throughout the company. He encouraging everyone to keep the place clean and take pride in the company.
+
+Now if my boss came to me and said you need to clean the office everyday and only you do it, that when I either walk right",
+152,81,152_certifications_cybersec_cert_certs,A person can only hold so much knowledge. This is almost always proven true the higher you go. ,"in IT it is usually Experience, Certifications, Degrees. In that order. The program director lies.","I feel like certifications just ruin the cyber job market even more than it already is. 
+
+Someone who is trying to obtain certs but doesn't get paid enough to afford them AND can't move jobs to get paid more because he doesn't have certs. That's just a messed up situation.  I know because I am that ",
+120,77,120_burnout_cybersec_cyber_burn,"I agree it depends on the company and the culture, I was previously in a international company it just really sucked the life out of me being in their cyber security group. I’m in a much smaller company now and I can’t be any happier, one skill everyone needs to learn his time management, once you m","Your burnout is likely due to your job role or company. The nice thing about cyber is it has so many options. You should look for a different company or role first. A job is a job, and 99% of them will have undesirable tasks. At least cyber pays more and can give a sense of purpose. Unless, you have",As a person with over 30 years in cyber (started 1990) I can tell you it's about the time that professionals have to spend on reddit. I just really don't have the time to respond to all the people I want to or need it. Most cyber professionals don't. Burnout is at an all time high as too many compan,
+149,76,149_iso_27001_iso 27001_soc2,"I always recommend a flat fee for projects, because clients can budget for it. Work extra hard to fine-tune the work sessions and deliverables, and the flat fee will become more profitable than performing at an hourly rate.
+
+The biggest niche I'm seeing in cyber right now is industry-specific operat","I find that European customers tend to ask whether an organization holds an ISO certificate as they have a preference for those standards (I was with a company and held a SOC2 but their EU sales didn't pick up until they held some ISO certifications).
+
+If there is not industry requirement to hold an","There are those people who chase certs for certs sake. Over the years I have known a few.
+
+Of course, it used to be that there weren't that many around. When I started in the early 70s,there was the CDP, CCP, CIA, and a few others. Got my CCP and CDP, but no one knows what they are any more it seems",
+150,75,150_cfo_pay half_half_business just,so u wanted some kind of holliwood hacker job or so and got slapped by reality 😂,"> ""Pay them half. They want to do business just like we do.""
+
+Yeah, and they can't stay in business if people keep paying half. Their profit margin is not greater than fifty percent, jackass. That's why they will eventually stop doing business with you and just send your debt to collections, because","It also happens in IT. Years (and year and years) ago I was supporting my exec team once to find my replacement and the CEO was set on one candidate because he had a home lab running, and did this and that with IT outside of hours - where as the better candidate was the one I wanted to go with (you ",
+151,73,151_mfa_token_access_conditional access,"A lot of companies will look for high-level boxes they can tick, often comparing to organisations of a similar size. i.e. when their CEO buddy mentions MFA, they'll implement MFA. Another one is cyber insurance. What they *should* do is find the person who knows the most about cyber security in the ",MFA is absolutely essential. I think you’ll be fine from now on.,"Do you have EDR/XDR watching your logins? If so, it must have some rules turned off. I don’t like seeing MFA theft, but it is the world we live in, and I’ve seen Defender essentially block the user after it sees activity like a strange IP hit, IF it sees that followed up with Exchange inbox rules be",
+145,68,145_adhd_diagnosed_meds_medication,"Thanks for posting this.  On a related note, how do ADHD sufferers find it impacts their ability to study?  It is a constant battle for me on the work front, but as written elsewhere IT is probably one of the few professions where there is always so much happening on so many fronts that it is possib","Ex forces who got diagnosed with ADHD when I left and started in cyber security here, the team you're in can 100% affect your focus and drive. Moving around helps for about the first 6 months when it's new and exciting, but being with a high performing team helps maintain that excitement. People who","""I have an IQ of 130""
+
+How and where did you measure your IQ?",
+155,67,155_sccm_sequence_intune_task,"With 25,000 endpoints, I would start looking to Microsoft SCCM. Surely you can afford it.","I’ve stopped building golden images and started simply using the ""install.wim"" off the Windows ISO, only with unneeded indexes removed and this month's updates added via SCCM Offline Servicing. All other customization is done during the task sequence, such as removing apps and adding a custom start ","I did something like this as well, with way less computers though. The CTRL+ALT+DELETE from AD and SCCM felt so good.",
+148,67,148_voip_hosted_phones_asterisk,A Freepbx system with a FXO card and some Polycom VVX 401 phones would be a nice combination.  The 401's also have a switch port if you don't have enough available network jacks where each phone would go.  Basic linux skills and some time playing around with asterisk/freepbx would allow you to roll ,"We moved from an in-house Asterisk/SIP trunk system to a hosted service (which is Asterisk-based).
+
+We've had more outages since moving (which has been 3 or 4 months) than with the old system (which was in place for something like 6 or 7 years).
+
+People tell me the phones are down, and I just laugh ","What kind of VOIP adapter are you using?
+
+You can usually adjust the way it handles ""off-hook"":
+http://www.dslreports.com/forum/r29319167-off-hook-alert-voip",
+143,62,143_nursing_nurse_hospital_nurses,"I see you mentioned considering nursing.  For nursing to NOT  feel like it’s melting your bones, going into a niche field is the way to go. I’ve been a nurse for 30 years, BSN, now Masters Degree hospice NP. Bedside nursing can be very fatiguing and stressful. If you do consider nursing, get 2-3 yea","My boss is currently copy/pasting questions and answers into a spreadsheet for one of our nurse managers so she can run a Jeopardy game.
+
+--EDIT--
+
+He also 2 iPads open side by side streaming the World Cup while doing this.","I knew a brilliant woman who did something very similar. No military service (she married an AD guy), but completed nursing school, ran that game for a while before burning out. Then pivoted to cybersecurity and she's doing very well for herself in the private sector.
+
+As far as I can tell, if you h",
+163,60,163_tape_tapes_disk_library,"I worked Forensics for a bit for a state crime lab. Like others say expect exposure to the darkest side of humanity , underfunded labs making due with as few people as possible, tons of red tape for EVERY little thing you do. Plus most if not all crime labs have college coursework requirements; I fo","""How do I email my old hard disk to my new hard disk computer?""
+
+Please update this thread!!!","Yer gonna need to learn the beast that is Dalet (last I heard, ABC is rolling out Galaxy to all their plants).  Remember that everything is almost always a file on a computer rather than a tape, so there'll be transcoding servers, asset management servers, playout servers, playout systems.  Usually ",
+142,55,142_bitlocker_key_keys_recovery,"I know this is an old post but I can get you bitlocker setup, manageable from the web, with an MSI deployment via group policy. ","Remote user “I used it once 5 months ago, what’s this trust relationship thing when I try to login.” Also, “What’s my bitlocker?”","I've remotely pushed Elitebook 850 G2s, G3s, G4s, EliteDesk 800 G1s, G2s, & G3s without issue or any jankyness to Bitlockered computers. The most I've ever had to do is script the install to disable Bitlocker beforehand, but generally, new HP BIOS updates include a flag to disable Bitlocker automati",
+141,47,141_ipv6_ipv4_64_addresses,"I will never.... eeeeeever recommend IPv6. If an organization gets big enough that IPv6 is necessary, that is my queue to look for another, smaller organization to work for.","If you really want to get to know IPv6, check out Hurricane Electric's free certification.  www.he.net","I'm not surprised. Two years ago when I was trying to utilize a /48 assigned by CenturyLink (we didn't have our own ASN), they didn't know how to configure their interfaces, assign the prefix, or properly route the traffic. I thought it was just an off-day for whomever was doing the provisioning, un",
+-1,3,-1_parting_si_sing_,"Prestať to brať tak vážne a dovoliť si aj oddych, aj keď vzadu v hlave bolo stále to, že musím pracovať.","S U B S C R I B E
+
+U
+
+B
+
+S
+
+C
+
+R
+
+I
+
+B
+
+E",A dolly parting D-I-V-O-R-C-E sing-a-gram? ,

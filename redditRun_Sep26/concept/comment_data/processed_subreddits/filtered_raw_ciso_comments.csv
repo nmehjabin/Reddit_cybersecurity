@@ -1,0 +1,704 @@
+id,author,body,created_utc,score,link_id,parent_id,permalink,subreddit,post_id
+jh1pbzz,cmart2112,Latter.,1682016235,7,t3_12t87xb,t3_12t87xb,/r/ciso/comments/12t87xb/am_i_the_only_one/jh1pbzz/,ciso,12t87xb
+jh2c7ky,EnvoyCorps,"We had a client provide us with their pen test 'report'.
+Two page word doc. No detail of the work carried out whatsoever. 
+The second page was the bill, $100k+, WTAF.",1682025235,3,t3_12t87xb,t3_12t87xb,/r/ciso/comments/12t87xb/am_i_the_only_one/jh2c7ky/,ciso,12t87xb
+jh3i0pd,john_with_a_camera,"When I ran my services firm, I'd have been ashamed of a 7-issue report. I'm actually thinking of asking the team to hold the pen test credentials up a bit longer, clearing my day, and doing my own test 
+
+It just can't be true that the CISO has to do everything around here, can it?
+
+FYI this is the second time this vendor produced a report like this.  They asked for a second chance to show they could do better  Fool me once...",1682044396,1,t3_12t87xb,t3_12t87xb,/r/ciso/comments/12t87xb/am_i_the_only_one/jh3i0pd/,ciso,12t87xb
+jh42gyy,Sawell,"Owner of a software company and co-founder of a startup cyber security platform here, might be able to shed some light on one possible common reason for this. We often get the same puzzled response of 'is that it?', I would say the answer is no, that's not it at all, but so many web applications now run entirely client-side that pen testers are failing to accurately test the stack and opting instead for OWASP-then-not-much-else.   
+
+
+Burpsuite etc has made everyone who doesn't know full stack development feel far too confident in their own range of pen testing that everyone's spending their time making the reports look nice rather than doing the job. This is only anecdotal so take it with a pinch of salt but my advice would be to go for dark grey/black box pen testing. Those guys tend to be more like you and I and do it for the passion rather than so much of the market who seem to have got in it for the money.  
+
+
+P.s. the same has happened as above in the development market, developers with a security mindset are unicorns and the market is full of 'serverless' developers who are horrifyingly ignorant of even fundamentals in infosec.",1682056446,3,t3_12t87xb,t3_12t87xb,/r/ciso/comments/12t87xb/am_i_the_only_one/jh42gyy/,ciso,12t87xb
+jh818r6,DrGrinch,"Current CISO of publicly traded company, spent 7 years running a pen testing company. Most non-boutique companies offering penetration tests are dog shit. We own the company I used to run now and I only use them for testing. Most other companies are offering glorified vulnerability scans",1682129041,1,t3_12t87xb,t3_12t87xb,/r/ciso/comments/12t87xb/am_i_the_only_one/jh818r6/,ciso,12t87xb
+lhla34q,UntrustedProcess,Have you already communicated these concerns to the CEO using the words you used here?,1723385491,3,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhla34q/,ciso,1epl8ed
+lhlb6h8,lifeisaparody,Curious who you report to?,1723385904,2,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhlb6h8/,ciso,1epl8ed
+lhlhpxu,chrisa85147,"If you're not fully settled on resigning and hold a glimmer of hope for things changing and retaining your position, I'd advise the below:
+
+Don't ramble or rant. Discuss your concerns in general during the meeting, ensuring they understand the gravity. Tell the CEO you will share a detailed, written summary of the issues and possible consequences/business impacts via email as soon as your meeting is over. Finish your email with proposing a follow-up meeting for Thursday.
+
+After Thursdays follow-up, one way or another, you'll go into Friday morning with clarity,  ready to resign or continue in your role. Next weekend will be much better for you once you've made a definitive choice 👍
+
+Good luck.",1723388255,1,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhlhpxu/,ciso,1epl8ed
+lhlj34x,burtvader,"I spent time writing a macro in excel that opened a command prompt with a red background and white text, saying “thank you for agreeing to encrypt your files, ring this number with bitcoin to release them.” And included a 0 to 100% bar that crept higher ever so slowly.
+
+Sent the excel file to a few idiots up the tree from a domain squatting domain I bought and enjoyed the fallout.
+
+These days the file is detected by exploit detection in edr but at the time it was glorious.",1723388728,1,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhlj34x/,ciso,1epl8ed
+lhlnbus,Reveal_Nothing,"If you report directly to the CEO, you're in a better position to affect change than 80% of CISOs.  Resigning before having a SERIES (not just one lunch meeting) of discussions and collaborations with your boss is foolish.
+
+  
+The degree to which an organization takes security seriously is a function of tone at the top.  You need the CEO to help you message out to the company that cyber risk is business risk and, as such, it will be attended to.  That's not just a one-time email from him/her to their deputies, though.  It's references in all-hands meetings, it's appropriate budget allocation and headcount, it's incorporating security objectives into the performance plans of their directs, etc.
+
+  
+Come up with a list of reasonable, strategic (not tactical) changes you'd like to see along with a timeline for those changes.  Present it to your boss and see what they say.  If they blow you off, either start looking or figure out how you maximize your positioning for your exit.  But don't act rashly.  You're at the top of the pyramid and those positions don't come easily even though it sounds like you reached that position quickly.  Throwing out the baby with the bathwater is not the move to make.
+
+  
+Last thought.  Being renamed to CISO should be on your list.  Having a C-level title is a ""free"" change for the org that helps emphasize the importance of cyber to the rest of the company.  As importantly, it resonates FAR better with recruiters and hiring managers when you're looking for that next CISO-like gig.",1723390166,19,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhlnbus/,ciso,1epl8ed
+lhlsj3r,SecAdmin-1125,Hmmmm sounds eerily familiar. Wonder if you work for the same company I used to work for. I ended up resigning for the same reasons.,1723391914,1,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhlsj3r/,ciso,1epl8ed
+lhm3by4,craa141,"Being a CISO is about managing the risk.  That may mean closing security holes or may mean readiness in case you are compromised.  It is also literally your job to educate the business on the risks and to try to affect change. If you are running into trouble articulating that speak to other CISO’s.  The community is very helpful and willing to share best practices and tools that may be used to improve security for all or to help you communicate within the business.  
+
+Take ownership of Cybersecurity instead of saying they are not your fault and manage them to the best ability you have given the resources you have.  If you want to talk PM me or reach out to any of the CISO groups on LinkedIn.  I think you will be surprised how willing people are to talk through issues and help and frankly it helps us to discuss them.",1723395593,3,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhm3by4/,ciso,1epl8ed
+lhtzn03,Madachode,"Take a break or you’ll get divorced or fired, lose your mind or all of the above.  Find an older mentor to talk to or see a therapist",1723507794,2,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhtzn03/,ciso,1epl8ed
+lhy5e56,_johnbradbury,"It can be frustrating but take some comfort in knowing that this isn’t about you, and it’s not personal. The other involved parties and stakeholders have their own objectives and goals which they need to prioritise. 
+
+If you want to get things done then you need to be able to influence those stakeholders and put them squarely in your corner. Try looking at things slightly differently, where do your objectives meet, how can you help each other?
+
+Consider talking to the CEO about making some of the information security programme objectives shared across the delivery teams.
+
+Regular face time with the CEO is going to be important.",1723572946,2,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/lhy5e56/,ciso,1epl8ed
+li2dzdu,Ok-Werewolf-3765,"Do you utilise any frameworks like iso27001? You can use these to bolster your security maturity, manage risk, increase accountability across the business and if you get certified show improvement to the business as well as possibly increasing profitability if it makes it easier to sell to clients. Security is a business concern, your job is to advise the business accordingly of risks where they occur and how to counter them. You can utilise tools of varying quality and expense to reduce risk. Also speak to the ceo about the risk tolerance of the business. Use business continuity and disaster recovery to highlight where problems could occur and how much they could cost the business. Financial impact based on probability should set the tone for your budget to increase security maturity. Not to forget if you’ve raised risk and not been given the budget to mitigate then it’s out of your control. When the poo hits the fan you can say I told you so, now give me some budget so it doesn’t happen again",1723639902,1,t3_1epl8ed,t3_1epl8ed,/r/ciso/comments/1epl8ed/advice_for_head_of_infosec/li2dzdu/,ciso,1epl8ed
+lm0hrvx,UntrustedProcess,Where is the org were the CTO and CISO doesn't butt heads?  The metrics they are judged with are diametrically opposed.,1725743207,1,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0hrvx/,ciso,1fbh2gy
+lm0knqj,theguru86,"Not crazy. You’re recognizing the drawbacks of large org politics.
+
+Congratulations on the new opportunity. I would certainly meet with their Senior leadership before accepting any position. Make sure your goals are aligned. Etc.",1725744222,1,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0knqj/,ciso,1fbh2gy
+lm0qnsm,E_Sini,"Just ensure you're not trading in one set of frustrating problems for another. I've been th3 Head of Security at a startup (less than 75 people when I started) and it was amazing. However there was a lot of trial by fire even with experience as you're starting to implement everything fresh. There will always be some problems that frustrate you, but if you're happy more often than not, it's worth staying (or making the jump).",1725746368,3,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0qnsm/,ciso,1fbh2gy
+lm0rlwq,zlewis1089,"I moved into a role at a medium sized org as both CISO and CIO. It's been great. Budget control and Project decisions all flow thru me. No head butting, at least in IT and Sec. CFO, COO, and general counsel are all strong allies.",1725746720,7,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0rlwq/,ciso,1fbh2gy
+lm0t8qb,john_with_a_camera,"I have learned (and too frequently ignored) one thing, and that's this: never leave a job. Always take a better role. When you are searching, always ask if this is better (and better at our level is rarely defined as scope, compensation, or prestige). If I decide to move on from an unhealthy role, that's where the challenge is - it's critical to make sure you are moving to a good thing, not leaving a bad thing.
+
+Having said that, owning security and IT seems like a really interesting opportunity. What a case study! ""In this talk, Pat shows what can happen when IT and Security are aligned -- watch as company goals are met AND security improves at the same time""",1725747312,5,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0t8qb/,ciso,1fbh2gy
+lm0xzkg,j_mcc99,"In my experience , CTO’s are focused on service delivery which is often times in conflict with security. You probably already know all this.",1725749067,7,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm0xzkg/,ciso,1fbh2gy
+lm13cm0,evil-vp-of-it,"I’m actually in a similar role, and the internal push and pull is tough. Small org people wise with a lot of varied tech, and security is paramount (critical infrastructure). My instinct is to default to security, but sometimes I have to remember the rest of my responsibilities include bullshit like “customer satisfaction” and sql and other such bullshit I don’t care about.",1725751055,0,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm13cm0/,ciso,1fbh2gy
+lm18ota,severinoscopy,"I've found that a lot of my grand ideas are at odds with the pragmatism of the CTO and, in fact, are detrimental to the business while being exactly what our security posture needs.  
+
+I think, for your opportunity, it'll be crucial the wear that second hat effectively by accepting losses where it's important for the business to succeed.",1725753085,2,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm18ota/,ciso,1fbh2gy
+lm3rct0,dalethedonkey,You failed to mention the salaries/delta in salary. That’s going to be a factor for most people,1725798854,2,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm3rct0/,ciso,1fbh2gy
+lm9i50g,PanchoLaRue,"Head of IT Security and IT Operations (regardless of title) seems to be more common, especially in finance/insurance space.
+
+Not sure if that’s a good thing or not, but definitely seems to be a thing.",1725883034,2,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lm9i50g/,ciso,1fbh2gy
+lqru8py,Obvious-Past-2216,"You are not. What you're looking for non-bureaucratic system that provides you steering capabilities. I moved from 20+ years to building my own.
+
+Thank you for considering small organisations. They come with lot of responsibilities like you rightly assessed.
+
+We are working in the space you invested your career in. [https://bluegennx.ai](https://bluegennx.ai) - if this sounds interesting to you, I'd love to chat over DM. 
+
+My DMs are open, feel free to ping.",1728307290,1,t3_1fbh2gy,t3_1fbh2gy,/r/ciso/comments/1fbh2gy/time_for_a_change/lqru8py/,ciso,1fbh2gy
+mox9u4p,RadlEonk,"Burnout is common. Nothing wrong with finding an exit strategy. I’m doing OK, but not retire early money.
+
+Encourage you to find boundaries and define enough. Give realistic deadlines that won’t kill you. “‘No’ is a complete sentence” is one of my favorite Internet lines I picked up.",1745559443,3,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mox9u4p/,ciso,1k7d8py
+moxj7ft,Statically,"I’m currently transitioning to CIO since the start of the year at my current place, while also still doing CISO high level exec duties and elevating my Cyber #2 to be the day to day lead. 
+
+I found that the burnout and stress grew as I was only focusing on cyber every day and not being able to enact change, and cyber becoming more of an after thought in this economy. This new wider role means something is always progressing, which gives me the dopamine hit I’ve been sorely missing professionally for many years.
+
+Grind is still there, but I’ve realised I’m done with a pure CISO role.",1745564760,2,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moxj7ft/,ciso,1k7d8py
+moxpmyy,kranj7,"I left Cyber (as a career) to start a commodity import/export trading business.  Money is less stable, but I enjoy it more.  But import/export trading - especially when dealing with raw materials is largely a risk management business and so skills from cyber can most definitely be transferrable.  The only hitch as I said is that the money is inconsistent and margins are very thin when you do trade.
+
+I still do some on-going CISO consulting despite my heart not really being into it though. But at least my former side hustle is my main gig now and my former cyber career is now my side hustle.  But I don't think I can sustain this as there's a lot of cultural and corporate shifts going on, influencing spending practices on IT, increased uptake in AI etc.  So it's essentially a take-the-money-while-you can thing for me at this point.  I somehow am not too optimistic about the future of IT and Infosec Pros.  I mean if you're young, then sure, stick with it as there's still opportunity.  But if you're say in your 40s or 50s where you're too expensive for an employer and too young to qualify for retirement, then try and get out and pivot into something else, if you can.  The longer you linger, the harder it will be when the shit hits the fan.  
+
+Sometimes I think about starting some sort of service to help CISOs and other Infosec pros who want to leave the sector altogether, but not really sure exactly what kind of service I could provide.  But once I have a better idea, I'll be sure to share it!",1745568745,4,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moxpmyy/,ciso,1k7d8py
+moxshw8,TickleMyBurger,"Right there with you! Getting shafted into a small C CISO role and weighing my options; stick it out at current gig (pay is exceptional and not finding that now in this economy) or jump to a new role somewhere else.
+
+I’m at the same spot as you - neither option is appealing so now what? I guess I ride this out with the good money until I get a package of the economy tanks (more) - but I’ve got probably 7-8 years I need to keep working before retirement could be considered financially.
+
+I’m going to try and play more golf this summer, but whatever your hobby make sure you still do it and get away from the desk/phone - it’s an endless pit of thankless work.",1745570584,3,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moxshw8/,ciso,1k7d8py
+moy06gz,ManBearCave,"I am literally exactly in the same spot with the same track. 35 years in, a CISO, 3 years to retirement, and fried. My side gig for years was wedding photography but the day job got in the way of that so I’ll go back at retirement (that’s a high paying side job that’s fun).
+
+I haven’t cracked the code and don’t think it’s possible however getting an EA helped a lot, she acts like a wall for a lot of the bullshit (mostly the constant barrage of meeting requests). That said, due to cost cutting, I’m going to lose my EA this year so I need to exit
+
+DM me and I’ll fill you in on my high paying (lower stress) exit plan.",1745575307,4,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moy06gz/,ciso,1k7d8py
+moybjd2,mindful_island,"Take a smaller role. Say no to things, turn off the computer at 5pm religiously. Set boundaries. Seek smaller companies that respect boundaries. Be realistic that you can't save the world or force everyone to do everything right. It's a slow evolution for society and business leaders to learn.
+
+I've worked in IT and cyber around 25 years. I work 8 hours per day and i separate work and play.
+
+I left CISO track to go back to principal engineer and IC roles. Way less pressure and money is similar on lower end of CISO. I also left a massive company (hundreds of thousands of employees) to work at a small company (500)
+
+I go into work refreshed which keeps my curiosity, patience and drive higher.
+
+Avoiding burn out is about maintaining some autonomy, balancing in some non-work play and learning to focus on doing what you can do expertly. You can't hinge your happiness on others doing what you want them to do.",1745581015,4,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moybjd2/,ciso,1k7d8py
+moyichb,MXH_D,"I’m at director level and I’m feeling the same way. I’m 46 so have a few more years ahead of me, but I certainly won’t stay in Cyber at this level until retirement. Not worth it.",1745583781,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moyichb/,ciso,1k7d8py
+moyocf8,duhbiap,"Had to check the username.  Thought OP was me.  Same boat dude. Keep us posted.
+
+I’ve been thinking about doing Sales Engineer roles for big EDR company.  Another thought is Cyber Architect.  Another is just saying fuck it (but I gotta a family to care for).",1745585973,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moyocf8/,ciso,1k7d8py
+moyphe6,john_with_a_camera,"Sad that so many people feel the same way. I am going to explore the IC side of things-maybe going back to consulting is the right approach. I just need whoever hired me to know I'm not killing myself for them.
+
+Problem is, with the current economy everyone's work is slow and there are loads of people in the bench. I have a massive project under way right now, which I've been doing solo. I'm bringing in some help to share that load, which will buy me some time.
+
+There's a problem when an entire job role is like this and everyone burns out. I honestly think the happiest (maybe not the best, but the happiest) CISOs are those who enter from non technical backgrounds. Their employers understand, they need a team behind them. With me, they know I can handle the incidents, mentor the devs, review the reports, etc.
+
+BTW I work in PE and I am one single man driving security across our portfolio. We have enough companies that I could meet one each day and not finish in a year. 
+
+More and more I don't understand why I thought this would be a healthy challenge... Last night I realized what one other has said: ""No"" is the most important word right now.
+
+Thank you all for your insight!",1745586370,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moyphe6/,ciso,1k7d8py
+moysmel,rlt0w,"Or just ride it out for three years and retire. I'm almost 40 and with no prospects of retiring until 65 at this point. Count yourself lucky that you can retire before 40. Many of us will never have that luxury. 
+
+I've been a consultant for 10 years and I'm damn near burnt out, but I have no business acumen and will likely never rise to the ranks you've achieved.",1745587442,2,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/moysmel/,ciso,1k7d8py
+mp1fv9d,Due_Pop_5117,"Are there aspects of being a CISO that you enjoy? Specific job duties that you do…If so, lean on that as a career change or possible growing a business that specializes in that.",1745615819,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mp1fv9d/,ciso,1k7d8py
+mp1zec4,john_with_a_camera,"Yah. I serve a bunch of small and mid size businesses and love that consulting aspect. It's the day to day admin stuff that's just killing me, plus the constant battles for finances.",1745622341,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mp1zec4/,ciso,1k7d8py
+mp1zgor,john_with_a_camera,"Yah that's been the goal, but this week has been so bad that I'm ready to just walk.",1745622363,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mp1zgor/,ciso,1k7d8py
+mp2jq26,inteller,"It's ok, we are firing you next week so it'll be easy",1745629388,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mp2jq26/,ciso,1k7d8py
+mp3njzj,john_with_a_camera,"Hah! Gotta wait till that big project is over the line, first...",1745645564,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mp3njzj/,ciso,1k7d8py
+mpggqo9,Just_Conflict5718,"I would suggest taking a sabbatical.  Just take 6 months off... go and stack shelves in the supermarket or if you can afford it take 6 months off... write a book, or do a PhD.  Or just take photographs.",1745833546,1,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mpggqo9/,ciso,1k7d8py
+mqs35sz,SheOwnsRoot,"For me, burnout has been linked to either a new boss that doesn’t inspire me or some other cultural change that causes the organization’s mission (or how that mission is pursued) to no longer resonate with me. In those moments, I’ve left and a new start elsewhere got my mojo back. It’s hard to leave a role that makes logical sense. It’s worse to stay in that role. Rooting for you!",1746481086,2,t3_1k7d8py,t3_1k7d8py,/r/ciso/comments/1k7d8py/burnout_how_to_leave_cyber_security_entirely/mqs35sz/,ciso,1k7d8py
+nakc81s,JImagined,DM and we can connect. I think I can help you.,1756120455,-2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakc81s/,ciso,1mzmorn
+nakf9ha,elder_o_the_internet,"I would recommend formalising accountability with a RACI matrix covering all major security domains. Share it as a risk management artefact to provide clear accountability. Leverage the fact that you are outside of IT to enable reporting on the status and effectiveness of the organisation’s information security controls to a risk committee. It’s not about calling out IT, it’s about good governance.
+
+You may find that this leads to an effective control environment, or a shift in responsibility that needs to be supported with the allocation, or reallocation, of appropriate resourcing to enable you to execute and achieve an effective control environment.
+
+I hope this helps!",1756121832,19,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakf9ha/,ciso,1mzmorn
+nakg9du,KerberosDog,"Is a table-top exercise something that could happen in your org? They sometimes sound silly - but once leaders are forced to roll play in their own processes (the it manager), it is often revealing. Assuming some “aha moments” - you might parlay the experience into a budget for some contractors at the minimum.",1756122271,10,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakg9du/,ciso,1mzmorn
+nakhqta,Thin-Parfait4539,Do you have access to Gartner or Forrester?,1756122892,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakhqta/,ciso,1mzmorn
+nakoxds,rainbowpikminsquad,Do you have a Risk function?  They can be useful allies in defining risk ownership vs control ownership.,1756125715,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakoxds/,ciso,1mzmorn
+nakzfx5,severinoscopy,"This setup is strange to me for multiple reasons. 
+
+IT's job is to deploy and manage systems and endpoints for the company. Security is very much a secondary priority and will lose out to the primary. 
+
+So why they employ security staff and want to claim surface-level responsibility here is confusing to me. 
+
+If you weren't in the picture and this setup needed to remain, I'd say they should hire a security manager to handle the security branch of IT. However, you're here and have an executive level, yet aren't equipped to make meaningful change. How is your reporting duties valuable enough for the high position and salary while another team has the headcount for it? 
+
+My suggestion is to convince the CEO to move the security staff under you, then you and IT review point by point which aspects of compliance fall under them. If the CEO disagrees, then leave. Your future will be more of the same as what you've already seen; ineffective traction, puling-ponging, and a lack of resources.",1756129391,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nakzfx5/,ciso,1mzmorn
+nal0q8d,InterestingMedium500,"Sorry for being honesty, but if you don't have a security team, you're not a CISO, just to fulfill a function. However, if you have these responsibilities in fact, you should talk with senior management and explain the risks involved in the company's current organizational structure and propose the necessary adjustments.",1756129818,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nal0q8d/,ciso,1mzmorn
+nalm672,quantumhardline,"I'd use 3rd party for cybersecurity.
+Then hire someone internal to work as CSO and IT",1756136369,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nalm672/,ciso,1mzmorn
+nalrc77,Leauian,"It sounds like you’re trying to push security from the bottom up, it’s needs to be pushed top down front the CEO/board of directors. I have seen this over and over again and it doesn’t work well and will bit YOU in the ass whenever a security event comes up. 
+
+There should be a unified security policy that is pushed from the top that is aligned with business goals. I’d recommend doing this in conjunction with a some sort of compliance framework, and you may need a consultant to come in a help implement and be the “bad guy” if you don’t have enough political pull with your CEO. 
+
+If your company can’t do this then you should look for another job because when a security event happens you will get fired for something you don’t have control over.",1756137875,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nalrc77/,ciso,1mzmorn
+nalwlpd,hyperproof,"This sounds like a textbook case of what I've seen called an ""authority-responsibility mismatch"" - basically, you're on the hook for security outcomes but don't have the organizational muscle to actually drive them.
+
+I've noticed this pattern a lot where CISOs report up through IT, and it creates these weird conflicts. IT folks are naturally focused on keeping things running smoothly and controlling costs, while security sometimes needs to say ""hey, we need to shut this down"" or ""we need to spend more money on this thing that might never happen."" Those priorities just don't align well.
+
+What you're describing with the shifting definition of ""IT security"" sounds super frustrating. From what I've seen, a lot of organizations struggle with clearly defining who owns what in security - it's surprisingly common for roles and responsibilities to be fuzzy or completely undocumented.
+
+The thing is, when security reports into a technology department, it often gets treated as just another operational function rather than something that needs to influence company-wide decisions. For a multinational company, that's especially problematic because you're dealing with different regulations and threat landscapes across jurisdictions.
+
+With all the regulatory focus on cybersecurity accountability these days, being in that position seems like it would create some serious professional risk.",1756139433,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nalwlpd/,ciso,1mzmorn
+nalxc7z,nagdamnit,"If you ask me you shouldnt be messing around with operational security stuff really. You are a CISO. You need to be conversing with management about Strategy and Risk. 
+
+I think you need to just adopt a Control Framework you like, assess your company against those requirements, agree on improvement plans to fill the gaps, and ownership of those improvements (thats your responsibility issues sorted right there). 
+
+Outside of that if you are more comfortable, speak about the risks facing the business. Using Risk as your language of choice will allow you to publicly assess ITs ability to successfully mitigate the elements they own (you are outside of IT, thats why) and begin to apply direction of effort through Risk Mitigation rather than IT picking where they want to spend their resources. Again, ownship of the controls is assigned via Risk Management so thats the responsibility issue sorted right there. 
+
+You SHOULD however be heavily involved in Incident management.",1756139653,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nalxc7z/,ciso,1mzmorn
+naly70r,stopthinking60,If you are the CISO with a different reporting line then your first responsibility is to define the lines. Send a clear plan with steps and requirements to the management. Otherwise start looking for a new job,1756139908,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/naly70r/,ciso,1mzmorn
+nam1oma,davidschroth,"What compliance requirements does your company have? Do you go through audits (ISO/SOC/regulatory/etc.) or is it more wild west? It gets a lot harder to convince management if you don't have the ""threat"" of an audit failure.
+
+This also isn't an issue of whether IT will do the needful for you or not, it sounds more like the folks above you on the food chain have not clearly identified security as a priority. If IT doesn't have have enough staff to do your needfuls, then budget should be allocated to either staff them up or add staff under you.
+
+The organization of who reports to who feels fairly moot to me at the size of your current organization as a lot of folks will be wearing multiple hats. You and IT need to out line the work that needs to be done for both functions, determine if resources are sufficient, and if not, ask management above you to either fund the difference or prioritize.",1756140935,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nam1oma/,ciso,1mzmorn
+nam4pie,Chongulator,"Whether you have a team or not, there will always be security functions outside of the security org. The work is always cross-functional. As security leaders, we often have responsibility without authority.
+
+They key to managing security in any organization, large or small, is relationships. Identify stakeholders across the org and start developing relationships with them. As part of that outreach, try your best to understand each person's role in the org along with what their needs and frustrations are. 
+
+When you can, find ways to help out with those needs or frustrations. Show stakeholders that you aren't here just to pursue security for its own sake. Be am ally, be a partner, and always consider the big picture.",1756141809,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nam4pie/,ciso,1mzmorn
+namanez,MountainDadwBeard,"Sounds like there's a little bit of a leadership quarrel. 
+
+And one or both sides understand but pushback on the other because their performance KPIs aren't fully aligned. 
+
+Understanding that in order for IT to be accountable for their infrastructure, they need to maintain a bit of autonomy. 
+
+I'd work to algin their key response objectives to security concerns with reasonable and agreed upon, organizationally approved timelines. Give them an escape hatch with risk acceptance mechanisms for cost, functional viability, etc but make the decision maker accountable. 
+
+""Yes our vulnerability scanning program detected X vulnerabilities, IT addressed all the critical gaps within Y days, except for list Z which was accepted as a risk by IT due to budget constraints. 
+
+We setup detection monitoring an an ancillary duty. IT will address all low severity alerts within X time. High severity or elevated alerts will be forwarded to a MSSP while we're continuing to build independent capacity in-house. Our SOP/RACI chart dictates that I'm briefed all alerts that reach this threshold, and I will be briefed within Y time of the finding.",1756143498,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/namanez/,ciso,1mzmorn
+nammtvn,Accomplished_Walk383,This sounds like Guardare would help. We just started using it and it's not expensive. I can send you our contact. We found them at Gartner.,1756147038,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nammtvn/,ciso,1mzmorn
+namr8i5,AntonyMcLovin,🏃‍♂️ run,1756148329,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/namr8i5/,ciso,1mzmorn
+nan0zha,phoenix823,"I have seen our CISO handle issues like this by presenting a matrix of all of the capabilities and tools that are either in place or currently missing and then color coding them red, yellow, green period from there he describes the current state of the implementation (if a tool exists) or the risk of not having a particular capability in place. He has regular meetings with the IT manager and the team members that the IT manager feels necessary to participate. He presents the status of these controls to the executives and indicates that the detailed implementation needs it to be done by the IT manager following his requirements. His role is that essentially of an executive project manager. If the executive team wants him to take a particular action, they can instruct him to do so. If they want to get him staff to solve the problems himself, they do that. Or, if they don't want to spend money, the CISO has made the risk and the ownership of the risk mitigation clear at the executive level.
+
+If you don't report into it, who are you reporting into? I would think that having the independence means you're able to give them shit without the blow back hurting your program of work.",1756151168,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nan0zha/,ciso,1mzmorn
+nanglmr,Erbage,"This sounds like the typical underinvestment in Security and covering a checkbox. Things to implement:
+
+* **Formalize responsibilities** using a **RACI matrix** to clarify ownership across security domains.
+* Conduct **tabletop exercises** to expose gaps in incident response and accountability.
+* Push for **top-down support** from the CEO or board to define and enforce a unified security strategy.
+* Consider using a **risk-based approach** to assign control ownership and drive prioritization.
+* If structural changes aren’t possible, **document risks and responsibilities** to protect yourself.
+* If leadership won’t support change, **consider leaving** this setup poses professional risk (Fall Guy).",1756155597,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nanglmr/,ciso,1mzmorn
+nantr8i,bews,Set a strategy and roadmap (endorsed by the management) and then do risk and issue management. The IT function will want to have a security team soon enough.,1756159603,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nantr8i/,ciso,1mzmorn
+nany21v,justStupidFast,"1. Would you work under these conditions?
+
+No — at least not for long.
+Right now, you have accountability without authority. That’s the worst position a CISO can be in. If an incident happens, the board, regulators, or insurance will look to you because of your title. But you don’t have the staff, the budget, or the direct reporting lines to actually prevent or manage the risks. That’s a setup for failure and burnout.
+
+I might accept it temporarily if I believed the company was open to fixing it soon, but not as a permanent situation.
+
+
+2. What’s the minimum step you’d push for?
+
+At the very least: clear, written Roles & Responsibilities (R&Rs) signed off by the board or executive leadership.
+
+If IT owns firewalls, SOC, DLP, etc., it needs to be documented that IT owns it — not you.
+
+Your job as CISO should be to set policy, monitor compliance, and report on risk to leadership.
+
+If you don’t get that in writing, you’re exposed when blame starts flying after an incident.
+
+
+The stronger step (and really the right one for a multinational): push for a dedicated Security function separate from IT. That doesn’t necessarily mean hiring 10 people right away, but at least a couple of direct reports to you so you have authority aligned with your responsibility.
+
+
+3. Technical security under IT — is that acceptable?
+
+It depends, but it’s not ideal.
+
+In small orgs, IT often runs security tools because they already manage infrastructure.
+
+But in a company your size, it creates conflicts of interest. IT is incentivized to “keep the lights on,” not slow things down for security. That’s why best practice is at least some split: IT runs the plumbing, Security checks, validates, and governs.
+
+
+If you’re forced into the current model, yes, get it written down formally. That way it’s crystal clear that IT owns technical security ops, and you own oversight, risk reporting, and strategy.
+
+
+4. Are there authoritative references/frameworks on this split?
+
+Yes — none are super prescriptive, but there’s enough to back you up with executives:
+
+NIST Cybersecurity Framework (NIST CSF): Defines functions like “Protect,” “Detect,” “Respond,” and assigns accountability at a governance level, not IT.
+
+ISO/IEC 27001: Calls for independence of the information security function from those who operate IT.
+
+ISACA / COBIT: Talks about segregation of duties and governance vs. operations.
+
+CIS Controls v8: Separates “Establish and Maintain Security Policy” (governance) from “Implement and Manage Technical Safeguards” (operations).
+
+Regulators/insurers: Increasingly expect CISOs not to be buried in IT, for exactly the accountability reasons you’re describing.
+
+
+These aren’t one-page org charts you can just show, but they all support your case that Security should not be entirely under IT.
+
+
+5. Are you looking at this the wrong way — should you just accept it?
+
+No.
+What you’re describing is unfortunately common, but that doesn’t make it normal or healthy. Companies often start this way, but once they mature (or suffer a breach), they realize it’s broken.
+
+If you accept it as “just the way things are,” you’re the one who’ll take the hit when something goes wrong. At minimum, you need R&Rs in writing. Ideally, you need the org structure fixed. Otherwise, you’ll keep carrying risk without power.",1756161037,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nany21v/,ciso,1mzmorn
+napb1w6,CarmeloTronPrime,"with that type of organization, i'd do one of two things, or maybe both. 
+
+a) I'd make it all governance where I set the policy and make sure IT creates procedures to support the policies, all duties belong to the IT team to do. add that you'll need to get a 3PAO to do an assessment at least annually to see where gaps lie so its not a ""i'm just biased"".
+
+b) act like IT is your team and make sure they know their jobs include being responsible for what you're accountable for. there's still bad guys out there looking for easy targets and that means you empower IT to keep things secure.",1756178740,2,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/napb1w6/,ciso,1mzmorn
+nar8j4x,MichaelArgast,"+1 on tabletops. Don’t just include IT, include a few people on senior leadership team. 
+
+Given the structure you own:
+Policies, governance, metrics, risk management.
+
+You do your risk assessment, establish the metrics and report to the senior leadership team with IT at the table. They own their metrics, implementation, operations. Use a framework - I’d suggest ISO 27001 at your size.
+
+Who do you report to? It should be the CFO or COO. Where does IT report? 
+
+If you have the CFO, you can get budget beyond staff for pentests, security monitoring, etc, once you establish risks. If you can’t get any budget you’re not the CISO you’re the fall guy.",1756212849,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nar8j4x/,ciso,1mzmorn
+navi0is,lythander,This company didn’t need nor were they ready for a CISO. Head of security maybe. Not a CISO,1756259497,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/navi0is/,ciso,1mzmorn
+nax9kkl,flodisq,"Seems governance is an issue. I agree with the mentioned formalization of roles and responsibilities. Plus, I wood build relations on board and top management level. Make the First line aware of their responsibilities and discuss infosec from a business perspective. That will give you room to maneuver.",1756290816,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nax9kkl/,ciso,1mzmorn
+nax9x89,rob_ed28,Can you escalate to a level that can make a call? Ideally to a CTO/someone who has at least some understand of the complexity.,1756290988,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nax9x89/,ciso,1mzmorn
+nb0ubsx,willbertsmillbert,"Is the company actually actioning your suggestions, or is it all a box ticking exercise. Then you have your answer",1756330408,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nb0ubsx/,ciso,1mzmorn
+nb2tuq8,Dunamivora,"I'm in the same boat at a company of 200 and the agreement I've been able to make is I coordinate with them if they need me, but otherwise define my expected SLAs for handling things I find wrong within compliance or adhering to frameworks. I help write security GRC and the technical skills I have I use to make sure the policies are actually enforceable and realistic.
+
+I focus on status and numbers (KPIs) and give feedback where things aren't working. Then report all of those up to the head of compliance and regulatory, who is my boss (I'm a director).",1756355984,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nb2tuq8/,ciso,1mzmorn
+nb5mkag,MudBig3680,"Hi, I can help you navigate the waters so that you can go back to your team with actionable next steps. Will be sending you a DM.",1756397685,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/nb5mkag/,ciso,1mzmorn
+nduwc40,Reasonable_Slide4320,"https://preview.redd.it/8gfzpgqmxrof1.jpeg?width=640&format=pjpg&auto=webp&s=efc7d11eb43a7b094cd11f7d503ca370b6afd6bc
+
+Can’t help but think of this…",1757700409,9,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/nduwc40/,ciso,1nfa5d7
+nduxi64,More_Purpose2758,"Do you need to work in retirement? 
+
+Is cyber what you’ve always wanted to do? 
+
+Do you have a therapist to help with the transition if you think it’ll be hard on you.",1757700750,0,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/nduxi64/,ciso,1nfa5d7
+ndviphb,Lord_Humongous768,"Congrats on retirement. I'm certainly not going to retire and look for more work. But teaching is a great way to stay engaged and shape the next generation. Community Colleges are great for this. 
+
+
+Retirement is a big opportunity to achieve other personal goals that were impeded by the daily grind. I personally have a very long list of things to do. 
+
+
+I'm about 10 years from exiting.",1757706982,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndviphb/,ciso,1nfa5d7
+ndvr6gj,Reveal_Nothing,"I plan on volunteering in my community, mentoring, and seeing if there are other ways I can contribute to society without needing a paycheck.  
+
+But nothing technical, that’s for sure.",1757709509,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndvr6gj/,ciso,1nfa5d7
+ndvwyrq,No_Pair6726,"I do volunteer and have done for a long time, my guess is that i will increase my hours doing this.",1757711261,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndvwyrq/,ciso,1nfa5d7
+ndvynxz,clayjk,vCISO consulting?,1757711791,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndvynxz/,ciso,1nfa5d7
+ndwa5qf,RadlEonk,"I’m hoping to do fuck all when I retire. Little travel.
+
+In the meantime, I’ve a dozen years or so left. Please share your job description so I can apply to your vacancy.
+
+And congrats.",1757715505,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndwa5qf/,ciso,1nfa5d7
+ndx6j5c,chiefmonkey,Two chicks at the same time!,1757727122,5,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndx6j5c/,ciso,1nfa5d7
+ndzf058,Ok-Square82,"Congrats, your path/life stage seems similar to mine (including state government work!). What I've found is that it's hard to move away from tech. One issue is that people are always looking for help, and you end up with offers for contract work to either fix something, analyze something, or teach it. I ended up doing some of the latter, trying stay as far from the grind as possible. It was actually nice to write and instruct; it gives the opportunity lay down ""do as I say, not as I had do.""
+
+I've also done some volunteer work that I wouldn't mind rolling into consulting in regard to governance. Security professionals, I think, have a good sense of systems (human and otherwise) and how they fail, and it's fascinating how many organizations, non-profits in particular, are dysfunctional from the board on down, largely due to lack of policy and procedures. For those of us who spent time in senior management, we have a good understanding of how shortcomings at the board level turn into headaches for management. The nice thing about governance is you can feel like you are doing something without getting into the weeds or the grind.
+
+The other thing I did was get a new set of golf clubs :)",1757766826,2,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ndzf058/,ciso,1nfa5d7
+ne5egx6,VanillaBean8585,"Maybe you could do some mentoring? I personally love learning from experienced CISOs about their careers, incidents, how they dealt with things.",1757849301,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/ne5egx6/,ciso,1nfa5d7
+neq8tzs,john_with_a_camera,"The only use I plan to have for a computer post-retirement is post processing photos no one will ever buy, lol.
+
+When I'm out, I am O-U-T. 35 years in IT has taken such a toll on my body, mind, and psyche. Let some other mug be the one fighting for budget, pushing IT to fix stuff, and fending off vendor calls all day long. Someone else can take those phone calls on sick days, the vacation interruptions, and the 'hey, do you have a few minutes' interruptions.
+
+Did I mention, I actually do love my job? I really enjoy it, but there is a season for everything.",1758126083,1,t3_1nfa5d7,t3_1nfa5d7,/r/ciso/comments/1nfa5d7/retirement/neq8tzs/,ciso,1nfa5d7
+nlyi8xw,osamabinwankn,Sounds more FTX,1761713774,1,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlyi8xw/,ciso,1oivdvr
+nlykfch,ConcernedViolinist,Run as far and as fast as you can. Hope you have umbrella insurance.,1761714932,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlykfch/,ciso,1oivdvr
+nlym2ce,ShakataGaNai,"There aren't a lot of public ""the CISO/CSO takes the fall"" cases (legally speaking).... YET.
+
+But the fact that they went around you threatened someone with firing, and then went as far as try to REMOVE the paper trail... sounds sketchy as fuck. Normally I'm not one to say ""run"", cause I know that's not realistic in a lot of situations. But uh... you may want to consider an expedited [advance to the rear](https://www.reddit.com/r/dndmemes/comments/my6dd1/or_as_my_group_calls_it_advancing_swiftly_to_the/).
+
+They are basically telling you that they will do shit they know to be dangerous and maybe even potentially illegal, and they KNOW IT because they don't want a written record. I would document these sort of things for yourself and put that in a document somewhere, not corporate, in case the legal stuff ever comes to your door. Hopefully it wont, but ... can't hurt to make sure you've got your own written records.
+
+And yea, when the company goes down, or gets a major fine or whatever - you're going to be out anyways. You know full well they are going to put 200% of the blame on you. Best not to be there when it happens.",1761715847,9,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlym2ce/,ciso,1oivdvr
+nlyppqf,pappabearct,"What is the reason they want to turn off MFA?  Is it because it's not working, or is it impacting user experience?
+
+Document your interactions seek legal advice. 
+
+The November 1st mandate allows for compensating controls but they need to be a) approved by you and b) meet or exceed NYDFs expectations - what does you GC have to say here?",1761717996,6,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlyppqf/,ciso,1oivdvr
+nlz7027,Thommo-AUS,Hi. Keep the risk on the risk register as an accepted risk?,1761728715,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlz7027/,ciso,1oivdvr
+nlzbqq8,Eastern_Tap_9723,Tell them you have an ethical obligation to report this to NYDFS.,1761731510,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlzbqq8/,ciso,1oivdvr
+nlzenob,rainbowpikminsquad,Does your company have a whistleblower policy and confidential helpline?  This sounds like the exact scenario these policies are created for.,1761733087,5,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlzenob/,ciso,1oivdvr
+nlzng1s,not-a-co-conspirator,"Legal obligations have always been there. 
+
+As do everything else, the Business Judgement Rule applies.",1761737356,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nlzng1s/,ciso,1oivdvr
+nm075mf,Nonaveragemonkey,"Honestly I'd say fuck it, take it to the board and expose this bullshit.",1761744653,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm075mf/,ciso,1oivdvr
+nm1eqdq,eldonhughes,"""When I returned from PTO the CIO called me into their office and said that all compliance requests now need to be offloaded from the GRC function over to Legal. They also said we don't require written responses to when there is a compliance issue and that we should just follow their demands, regardless of how ""insecure"" they may seem.""
+
+  
+I think I would put that conversation in writing, in an email and ask for confirmation that this is how they intend for you to proceed.  It is a pretty reasonable assumption that, should/when things go south, they are not going to offer to cover your legal bills.",1761757371,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm1eqdq/,ciso,1oivdvr
+nm1kbxm,Alternative-Law4626,"Dude, dust off the resume. GTFO of there. Nothing good is going to happen as a result of this process. 
+
+I specifically got the CIO to authorize, via policy, his direct reports accepting risks. Then, we have quarterly risk meetings where we show him what risks his directs have accepted and what that means. He gets the opportunity to manage, our program runs with proper risk acceptance. 
+
+Speaking as a lawyer, the general counsel should be fired. He’s violating his oath as a lawyer and has, in essence, become a consigliere to the company and its bad acts. Go someplace where they want security done properly.",1761758945,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm1kbxm/,ciso,1oivdvr
+nm472xy,awwhorseshit,"Whistleblower, regulatory authorities. Enjoy a nice severance package and payout after a legal fight and your previous company making your life hell.",1761787539,1,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm472xy/,ciso,1oivdvr
+nm4u8mi,Crapfarts_Allday,"What are we talking about whistleblowing?  Publicly available customer facing login?  I've never seen a company require customers use MFA.  My bank certainly does not.  All the major trading platforms do not.  What exactly are they getting access to?  Their own records right?  Just one set?  Do you have security controls in place, you feel your application is reasonable secure?  Have you had pentesters login to an account and try to access others data, middleware, backend?
+
+The risk should be individual access to one set of records, e.g. the customer's.  What are we talking about in this thread?  Does anyone here work in cybersecurity or technology?  I work with regulators and compliance/lawyers on the regular and I have no idea what people are talking about whistleblower this and run for the hills.
+
+Someone explain to me where a public website, even fintech, forces MFA for all users.",1761795909,-1,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm4u8mi/,ciso,1oivdvr
+nm5nlou,mightysam19,"Ensure strong documentation, keep record of conversations and email the correspondence to all stake holders. For starters it covers liability and also, clarifies your stance on the decision.",1761812132,2,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nm5nlou/,ciso,1oivdvr
+nml6i6v,Comfortable_Act_2660,lol total unrelated but i am studying comptia sec+ and i actually understood this post.,1762027716,1,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nml6i6v/,ciso,1oivdvr
+nmmcyfp,Quadling,"Hey listen. One of my gigs is IANS faculty member and I write standards. You need to head this off. Or you will find out the Ciso alternate job title - designated scapegoat. 
+
+In all seriousness, call me. Happy to talk it through with you. No charge no strings.",1762041931,1,t3_1oivdvr,t3_1oivdvr,/r/ciso/comments/1oivdvr/legal_and_compliance_challenges_time_to_run_away/nmmcyfp/,ciso,1oivdvr
+no6jzli,vikrambedi,You could always take up woodworking...,1762812537,7,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6jzli/,ciso,1otrhxl
+no6mevi,Day_Mysterious,Consider looking for CIO roles at smaller orgs.  Having the CISO background would be attractive in a smaller org. Also look at nonprofit if you are willing to trade a little salary for something rewarding.  They tend to be more willing to think outside of the box when hiring.,1762813335,16,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6mevi/,ciso,1otrhxl
+no6mf4l,Responsible_Minute12,"One, I am totally annoyed I didn’t claim that user name. 
+
+Two, you never know what a few years will bring…look at what Microsoft is doing with a more distributed CISO model where they are basically naming 13 functional area deputy roles…that might be the kind of structure you are thinking about.",1762813337,5,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6mf4l/,ciso,1otrhxl
+no6mkoj,TickleMyBurger,"I’ve been a CISO for probably 20 years, I’m pretty much done with it at this point but putting in another 5-10 years max before I hang up my skates; but I’d quit now if the economy wasn’t such a disaster (the money I have has to last hopefully a long time).
+
+I’d love to get a role back to tech and away from the board room again but it would take too long to get relevant certs again. If you’ve only been “out” for three years I’d like your relevancy curve would be much shorter - do you have senior level cloud certs or something technical and relevant now?",1762813389,3,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6mkoj/,ciso,1otrhxl
+no6pp4c,MFItryingtodad,"How large of an organization do you lead? Have you prepared your directs for succession? Have you done all you can do? A senior level architect? Leading a product area inside a large org? 
+
+What technical chops do you have? A lot of orgs will want some amount of tech over the leadership qualities you imbue. 
+
+I’m a techie who was a deputy and trying to bridge into leadership/CISO role.",1762814422,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6pp4c/,ciso,1otrhxl
+no6s0us,kranj7,"It depends on your age.  I don't know the demographic, but if I were to guess, most CISOs are in the 40-50 age bracket.  The ripe age where careers stagnate, yet you're too young for retirement and too old to be hired elsewhere.  AI is increasingly going to disrupt things and in my opinion if you have an opportunity to exit the field (assuming that this is not your passion that is), I would consider such options.  If you do not have options, perhaps you could consider developing an exit strategy.  
+
+I am an ex-CISO now running a small import/export commodity trading business.  Am happier doing this, despite earning less money than in the corporate world.",1762815202,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6s0us/,ciso,1otrhxl
+no6wj6z,DonHastily,"In this job market, I wouldn’t ascribe too much meaning to one rejection.",1762816780,2,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6wj6z/,ciso,1otrhxl
+no6ywbv,ManBearCave,"CIO and CTO might be options, it really depends on your experience, it sounds like you might be young(ish). Your career is yours, own it and do what you want… 
+
+Personally I’m an ex CIO and have considered CTO but never bothered. CISO is a really good gig in the right company (IMO don’t report to a CIO, fox guarding the hen house and everything). But yes, do what you want, you’re never stuck and that’s a fact.",1762817631,3,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no6ywbv/,ciso,1otrhxl
+no772se,mmmtun,"I am glad that I am the only person who feels or sees a similar issue. I don't know what it is, but I do feel stuck.",1762820551,2,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no772se/,ciso,1otrhxl
+no7v9gy,Slight-Department-80,"As someone that is eyeing CISO or Leading a security org positions this is helpful to read. I’ve been a bit hesitant to fully commit to the CISO path. I currently report to our CISO leading GRC, but wonder what happens after you become CISO…do you just do the CISO role for forever haha",1762829177,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no7v9gy/,ciso,1otrhxl
+no838of,CarmeloTronPrime,"CIO, CTO, CRO. and... you can also start something and be CEO",1762832112,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no838of/,ciso,1otrhxl
+no890xi,ShakataGaNai,"You're never stuck, there is always a pivot. A ""step down in title"" isn't always a bad thing, maybe you just want a break or focus. Maybe it's a larger org.
+
+Maybe you want to go smaller too.
+
+Or maybe look at ""Field CISO"" or similar type of things. Lots of CISO-adjacent areas that aren't actually doing the CISO thing, in Sales or Marketing (for security-focused products/companies).",1762834342,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no890xi/,ciso,1otrhxl
+no90v38,vicbhatia,"Have you thought about taking on an advisory or CISO-adjacent role that broadens your skill set and strengthens your personal brand? Roles that directly influence a company’s top-line growth are especially valuable. For example, you could advise an organization on leveraging security as a go-to-market differentiator, or on accelerating entry into a new market or geographic region. You could then turn that experience into a case study and use it to build relationships with leaders you can most impact, such as Chief Revenue Officers or Chief Product Officers.",1762848904,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no90v38/,ciso,1otrhxl
+no9cw5t,jovzta,Those who think they're stuck... Are usually the ones who put themselves there.,1762856466,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/no9cw5t/,ciso,1otrhxl
+noaa6jv,SpartanValley,"In my career, I went from technical roles, and then climbed the InfoSec ladder, manager of mobile security team, director of security operations, then CISO (1-3 year stints across 3 companies). My life after CISO started this year. Not a wholistic change, I launched an e-learning platform for up-and-coming CISOs and security leaders, I started some advisory security work for established companies looking to make structure changes to their InfoSec orgs. I'm doing this as my own corporation, so I guess I'm living my small business entrepreneur life now.",1762871261,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/noaa6jv/,ciso,1otrhxl
+nobt5wj,sorte_kjele,"In my 40s. Been in infosec for more than two decades, half that time as a CISO.
+
+Just made the jump last month; position opened up to run AI and with the trust I had built in the org it was a smooth move.
+
+Finally waking up with some enthusiasm for the first time in ages.",1762887708,3,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/nobt5wj/,ciso,1otrhxl
+nofu6ak,bmhoskinson,"I understand the job search frustration. I am on the other side of the coin looking to find my first CISO position at 45. I have worked in small organizations my entire career, many times being both chief cook and bottle washer in IT and Cybersecurity. 
+
+When interviewing, it feels like the fact that I haven’t managed a multimillion dollar budged and a large team of dozens just knocks me out of the race. I’m of the opinion that skills scale though. I worked for a financial advisor who I asked how he dealt with managing large sums of money, he said I just knock the zeros off the end. So a million dollar budget is the same as a thousand dollar budget and a 20 person team, if you can manage people at all, is not much different that two or three.
+
+I have read others comments and largely agree. If you have a good reason to make a move down to a smaller ore or to a more technical position express those to recruiters and interviewers in a way that puts a positive light on it and highlight the benefits of your experience you bring with that shift in position.",1762947032,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/nofu6ak/,ciso,1otrhxl
+nog7aa6,patGmoney,"Well Danny, the world could always use more ditch diggers. 
+- Judge Shmails",1762952889,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/nog7aa6/,ciso,1otrhxl
+nqtihf3,Responsible_Cello,"Where do you want to go? For me, a CISO is the top role. There is no upward opportunity and I am good with that as I want to stay in security.
+
+Some say, spread your wings and try to be a CIO., However, that means filling in the gaps at lower companies. Plus, larger companies consider CISO and CIO peers. In my company, we both report to the CFO. So unless you can prove yourself in other areas (e.g., supply chain, operations) then you may be stuck unless you want to go into mid level management and work your way up again.
+
+Since you stated, ""20 years"" I assume you are in your mid 40s. You do have time if you don't want to stay in cybersecurity but your income will likely suffer at least for fiveish years.
+
+FYI: I am not an expert, I have been in cybersecurity for 23 years and plan to retire as a CISO so take my points with a grain of salt. :)",1764126858,1,t3_1otrhxl,t3_1otrhxl,/r/ciso/comments/1otrhxl/am_i_stuck/nqtihf3/,ciso,1otrhxl
+nu4binm,Level_Shake1487,I don’t think CISOs should report to CTOs. They are equally important. Just depends on the org. Why do you say it’s a conflict of interest?,1765782983,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu4binm/,ciso,1pn16cu
+nu4lt5w,Scary_Definition_666,Oh that depends on the overall structure. Usually I'd agree it's a conflict of interest to have person responsible for security report to the person responsible for technology delivery,1765788993,2,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu4lt5w/,ciso,1pn16cu
+nu5669q,merdock79,"Depends on your business. 
+
+If you are SaaS I love reporting to CTO. Whole focus is to build for revenue which makes it easier to get headcount and build security into the product. You are not thought of as a cost center. I don’t have any issues with conflict of interest, maybe it’s that we agree the number one asset to protect is customer data.",1765800550,3,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu5669q/,ciso,1pn16cu
+nu57m16,Sailing-Security-Guy,In my current position I used used to report to the CIO.  Our Auditors and Board of Directors found this to be inappropriate and moved me to reporting to our COO.,1765801219,7,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu57m16/,ciso,1pn16cu
+nu57tgx,irishcybercolab,"Massive conflicts and negotiation of pathways forward are fully expected in our game of pointing fingers at who and why we do things. 
+
+It's best to allow your risk registry to help decrease the movement and accountability since not everything in the contested duties are things you need to handle or deliver when it's the business handling so much of the risk they allow or simply accept.
+
+Remember to use all of the tools in your quiver while you're in the quagmire of politics and glory hunters.  Quite often, if the responsible party signs off after I given them a risk registry, a treatment plan, and a lot of advice and they don't follow it, then I no longer care about that portion of the scope and make sure I put one of those other set of initials as the responsible party and I follow it up with an email to myself and the accountability target and simply move onto the next set of risk I must contain or treat.
+
+The politics seem to be the easiest portion of my role.  Take no shit and allow those who don't think risk is real, to find out for themselves.",1765801314,8,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu57tgx/,ciso,1pn16cu
+nu580mx,Candid-Molasses-6204,It’s always a conflict of interest and the CTO is usually putting pressure on the CISO to control cost and not dealing with stuff they don’t think matters.,1765801403,3,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu580mx/,ciso,1pn16cu
+nu59116,CloggedBathtub,"I report to the Chief Risk Officer.
+
+I separately have a direct line to the Risk Committee of the board.
+
+(Large cap fin tech)",1765801857,8,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu59116/,ciso,1pn16cu
+nu5h0lh,Low_Appearance_9921,"I’ve been a CISO for a hospital and a business school, always reported to the CTO. It has its pros and cons. Main cons are about budget and mid-term vision. The CTO can have the final word if he isn’t aligned with your vision of security projects. It can be a good collaboration if the CTO trusts you and your skills. But when the CTO doesn’t fully trust your judgement, it’s a dead end",1765805076,3,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu5h0lh/,ciso,1pn16cu
+nu60zuw,martynjsimpson,"It depends massively on the organization, the type of person you are, the type of person the CTO is, and more.
+
+I have reported to CTO's in Tech/ SaaS businesses which makes sense as most the ""risk"" is in the Technology org - being plugged into that org is massively beneficial.
+
+The only thing you need to ensure is that you have the wherewithal and ability to escalate above/ around the CTO if the need arises. In my CISO capacity, I treated my CTO in the same way I would any other C-Suite exec and I would never let them being my ""manager"" affect that role. 
+
+I have, and would again, go around the CTO for matters that were caused by them, however, just like any other C-Suite, I would have a conversation with the CTO first. It goes something like this
+
+CISO to CTO - ""Hey I am aware you have made this decision regarding ABC, unfortunately that represents a risk for XYZ, assuming you are still wishing to proceed then I will need to log this as a Risk and notify the Board inline with our risk management process. We also need to agree the compensating controls. In addition would you like me to include any notes from you when I raise this risk with the board?""
+
+CISO to Board - ""I am writing in regards to ABC decision that created risk in XYZ, CTO has provided the below justification and I seek your sign-off with the designated risk, proposed compensating controls to reduce the risk to an acceptable level'",1765811796,6,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu60zuw/,ciso,1pn16cu
+nu650j7,Sp00k_x,"Been in that situation before, only reason why I agreed to it was because he was co-owner of the company. Was still a pain in the balls. These days I make sure I report to the CEO or Board of Directors, otherwise I’m not interested.",1765812999,2,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu650j7/,ciso,1pn16cu
+nu662he,dikkiesmalls,Number 2?,1765813308,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu662he/,ciso,1pn16cu
+nu6u5jg,EverySingleMinute,#2,1765820350,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu6u5jg/,ciso,1pn16cu
+nu7q03s,cyberoffender2020,I report to the CFO. That aligns well for me to work with him on all business impact and reduces friction.,1765829596,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu7q03s/,ciso,1pn16cu
+nu9ybvu,evilmanbot,i’ve reported to both CFO and CTO.  both are different.,1765856659,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nu9ybvu/,ciso,1pn16cu
+nubhw5p,alexrada,"depending on the size of the company, organizational chart. 
+
+CTO, Risk Officer, CIO.  
+  
+What kind of business is that you'd be in a conflict of interest with CTO?",1765885881,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nubhw5p/,ciso,1pn16cu
+nubsii3,joefnnavy,"I’ve done both. I reported to a CTO as a Sr. Director of Cyber & IT and immediately flagged the conflict. Security quickly gets treated as another engineering function, which weakens independence. I was moved to report to the COO, and it worked significantly better. I came up through security and am primarily security-focused, so that structure was a breath of fresh air.
+
+When the COO left, I put on CISO but was also placed back under a new CTO. It’s tolerable, but not optimal. The real reason is no one wants to honestly own risk “the breach”. The way I look at it is simple: the CTO’s job is to ship product. My job as a CISO is to enable speed without putting the company, customers, or revenue at risk. Those priorities collide—regularly. 
+
+We partially mitigate this by having a separate risk committee that I lead and am accountable to. I also have a direct escalation path to the CEO and the board. In the risk committee charter, I ensured the CTO is not a voting member. That was intentional. It gives me a degree of independence that isn’t directly influenced by delivery pressure. The CTO is still my boss, but when it comes to enterprise risk, independence is formally established. They’re looped in as needed for engineering-specific concerns, not as a standing authority over risk decisions.
+
+I still believe CISOs should not report into a CTO who also oversees engineering. When you do, security becomes subordinate to delivery. If you’re in that structure anyway, the only way to survive is to document everything, escalate when necessary, and give the CTO a clear heads-up before escalation so there are no surprises.
+
+Governance beats org charts, but only if you actually use it.",1765890532,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nubsii3/,ciso,1pn16cu
+nuclq9q,RadlEonk,I report to a CIO who reports to a COO who reports to the CEO who reports to the parent company. It’s infuriating.,1765900153,2,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nuclq9q/,ciso,1pn16cu
+nueuqk6,Dramatic-Put-6669,"Sec lead and devsecops manager and report to my younger sister, fml lol. Whos head of sec",1765924011,1,t3_1pn16cu,t3_1pn16cu,/r/ciso/comments/1pn16cu/who_do_you_report_to/nueuqk6/,ciso,1pn16cu
+nz8k9i7,Thedudeabide80,"I mean, you can't operate 24x7 so at a minimum you'll need some sort of service to do security monitoring/IR. Beyond that for 3K ppl the biotech folks can talk in more detail but you'll probably need 2-3 people to do ""security stuff"" and if you're in any regulatory area you may have SOD and other compliance goals. Are you exposed to HIPAA in any way?",1768253780,11,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nz8k9i7/,ciso,1qb7lml
+nz8nxi4,jtkooch,"Whats the IT budget and headcount? While not a perfect benchmark, I would think a 3000 seat org would expect to set cybersecurity at about 10% of what they are investing in IT. Lower if they are still in early funding rounds; *should* be higher if they have already IPOd. 
+
+Are you executing an existing strategy? Is there already an ISMS? Are they expecting you to do first and second line risk management? I don’t think there’s an answer to any of those questions which would result in “ok, one person is enough”, but if you’re looking to articulate the need for more resources those questions to keep in mind.
+
+I wouldn’t run for the hills. Bio is incredibly insular and the fact that you got in one now gives you a line on your résumé that will make it easier to get into another bio firm later.",1768254783,5,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nz8nxi4/,ciso,1qb7lml
+nz8qf3w,tikseris,"Ask the CEO to be responsible for the executing the lab work as well and see how far you get. :-D
+
+Seriously though. At start ups, CTOs usually write code (and the title CTO is honorary at that point, you're not chiefing anything). But as the business grows it becomes restrictive to growth for the chief to do the grunt work as well. Eventually you are executing (not executing in you execute the stuff, but egsecuting like you are the egsecutor egsecutiving) or you are doing the work. That's where the whole ""Don't call me sir, I work for a living"" thing comes from. If you are doing code reviews or checking the locks on the syringe cabinet then you are not egsecutiving. The CISO becomes an honorary, not a function.
+
+It's up to you where you want your future to go. Do you want to be an executive or do you want to be a security engineer? They are not the same thing. The executive is more of a business manager, the security engineering can put all the stuff into place. Any position that asks you to do both is either unaware (welcome to being an executive, it's part of your job to educate to accomplish the outcome of increased budget and headcount) or intentially sucking you dry knowing that you'll last less than two years.
+
+Figure out what you want and then derive as much value (while providing as much value) as you can from that position and then move to what aligns with your goals.
+
+Outside of the fact that the market sucks chicklets right now, so job hopping isn't the best strategy, but I'm talking mid-term strategy, not next week strategy.",1768255481,4,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nz8qf3w/,ciso,1qb7lml
+nz9sth6,RadlEonk,"First thing I’d do is build out a list of skills/capabilities (here’s what I can do by myself in a typical 50 hour a week), which will then identify the gaps (what a CISO/head of security should do plus your job description minus the skills gap above), then come up with a roadmap (18-36 months) to hire/outsource to fill those gaps. You need to build a team. Identity the gaps as risks that should go to the Board/Audit Committee in case those gaps are not addressed.
+
+Despite the job market and recent hiring trends, the CISO is NOT a technical role. Yes, you should have a technical background to explain/push back/translate, but not necessarily be the person making firewall rules. The CISO is not the final boss in a video game that knows more than everyone else. Just like a CFO should understand finances, but not be the person doing daily reconciliation or depositing checks - especially when the company is 3000 employees (with probably more non-employee users like contractors, vendors, and consultants).
+
+If none of this gets traction, look up the “the envelope” joke and update your resume.",1768267577,3,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nz9sth6/,ciso,1qb7lml
+nzc6z4o,BuyQuiet5494,Outsource… bring in a MSP/MSSP.,1768305651,7,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzc6z4o/,ciso,1qbpevw
+nzc880u,TickleMyBurger,You can’t be the ciso and IT team of one. So set your boundaries and do not work crazy hours to “save the company”. I’d be on the hunt to pull the chute from there stat.,1768306209,7,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzc880u/,ciso,1qbpevw
+nzc9brb,robocop_py,"Companies of that size don’t typically have CTOs or CISOs. Typical IT staffing is an IT manager and a junior, backed by a MSP.",1768306691,25,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzc9brb/,ciso,1qbpevw
+nzc9ueh,JImagined,DM me,1768306915,-1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzc9ueh/,ciso,1qbpevw
+nzcedxp,hjablowme919,"You ask for the CISO role and accompanying pay increase. Settle for Enterprise Information Security Officer, along with the raise in pay.",1768308769,3,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzcedxp/,ciso,1qbpevw
+nzceks6,SpartanValley,"Bringing in a part time security consultant or vCISO, who can manage the security program and who can will onboard and manage an mssp/mdr, could be a way to go. 
+I’ve been a CISO at 4 companies, and happy to chat if you want to talk it through.",1768308844,7,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzceks6/,ciso,1qbpevw
+nzcevxv,sirseatbelt,You can DM me. I managed the cyber program for a small company of 50ish people.,1768308966,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzcevxv/,ciso,1qbpevw
+nzcnzsk,john_with_a_camera,"At 100 people you're small, except your comment about devsecops. If you're building Saas apps, well... You will know the need better 
+
+Here is an incredibly easy start; use AI to write Job Descriptions for the major members of an IT team at a SAAS company. Should come up with CTO, Director of Ops, head of security, etc. Put all those responsibilities into a table. Figure out what you do well or what you would like to learn. 
+
+Take that to your boss and say 'Hey, we are carrying some major risks here with Buddy gone and just me around.' Share the JDs, talk about risks, explain what you are willing/able to tackle based on availability, interest, and capability. Make it clear anything else is risk the company is carrying. Dump that risk at her/his feet. 
+
+DM me if you'd like coaching through how to communicate that risk as a business decision.",1768312197,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzcnzsk/,ciso,1qbpevw
+nzconra,Intelligent_Heat2070,"Assuming your company can spare some money, I’d push for partnering with an MSP for vCISO & Staff Augmentation. Feel free to DM me for further help and recommendations. In case they do not have money to spare then honestly, listen to what folks in here are saying and start looking for roles for your self. Sometimes we can’t save those who don’t want to be saved and that’s ok.",1768312412,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzconra/,ciso,1qbpevw
+nzcr753,j_sec-42,"At 3000 employees with that scope, you're going to burn out trying to do everything yourself. My advice would be to focus on a few high-impact fundamentals first, then build the case for additional headcount once you've got your baseline solid.
+
+The biggest wins for a solo security person in your position:
+
+**1. Incident response through an MSSP.** You can't be on call 24/7/365. Partner with someone who can help you hit CrowdStrike's 1-10-60 benchmark (1 minute to detect, 10 minutes to respond, 60 minutes to recover). This alone will let you sleep at night.
+
+**2. A solid EDR product.** CrowdStrike, Microsoft Defender, or SentinelOne are all strong choices depending on your environment and budget. This is table stakes for any organization your size.
+
+**3. Strong authentication everywhere.** MFA at minimum on all systems, both on-prem and cloud. If you can push for FIDO2 hardware keys, even better. This kills a huge percentage of common attack vectors.
+
+Get these three things locked down and you'll have breathing room to actually think strategically. Plus you'll have real data to show leadership why you need budget for at least one more person on your team.",1768313230,2,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzcr753/,ciso,1qb7lml
+nzcua17,jackspayed,"Make the role what you want it to be. That means doing the work to define the program & outcomes.
+
+Make the business case. You’re one person - doing the work of many people…. Demonstrate the billable hours; show why “patch-X” didn’t get deployed, since you were tied up on other tasks. You have a ticketing system that can produce the dwell time - how long a ticket goes un-actioned because you’re resource constrained. “Here are 40 hours worth of ticket traffic - hire another person”… 
+
+The only thing computers do is keep track of what computers do… use that data to build your story.",1768314201,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzcua17/,ciso,1qbpevw
+nzd96ra,BBC_water6620,"You need a team! For you to manage all of this doesn’t sound like a recipe for success. If you can get at least 2-3 ppl to start with, demonstrate value, and then ask for 2-3 more.",1768318659,2,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzd96ra/,ciso,1qb7lml
+nzdaxt8,CarmeloTronPrime,"sounds like you need to have a sit down with the CEO/Owner of the company and give them a plan of the risk and how you can decrease risk if empowered. if they don't care, then don't care and implement your exit strategy.",1768319144,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzdaxt8/,ciso,1qbpevw
+nzdce3x,cmillerIT007,"If you are officially the CISO you are taking on a huge amount of personal Risk to yourself.  There is a reason a lot of people do not go into that role, unless you are getting a ton of money (and saving most of it to cover your own attorneys fees and expenses).  I have seen multiple CISO’s end up in court and their companies use them as an escape goat and did not cover their expenses.",1768319545,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzdce3x/,ciso,1qbpevw
+nzdgjxs,Pr1nc3L0k1,"Outsourcing is a good option, learn to work with suppliers and learn supplier management and rely on suppliers if your company doesn’t want to hire.
+
+Another possible option to survive is, that you should look at other opportunities immediately.
+No employer is worth burning out and hating your life just because they are cheap.",1768320689,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzdgjxs/,ciso,1qbpevw
+nzdu9ta,ChirsF,"1) Gather information on business values and concerns at the highest levels
+
+2) Pick the appropriate framework and/or regulations.  Do you process credit cards? PCI most likely. Publicly traded? SOX. Etc etc. 
+
+3) Figure out where you are in a 1-5 scale, for the framework requirements. That’s your baseline. 
+
+4) Create a roadmap for 3 years, with target increases in overall score. Let’s say you used NIST CSF. The average score per domain is how you get there. 
+
+5) Present the roadmap, request budget for the roadmap, adjust both roadmap and budget if need be. 
+
+6) successfully complete the roadmap items or have a good documentation chain for why it wasn’t done. 
+
+7 Build presentations for the board and committees. Practice these presentations. Know everything in the deck backwards and forwards. 
+
+8) Get budget for you to get presentation training. Get really good at story telling. Etc.",1768325159,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzdu9ta/,ciso,1qbpevw
+nzdyru2,BlacksmithCautious81,Or just update your CV. Why would you assume responsibility for something that is not within your remit!?,1768326417,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzdyru2/,ciso,1qbpevw
+nze5gk2,ListeningQ,"That's a management issue. If management doesn't feel the need for a CISO or CTO, then when the company gets compromised, that falls on them for failure to complete their due diligence.",1768328204,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nze5gk2/,ciso,1qbpevw
+nze5uej,Geeeyjgrgh-Wrap446,Get an exit plan and get out,1768328305,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nze5uej/,ciso,1qbpevw
+nzf8pwq,saas-security,"Been there… sorry you’re going through it! 
+
+My advice: optimize everything you can! Check out waldosecurity.com to nip all the unauthorized SaaS accounts in the bud & minimize risk",1768338980,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzf8pwq/,ciso,1qbpevw
+nzfibtd,Life-Opportunity-308,"Wait, 3000 employees and only one employee for security and privacy? That's crazy man haha.
+
+There's no way you can give everything the attention it needs. Cybersecurity is super time consuming and always evolving. If you like the idea of shaping the security infrastructure and working closely with leadership and don't want to deal with managing a team why don't you consider outs⁤ourcing a platf⁤orm?
+
+There are companies that help with and automate the more mundane, time consuming and admin intensive tasks so you can focus on the high level, more strategic stuf⁤f.
+
+I've heard from a lot of people in the space that Scytal⁤e is good for this kind of situation.",1768341615,13,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzfibtd/,ciso,1qb7lml
+nzfor4d,Resident_Zucchini474,Don’t take on anything your CISO did unless you get paid. It’s not your responsibility. You need to stand strong. If they won’t hire a new CTO/CISO then the CEO or COO needs to assume the responsibility and risk. ,1768343471,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzfor4d/,ciso,1qbpevw
+nzg9tfi,Character_Pie_5368,Leave.,1768350138,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzg9tfi/,ciso,1qbpevw
+nzgekvp,Fath3r0fDrag0n5,"1. Find a new job, 2. Ask for a raise",1768351692,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzgekvp/,ciso,1qbpevw
+nzhdivu,syb3rpunk,Pivot this experience into a well written resume and interview until you can jump ship.,1768363853,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzhdivu/,ciso,1qbpevw
+nzhkdf2,smarkman19,"If they’re not giving you equity, title, or at least a real say in roadmap and security priorities, this isn’t “paying dues,” it’s being exploited. I’d quietly update your resume, document everything, push for clear scope and compensation, and start interviewing. 
+
+I’ve stayed once for decent equity and a Staff title; another time I bailed and used Reddit, LinkedIn, and Pulse alongside BuiltWith to target healthier SaaS shops.",1768366659,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzhkdf2/,ciso,1qbpevw
+nzj1cci,JuliusGroMyCo,"Do your company really need CTO/CISO? What's the industry/domain of your company?
+
+For example:  
+If it's a 100-employee tattoo salon network, I don't think there would be a scope for a CTO/CISO.  
+If it's a 100-employee digital agent, then you need a fractional/virtual CTO/CISO or a combined role.  
+If it's a 100-employee outsourcing company, then yes, you need a CTO/CISO (maybe a combined role).  
+If it's a 100-employee highly regulated industry like finance, healthtech - then you need CTO + CISO + CIO/CDPO, etc.",1768393993,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzj1cci/,ciso,1qbpevw
+nzj20xb,JuliusGroMyCo,"The biotechnology sector is highly regulated (a lot of compliance). Are you responsible only for security (a pure CISO) or for security, information, and data protection, and compliance (like HIPAA, SOC2, ISO27k/42k, GDPR/MDR, EU AI Act)?  
+If yes, then it's too much, and you need to:  
+a. build CISO office  
+OR  
+b. Draw a strict responsibility perimeter for your role, which is feasible for one person.
+
+P.S. And keep in mind that you would need some discussion with your bosses about the budget for auditors, implementors, external consultants and fractional experts to fulfil non-regular activities.",1768394276,1,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzj20xb/,ciso,1qb7lml
+nzjue2v,Wrong_Requirement413,I’d update my LinkedIn title to CISO,1768403724,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzjue2v/,ciso,1qbpevw
+nzp240p,Jaded-Jaggery,"The way I see it, you have three options: 
+1- Run
+2- Convince your boss to hire new people or MSP or even part time contractors, off shoring is also an approach saving huge dollars
+3- this is the biggest opportunity to fall in your lap, depending on how best you make use of it
+
+If you ask me I'm excited about option 3. Huge learning curve, potential risks are present, but would look absolutely amazing on your resume. There are multiple approaches to this, but everything involves you making a business case out of each scenario and convincing your boss. Following are some pointers: 
+
+Current situation 
+Industry standard
+Any applicable rules/regulations (if is SaaS, them there night be regional regulations that are applicable which mandates r&r segregations etc) 
+Risks 
+Opportunity for growth
+Financials (you cannot convince your boss without strong financial planning or budget asks) 
+
+If you've more questions, dm me. Happy to help you through this. And all the best, rock it!!",1768465494,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzp240p/,ciso,1qbpevw
+nzpbmtl,Ok_Interaction_7267,"That’s not impostor syndrome - that’s too much scope for one person.
+
+You can keep it afloat solo, but you’ll live in reactive mode and never go deep. One incident or audit will make that obvious fast.
+
+Best move: add 1–2 people or outsource pieces (SOC, audits). Biotech + regulated data isn’t a one-man security job.",1768471078,1,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzpbmtl/,ciso,1qb7lml
+nzr686r,xxc0rpsxx,"Get some sneakers. Hire a Devops tech, don't self-demote.",1768495149,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzr686r/,ciso,1qbpevw
+nzsbm92,ThorneMarcus92,"I hear you buddy. Being in that seat without a CISO for a long stretch can feel like trying to steer a ship while patching leaks below deck at the same time! Look, it’s completely normal to feel overwhelmed when you’re carrying both operational and strategic risk responsibilities without dedicated leadership.
+
+One of the hardest transitions for teams without a dedicated CISO is that risk isn’t just a technical backlog, but it’s a business signal. Without someone anchoring the security strategy and translating technical risk into business impact, you end up fighting fires without shaping where resources go next.
+
+My advice is: a) Prioritize ruthlessly**.** Not everything you see is equally likely to lead to a breach or business impact - focus on the attack paths that expose crown-jewel assets and break those first**.** And b) create a clear risk narrative for leadership: when you present risk as a business decision (e.g., ""Fixing A, B, and C reduces likely loss by X%""), it becomes easier to get buy-in for headcount or tooling that actually moves the needle.
+
+And lastly, don’t underestimate the value of scoping what you can realistically influence with the team you have - that alone buys psychological and practical breathing room until leadership secures the right support.",1768506291,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzsbm92/,ciso,1qbpevw
+nzx0n1n,Mission-Custard6306,"There were many good answers already, especially about risk management and documenting decisions.
+
+From my experience it is very unlikely that you will get 2-3 people to build a small team just because you say you need them.
+
+When I talk to other CISOs or by reading job descriptions, I got the impression that it is not very uncommon, that non-IT companies think they can just hire a ""security guy"", call him/her CISO, and that's it. Checkmark item done.
+
+To improve your situation it would be good to make the problem visible and let other people do it.
+
+Try to get your security function audited, either as part of an annual audit, or by spending some budget for a well-known consulting firm. Audit reports have a high weight for CEOs, because they show gaps in the management of a company, gaps a CEO is responsible for. And there is always someone above the CEO, either a regulator or an investor.
+
+By the way, if you pay for the audit you can also talk to the auditors and ask them to make your dilemma very clear in the audit report.",1768570260,1,t3_1qb7lml,t3_1qb7lml,/r/ciso/comments/1qb7lml/too_much_to_handle_or_fit/nzx0n1n/,ciso,1qb7lml
+nzyyv5j,Destrynewiger,Start creating the structure and slowly stop sweeping up the pieces. There’s other jobs if this one doesn’t work out,1768589680,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/nzyyv5j/,ciso,1qbpevw
+o00u0ch,Prestigious_Sell9516,Explain to the board (whoever is over you so they can pass it up) that given your relevant junior status they are going to have legal responsibility for breaches of data that may occur. Ignorance won't be an excuse depending on where and what happens they could find themselves working with counsel to determine if the steps they took and the resources they provided were defensible - this is no small thing. Whether your saas is b2b or consumer facing someone in sales must also be communicating elaborate descriptions of your security and governance controls in rfps and diligence requests. The accuracy of those statements must be suspect.,1768609610,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/o00u0ch/,ciso,1qbpevw
+o013yqf,ReditNamesRStupid,I need a job!,1768613239,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/o013yqf/,ciso,1qbpevw
+o030jtn,FrequentNet5347,"We were in the same situation. The constant anxiety really impacted both my professional life but mostly my personal life. You need to work with an MSSP! But make sure it’s a good one that are quick to respond to tickets AND will manage your cybersecurity. We initially signed up with an MSSP but they weren’t delivering as well as the sales person said they would - classic. I was referred to a company called, ThreatSpike by an ex-colleague. They’re fast in responding, do not charge anything extra for support tickets, out of hours support, compliance or IT project work etc, offer unlimited pen testing (crest approved) and unlimited remediation. Everything is unlimited and it’s all under a fix price. Check out the MSSP reviews on G2. They’re voted 1st. 
+
+I was so overworked and burned out that I didn’t even realise that we hadn’t updated our compliance policy, crazy - I know! they wrote 20 different documents for us at no extra cost. The one-off signing up fee at the start of the contract was also (surprisingly) competitively priced too, we also saved a bunch of money and didn’t ever have to go back to the cfo asking for more budget because it’s all included in the one-off fee. 
+
+You cannot manage the pressure, no one can. You are not a robot. For the sake of your health, please look into either hiring or working with an organisation like Threatspike, where you get a 70 person team working 24/7 for you, for the cost of hiring one person. 
+
+If you want me to refer you, let me know. I have a good relationship with them.
+
+Either way, please act now. I’ve seen too many people normalising the constant pressure and ended up having irreversible health issues. The sooner you get help, the sooner you’ll feel better! 
+
+All the best with this!",1768645164,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/o030jtn/,ciso,1qbpevw
+o03o63y,jtkooch,"Don’t make the company’s challenges your challenges. I know that’s easier said than done, but you have to protect yourself, including your mental health, above all.
+
+Doing everything poorly is way worse than doing some things well. Breakdown everything that needs to be done into lists labeled “achievable” and “impractical”. Come up with a plan for the latter, likely surging via an MSP in the short term, and have them decide whether to fund it. If they don’t, they own the outcomes. And you have the brightest red light telling you it’s time to look somewhere else.",1768656590,2,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/o03o63y/,ciso,1qbpevw
+o3ezawi,Final_boss_tech-999,Mr CISO DM Me,1770154148,1,t3_1mzmorn,t3_1mzmorn,/r/ciso/comments/1mzmorn/ciso_with_no_team_it_wants_it_security_advice/o3ezawi/,ciso,1mzmorn
+ocgj4p8,drastiqndu100,"You’re getting set up to be the “hero” until you burn out, so I’d put guardrails in writing now: list the non-negotiables that keep the SaaS alive (backups, patching, access control, monitoring, incident response basics), define what slips if you’re also doing helpdesk, and take that to leadership as a risk acceptance convo with dates and consequences, not vibes. If they won’t fund at least a fractional vCISO or a small MSP/MDR contract, start planning your exit because one-person IT plus security for production is not a sustainable operating model. Also, if AI tools are creeping into workflows, call it out early and at least get visibility into what’s being used and where data might be going, I’ve seen people use things like Larridin for that governance and usage tracking piece when leadership keeps asking for “AI” without staffing the basics.",1774470711,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/ocgj4p8/,ciso,1qbpevw
+od3mj4x,RogueNumberStation,"The company could dip their toe in the water with a fractional CISO.
+
+I think these guys are UK focused, but I'd imagine there will be similar offerings wherever you are: [https://thecisonetwork.com](https://thecisonetwork.com)",1774773689,1,t3_1qbpevw,t3_1qbpevw,/r/ciso/comments/1qbpevw/overwhelmed_6_months_without_a_ciso_and_now_im/od3mj4x/,ciso,1qbpevw
+oe40wya,LyricalString,"not insane at all. when you're the bottleneck for contract reviews and strategy, they aren't just paying for security, they're paying for your runway. if you're reactive, you're just firefighting.
+
+  
+try framing headcount requests around that risk of failure. show them the gap between your throughput and request volume. if you show them hiring a privacy specialist buys back time for policy, they'll actually listen since you're already doing three jobs.",1775238492,2,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oe40wya/,ciso,1sbjt10
+oe4bxhc,Top_Piano_5351,"Another thought is how are you evolving your management style as your team grows? The team seems to mostly have junior resources now. When you hire your senior resource, think about what you can delegate to that person. If you get a good hire, you should be able to lean on that individual quite a bit. A litmus test would be if you see the amount of operational work you’re doing go down, which would free time for strategy. You still may need more headcount, but you do need to evolve how you handle your own role as you grow.",1775241541,4,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oe4bxhc/,ciso,1sbjt10
+oe4pm1e,HorrorTour5557,you are well staffed. In a company your size you cannot do everything in full maturity and you dont need to. with that additional senior staff you should have more than enough for the size and stage of your company. You dont need a full blown enterprisy risk Management process. focus on what matters. leverage AI e.g. in validating dpas or security questionnaires.,1775245456,3,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oe4pm1e/,ciso,1sbjt10
+oe9d612,MichaelArgast,"So your instinct is that you’re well staffed and others are telling you that you are as well. 
+
+People/Process/Technology.
+
+You’ve got good staffing but a big remit. Glad to see you haven’t don’t anything stupid like build your own SOC.
+
+You need to look at process and technology. For example:
+
+Do you have an effective GRC tool that cross maps all the frameworks you have to support and minimizes efforts across standards, audits, security questionnaires, access management.
+
+Do you have SSO in place to simplify onboard and offboarding?
+
+Do you have the right MDM and other management tools to stay on top of the team you have.
+
+Do you have consistent, documented processes that speed up work and reduce
+rework, allow for automation/AI assistance, etc?
+
+As a MSSP you sit in the sweet spot of customers we serve. Your scope is likely bigger but we would typically staff all the risk management, SOC, governance, compliance, etc with less than the equivalent of a single FTE and be able to keep up. 
+
+I think before you hire more people I’d be tempted to do a work and time analysis across the team and find out what your big time sucks are and address them with process and tech.",1775312578,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oe9d612/,ciso,1sbjt10
+oebtkfm,[deleted],[removed],1775338975,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oebtkfm/,ciso,1sbjt10
+oectsiy,MaleficentFee6949,"This doesn’t seems headcount problem, it is what happens when these workflows stop scaling. Vendor intake, data use changes, customer obligations, I think each one is manageable on its own, but together could create compounding problem around tracking impact and maintaining a defensible record over time. most teams I’ve seen, the breaking point is knowing exactly which customers affected by a change and being able to prove what was communicated and when. That’s where things fall back to spreadsheets and email.
+
+How are you handling that today?",1775351428,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oectsiy/,ciso,1sbjt10
+oee7tqi,ThroatPlenty7765,"The process and technology point from u/MichaelArgast is worth taking seriously before the next hire. The pattern I see most often at your stage is that the volume problem is real but it is concentrated in a few specific workflows -> vendor intake and security questionnaires tend to be the biggest time sucks because they are high frequency and hard to delegate without a lot of back-and-forth.
+
+Worth doing the time analysis first. If you can quantify where the hours actually go it also gives you a much stronger case for the exec conversation, showing throughput vs request volume is more compelling than headcount ratios.
+
+(Full disclosure I'm building tooling in the vendor compliance space so I have a bias here. But the principle holds regardless of tooling)",1775373211,2,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oee7tqi/,ciso,1sbjt10
+oef5uyo,DetSteve1,"I’d need more answers; but would typically base this on strategy and growth; as the business grows, so do the resources to support it. ",1775391132,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oef5uyo/,ciso,1sbjt10
+oeht4f4,RogueNumberStation,"I'd approach it from the opposite angle; communicate the risks (e.g. around not being on top of the EU Product Liability Directive), outline the mitigations that could be taken and the associated headcount requirements. Provide two, maybe three options, one of which is keeping the current headcount - with it's own set of risks and even proposing reduced scope if you see that as necessary to prevent burnout/dropped balls, make a recommendation and then let the execs decide the appropriate budget for their risk appetite?",1775420302,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oeht4f4/,ciso,1sbjt10
+oesgg4k,PageCivil321,"You are centralized and I think not understaffed. All high complexity work lands on you... regulatory interpretation, vendor risk, contract review, etc. etc. This makes you the throughput limit for the entire function. Adding more junior people will not change that because they cannot absorb that layer of work.
+
+The issue to show leadership is flow. Track how many requests come in, how many get completed and how long they sit. If demand consistently exceeds output, that is a measurable business constraint. Fix the structure before adding more people. You need a dedicated senior GRC/compliance owner, IT fully removed from your scope and standardized patterns for contracts and data use so every request is not bespoke. Intake also needs gating with SLAs, otherwise the business will continue to overload the function.
+Right now every decision requires manual verification by you. Until that bottleneck is removed, backlog and MTTR will not improve regardless of team size. You can either build internal workflows to prevalidate risk and ownership or use ServiceNow, Vanta or something to centralize evidence and ownership and pair that with SOC/triage layers like UnderDefense (I work with them) to handle first pass validation. I think until that layer exists, backlog and MTTR will not improve regardless of team size.",1775564701,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oesgg4k/,ciso,1sbjt10
+of18z1f,Motor_Blueberry_4215,"Reading this gave me flashbacks, that mix of privacy, risk, compliance and IT in one lane gets overwhelming fast. The part that really slowed me down wasn’t headcount at first, it was how much of the work was manual and sitting with me because it couldn’t be delegated cleanly.
+
+
+
+I brought in Ketch mainly to get a grip on data mapping and consent enforcement across tools, and it helped me offload a chunk of those GDPR and data use reviews that kept piling up. It didn’t replace people, but it gave my team enough structure that I could actually start handing things down instead of being the bottleneck on every decision.",1775669908,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/of18z1f/,ciso,1sbjt10
+ogpl0xz,Master_Baby_2700,"Honestly this reads less like a pure headcount issue and more like too many different functions crammed into one small team. You’ve got security, GRC/privacy, vendor risk, contract/data review, and even some IT support all sitting together, so even a “reasonable” team size is going to feel stretched because the work isn’t the same kind of work. Until those lines are clearer, adding people can help but won’t fully fix the feeling of being underwater.
+
+If leadership is actually supportive, I’d lean into framing this around specialization rather than just more bodies. The vendor reviews and intake work can scale with process and more junior resources, but the regulatory, privacy, and contract-heavy work usually needs someone senior who can own it end to end. Without that, everything bottlenecks no matter how many people you add.
+
+It also helps to tie the ask to business impact instead of workload. If you can show how long reviews are taking, where things are backing up, and how that’s slowing down deals or product launches, it becomes a lot easier to justify. From the outside, it sounds like a senior GRC/privacy hire is pretty reasonable here, but the bigger unlock is making that a clearly defined function instead of just absorbing it into an already overloaded team.",1776432664,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/ogpl0xz/,ciso,1sbjt10
+oh5nr01,sprocketsecurity,"You're not insane. The issue isn't headcount relative to company size, it's headcount relative to regulatory surface area and deal velocity. Payments-adjacent SaaS with enterprise customers and European expansion is one of the heavier compliance loads you can have at 110 people.
+
+For the exec conversation, the most effective framing is revenue protection rather than risk overhead. You're already doing this work implicitly when you clear security terms in MSAs or unblock a data sharing agreement. If you can attach dollar figures to deals your team helped close or unblock, that's a stronger argument than any headcount benchmark.
+
+One thing worth considering before adding another FTE: a continuous pentesting or attack surface monitoring partner can offload proactive security work so your internal team stays focused on compliance and risk. We see that free up meaningful bandwidth at companies in exactly this situation.
+
+The senior hire probably buys time but not runway at 30% growth.",1776637033,1,t3_1sbjt10,t3_1sbjt10,/r/ciso/comments/1sbjt10/help_sanity_check_on_resourcing/oh5nr01/,ciso,1sbjt10

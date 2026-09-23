@@ -1,0 +1,289 @@
+row_type,post_id,comment_id,text,EX,EMO,COG,MD,bat_score,EX_reasoning,EMO_reasoning,COG_reasoning,MD_reasoning
+post,1jvsfxh,NONE,"Acer TravelMate Spin P4
+Kia ora all,
+
+I manage the IT at our school. A technology classroom here is currently using HP Probook 430 G8s, which are soon to be at the end of their lease cycle. 
+
+We've had quotes for replacements (HP ProBook 445 G11s) but have also been offered/recommended a cheaper deal on some Acer TravelMate Spin P4's of similar spec, by our supplier. For non Chrome OS devices the school typically sticks with HP,  but the price  point here is definitely appealing - especially if these are reliable machines. 
+
+I have seen however, mixed reviews for these online. Has anyone here had experience with this model of Acer in a classroom or enterprise environment? I have questions about how the hinges will hold up being a 2-1 flip type device. 
+
+Appreciate any advice...",NO,NO,NO,NO,0,"The post is a neutral technical inquiry about laptop procurement with no mention of energy depletion, fatigue, or exhaustion.","The post contains no expressions of intense negative emotions, frustration, or emotional distress related to work.","The post describes no cognitive difficulties such as trouble concentrating, memory issues, or decision-making problems.","The post shows no signs of psychological withdrawal, cynicism, or disengagement from work responsibilities."
+post,1aq6c44,NONE,"Software approval
+Anyone think they have a good software approval process and procedure? Do you use any specific tools to evaluate software requests?",NO,NO,NO,NO,0,"The post asks about software approval processes without mentioning any personal energy depletion, fatigue, or sustained workload.","The post inquires about tools and procedures without expressing any personal emotional distress, frustration, or negative emotions.","The post seeks information about evaluation tools without describing any personal cognitive difficulties, memory issues, or trouble concentrating.","The post asks for professional advice without indicating any withdrawal, cynicism, or loss of engagement with work."
+post,16g4io5,NONE,"First Job Issues
+I got hired on as the only Cybersecurity personnel at a mid-level company a few months ago. Right away I noticed the workload was non-existent. My boss gives me zero projects and I’ve tried creating them for myself, but he shoots them down saying “we already have that.” This is my first cyber job out of college, and I’m pretty sure I was hired to mark a checkbox for their annual audit. 
+
+So now fast forward many boring days of trying to help with IT or networking (really whatever I could do) or just studying for certs. I’ve just been given a brand new responsibility which is completely accounting related. Meant for an accountant or assistant truly. It’s in no way cyber/IT related and I hate it already. 
+
+To answer some preemptive questions: 
+My boss did not give me this responsibility, the accounting controller approved it with him and then gave it to me. 
+My boss has a network/circuitry background, not cybersecurity. 
+I don’t feel like I can object to this responsibility because I have zero experience and they know it. 
+
+Looking for general advice on how to approach this. Cut my losses and leave? In this market? Learn some accounting bullshit? Approach my boss?",NO,NO,NO,NO,0,"No mention of energy depletion, physical tiredness, or sustained overload; describes underwork and boredom rather than exhaustion.","While the user expresses strong dislike ('I hate it already') toward the new accounting task, this appears as situational frustration rather than persistent emotional impairment, snapping, or disproportionate reactions.","No evidence of brain fog, memory issues, difficulty concentrating, or being overwhelmed by cognitive demands; the post shows clear articulation of the situation and decision-making considerations.","Despite cynicism about being a 'checkbox hire' and boredom with the role, the user actively seeks to engage in cybersecurity work and asks for advice on improving the situation, rather than showing persistent withdrawal or indifference."
+post,1p00hsq,NONE,"Potential job scam
+Hey all,
+
+Have a friend that got offered a job. He didn't apply for it and they reached out to an email he use in very specific cases. They sent him an email with a questionnaire to fill out and gave him 90 mins to do so. He fills it out and sends it back. He fills it out (questions are relatively basic networking and troubleshooting questions around being a network engineer) and sends it back. They sent him an email later that day saying that he has the job (red flag). They'll give him an interview the next day with HR to go over some things and they'll send him a check to pay for his home equipment since the job is remote. (SUPER RED FLAG as an IT professional) Have any of you seen a scam job opening that fits any of this information out in the wild? I've never seen it but this SCREAMS a scam to me. He hasn't made any moves on it yet, but am interested in what you all think.",NO,NO,NO,NO,0,"The post asks about a potential job scam affecting a friend; no personal description of energy depletion, exhaustion, or sustained work overload.","The post expresses analytical concern ('red flag', 'SCREAMS a scam') about a friend's situation, not intense or persistent negative emotions tied to the poster's own work.","The post seeks information from the community about scam recognition; no mention of personal cognitive difficulties, brain fog, or trouble concentrating at work.","The post discusses a friend's job offer; no indication of the poster's own psychological withdrawal, cynicism, indifference, or dread regarding their work."
+post,yjc0ye,NONE,"Sanitizing/Disinfecting Peripherals (Cellphones, Headsets, Microphones, etc)
+What do you all do to sanitize/disinfect large volumes of peripherals? Currently, we're just wiping items down with sanitizing wipes but we're interested in more eco-friendly solutions that would allow us to process multiple devices at once due to volume. We'd need to re-deploy cellphones, headphones, headsets, USB microphones, handheld microphones and lavalier lapel microphones for users. Has anyone used UV sanitizers like those used in hospitals/dentist offices to sanitize electronic items?",NO,NO,NO,NO,0,"Post asks about technical sanitization methods for electronics with no mention of energy depletion, tiredness, or sustained overload.",No emotional content present; post is a neutral request for information about UV sanitizers and eco-friendly cleaning solutions.,No cognitive symptoms mentioned; post demonstrates clear focus on a specific logistical question without confusion or memory issues.,"No withdrawal, cynicism, or loss of meaning expressed; author is actively seeking solutions to improve a work process rather than disengaging from it."
+post,11k5wgg,NONE,"IT manager in need of help
+Sorry for the wall of text!
+
+We are a small local government with about 260 users with several offsites. I have 2 desktop support staff, and that's it.
+
+When I started this job, I inherited a shit network a few years ago. Almost all services had default admin password or no password. There were internal servers open to public access for convenient access, and I saw a standalone Windows Server 2000 running unrestricted without a purpose on the network in addition to a few Windows XP running on desktops. In addition, of course everybody had local admin privilege.
+
+People were able to do whatever they wanted for a long time. When they fuck up, one of the support staff would pretty much just grab the machine and reimage the device. By the way, the reimaging process was all manual and take all day or two to get it done. Because the staff will grab Windows 10 installation CD or flash drive and start installing the OS, updating, and other necessary applications one by one (now it takes 30 minutes or so to reimage it, phew).
+
+Main Firewall was severely undersized for the size of this organization and some of the routers and switches were either completely unconfigured or had some other organizations information still on it due to obtaining the device somewhere else and plugged into the network immediately without being looked at or configured.
+
+There hasn't been much of any documentation other than several years old network diagram and excel spreadsheet of admin credentials (even though majority of them were default passwords). There was no asset management of any kind. We had so many different version of applications, biggest one being Office applications ranging from 2003 to 2016.
+
+Users were constantly complaining about frequent network outage and slow speed (some switches were configured half duplex for some reason???)
+
+Anyway, few years past now. We have a stable network with much improved security posture. We still have a long way to go, and we are making an improvement constantly.
+
+The problem that I have now is that I feel like a such a shit manager. I may be an okay engineer. I have not been able to motivate my support staff to learn about server management/networking.
+
+It has taken me a few years to make them show up to work on time and work on tickets as they come in (not when they feel like doing it) and prioritizing tasks. I still need to jump onto half the support tickets to help them troubleshoot. I started asking them more questions to improve their troubleshooting mindset/thought process.
+
+I have asked multiple times about hiring someone who can help me manage the network, and upper management keeps saying we don't need more people and maybe I can get an intern in the future. They assured that if they were to hire someone, the position will be filled with a local college student or recent graduate from a local college.
+
+When I explained to them why I need someone with some skills/knowledge, their response is always ""just train them."" All they care about is optics and local politics and bragging rights.
+
+I genuinely feel like a shit manager for failing to convince the upper management of the IT's needs and get the help we need. I would like to motivate my employees to better themselves and make themselves useful as they have so much free time and we provide online training solution. I would really like them to get the career satisfaction. I even recommended a few certification options they could work on if they are interested. All expenses paid for by the employer. I have had quite a few 1-on-1 meetings with both of them to learn and figure out what their interests are and help them achieve their goals. I really haven't been successful at that. They are leaps and bound better than a few years ago, but they are still having issues with basic networking fundamentals, and don't see the desire to learn more.
+
+I keep telling myself that it will get better and I will have more time to work on improving our procedures, processes, policies after finishing these projects to further stabilize our network and plugin some big security holes. In reality, my plate is constantly overflowing and I feel like I am drowning (recently, my boss said ""You are now supporting this new organization. Help them out with whatever they need). I am finding myself increasingly more short-tempered and more on the edge. This is not me. Now I am looking into therapy sessions to get better.
+
+&amp;#x200B;
+
+My boss and the employees are actually good people. Although my employees are not where they should be, they have improved a lot over the years. I know there are lots of people in similar situation. I would like to get some input and see what I can do to improve the situation. All constructive criticisms are welcome. I'd really like to improve myself, my employees, and the organization.",YES,YES,NO,NO,2,my plate is constantly overflowing and I feel like I am drowning,I am finding myself increasingly more short-tempered and more on the edge. This is not me.,"No mention of memory problems, brain fog, or decision-making difficulties; the post demonstrates clear cognitive organization and detailed recall of technical issues.","The user remains actively engaged in improving the situation, seeking constructive criticism, and shows no signs of withdrawal, indifference, or autopilot."
+post,gcmd38,NONE,"Encountered IT Outsourcing Bad Practices Recently
+TLDR: outsourcing can go very wrong without proper vetting and working with the IT department. Its best used sparingly in niche support situations for things your business can't manage not for cost cutting purposes.
+
+This is going to be a very long post but my recent experience should stand as a warning to IT managers about outsourcing. I'm not totally against it in certain situations, I tend think it can work in two scenarios. When an IT team doesn't have the expertise or resources to do something cost effectively, I don't think it’s bad to outsource it but it should be a partnership just like any other vendor. The other situation is when a business is clueless, numerous people on this sub reddit have encountered a situation where they're the first real IT person, a bad MSP left a business out to dry, or you're taking over from a hostile and/or incompetent solo admin. 
+
+I've used the same outsourcing companies for the last 5 years. One out of Bangladesh are a smaller family business less than 200 people, they invest in their staff, and from the get go the internal IT team was in control. It was well understood that we brought them onto support us not compete or replace us. The other company is a five person web developer shop out of Slovakia that handles our main web site it freed up resources from working on graphics and front end web requests. The relationship works and we've expanded our services with them as needed. 
+
+This is in stark contrast to my recent experience with a large vampire IT consulting/outsourcing company. My company is large enough that IT teams become silos and have separate IT managers. One IT manager who previously worked for this vampire company made enough noise that he got approval to experiment with outsourcing the business unit he ran. Three and half months later they got booted for failing to provide adequate support
+
+In my opinion I think the now former IT manager and vampire project managers did not really understand how you would operate an IT department or have situational awareness. They put way too much emphasis on ""metrics"" and cost cutting so they could get their bonus. I think they took full advantage of decision makers not being technical and made promises that were not realistic. Unfortunately for them this behavior lost them a customer we're not Barclays large but losing thousands of dollars does not bode well for them. 
+
+Here's a lay down of all their warning signs.
+
+1. They insisted on rushing through the takeover with no transition period
+
+2. No information gathering was conducted by the vampires. They didn't ask exiting employees about their day to day job or for documentation. (I wound up doing this independently bribing people with pizza and drinks to get information because I suspected their failures would eventually fall back to the internal IT teams)
+
+3. Competent IT people from the vampire company who were initially part of the project were either removed for pushing back or must have asked to be reassigned. Perfect example is day one of the hand off the vampires would be handling a particular support desk. An engineer brought up this wasn't plausible because they wouldn't have access to all the systems, and didn't have domain accounts yet. This person was no longer involved in the project after that conference call.
+
+4. Vampire staff were extremely rigid on what they could and could not do. Everything is hidden behind bureaucracy and ticket tennis. Any issue requires unnecessary steps and people getting on a conference call. People treated the calls like echo chambers constantly asking the person next to them for guidance or permission to do something. This sometimes would go on for days. Laughably in one instance after my team discovered a security bug, a vampire joined a call huffing and puffing domineeringly telling a pm that my team needed to join the conference call to approve a change. I had to stifle laughter as I pointed out that we originally started the phone call and opened the support ticket to implement a patch because her team controls the maintenance of the application.
+
+The final warning is kind of a story in itself but I think it’s worth mentioning what actually got this company fired. This business unit had a mainframe administrator who was part of the layoff let’s call him Popeye Doyle. Popeye Doyle had 40 years on the job, only career he's ever had. The day he finds out about the layoff he goes to HR and says I'm not interested in being out sourced or applying for a job at the vampire company. He told them I've maintained the mainframe without interference for years and without a problem. Either we work something out were I remain an employee of the current company or today is my last day I will retire rather than be outsourced. The vampires and the IT manager don't even meet Popeye Doyle half way. I know most of the time outsourcing decisions are made independently of IT and it’s out their control but I've been the primary technical person responsible for preventing/resolving several potential IT disasters in my tenure here. So I have some clout with execs. I warned the CISO and CFO that the vampires were flirting with disaster by firing Popeye Doyle and they needed to cover every square inch of their ass and plan accordingly if they wanted to survive the blast radius. I did my best to sound the alarm with the vampires that they were making a huge mistake. Eventually I dropped all civility in my emails sending something along these lines of: 
+
+*“You guys have no choice but to come to a work agreement with Popeye Doyle, we cannot support this technology, we do not have a support person, I haven't seen evidence vampire company has a resource either, we don't know what core services are on that mainframe or how one would even logon. Frankly if something went wrong and we needed to get a consultant I'm not sure where we could find one, and how soon a consultant could realistically travel to fix the problem with the pandemic ongoing.”* The Vampire's response was so funny I printed it out and tapped it on a wall in my home office.
+
+*"" Hello Lemmy Caution, you'll find that Vampire company has a lot of experience on these handover projects I know there’s always lot of friction and concern initially but we strive ourselves on providing customers with the best resources and you'll soon see we can provide more with less""*
+
+You can imagine how this went. We were already not happy with the service we were getting but then Con Edison in New York accidentally drilled too deep into the street during maintenance and cut power to our building for almost two full days. Not a big deal we just an organized a shut down when it became obvious the outage would last longer than the UPS batteries. Except for the first time in 40 years we didn't have Popeye Doyle there to restart the mainframe. Turns out those mainframes contained a payroll system, payment process system, and a record application for a certificate program we issue anyone could call us and ask if we could validate that a person completed this certificate program. Once it became obvious we could be facing fines and serious trouble from the certificate issuing board the vampires went into full blown panic mode. They actually tried sending email blasts all over their global operation to try and find someone who could fix it. They brought in several consultants from other sections of the vampire operation but couldn't fix it. The full outage lasted seven days until they caved and called Popeye Doyle who basically got a down payment on a beach house somewhere in Pacifica, California for fixing the issue. This outage got the IT manager fired and the service agreement canceled apparently there’s a clause about the vampires being responsible for monetary loss & errors/omissions but most importantly my company learned an expensive lesson on bad IT management/outsourcing.",NO,NO,NO,NO,0,"While the author describes taking on extra work to compensate for outsourcing failures, there is no explicit mention of energy depletion, exhaustion, or feeling drained.","Although the author uses strong language ('dropped all civility', 'vampire company'), the quoted email remains professional and there is no clear evidence of emotional impairment such as snapping, crying, or disproportionate overreaction.","The post contains no mention of memory problems, difficulty concentrating, brain fog, or indecision; the narrative is detailed and coherent.","Despite cynicism toward the outsourcing vendor, the author demonstrates active engagement and investment in their work, with no signs of withdrawal, indifference, or going through the motions."
+post,118vj48,NONE,"How to automate the removal of Symantec Endpoint Desktop during an Operating System Upgrade?
+I've reached a point of frustration on this one because I'm so close I can taste it, but I just can't quite get the last piece, and it's pissing me off.
+
+Using MECM to upgrade from older versions of Windows 10 to newer ones and we've got machines with Symantec Encryption Desktop (SED) on them.
+
+The task sequence does the following:
+
+* Stages SED files needed for whole disk encryption admin account to do its job.
+* Copies files from above to admin account's profile
+* Enables SED bypass. (pgpwde --add-bypass --disk 0 --count 6 --aa)
+* Copies SED reflect drivers to needed folder for use during upgrade
+* Create variable OSDSetupAdditionalUpgradeOptions to include the above reflect drivers
+* Upgrade to newer version of Windows 10
+* Restart computer
+* Re-register the SED password filter
+* Disable SED bypass (pgpwde --remove-bypass --aa)
+* Reboot
+* Decrypt SED encrypted drive (pgpwde --decrypt --disk 0 --aa --all)
+* Uninstall SED
+* The sequence goes on, but the above is the pertinent bits.
+
+The issue I'm having is that the ""pgpwde --remove-bypass -aa"" command is failing after the upgrade.
+
+The error I'm getting is -11977 Improper Initialization, which I can only find one reference when Googling, which is: https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=f100f24b-584e-458e-aae0-0e832e91c427&CommunityKey=8deae12f-88a6-4d88-9186-231c4ca171d7&tab=digestviewer#bmf100f24b-584e-458e-aae0-0e832e91c427
+
+Which references Linux.
+
+The removal of the bypass only fails *before* a user logs in.  Once a user has logged onto the machine, and back off again, then the bypass can be removed.
+
+So, my thought process is that, perhaps, SED isn't sully started when Windows starts, resulting in a weird state where the commands won't run until SED finishes starting, but I'm not sure SED's underlying mechanics enough to remediate this.
+
+It's also an older version of SED, like 10.4 or something.",NO,NO,NO,NO,0,"No mention of energy depletion, exhaustion, or sustained work overload; only expresses frustration with a specific technical issue.","While the post mentions frustration and being 'pissed off' about a technical problem, this appears to be a proportionate reaction to a specific single event rather than persistent or disproportionate emotional impairment.","No evidence of memory issues, difficulty concentrating, or cognitive overwhelm; the author describes complex technical procedures clearly and logically.","No signs of withdrawal, cynicism, or loss of meaning; the author is actively engaged in solving the technical problem."
+post,ljx300,NONE,"Politics and IT
+Hi everyone,
+
+I am an IT Admin at a company with a few hundred people and a couple locations. 
+
+I have been at this position for over six years, I am in my mid thirties, I am female.
+
+I am on the autism spectrum. 
+
+I have much trouble navigating politics with a couple other females who are not tech savvy. I think they feel threatened by me or have insecurities when they ask me questions. I am solving their problem, but by doing so it makes them feel inadequate. (I think, that is my best guess as there is no other reason I can think of that this would be a problem). So doing my job is like a double edged sword, as they still need my help.
+
+ The women who are confident with themselves, no issues. I treat everyone the same way, however two females that are in higher positions (but not over me)  create much drama for me when I am simply trying to do my job. They make demands that are out of process and out of purview. (""I told you to do this""..they are not my boss)  Things have been setup the same way for years yet they are always trying to change something for no business reason. I get asked to do things that violate compliance etc that I have to deny...but they should know this, I shouldn't have to be the one saying it's a violation.  They create problems or make major issues out of nothing. I can advise the same user with an incompatible browser for a program that unfortunately they will have to switch back and forth, out of my control, but with the others, they complain to the business owner and cause drama. The business owner backs me 97% of the time. However, the amount of complaining is ridiculous. 
+
+I have heard off hand comments made about me when they thought I wasn't in the room related to what I control. I control what's necessary to do my job, all within policy and scope. It seems as if there is some obsession with control, I don't know why.
+
+I am extremely busy all of the time as I am running everything IT. There are countless times I have had to fix major issues because one the the individuals was not doing their job and that created a mess. However, I cannot talk to that person about it because instead of being open and being able to talk, they take it personally and then expend energy trying to make my job more difficult. If I cannot talk to someone about why there was a problem, the process behind it never gets fixed. This results with me fixing much outside of scope. However, since it affects others and causes ""errors"", I have to fix it so business isn't interrupted. 
+
+ I have high priority issues I have to complete and don't have the bandwidth to stop and deal with the back and forth with them or them using someone else do make my job difficult. I want to do the right thing but I also don't know how to get this cycle to end.  I am following everything by the book as I always do..I always do the same thing = follow process, follow procedures, operate within policy, do my job and move on.
+
+I know at times my delivery sucks so I limit communication to writing as much as possible. However, I don't avoid anyone if they have an immediate issue and I work as fast as possible to solve the problem so I can move on.
+
+I am friends with everyone else and have no issues with any of the other few hundred people that I help. 
+
+Any advice would be appreciated, thank you.",YES,NO,NO,NO,1,"""I am extremely busy all of the time"" and ""don't have the bandwidth""","The post describes workplace conflict objectively without expressing intense or disproportionate emotional reactions such as hate, misery, or persistent irritability.","The text contains no mention of memory problems, brain fog, concentration difficulties, or indecision regarding work tasks.","The author shows continued engagement and desire to 'do the right thing' with no evidence of withdrawal, cynicism, or loss of meaning."
+post,cl8j4v,NONE,"Oh man, I got fired for posting a comment on Instagram and I've just told them I won't sign their severance agreement
+I've never done anything like this before in my life. And I'm scared to death that my career is over.
+
+I was just ""promoted"" from a System Engineer position to being the ""IT Manager."" Made a post about buggy software from a vendor on their Instagram, got shit canned.
+
+I'm scared to death my career is over. I also get that this isn't straight ""Sysadmin"" type material. But I was a sys admin. I figure who else better to talk to about this?
+
+P.S. Yes I know the IG comment was a stupid move. It was an impulse action.
+
+&#x200B;
+
+Edit to add: The venting has helped. 
+
+Also, here's a sanitized image of the post:  [https://imgur.com/pMBb6Xw](https://imgur.com/pMBb6Xw)",NO,NO,NO,NO,0,"No mention of physical or mental exhaustion, energy depletion, or sustained work overload.","While the author expresses intense fear about their career, this is a situational reaction to being fired rather than persistent emotional impairment or overreaction tied to ongoing work.","No mention of memory problems, brain fog, difficulty concentrating, or cognitive overwhelm.","No indication of psychological withdrawal, cynicism, indifference, or loss of meaning regarding work."
+post,vxnhyk,NONE,"Suspicious 365 admin panel activity, how to track?
+Hi all,
+
+I'm to sole IT guy of a company.  
+I noticed 5 365 users got microsoft 365 business license but the exchange online plan was deactivated.  
+
+
+Problem: Help, mail not working, HELP HELP HELP
+
+  
+I know few marketing twats are allowed to enter the 365 admin platform.  
+
+
+Is there I way I can prove that the activity is done by somebody?  
+
+
+Kind regards",NO,NO,NO,NO,0,"No explicit depletion, sustained overload, or health deterioration described; 'sole IT guy' is a role description without personal energy cost mentioned.","Single use of strong language ('marketing twats') expresses frustration but does not indicate sustained intense emotional reactions, snapping, or disproportionate distress beyond this specific incident.","No difficulty with memory, focus, decision-making, or cognitive overwhelm described; user clearly identifies the technical issue and asks specific troubleshooting questions.","No withdrawal, indifference, cynicism toward work, or loss of meaning described; post focuses on solving a specific technical problem without expressing dread or disengagement."
+post,m8vh95,NONE,"Possibly taking over as sys/network admin of my works small network
+I could be taking over the network at work depending on what my Sys admin decides to do. I have not received a lot of training in regards to the proper role/functions of a sys admin so this will be trial by fire somewhat. I’d like to get some theory in my head at least and get an idea on things. What are some good books on network/system administration that could help me? 
+
+Experience/background: One year of helpdesk and 6 months of tier 2 helpdesk and Jr. Sys. Admin. CompTIA Trifecta and ITIL Foundation. In school at WGU for BS in IT.",NO,NO,NO,NO,0,"The post anticipates a challenging new role but does not describe current physical or mental exhaustion, energy depletion, or sustained overload.","The text contains no expressions of intense anger, hate, irritability, or disproportionate emotional reactions tied to work.","While the user mentions lacking training, they do not describe cognitive difficulties such as brain fog, forgetfulness, or trouble concentrating at work.","The user actively seeks resources to prepare for the potential role, showing engagement rather than withdrawal, cynicism, or loss of meaning."
+post,8ldmh8,NONE,"Going crazy over a Windows 10 kiosk
+I have a surface pro 4 I'm setting up as a kiosk for a login system. Their software is an ms access database with a fancy gui so assigned access isn't an option. I set up shell execute and set msaccess to open their DB for a user called ""kiosk"". It works **great**! The problem is, the on screen keyboard won't come up. No matter what I do I can't make it happen. I've tried everything I can find on the net but no matter what I can't make it work. I've read elsewhere that this worked in 1703 and broke in 1709. Anyone have any good ideas aside from purchasing third party kiosk software?",NO,NO,NO,NO,0,"The post describes frustration with a specific technical configuration issue but contains no signals of sustained energy depletion, physical exhaustion, or chronic work overload.","While the title uses the colloquial phrase 'Going crazy', this indicates momentary technical frustration rather than sustained emotional impairment, intense aversion, or loss of emotional control.","The author clearly describes the technical setup and troubleshooting steps taken, with no indication of brain fog, memory issues, inability to concentrate, or being cognitively overwhelmed by work demands.","The post is a straightforward technical question seeking solutions for a kiosk deployment, with no evidence of psychological withdrawal, cynicism, loss of meaning, or disengagement from work."
+post,b1zl56,NONE,"Is Microsoft trying to depress me?
+""Welcome to MyAnalytics!  Did you know that last week you spent 22.5 hours in meetings, emails, and chats?""
+
+It's like they are trying to make me drink..
+
+edit: got this after my license was switched to E5",NO,NO,NO,NO,0,"The post mentions a high meeting volume (22.5 hours) but does not describe sustained energy depletion, physical exhaustion, or health deterioration tied to work; it is a reaction to a specific weekly metric rather than chronic overload.","The phrases 'trying to depress me' and 'trying to make me drink' are sarcastic/hyperbolic reactions to a software notification, not descriptions of persistent intense emotional reactions, irritability, or loss of emotional control at work.","No mention of memory issues, difficulty concentrating, brain fog, or feeling cognitively overwhelmed by job demands.","No indication of psychological withdrawal, cynicism, indifference toward work, or going through the motions; the complaint is directed at the analytics tool itself, not disengagement from work."
+post,113csf4,NONE,"big4
+oh man big4 really sucks @$$ why do so many people be there that don't really know what they're talking about?? my managers don't know anything and they stop people like me doing the work we want to do. I need to get out, where should i go?",NO,YES,NO,NO,1,"No mention of exhaustion, tiredness, depletion, or sustained energy loss; the post focuses on frustration with incompetence rather than personal energy drain.","""big4 really sucks @$$"" and expressed frustration toward managers indicate intense aversion and strong negative emotional reaction to the work situation.","No mention of memory issues, difficulty concentrating, brain fog, or decision-making problems.","While expressing desire to leave ('I need to get out'), this appears driven by anger/frustration with obstacles rather than psychological withdrawal or disengagement from the work itself."
+post,8o3cvu,NONE,"""We're listening"" - The next phase of rebuilding r/cybersecurity
+All, 
+
+Wow! The feedback we’ve received since the “great toilet flush” last weekend has been great. Everything from the suggestions about where the subreddit should focus, to the astronomical (and rightfully placed) number of complaints about the strict Auto-Moderator rules, has been brought to our attention either in [our former announcement thread](https://www.reddit.com/r/cybersecurity/comments/8mxgkd/input_wanted_where_do_you_think_rcybersecurity/?st=jhy63ned&sh=6cbaf288) or in mod-mail. We continue to encourage honest, good faith, discourse. Here’s some updates:
+
+* **Auto-Moderator:** The rules that were established last weekend are still in play, but they’re a bit more honed for their intended targets now. For instance, a *post* (self-post or link submission) now requires 90 days account history where as comments do not. On the flip side of that coin, *comments* require >= 20 karma but have no account age requirements. This is still less than ideal, and will still catch well-meaning members to be targeted by the Auto-Moderator. What make’s this different than last week’s mentality of “collateral damage” is that now there is a white-list mechanism in place. If anyone gets caught in the cross hair of Auto-Moderator’s remove button, message the mods and we’ll review your account and your submission and add you to the whitelist.
+
+* **Subreddit Focus:** We’ve heard you and all that remains on determining the focus of the new r/cybersecurity is our own internal deliberation. The r/cybersecurity mod team (u/chumstick, u/CDSEChris, u/Spncrgmn, and u/danielrm26) need to hash out our ideas, and our reservations, about the different directions the sub can be taken. Not just about content, but about the reality of keeping on track with the mission. I suspect that we should have some sort of idea/plan ready in short-order. Of course, we’ll keep you all updated on progress and new developments along the way. 
+
+Keep the feedback coming! To paraphrase a certain renowned doctor from Seattle: *We’re listening.*
+
+e: added link to former thread to make it easier to reference.",NO,NO,NO,NO,0,"This is a subreddit moderation announcement about Auto-Moderator rules and community focus; it contains no personal description of energy depletion, physical tiredness, or sustained work overload.","The post describes receiving complaints from others but does not express personal intense negative emotions, irritability, or loss of emotional control related to work.","The text is an administrative update with no mention of personal difficulty with memory, focus, decision-making, or cognitive overwhelm.","The poster is actively engaged in community management and soliciting feedback ('We're listening'), with no indication of psychological withdrawal, cynicism, or loss of meaning."
+post,b5fg4f,NONE,"How do I fulfill work responsibilities without being victimized?
+I work in Helpdesk in an IT department (despite that, I am basically our workstation and VDI admin plus a few servers). We have enough people to handle our workload, we are very organized, work hard, and collaborate as a team.  IN HELPDESK.
+
+Our ""server"" ""team"" is a disaster. Our senior sysadmin got fired last week, probably for causing disruption to business. Despite that, his subordinate went ahead with, on short notice, migrating everyone from on prem Exchange to O365 over the weekend. This guy's new supervisor is great, but there is major bad blood between the two because the supervisor was formerly the lead dev whose apps were always screwed over by him.
+
+So he botched the migration, and there are phone calls like crazy to helpdesk about email problems. This is the guy's MO and I'm sick of covering for him. I've told my supervisors and they concur but nothing happens. It's a union situation too.
+
+I have always been a very helpful and responsible person but it hasn't helped me much here. I want to just let it roll until he gets fired but I don't really know what to do.
+
+This moron was my ""supervisor"" for about a year so I expect he has done as he did then: goof off for months and do no work, then cram it in at the last minute because he's under the gun, and probably throw his supervisor under the bus.",NO,YES,NO,NO,1,"No explicit depletion, tiredness, or energy loss described; the post describes frustration with a coworker but not personal exhaustion or health deterioration.","""I'm sick of covering for him"" and referring to the coworker as ""this moron"" indicates strong aversion and persistent negative emotion tied to the work situation.","No difficulty with memory, focus, or decision-making described; uncertainty about how to handle the situation is situational rather than cognitive impairment.","No withdrawal, indifference, or cynicism toward work itself described; the user is actively seeking advice on how to fulfill responsibilities, indicating continued engagement."
+post,8xxykk,NONE,"iTunes.... :/
+Hey All,
+
+I'm pretty sure I know the answer but I find it very hard to believe.
+
+Inside the business we run Roaming Profiles. These are backed up to the File Server. Alas, people around the business have installed iTunes which sticks itself in to AppData and is backed up as well.
+
+How can I stop it. I'm being told by our Outsourcer you can't lock it down and stop the damn thing from installing?
+
+What have you guys done? I can't believe this is just ""open"" and anyone can install it whenever they feel like it?
+
+Cheers",NO,NO,NO,NO,0,"No mention of energy depletion, tiredness, or sustained workload; post describes a specific technical frustration without physical or mental exhaustion signals.","While there is mild frustration ('damn thing', 'hard to believe'), there are no intense, persistent, or disproportionate emotional reactions like crying, snapping, or sustained irritability tied to work.","No evidence of brain fog, memory issues, trouble concentrating, or cognitive overwhelm; the user is actively seeking technical solutions and appears cognitively engaged.","No signs of psychological withdrawal, cynicism, indifference, or dread; the user is actively problem-solving rather than disengaging from work."
+post,157xpz7,NONE,"Why Does It Feel Like I Know Absolutely Nothing?
+Hi everyone! 
+
+I’m a cybersecurity student slowly making my way through the concepts via university and personal studies. Because the subject is so complex, I try not to get too ahead of myself and take things one step at a time. 
+
+My question for you all is: Why does it feel like I know absolutely nothing despite doing nothing BUT learn about the subject? 
+
+I’m not sure if there’s a specific feeling that comes with having knowledge on such a topic, but if there is, then I certainly haven’t felt it. I can recall the information in my head and understand it, but when I’m told to apply it, I blank. I’m active in my cybersecurity club, I’m doing CTF’s, and I’m even working on Googles Cybersecurity Course, with plans to put Security+ under my belt by the end of the year. Even with these resources, I still don’t feel on the level of someone who can comfortably say that they know about their field.
+
+Maybe I’m too hard on myself, or perhaps there needs to be a change in the way I study, but I’ve been hitting a wall in my ability to feel like I’ve been actively learning and I don’t know how to change it. 
+
+Has anyone else been in the situation I’m in? Any advice would be greatly appreciated. Thanks everyone!",NO,NO,NO,NO,0,"The post describes learning challenges and imposter syndrome but contains no signals of physical or mental energy depletion, sustained overload, or health deterioration from work demands.","The author expresses insecurity and frustration but does not describe intense, persistent negative emotions, irritability, or loss of emotional control tied to work.","While the author mentions 'blanking' when applying knowledge, this is described in the context of being a new student facing normal learning difficulties without signs of burnout-related cognitive distress.","The author remains actively engaged in learning (CTFs, clubs, courses) and seeks improvement, showing no signs of withdrawal, cynicism, or loss of meaning."
+post,vfnstn,NONE,"The Phoenix Project
+Sorry if this is not appropriate in this sub. 
+
+2 weeks ago someone in my family recommended I read “the Phoenix project”. It surprised me because they weren’t even IT people but said it was a wonderful piece of non-fiction fiction about the IT world. 
+
+I’m a few hours into the audiobook and it’s amazing. It’s all about the politics and workplace issues that we encounter day to day. Devs blaming sysadmins who blame managers for lack of funding or unrealistic goals. 
+
+It follows the lead character through a sudden promotion in the middle of a turbulent time of the business with critical systems failing and new projects needing to be delivered. 
+
+Just the few hours I have heard so far are already helping me mentally distance myself from workloads and how to handle other managers and clients. Sometimes we get wrapped up in things and end up left holding the weight of the business on our shoulders. 
+
+Any other books that aren’t too dry that you recommend?",NO,NO,NO,YES,1,"No explicit mention of energy depletion, physical tiredness, or sustained overload; 'weight of the business' refers to responsibility burden rather than exhaustion.","No strong negative emotions, irritability, or emotional reactions described.","No difficulties with memory, focus, decision-making, or cognitive overwhelm mentioned.",helping me mentally distance myself from workloads
+post,e97zf9,NONE,"NTFS Woes - 2 TB ntfsclone from existing MBR volume to new GPT volume projected at ~56 hours
+I am posting these questions here as I am running out of ideas, and time for that matter.
+  
+For the past month I have been trying to close out this change request for 'fixing a drive space issue' on one of our primary file servers. Everything I've tried thus far has ended with some sort of roadblock that prevents me from accomplishing my goal.
+  
+To give some backstory of my environment:
+  
+* The server is running on a very capable VMware ESX host
+  
+* Our SAN is in tip-top shape featuring flash storage
+  
+* I am using a GParted Live CD to do the copying
+  
+* The server is a Windows Server 2012 R2 box
+  
+* My window for doing this (since it involves taking the server offline) is close to 12 hours
+  
+Now, my experiences to date:
+  
+* My first attempt involved creating the drive, making it GPT in Windows, and then formatting it as NTFS in GParted. I then used the GParted GUI to initiate the copy, but I'm fairly certain it's just using the 'ntfsclone' command. The whole thing completed in close to 8 hours - matched up perfectly with my window of opportunity. However, when I booted into Windows, the drive was marked as RAW and I couldn't access any data. I reverted to snapshot.
+  
+* Next, I performed essentially the same steps, except this time I didn't format the volume as NTFS - I simply copied the existing data to the destination drive over top of the unallocated space. According to my superior, this is the way it is supposed to be done. However, this time it took 1 hour to progress 1.8%. Unless my math is wrong, I project this out at ~56 hours. That is FAR too long for my window of opportunity, and honestly it seems a little excessive for the amount of data that is being copied; especially using a SAN with all-flash storage. As such, I stopped it at about the 12 hour mark, as it was still on pace with my original projection.
+  
+* Finally, I attempted to use gdisk to convert the MBR volume to GPT, but then I discovered that the cluster size is set to 512 Bytes (which has a maximum size of 2 TB) and everything I found regarding that issue was that I would have to reformat the drive. No dice.
+  
+As such, has anyone out there run into a similar issue with ntfsclone taking DAYS to copy this amount of data? If not that, am I clearly doing something wrong or overlooking a key piece of the process? Can someone explain why the copying process was finished in hours when I initially formatted the drive NTFS?
+  
+Thank you for all that read this lengthy post, and hopefully one of you more experienced sysadmins can lead me in the right direction!",NO,NO,NO,NO,0,"The post describes technical time constraints and project delays but does not mention personal energy depletion, tiredness, or physical/mental exhaustion.","While the author expresses frustration with technical roadblocks, the emotional reaction appears proportionate to the situation and lacks intensity, repetition, or sustained distress signals like hate, misery, or irritability.","The post demonstrates organized, detailed technical troubleshooting with clear memory of procedures and events; no brain fog, forgetfulness, or difficulty concentrating is described.","The author remains actively engaged in solving the problem and seeking solutions; there is no expression of indifference, cynicism, withdrawal, or loss of meaning regarding the work."
+post,uczvs3,NONE,"Who else thinks ServiceNow SUCKS?
+Awful tool. Doesn’t load anything consistently. 
+
+Drop down boxes? Forget about it until you literally click around the blank areas of the page.
+
+Templates? Only some of the fields because f**k you buddy.
+
+Clone task? Also f**k you.
+
+These are the kinds of tools that drive a good man to quit. Or drink. 
+
+.. or, both.",NO,YES,NO,NO,1,"The post vents about a frustrating tool but does not describe personal energy depletion, physical exhaustion, or sustained overload.","SUCKS, Awful, f**k you buddy, f**k you, drive a good man to quit","The text contains no mention of memory issues, concentration problems, or difficulty thinking clearly related to work.",The mention of quitting is hypothetical ('drive a good man to quit') rather than a personal expression of withdrawal or disengagement from work.

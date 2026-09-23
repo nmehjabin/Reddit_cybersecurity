@@ -1,0 +1,88 @@
+
+label = 1 (in-scope): post is about work-related burnout / 
+chronic stress / workload / work pressure (job demands, long hours, on-call,
+exhaustion from work, etc.)
+
+label = 0 (out-of-scope): not about work stress/burnout (pure tech questions, news, products, memes, etc.)
+
+label = 2: toughest situation - could be work related; hint of possible stress, work related frustration,
+ mentally exhaustion, depression 
+
+label 3 = imposter syndrome in work life; not knowing something work related, pariah
+
+label 4 = PTSD syndrome, Mental health disorder/ illness, bipolar disorder/adhd , schizophrenia
+
+label 5 = de-stress / stress relief/ not to become overwhelmed
+
+label = 6 ; work-life balance, work - health, work-load balance 
+
+label 7 = job search/ interview/ hard getting job/ job change/ job confussion \ job tasks- slow, not getting it, not feeling good enough about job\ job market burnout \trust issue at work- ethical stress (from CHatgpt) /toxic env
+
+label 8 = anxiety 
+
+label 9= staying motivated, learning new things
+
+Label 10= sleep, numb 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################################
+
+Add these as secondary tags:
+
+On-call / pager fatigue:
+
+on-call rotation, after-hours, cannot disconnect, sleep disruption
+
+Incident response / breach / outage pressure:
+
+SEVs, war room, “everything is on fire,” post-incident blame
+
+Alert fatigue / ticket overload / tool noise:
+
+endless SIEM alerts, noisy detections, “never-ending queue,” context switching
+
+Understaffing / unrealistic workload:
+
+“one-person security team,” hiring freeze, impossible expectations
+
+Org dysfunction / lack of support / blame culture:
+
+leadership doesn’t support security, scapegoating, no budget, unclear priorities
+
+Role overload / scope creep:
+
+security + IT + compliance + IR all dumped on one person
+
+Boundary collapse:
+
+can’t take PTO, guilt being offline, always reachable
+
+Job insecurity / layoffs / re-org stress:
+
+fear of layoffs, instability, constant restructuring
+
+Ethical stress / moral injury (cyber-specific):
+
+“I warned them but they ignored it,” being forced to accept risk, pressured to misrepresent security posture
+
+Physical symptoms tied to work stress:
+
+insomnia, panic symptoms, GI issues, headaches (only when tied to job stress)

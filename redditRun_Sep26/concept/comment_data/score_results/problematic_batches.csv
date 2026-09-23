@@ -1,0 +1,34 @@
+label_id,label_name,chunk_idx,scores,_status,_n_scores
+L00,Workplace Problem Guidance,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 1, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 1, 'hhz5yu3': 1}",partial,8
+L00,Workplace Problem Guidance,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+L01,Career Planning Advice,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 1, 'g4n3u61': 1, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 1, 'hhz5yu3': 0}",partial,9
+L01,Career Planning Advice,5328,"{'n712bx0': 0, 'ildtx9c': 0, 'kpfibg4': 1}",partial,3
+L02,Emotional Support,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 0, 'g4n3u61': 1, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 1, 'hhz5yu3': 0}",partial,9
+L02,Emotional Support,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 0}",partial,3
+L03,Critical Pushback,5212,"{'kswxrmx': 0, 'o8adnn0': 1, 'kcl5zpf': 1, 'fc33l44': 1, 'g4n3u61': 0, 'gj1f4wo': 0, 'nz6i5aq': 1, 'ihhh2ai': 1, 'hhz5yu3': 1}",partial,9
+L03,Critical Pushback,5328,"{'n712bx0': 0, 'ildtx9c': 0, 'kpfibg4': 1}",partial,3
+L04,Personal Relating,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 1, 'g4n3u61': 1, 'gj1f4wo': 1, 'nz6i5aq': 1, 'hhz5yu3': 0}",partial,8
+L04,Personal Relating,5328,"{'n712bx0': 0, 'ildtx9c': 0, 'kpfibg4': 0}",partial,3
+L05,Discussion Direction,5212,"{'kswxrmx': 0, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 1, 'g4n3u61': 0, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 1, 'hhz5yu3': 1}",partial,9
+L05,Discussion Direction,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+L06,Practical Advice,5212,"{'kswxrmx': 1, 'o8adnn0': 1, 'kcl5zpf': 0, 'fc33l44': 1, 'g4n3u61': 0, 'gj1f4wo': 1, 'nz6i5aq': 1, 'ihhh2ai': 1, 'hhz5yu3': 1}",partial,9
+L06,Practical Advice,5328,"{'n712bx0': 1, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+L07,Support Connections,5212,"{'kswxrmx': 0, 'o8adnn0': 1, 'kcl5zpf': 0, 'fc33l44': 1, 'gj1f4wo': 1, 'nz6i5aq': 1, 'ihhh2ai': 0, 'hhz5yu3': 0}",partial,8
+L07,Support Connections,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+T1,informational_support,5212,"{'kswxrmx': 1, 'o8adnn0': 1, 'kcl5zpf': 0, 'fc33l44': 1, 'g4n3u61': 1, 'gj1f4wo': 1, 'nz6i5aq': 1, 'ihhh2ai': 1, 'hhz5yu3': 1}",partial,9
+T1,informational_support,5328,"{'n712bx0': 1, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+T2,emotional_support,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 0, 'g4n3u61': 0, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 1, 'hhz5yu3': 0}",partial,9
+T2,emotional_support,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 1}",partial,3
+T3,esteem_support,5212,"{'kswxrmx': 1, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 0, 'g4n3u61': 1, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 0, 'hhz5yu3': 0}",partial,9
+T3,esteem_support,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 0}",partial,3
+T4,tangible_support,5212,"{'kswxrmx': 0, 'o8adnn0': 1, 'kcl5zpf': 0, 'fc33l44': 1, 'gj1f4wo': 1, 'nz6i5aq': 1, 'ihhh2ai': 0, 'hhz5yu3': 0}",partial,8
+T4,tangible_support,5328,"{'n712bx0': 1, 'ildtx9c': 1, 'kpfibg4': 0}",partial,3
+T5,network_support,5212,"{'kswxrmx': 0, 'o8adnn0': 0, 'kcl5zpf': 0, 'fc33l44': 0, 'g4n3u61': 0, 'gj1f4wo': 0, 'nz6i5aq': 0, 'ihhh2ai': 0, 'hhz5yu3': 0}",partial,9
+T5,network_support,5328,"{'n712bx0': 0, 'ildtx9c': 1, 'kpfibg4': 0}",partial,3
+T6,unsupportive_response,5212,"{'kswxrmx': 0, 'o8adnn0': 1, 'kcl5zpf': 1, 'fc33l44': 0, 'g4n3u61': 0, 'gj1f4wo': 0, 'nz6i5aq': 1, 'ihhh2ai': 0, 'hhz5yu3': 1}",partial,9
+T6,unsupportive_response,5328,"{'n712bx0': 0, 'ildtx9c': 0, 'kpfibg4': 0}",partial,3
+L05,Discussion Direction,2743,{},empty,0
+L03,Critical Pushback,2743,{},empty,0
+L06,Practical Advice,2743,{},empty,0
+T3,esteem_support,2743,{},empty,0
+T4,tangible_support,342,"{'f0v2kpx': 0, 'f0v6lqq': 1, 'f0vdbwd': 1, 'f0vg164': 1, 'f0vidfh': 1, 'f0vjy00': 1, 'f0vm3nr': 1, 'f0vnbys': 1, 'f0vnyyi': 1}",partial,9

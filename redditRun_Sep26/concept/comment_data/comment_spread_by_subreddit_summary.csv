@@ -1,0 +1,6 @@
+subreddit_source,n_posts_with_comments,total_comments,mean_comments_per_post,median_comments_per_post,std_comments_per_post,max_comments_on_one_post,pct_of_total_comments,pct_of_total_posts_with_comments
+sysadmin,1286,26652,20.72,9.0,36.58,583,48.5,36.9
+cybersecurity,1520,23813,15.67,7.0,23.51,268,43.3,43.7
+SecurityCareerAdvice,470,2763,5.88,3.0,8.22,88,5.0,13.5
+asknetsec,193,1531,7.93,5.0,7.72,44,2.8,5.5
+ciso,12,176,14.67,13.5,7.44,29,0.3,0.3

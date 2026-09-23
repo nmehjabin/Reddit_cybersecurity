@@ -1,0 +1,119 @@
+id,text,similarity_score,Label,label_reason
+1dtiput,"Keeping motivation to grow and learn in busy mess SOC
+What advice do you have for someone in the following situation?
+  
+
+  
+I work for MSSP, I am 50/50 analyst/engineer when it comes to tasks, dealing with alert queue 1/3 of week and rest I can focus on engineering projects..some projects I inherited where there is need to revive cisco netsec platforms like ngips or stealthwatch cause its not working and we have licenses - this part is daunting for months now cause I am dependent on other infra teams so going very slowly. Automation part of projects is open to me as well, but I was never developer, just fw admin so kinda struggling to enter here too.
+  
+
+  
+Team is weirdly fractured as there's EU culture half with slow but quality approach and then US part where baking fast and shipping is priority (the fruit of that can be seen in every upgrade and deployment breaking our pipeline once a week).
+  
+
+  
+Both parties have in common non-documentative approach and non-existent patience to mentor and explain holistically how things are configured, non-standard nature differentiating across customers etc. , no proper sharing of how they build stuff, just referencing you to go and check. Tribal knowledge, kinda elitism where if you dont know their interpretation of basic knowledge in developing then they cannot be bothered to guide you. Management is not making any changes cause why endanger delicate working vehicle. Rather in the end of listening to such just cover the problem with joke and problem stays the same.
+  
+
+  
+This is something which drives me nuts and turns off any motivation to learn something properly - I have serious problem to grow and I am just type that values sharing, documentation and caring for each other when it comes to creating something..I find very little of that and not sure what mindset to adapt in order to progressively grow and be content with bits of knowledge I acquire and sleep well everyday.
+  
+
+  
+tldr; how to stay motivated and not burn out while working with team of people having multitudes of knowledge and no characteristics of being a mentor that holds the hand.",0.299787491559982,1,"Matched: burn out, sleep, motivation to grow and learn"
+1aso6ah,"Passed the CCSP
+Took the exam today -> Passed it!
+
+150 questions. It was difficult but I didn't take the full 4 hours. I finished in about 2.5 hours.
+
+I struggled with the legal portion of the exam - never my strong suite, but the data protection, infrastructure security, and cloud concepts were easier. 
+
+If I had to offer a piece of advice:
+
+Read the entire question and all the answers at least 2 times -- read every word! I had some questions where I would think that the answer was A, but I re-read the question and saw one word that I didn't notice before and I changed my answer to B. Every word matters! The questions are purposely written to make you think it through - it's not as easy as question -> answer. There are multiple right answers, and you have to find the best one.
+
+My studying XP might be different than yours - I got the book/test bundle and read through the CSA guide. Some might need more, some might need less - but I recommend the official Sybex book bundle -- well written and it goes over most of the topics on the exam.  Took me about a month to finish it and understand the concepts.
+
+I'm not a video learner - I need to read, so I didn't do any video based courses.
+
+Oh, and remember to get a good night sleep before -- underrated IMO.
+
+Good luck!",0.29067063331604,0,Matched: sleep
+1dcfy3b,"Tired Working on Cybersecurity
+Hi Cybersecurity members!
+
+Just want to venting out, im working on cybersecurity area just because this is what i took when i was on university..
+
+and it was an 8 years ago.. 
+
+Currently im feel tired of this area, almost every single day i need to catch up with the current cybersecurity news. As security consultant, i need to working together with customer.
+And if there are some issue and related to the security solution that i design or suggest to them, i feel guilty and impact to the my personal daily life. i always overthinking about that situation and thinking im not good enough for them.
+
+especially if there is pressure from customers, I will keep thinking about it until I can't sleep.
+
+I have sometimes thought about stopping working in this area, but I need money hahaha ​​if I move to another area this is all I can do....
+
+
+Wishing to you guys, what happens in your work dont make it to impact your personal life or your mental. :)
+
+Happy Monday!",0.269627332687377,1,"Matched: pressure, sleep, tired, can't sleep"
+1bwwk0b,Best Buy Geek Squad Agents ‘Going Sleeper’ After Mass Layoffs,0.281315416097641,0,"Matched: sleeper, layoffs"
+1dtiput,"Keeping motivation to grow and learn in busy mess SOC
+What advice do you have for someone in the following situation?
+  
+
+  
+I work for MSSP, I am 50/50 analyst/engineer when it comes to tasks, dealing with alert queue 1/3 of week and rest I can focus on engineering projects..some projects I inherited where there is need to revive cisco netsec platforms like ngips or stealthwatch cause its not working and we have licenses - this part is daunting for months now cause I am dependent on other infra teams so going very slowly. Automation part of projects is open to me as well, but I was never developer, just fw admin so kinda struggling to enter here too.
+  
+
+  
+Team is weirdly fractured as there's EU culture half with slow but quality approach and then US part where baking fast and shipping is priority (the fruit of that can be seen in every upgrade and deployment breaking our pipeline once a week).
+  
+
+  
+Both parties have in common non-documentative approach and non-existent patience to mentor and explain holistically how things are configured, non-standard nature differentiating across customers etc. , no proper sharing of how they build stuff, just referencing you to go and check. Tribal knowledge, kinda elitism where if you dont know their interpretation of basic knowledge in developing then they cannot be bothered to guide you. Management is not making any changes cause why endanger delicate working vehicle. Rather in the end of listening to such just cover the problem with joke and problem stays the same.
+  
+
+  
+This is something which drives me nuts and turns off any motivation to learn something properly - I have serious problem to grow and I am just type that values sharing, documentation and caring for each other when it comes to creating something..I find very little of that and not sure what mindset to adapt in order to progressively grow and be content with bits of knowledge I acquire and sleep well everyday.
+  
+
+  
+tldr; how to stay motivated and not burn out while working with team of people having multitudes of knowledge and no characteristics of being a mentor that holds the hand.",,1,"Matched: burn out, sleep, motivation to grow and learn"
+1aso6ah,"Passed the CCSP
+Took the exam today -> Passed it!
+
+150 questions. It was difficult but I didn't take the full 4 hours. I finished in about 2.5 hours.
+
+I struggled with the legal portion of the exam - never my strong suite, but the data protection, infrastructure security, and cloud concepts were easier. 
+
+If I had to offer a piece of advice:
+
+Read the entire question and all the answers at least 2 times -- read every word! I had some questions where I would think that the answer was A, but I re-read the question and saw one word that I didn't notice before and I changed my answer to B. Every word matters! The questions are purposely written to make you think it through - it's not as easy as question -> answer. There are multiple right answers, and you have to find the best one.
+
+My studying XP might be different than yours - I got the book/test bundle and read through the CSA guide. Some might need more, some might need less - but I recommend the official Sybex book bundle -- well written and it goes over most of the topics on the exam.  Took me about a month to finish it and understand the concepts.
+
+I'm not a video learner - I need to read, so I didn't do any video based courses.
+
+Oh, and remember to get a good night sleep before -- underrated IMO.
+
+Good luck!",,0,Matched: sleep
+1dcfy3b,"Tired Working on Cybersecurity
+Hi Cybersecurity members!
+
+Just want to venting out, im working on cybersecurity area just because this is what i took when i was on university..
+
+and it was an 8 years ago.. 
+
+Currently im feel tired of this area, almost every single day i need to catch up with the current cybersecurity news. As security consultant, i need to working together with customer.
+And if there are some issue and related to the security solution that i design or suggest to them, i feel guilty and impact to the my personal daily life. i always overthinking about that situation and thinking im not good enough for them.
+
+especially if there is pressure from customers, I will keep thinking about it until I can't sleep.
+
+I have sometimes thought about stopping working in this area, but I need money hahaha ​​if I move to another area this is all I can do....
+
+
+Wishing to you guys, what happens in your work dont make it to impact your personal life or your mental. :)
+
+Happy Monday!",,1,"Matched: pressure, sleep, tired, can't sleep"
+1bwwk0b,Best Buy Geek Squad Agents ‘Going Sleeper’ After Mass Layoffs,,0,"Matched: sleeper, layoffs"
