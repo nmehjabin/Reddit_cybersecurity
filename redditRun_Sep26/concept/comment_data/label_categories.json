@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Workplace Problem Guidance",
+    "source": "lloom"
+  },
+  {
+    "label": "Career Planning Advice",
+    "source": "lloom"
+  },
+  {
+    "label": "Emotional Support",
+    "source": "lloom"
+  },
+  {
+    "label": "Critical Pushback",
+    "source": "lloom"
+  },
+  {
+    "label": "Personal Relating",
+    "source": "lloom"
+  },
+  {
+    "label": "Discussion Direction",
+    "source": "lloom"
+  },
+  {
+    "label": "Practical Advice",
+    "source": "lloom"
+  },
+  {
+    "label": "Support Connections",
+    "source": "lloom"
+  },
+  {
+    "label": "informational_support",
+    "source": "taxonomy"
+  },
+  {
+    "label": "emotional_support",
+    "source": "taxonomy"
+  },
+  {
+    "label": "esteem_support",
+    "source": "taxonomy"
+  },
+  {
+    "label": "tangible_support",
+    "source": "taxonomy"
+  },
+  {
+    "label": "network_support",
+    "source": "taxonomy"
+  },
+  {
+    "label": "unsupportive_response",
+    "source": "taxonomy"
+  }
+]

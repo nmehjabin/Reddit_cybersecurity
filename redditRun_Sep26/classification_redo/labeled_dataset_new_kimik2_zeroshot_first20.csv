@@ -1,0 +1,276 @@
+id,text,true_label,predicted_label,predicted_subcategory,label_reason,match,raw_output
+1g4a7ot,"Burn out among Cybersecurity leaders at a frustrating high.
+In a world of high powered AI and evolving threat actors; cyber security leaders are facing significant amounts of burnout and stress. Anyone experienced this as well?
+
+[https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/](https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/)",1,1,1,"The post explicitly mentions 'burnout and stress' among cybersecurity leaders dealing with evolving threats, and asks 'Anyone experienced this as well?', directly addressing work-related chronic stress and exhaustion.",True,"{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly mentions 'burnout and stress' among cybersecurity leaders dealing with evolving threats, and asks 'Anyone experienced this as well?', directly addressing work-related chronic stress and exhaustion.""
+}"
+1dqiog2,"Invitation to Participate in Research Study on Burnout in IT Professionals
+Hello Everyone,
+
+I hope this message finds you well. I am a master's student currently working on my thesis.
+
+My research focuses on understanding the impact of different work environments (traditional office, work-from-home, and hybrid models) on burnout among IT professionals. My goal for this study is to better understand how various work arrangements affect stress levels, job satisfaction, and overall wellbeing in the IT industry.
+
+Your participation is completely voluntary, and all your responses will be kept confidential. The survey will take approximately 10-15 minutes to complete. No compensation will be provided for participation.
+
+**Survey link:** [https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV\_eDm0Xa4cuc2CMzY](https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV_eDm0Xa4cuc2CMzY)
+
+Thank you for considering my request.",1,0,0,"This post is a research survey recruitment soliciting participants for a study on burnout rather than an expression of personal burnout experience, work-related stress, or mental health struggles; it discusses burnout as an academic research topic without describing the poster's own past or present experience with job demands or exhaustion.",False,"```json
+{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This post is a research survey recruitment soliciting participants for a study on burnout rather than an expression of personal burnout experience, work-related stress, or mental health struggles; it discusses burnout as an academic research topic without describing the poster's own past or present experience with job demands or exhaustion.""
+}
+```"
+1g49xt4,"Dealing with feeling stuck in the security field
+### Opening Statement
+
+In argument theory, there's a concept of a false dichotomy. Within a false dichotomy, we assess that things can be good or bad. It's time to leave or stay. I'm burned out or I'm passionate. It's a natural human decision tree method, which makes decisions binary and - in some cases- that's easier than having options. (Un)fortunately, life is rarely so binary - despite our careers literally being about ones and zeroes.
+
+I've been a community member here for a while across different accounts. On a given day, you'll see at least one post about ""HoW dO I bEcOmE a L33T H@xor wItHOuT DoInG mY oWn ReSeArCh?"" and it's balanced out with ""How do I get out?"". If it weren't so frequent that we see the same two posts day in and day out, it would be funny.
+
+The goal of this post is to provide you options to assess what's in the decimal points between 1 and 0, and hopefully some of the tricks and strategies will help you.
+  
+### Tricks to be discussed:
+
+- Challenge the status quo
+- Diversify your value streams
+- Intra-preneurship [Not a typo]
+
+### Why Me?
+
+Before I start, I want to give my obligitory ""why does my opinion matter?"". Brutally honest - it doesn't. This is just some more text in the world that's repeating great things others have said before. Ego inflating - I've launched and sold a successful security start up, worked for fortune 5 companies, and I'm an ex-lifeguard at the YMCA.
+
+### Disclaimers
+
+I'm not a mental health professional and the advice I'm giving should be taking with that in mind. There are mental health challenges, temporary or chronic, that may be associated with thoughts of being trapped into a situation. This advice is intended to be taken broadly and with a slab of salt.
+
+### Challenge the Status Quo
+
+I have yet to be in a single business where the processes were perfect, everything worked like a well oiled machine, and it was sunshine and rainbows. If you have a workplace like this, and you're reading this article, kindly go climb a tree. This is for the rest of us who live on earth.
+
+With the status quo often comes things like routine, manual tasks that offer minimal value. There are standing meetings that don't make sense. There are boundaries that you aren't allowed to cross, even though the fix is right in plain sight. It can entrap you into a box of function that feels self defeating in many ways. On the other hand...
+
+The status quo may come with such disorganized chaos that nothing is getting done. Everyone complains about issues all the time, but nothing is getting done about any of them. The backlog (if there even is one) is so long and out of date that the thought of prioritizing and executing it requires mental stamina that only tibetan monks have attained. It's crazy out there.
+
+In either situation, I find that a lot of people stuck in the status quo feel helpless to change things and don't feel like they have options. Depending on the company, that may be true, but there are some things to try before giving up.
+
+In any situations where you are challenging the status quo, it needs to be done with respect for why the tape (or chaos) is there. The best way to justify doing what you see as important is to understand the biggest pain points in the business and tackling them. This means talking with your management and other stake holders to see what's bothering them.
+
+Once you have a good sense of the boundaries and challenges that exist, you can start to put together a strategy for dealing with them. Most boundaries are there for good reasons, but sometimes they need to be adjusted. This is where a proof of concept comes into play. Often times when I have an idea for a change, the most effetive way to get support is to put something in a decision maker's hand that shows the change. This could be a script, or a diagram, or a spreadsheet; it just needs to show the value you're bringing.
+
+#### An anecdote --
+
+Once upon a time, I worked at a large utility company and I'm pretty sure the entire thing was built with red tape. I've never spent more time or energy on documentation and process than I did at that organization, so it definitely fell into the first status quo definiton. While my time there was cut short by a certain pandemic, I was quite successful in my role ther and still have many good relationships from the role.
+
+What helped me succeed in the role was doing what I knew needed to be done rather than waiting for a process to complete. The project needed a script built and the devs were busy? I wrote one. We needed to parse and analyze 16GB of logs a day and I had a 6th gen U processor to do it with? Time to learn rust. We needed a business primer on MFA methods? I crafted one. We needed a financial projection for different solutions? I built it.
+
+Instead of being constrained to what my job title was, I actively filled gaps and drove success. I prioritized the biggest pain points and allowed the noisy red tape to whine in the background unless it really was urgent. Along the way, I built the relationships with key people in the organization who also wanted change but needed help showing the path forward.
+
+On the flipside, I had a colleague who was such a rule follower, he genuinely struggled in his role. On top of that, his manager was quite strict in his persuit of delivery. For months I watched the colleague flail about, until one day I snapped at him. 
+
+I pointed out that he wasn't likely going to be perfect at attaining all the written expectations for his role given the amount of tape. In that situation, demonstrating value by completing work was more important than being perfect at following the red lines. When he let go of trying to do everything by the book, and focus on getting things done he felt more empowered to do his job and was actually recognized for it. The manager who had been overbearing came to be trusting instead.
+
+### Diversify your value streams
+
+Originally, I had this section titled for income streams, but I realize that was a single minded approach. In reality, a lot of the times we feel stuck because we don't have other engagements in our lives. Those could be side hustles, hobbies, or community work but they should all be something that keeps you engaged in something else. This (then) excludes mindless activities that lead to less fulfillment, such as watching TV.
+
+Now, I'm not attacking watching TV. There's a time and place for sitting in front of the screen and getting lost in a story or catching up on the news. However, activities like this or doom scrolling have been demonstrated to do little for our motivation and sense of fulfillment. In fact, at too much exposure they can demotivate and defalte our sense of self.
+
+For me, I have found the freelancing keeps me well engaged. I get to learn and solve different problems, often for temporary clients so nothing to long or boring after a period of time. I've also donated a lot of time to local non-profits to support their IT and provide teaching to those who want to get into the field. All these activities are outside of my work hours and keep me engaged by forcing my focus onto other activities for a while. 
+
+Note on the excuse of having families: I have one. Four kids, a disabled wife, and all the extras that brings. As the single income earner for the family, I do a lot to keep them taken care of, but I still make time to play Minecraft with the kids, build legos, build camp fires, etc. with them. Most of my side work is done early morning or after the kids go to bed.
+
+### Intra-preneurship
+
+Now, some of you don't want to or aren't allowed (by your employment agreement) to seek externaml work. In any case, I highly recommend at looking in your business and seeing if there are opportunities for you to take on responsibilities that align with your career goals and business need. With the exception of large enterprises (and even they have these gaps), there's more hats to be worn than people to fill them. Any start up people know this too well.
+
+In the small-medium business category, if you really need a change of pace but like the people you're with, speak up. Create a business case for the change and demonstrate how you could make a difference in that area. You may find that you're able to build your own brand within the organization as the person who brings positive change. With the reputational growth comes increased trust and opportunity to change the status quo, drive value, and make a fulfilling career of your own chosing within the organizatoin construct. 
+
+If you want to learn more about this specific topic, David Bet Patrick wrote a great book ""5 Steps Ahead"" that covers this and more. I recommend it.
+
+### In Closing
+
+These are just three techniques for fighting your sense of being trapped or stuck. Each of them allows you to create a decimal point between ""should I stay or go"" leading to options like:
+
+- 0.0: Leave
+- 0.2: Attempt Intraprenuership
+- 0.5: Challenge the status quo
+- 0.8: Diversify Value Steams
+- 1.0: Stay
+
+Good luck out there, and remember that jobs are a major factor in life and they aren't going to make you personally fulfilled 100% of the time. It's not any company's job to make you happy as an employee; and HR is there to make sure you're productive. This is all as it should be. Your fulfillment and happiness is largely depenent on your ability to control your response to situations. These strategies will help, and there are many others to choose from as well.",1,1,1,"The post explicitly references work-related burnout with statements like 'I'm burned out or I'm passionate' and 'Dealing with feeling stuck in the security field,' while describing chronic work stressors including organizational red tape, manual tasks, disorganized chaos, and feeling trapped by the status quo.",True,"```json
+{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly references work-related burnout with statements like 'I'm burned out or I'm passionate' and 'Dealing with feeling stuck in the security field,' while describing chronic work stressors including organizational red tape, manual tasks, disorganized chaos, and feeling trapped by the status quo.""
+}
+```"
+1fqxn7a,"How are you doing guys?
+Is this cybersecurity stuff stressing you out or is it just me?",1,1,1,"The post explicitly asks if 'this cybersecurity stuff' is 'stressing you out,' directly inquiring about work-related stress and burnout experiences within the cybersecurity profession.",True,"```json
+{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks if 'this cybersecurity stuff' is 'stressing you out,' directly inquiring about work-related stress and burnout experiences within the cybersecurity profession.""
+}
+```"
+1fbdhwo,"Hey folks, for those of you working right now, what’s the toughest situation you’ve faced on the job, and how did you handle it?
+Same as title.",1,1,2,"The post explicitly asks about 'the toughest situation you've faced on the job,' which directly aligns with category 2 regarding toughest situations that could involve work-related stress, frustration, or mental exhaustion.",True,"{
+  ""subcategory"": 2,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks about 'the toughest situation you've faced on the job,' which directly aligns with category 2 regarding toughest situations that could involve work-related stress, frustration, or mental exhaustion.""
+}"
+1dgwtln,"How did you overcome burnout?
+So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout?",1,1,1,PARSE_FAILURE — raw output could not be parsed as JSON,True,"```json
+{{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly describes experiencing burnout after intense work effort ('busted my butt', '23 certifications over the last 3 years') and current symptoms including lack of motivation, hitting a 'brick wall', and avoidance behaviors related to work study demands.""
+}}
+```"
+1abqwwu,"Teams outage due to “networking issue” making for a quiet afternoon, literally.
+It’s been an eerily quiet few hours without the constant barrage of pings…  Hope no one is having an actual security incident right now while their primary comms channels are down without other plans in place🥲",0,0,0,"Post is primarily a technical observation about a Microsoft Teams outage and its temporary effect on communication volume ('quiet afternoon'), rather than a discussion of personal work-related burnout, chronic stress, or mental health struggles. The mention of 'constant barrage of pings' provides context but the focus is on the outage itself.",True,"```json
+{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""Post is primarily a technical observation about a Microsoft Teams outage and its temporary effect on communication volume ('quiet afternoon'), rather than a discussion of personal work-related burnout, chronic stress, or mental health struggles. The mention of 'constant barrage of pings' provides context but the focus is on the outage itself.""
+}
+```"
+1hpsyyq,"How do you find the time?
+Since I've seen that there are actually legit people in this sub, I gotta ask you this.
+
+How in the world do you find time for research? I get so burned out from work, all while trying to balance my time so my long-term relationship doesn't fail because of me spending 16+ hours in front of a screen every day... And I also want to have time to hang out with my friends IRL. Do you sacrifice any of the above?
+
+Does your work give you research time? 30+ days of PTO?
+
+I am in my late 20s and already feel like I'm reaching my limit. Do I just take some breaks and then get back to the grind? I find myself needing more than 2 hours to read a 9 page whitepaper.
+
+How do you do it?",1,1,1,"The poster explicitly states 'I get so burned out from work' and describes working '16+ hours in front of a screen every day,' feeling like they're 'reaching my limit,' and experiencing cognitive exhaustion (needing more than 2 hours to read a 9-page whitepaper).",True,"```json
+{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states 'I get so burned out from work' and describes working '16+ hours in front of a screen every day,' feeling like they're 'reaching my limit,' and experiencing cognitive exhaustion (needing more than 2 hours to read a 9-page whitepaper).""
+}
+```"
+1dti99m,"Challenges in Tabletop exercises?
+We run regular tabletop exercises in our company, my main objective is to raise top management awareness for strategic challenges in information security.
+Yet,  I find them sometimes to time consuming for the output we generate. Management is made aware of some problems. We write a report and then nothing happens till the next time.
+That's a bit frustrating and I am wondering if I approach the problem from the wrong side.
+
+Whats your approach to them? 
+How often do you run them, if you run them at all?
+Do you use a third party to prepare?
+ Does it make a difference in impact on top management or does the report just land at your desk?
+
+Maybe you have some other resources to share to make the process more efficient?",1,0,0,"The post is a technical/process question seeking advice on improving tabletop exercise efficiency and management engagement. While the poster mentions mild frustration ('a bit frustrating') about time consumption and lack of follow-through, this is incidental to the core request for methodological guidance rather than a discussion of burnout, chronic stress, or mental health.",False,"```json
+{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical/process question seeking advice on improving tabletop exercise efficiency and management engagement. While the poster mentions mild frustration ('a bit frustrating') about time consumption and lack of follow-through, this is incidental to the core request for methodological guidance rather than a discussion of burnout, chronic stress, or mental health.""
+}
+```"
+1hc4kxv,"Facebook, Instagram, WhatsApp hit by massive worldwide outage",0,0,0,PARSE_FAILURE — raw output could not be parsed as JSON,True,"{{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline reporting a technical outage affecting social media platforms with no mention of work stress, burnout, personal mental health, or job-related experiences.""
+}}"
+1gy9k2y,"Do you have a different mentality between pentesting and CTFs or is it just me?
+When doing stuff like CTFs when I get stuck on something I sometimes just freely throw payloads at it to see what sticks and go from there. However when I'm stuck on something at work, I'm much less inclined to do so obviously, to not risk breaking anything, and I always have în the back of my mind that there may be something if I fuzzed hard enough, although I do try things manually.
+
+Is it just me with a different mentality at work vs CTFs? Or is this just impostor syndrome?",1,1,3,"The post explicitly asks 'is this just impostor syndrome?' regarding their different mentality and caution when pentesting at work compared to CTFs, directly questioning whether their work behavior constitutes imposter syndrome.",True,"{
+  ""subcategory"": 3,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks 'is this just impostor syndrome?' regarding their different mentality and caution when pentesting at work compared to CTFs, directly questioning whether their work behavior constitutes imposter syndrome.""
+}"
+1c4m72w,"Table top exercise scenarios for Saas cloud-based productivity suites
+Need to put together an exercise, been looking online through CISA and just other general ideas. 
+
+Want to make a specific exercise for this topic that can be used to train for incident response and contingency planning 
+
+What’s a good topic to use for this ?
+
+What other general questions should be discussed in this exercise?",0,0,0,"The post is a pure technical question asking for ideas on creating tabletop exercise scenarios for SaaS cloud-based productivity suites and incident response training. There is no mention of work stress, burnout, mental health, workload, or any psychological concerns related to employment.",True,"{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical question asking for ideas on creating tabletop exercise scenarios for SaaS cloud-based productivity suites and incident response training. There is no mention of work stress, burnout, mental health, workload, or any psychological concerns related to employment.""
+}"
+1egnzy9,A new report finds employees dealing with ransomware suffered PTSD symptoms and major health issues like strokes. Orgs with better wellbeing were more resilient.,1,1,4,"The post explicitly references employees suffering PTSD symptoms and major health issues like strokes as a result of dealing with ransomware incidents, which directly addresses work-related PTSD and mental health disorders in cybersecurity.",True,"```json
+{
+  ""subcategory"": 4,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly references employees suffering PTSD symptoms and major health issues like strokes as a result of dealing with ransomware incidents, which directly addresses work-related PTSD and mental health disorders in cybersecurity.""
+}
+```"
+1b796k5,"Facebook, Instagram down during outage; thousands affected",0,0,0,"This is a news headline reporting a technical outage affecting social media platforms. It contains no discussion of work stress, burnout, mental health, or personal experiences related to job pressure or exhaustion.",True,"```json
+{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline reporting a technical outage affecting social media platforms. It contains no discussion of work stress, burnout, mental health, or personal experiences related to job pressure or exhaustion.""
+}
+```"
+1bdpv83,"SOC analysts, how stressful is your role?
+I would like to know about how stressful the job USUALLY is. I know it's broad and could vary...
+But in general I'd like to hear about people who work as a soc analyst, do you find yourself stressed at work often? 
+I'd love to hear how things unfold in this career.",1,1,1,PARSE_FAILURE — raw output could not be parsed as JSON,True,"{{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks SOC analysts about their work stress levels with phrases like 'how stressful is your role' and 'do you find yourself stressed at work often', directly inquiring about work-related stress, job demands, and pressure in the cybersecurity field.""
+}}"
+1dhoenj,"If you could start fresh today as a do over, what would you do?
+In this day and age how would y’all restart y’all’s career? Looking for tips 😅",0,0,0,"The post is a hypothetical question asking for general career advice about restarting a career ('If you could start fresh', 'how would y'all restart'), with no description of personal burnout, stress, or work-related mental health struggles. Per the guidelines, hypothetical scenarios without clear personal experience of burnout should be classified as out-of-scope.",True,"```json
+{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a hypothetical question asking for general career advice about restarting a career ('If you could start fresh', 'how would y'all restart'), with no description of personal burnout, stress, or work-related mental health struggles. Per the guidelines, hypothetical scenarios without clear personal experience of burnout should be classified as out-of-scope.""
+}
+```"
+1950lqb,"Live Box Walkthrough featuring the PG-Practice machine ""Exfiltrated,"" hosted by our Student Mentor, iKourosh in 30 Minutes",0,0,0,"This is a promotional announcement for a technical livestream/walkthrough of a cybersecurity practice machine ('Exfiltrated'). It contains no discussion of work stress, burnout, mental health, workload, or any psychological factors related to employment.",True,"{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a promotional announcement for a technical livestream/walkthrough of a cybersecurity practice machine ('Exfiltrated'). It contains no discussion of work stress, burnout, mental health, workload, or any psychological factors related to employment.""
+}"
+1axe1ig,"I’m beyond burnt out
+I’m beyond burnt out
+
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.",1,1,1,PARSE_FAILURE — raw output could not be parsed as JSON,True,"{{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states 'I'm beyond burnt out' and 'so close to total burnout,' describing chronic exhaustion from daily battles with engineering teams, constant second-guessing, and feeling unable to continue in their senior information security manager role.""
+}}"
+1eejnlv,"How do you de-stress?
+My normal way to de-stress from work/life was to light up a bowl or from my pen but now that I’m seeing a few doors open in more serious security roles I gotta pass drug tests. Alcohol makes my joints flair up so that’s a no go for me. Any interesting hobbies that you’ve taken up?",1,1,5,"The post explicitly asks 'How do you de-stress?' and references needing new ways to 'de-stress from work/life' due to changing job requirements in security roles, fitting the de-stress/stress relief category.",True,"```json
+{
+  ""subcategory"": 5,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks 'How do you de-stress?' and references needing new ways to 'de-stress from work/life' due to changing job requirements in security roles, fitting the de-stress/stress relief category.""
+}
+```"
+1fvsur8,"Burnt out SOC Analyst - ready to quit
+Without delving into too much detail, over the past 3 years I’ve grown to watch my SOC ( US-based) lay-off analysts, reducing the number to just one analyst per day/night for 10 clients with an unmanageable workload.
+
+Given that this is not a unique experience, I was wondering if anyone else has just walked away from their SOC job with nothing else lined up. Alternatively, feel free to share your SOC trauma experiences!",1,1,1,PARSE_FAILURE — raw output could not be parsed as JSON,True,"{{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly states 'Burnt out SOC Analyst' and describes chronic stress over 3 years due to layoffs creating an 'unmanageable workload' with only one analyst covering 10 clients, while asking others to share 'SOC trauma experiences' and discussing readiness to quit.""
+}}"

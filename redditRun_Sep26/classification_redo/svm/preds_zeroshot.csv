@@ -1,0 +1,841 @@
+id,text,predicted_label,predicted_subcategory,label_reason,raw_output
+1g56d3g,"Feeling Stuck as a SOC Analyst – Advice for Growth and Project Ideas.
+Hey everyone,
+
+I'm currently the only junior SOC analyst on my team, and even though I can manage the workload, I feel like I'm constantly assigned low-level tasks—mainly dealing with alert fatigue and basic monitoring. It's becoming monotonous, and I don't feel like I'm being challenged or learning as much as I'd like, which  is causing me to lose interest.
+
+I've asked to take on more technical projects, but I'm often told they're ""too technical"" or ""above my level."" I want to level up my skills, not just to grow in my current role, but also to qualify for better opportunities elsewhere.
+
+I'm planning to use platforms like TryHackMe and Hack The Box, but I’d really appreciate any advice on projects or areas to focus on that can help me elevate my skills. How can I push myself to the next level, even if I'm not getting that experience at work?
+
+Thanks in advance for any advice.",1,7,"The post describes feeling stuck in a role with 'alert fatigue' and 'monotonous' low-level tasks that are causing loss of interest, while explicitly seeking advice to qualify for 'better opportunities elsewhere' due to current job stagnation and being told projects are 'above my level'.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post describes feeling stuck in a role with 'alert fatigue' and 'monotonous' low-level tasks that are causing loss of interest, while explicitly seeking advice to qualify for 'better opportunities elsewhere' due to current job stagnation and being told projects are 'above my level'.""
+}"
+1cqqakb,"What’s your day to day job as L2 .?
+How you start ur day.? Which tool you spend most of ur time.? What are the issues that keeps resurfacing. What are the incidents patterns these days and top 5 common alerts you handle.!",0,0,"The post consists solely of technical and operational questions about daily L2 job responsibilities, tools used, and common alerts handled, with no mention of stress, burnout, workload pressure, or mental health concerns.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post consists solely of technical and operational questions about daily L2 job responsibilities, tools used, and common alerts handled, with no mention of stress, burnout, workload pressure, or mental health concerns.""
+}"
+1app293,"WORKFORCE WIRE The more workers use AI, the more they worry about their job security, survey finds",0,0,"This is a news headline reporting on a survey about general workforce trends (AI usage and job security), not a personal post describing the poster's own work-related burnout, stress, or mental health experience.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline reporting on a survey about general workforce trends (AI usage and job security), not a personal post describing the poster's own work-related burnout, stress, or mental health experience.""
+}"
+1hks4dp,"SOC analyst in Bank vs MSSP
+Searched on the subreddit, although didn't find any post directly comparing the two.
+
+I work in MSSP as analyst some of the days and engineer on other. After a year I find it chaotic and very stressful. Milion technologies, use cases and platforms built on the knee of some engineer, everyone with some tech specialization works on their sand, there's not much documented - we find ourselves doing the same tasks and asking the same people on how with tribal knowledge, lacking communication within team, no standards of work or deliverables, lack of mentoring and knowledge sharing, lack of management interest to change anything apart from talking about it. You have to be genius or uber kissass to meaningfully jump up.
+
+That being said I have no satisfaction in resolving queue alerts or project tasks, colleague collaboration or having will to learn tech or do some cert..
+
+As I am having some offer to do analyst work in international bank. Wondering how it is there. Anyone can say anything about it or compare? How about workload, stress level, structure of everyday working?",1,1,"The poster explicitly describes their current role as 'chaotic and very stressful,' stating they have 'no satisfaction' in their work and 'no will to learn tech or do some cert,' which are clear indicators of work-related burnout and chronic stress from job demands.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly describes their current role as 'chaotic and very stressful,' stating they have 'no satisfaction' in their work and 'no will to learn tech or do some cert,' which are clear indicators of work-related burnout and chronic stress from job demands.""
+}"
+1d4e1w6,"Yo im not doing mentally well at all
+I work at a big tech company and i have ""those thoughts"" often. im not even a big wig or the senior guy on the team. i feel like i barely learn real *applicable* stuff here. idc to learn about something in some random ass prez and then forget about it the next couple days. i sound like a bitch but the job is almost too cushy. things move extremely slow like kms slow. i just want to feel **fulfillment** like i did when i worked on a small team, but fuck that pay tho. i came from a ""we need you now"" environment, where i actually mattered. now im just floating in the sea of this behemoth company, lost.",1,2,"Post cites 'not doing mentally well at all', having 'those thoughts' (suicidal ideation), and 'kms slow' alongside work-related frustration, mental exhaustion, and depression from feeling unfulfilled and 'lost' in a slow-moving big tech job.","{
+  ""subcategory"": 2,
+  ""label"": 1,
+  ""label_reason"": ""Post cites 'not doing mentally well at all', having 'those thoughts' (suicidal ideation), and 'kms slow' alongside work-related frustration, mental exhaustion, and depression from feeling unfulfilled and 'lost' in a slow-moving big tech job.""
+}"
+1cd4xcq,"Job Stress
+Hi Everyone,
+  
+
+  
+I'm doing a college paper on the effects and working in the Tech Industry for my Psych class
+  
+
+  
+Feel free to message me if you'd like to jump on a 5 minute call, or want to give me the answers privately
+  
+
+  
+But if not, I was hoping any of you could answer some of these questions.
+  
+
+  
+It would greatly help me:
+  
+
+  
+1. What is frustrating (or annoying) you right now with your stress level?  
+
+2. What have you been told to do in the past that hasn't worked?  
+
+3. If you could work out 1 problem around stress with a therapist, what would that be?  
+
+4. What is 1 thing you have experienced while working with stress that you wish more people talked about/had more support around
+  
+5. If you could have less stress, what would that look like?
+  
+6. What is the missing piece for your life to get to less stress?
+  
+7. What do you find most annoying about your stress levels
+  
+Additional questions (if you're brave):
+  
+1. Is there a story about stress that you never want to experience again
+  
+2. What do you find annoying about stress and engineering? If you could choose 1 thing about stress and control it 100%, what would that be
+  
+3. If you went to a therapist, and got a call for free, What is the one question you would ask
+  
+4. What is your goal with controlling stress? What would change for you if this was achieved  
+
+  
+Thank you sooo much!!
+  
+If you are stressed, maybe your answers will help others in the same position",0,0,"The post is a survey request for a college psychology paper soliciting information about others' work stress experiences ('What is frustrating you right now with your stress level'), rather than the poster describing their own past or present work-related burnout or stress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a survey request for a college psychology paper soliciting information about others' work stress experiences ('What is frustrating you right now with your stress level'), rather than the poster describing their own past or present work-related burnout or stress.""
+}"
+1fn8tmd,"What's the Job Title for this line of work?
+I am looking to help close the gap in the talent shortage in cybersecurity. I am considering returning to school to obtain a degree in Law and Technology to have a more solid background. As I consider school, does anyone know what type of job title this type of work would be? It wouldn't necessarily be a recruiter, but maybe a workforce analyst? 
+
+  
+For my context, I currently administratively support a cyber education program but am looking to pivot into the field full-time.",0,0,"The post is a neutral inquiry about job titles and career pivoting without any mention of work stress, burnout, mental health concerns, or job search anxiety. It focuses purely on educational and career trajectory questions.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a neutral inquiry about job titles and career pivoting without any mention of work stress, burnout, mental health concerns, or job search anxiety. It focuses purely on educational and career trajectory questions.""
+}"
+1cjoyj4,"I think I blew my last interview
+Hello everyone,
+
+I’ll get straight to the point, so basically i’ve been interviewing for this company and things had been going really well up until today, i’ve had 2 interviews and they both went amazing.
+However today, on the 3rd and last interview, which i was told there wasnt really gonna be a “technical questions” component because that was on the 2nd interview. 
+I was suddenly asked a few questions and i just froze, like everything i’ve been studying disappeared from my brain.
+Worst part is after the interview ended everything came Back to me and i suddenly knew how to answer the questions.
+Im not used to freeze under pressure, and this is not something that normally happens to me, but i have no idea what happened in that moment, but my mind just forgot everything.
+I think ill need a miracle to get the job now, even after the first 2 interviews being Good ones.
+Has this happened to any of you guys before? How did you deal with it?",1,7,"The poster describes freezing under pressure during a job interview ('i just froze, like everything i've been studying disappeared from my brain') and expresses distress about potentially losing the job opportunity after performing poorly on technical questions, which falls under job search/interview stress.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes freezing under pressure during a job interview ('i just froze, like everything i've been studying disappeared from my brain') and expresses distress about potentially losing the job opportunity after performing poorly on technical questions, which falls under job search/interview stress.""
+}"
+1e8fneq,A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened,0,0,"This is a news headline about a technical outage affecting global computer systems, not a personal account of work-related stress, burnout, or mental health. It falls under pure news/technical discussion.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline about a technical outage affecting global computer systems, not a personal account of work-related stress, burnout, or mental health. It falls under pure news/technical discussion.""
+}"
+1e82llc,How the world’s tech crashed all at once,0,0,"The post is a news headline or technical discussion about a global technology outage/event, with no mention of personal work stress, burnout, mental health, or individual professional experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a news headline or technical discussion about a global technology outage/event, with no mention of personal work stress, burnout, mental health, or individual professional experiences.""
+}"
+1he12yr,"What type of training tools does your organization use?
+[View Poll](https://www.reddit.com/poll/1he12yr)",0,0,"The post is a poll asking about training tools used by organizations, which is a pure technical/operational question with no mention of work stress, burnout, workload, or mental health concerns.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a poll asking about training tools used by organizations, which is a pure technical/operational question with no mention of work stress, burnout, workload, or mental health concerns.""
+}"
+1d19akx,"Poll: What I'm lacking ?
+I thought I'm good enough,  some working security professionals called me good enough, but the results don't match up. 
+
+R'es*ume pics in comments.
+
+[View Poll](https://www.reddit.com/poll/1d19akx)",1,7,"The poster expresses frustration and self-doubt about their job search, stating 'I thought I'm good enough... but the results don't match up' while seeking feedback on their resume, indicating job market stress and difficulty securing employment.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster expresses frustration and self-doubt about their job search, stating 'I thought I'm good enough... but the results don't match up' while seeking feedback on their resume, indicating job market stress and difficulty securing employment.""
+}"
+1cs5z8g,"Enjoy this tool list! My sophisticated, kernel, root hackers tools.
+Heya! I've been in a never ending battle to win back my machine. It has cost me around 5-7 windows machines. After combating them daily, and after discovering ways they got into my system using satellites, blue tooth, and even using the power cable, I decided to make the switch to Linux. Nitrux even.
+
+  
+Now all this is enough to make anyone paranoid, and being the skeptic I am, i had to run many tests to make sure I wasn't simply hacking myself. That was fun. The obvious appearance of some things such as another linux distribution, Ubuntu, as well as a whole bunch of new python scripts and libraries, along with a ""oh-my-zsh"" install, and a huge command list from Powerlevel 9k and I was pretty convinced that I was indeed, being targeted. 
+
+The battle continues, I still manage to humbly get on here to make this post after doing more mods to thier system built on my system which was automatically reinstalling no matter what I deleted and I spent the day going through running every command available. (Aside from the ones like panic, and ""yes"")
+
+I've discovered some more interesting things I thought you'd enjoy me sharing! 
+
+#1. 2 million plus pages of RAM. around 1 million pages of ram running on thier remote machine. Wowza! Whats that smell like?
+
+#2. They have stuff installed not only in my root, but right on top of the kernel. In the kernel.
+
+#3. the internet is (was) looped and looped again. At this point I'm pretty sure even if you remoted in and looked, it would just look like me battling against myself. \*eyeroll\* 
+
+#4. I think it was for intimidation purposes, but now residing in my root directory is a list of programs and stuff they are using. There is a start file, and an end file.  Having ruled out this being my own government, I think its probably safe to post said lists here for everyone to take a gander at. Just to give you an idea of what I'm dealing with, and well to let them know how sick and tired I am of playing host to thier stupid data collection that they've been running on my hardware for so many years.
+
+I don't expect any help, at this point its like picking at a wart, but feel free to throw in your two cents and interpretations. Oh and of Note here is my entire list of applications that I currently have installed: Notepadqq (firejailed not working), Reaper 617 (firejailed not working), Musescore (havent opened yet), vlc media player (no media to play but it works!), Infectionmonkey(firejailed), Libreoffice (yay i can spreadsheet), Inskape, Blender, Krita, Upscayle, Firefox, station.
+
+And now, here is my guests list of software. Enjoy!
+
+  
+Will try to leave in comments",1,4,"The poster describes severe paranoia and delusional persecutory beliefs about being hacked via satellites, Bluetooth, and power cables, claiming kernel-level intrusions and remote machines running on their hardware, which indicates a potential serious mental health disorder such as schizophrenia.","{
+  ""subcategory"": 4,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes severe paranoia and delusional persecutory beliefs about being hacked via satellites, Bluetooth, and power cables, claiming kernel-level intrusions and remote machines running on their hardware, which indicates a potential serious mental health disorder such as schizophrenia.""
+}"
+1990rot,Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch,0,0,"The post is a technical discussion about executing a supply chain attack on PyTorch, containing no references to work stress, burnout, mental health, or job-related emotional experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical discussion about executing a supply chain attack on PyTorch, containing no references to work stress, burnout, mental health, or job-related emotional experiences.""
+}"
+1cdxfvb,Passkeys: A Shattered Dream,0,0,"The post title refers to 'Passkeys' (an authentication technology) as a 'Shattered Dream,' indicating a technical discussion, product critique, or news about cybersecurity standards rather than personal work-related burnout, stress, or mental health experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post title refers to 'Passkeys' (an authentication technology) as a 'Shattered Dream,' indicating a technical discussion, product critique, or news about cybersecurity standards rather than personal work-related burnout, stress, or mental health experiences.""
+}"
+1ebqkrg,The Times: Litigation boom to follow CrowdStrike IT outage,0,0,"The post is a news headline about litigation following the CrowdStrike IT outage, containing no discussion of work stress, burnout, mental health, or personal experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a news headline about litigation following the CrowdStrike IT outage, containing no discussion of work stress, burnout, mental health, or personal experiences.""
+}"
+1enyf0b,"""‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips""
+[Wired article](https://www.wired.com/story/amd-chip-sinkclose-flaw/) from Andy Greenberg.
+
+Doesn't look nearly *Spectre/Meltdown* level bad, but expect a lot of hype/news coverage as this drops at Defcon tomorrow.",0,0,"The post discusses a technical vulnerability ('Sinkclose' flaw) in AMD chips and links to a Wired article, comparing it to Spectre/Meltdown. This is purely technical news coverage with no mention of work stress, burnout, workload, or mental health.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post discusses a technical vulnerability ('Sinkclose' flaw) in AMD chips and links to a Wired article, comparing it to Spectre/Meltdown. This is purely technical news coverage with no mention of work stress, burnout, workload, or mental health.""
+}"
+1aqiy1q,"Lone ISSE at job
+I started a new job 4 months ago - I'm the only security engineer in the company and I'm being made to feel like a pariah. I expected being the lone security engineer would be a challenge but when I make statements explaining why we need MFA the pitchforks and torches come out and I'm warned to ""not bring down any systems.""
+
+I'm employed so I have to count my blessings at least.
+
+Any help or love from my peers is appreciated.",1,3,"The poster explicitly states they are 'being made to feel like a pariah' as the lone security engineer facing hostile resistance ('pitchforks and torches') when advocating for security measures, directly matching the 'feeling like an outsider/pariah' criterion in category 3.","{
+  ""subcategory"": 3,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states they are 'being made to feel like a pariah' as the lone security engineer facing hostile resistance ('pitchforks and torches') when advocating for security measures, directly matching the 'feeling like an outsider/pariah' criterion in category 3.""
+}"
+1b7ali9,Why Meta(Facebook) was Down?,0,0,"The post is a pure technical question about a service outage at Meta/Facebook with no mention of work stress, burnout, workload, or personal mental health experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical question about a service outage at Meta/Facebook with no mention of work stress, burnout, workload, or personal mental health experiences.""
+}"
+1eh1alv,Delta's CEO says the CrowdStrike outage cost the airline $500 million in 5 days,0,0,"This is a news headline about the financial impact of a technical outage on Delta Airlines, containing no discussion of personal work stress, burnout, mental health, or job-related strain from a cybersecurity professional's perspective.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline about the financial impact of a technical outage on Delta Airlines, containing no discussion of personal work stress, burnout, mental health, or job-related strain from a cybersecurity professional's perspective.""
+}"
+1f44bi5,"Job market burnout
+Anyone else having bad luck with the job market? I recently went through an interview process through a referral and thought it went well through both stages. I asked for feedback at the end of each and the first one I received good tips and praise. For the second round I took the advice and felt I knocked it out of the park only to get a rejection email a month later. Asked for feedback to HR on why they decided to move forward with someone else, was promised a call about it the next day and got ignored when I went to follow up. I feel like I’ve been putting my heart and soul into preparing for these and lately I’ve just been striking out as opposed to how it was a couple years ago. 
+
+I have about 4.5 years experience and have been leading IR for about 2+ years at my company. The last job I interviewed for was a TI position requiring 2 years exp which is what I want to do. I just keep striking out and I’m not sure what else to do. Any advice from you folks? 
+
+Some part of me is leaning toward getting out altogether but I don’t want to quit this field just yet. I really want to pivot back into threat intelligence.",1,7,"The post explicitly references 'Job market burnout' in the title and describes the emotional toll of repeated interview rejections despite having 4.5 years of experience, stating 'I feel like I've been putting my heart and soul into preparing for these and lately I've just been striking out' and considering leaving the field altogether.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly references 'Job market burnout' in the title and describes the emotional toll of repeated interview rejections despite having 4.5 years of experience, stating 'I feel like I've been putting my heart and soul into preparing for these and lately I've just been striking out' and considering leaving the field altogether.""
+}"
+1buez9d,"what is the most difficult project you implemented in IAM space?
+what is the most difficult project you implemented in IAM space?
+
+This question is asked mulitiple times in interview but i dont have anything impressive to tell.Can anyone share their experience ?",1,7,"The post explicitly mentions interview anxiety about not having impressive project experience to share when asked about difficult IAM implementations, indicating job search stress and feelings of inadequacy.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly mentions interview anxiety about not having impressive project experience to share when asked about difficult IAM implementations, indicating job search stress and feelings of inadequacy.""
+}"
+1etfqf6,Cisco Now Profits Billions And Makes Thousands of Unexpected Layoffs,0,0,"This is a news headline reporting corporate layoffs at Cisco without any personal narrative, expression of work-related stress, burnout, or mental health impact. It falls under the 'news' category which is explicitly listed as out-of-scope.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a news headline reporting corporate layoffs at Cisco without any personal narrative, expression of work-related stress, burnout, or mental health impact. It falls under the 'news' category which is explicitly listed as out-of-scope.""
+}"
+1aqdz5e,"More than 80% cybersecurity professionals in India suffering from burnout, claims report; and why it is d
+Is it?",0,0,"The post references a news report about burnout statistics ('More than 80% cybersecurity professionals in India suffering from burnout, claims report') and asks for validation ('Is it?'), making it a discussion of external news content rather than a personal account of work stress, burnout experience, or mental health concerns.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post references a news report about burnout statistics ('More than 80% cybersecurity professionals in India suffering from burnout, claims report') and asks for validation ('Is it?'), making it a discussion of external news content rather than a personal account of work stress, burnout experience, or mental health concerns.""
+}"
+1e8n8gr,"Have you read Slow Productivity by Cal Newport? Do you think it is applicable to many of us here?
+As a security practitioner, we have to deal with the fast pace tickets and alerts. We don't spend time dwelling because of work overload.
+
+Here is an AI summary of the book:
+
+Cal Newport's ""Slow Productivity"" offers a new philosophy for achieving meaningful work without burnout, based on three key principles:
+
+1. Do fewer things: Newport advocates for reducing commitments and obligations to focus on what truly matters. This approach allows for better results by enabling workers to concentrate on high-value tasks rather than simply being busy.
+2. Work at a natural pace: Instead of constant urgency, Newport suggests giving important work the time it needs. This principle recognizes that humans are not wired for unceasing intensity, and that a more varied, natural pace leads to sustainable productivity in the long term. Strategies include making longer-term plans, doubling project timeline estimates, and introducing ""seasonality"" into work schedules.
+3. Obsess over quality: Newport emphasizes the importance of producing high-quality work, even if it means missing short-term opportunities. This focus on quality both demands and enables a slower pace, leading to more meaningful career results over time.
+
+The book argues that the modern approach to knowledge work, which often emphasizes constant activity and urgency, is unsustainable and ineffective. Instead, Newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes.""Slow Productivity"" challenges the culture of overwork and constant hustle, offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. By implementing these principles, Newport suggests that individuals can achieve better results, experience greater satisfaction in their work, and avoid burnout.",1,1,"The post explicitly references 'work overload' and describes the 'fast pace tickets and alerts' typical of security operations, discussing a philosophy specifically designed to achieve 'meaningful work without burnout' and avoid the 'culture of overwork' in cybersecurity.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly references 'work overload' and describes the 'fast pace tickets and alerts' typical of security operations, discussing a philosophy specifically designed to achieve 'meaningful work without burnout' and avoid the 'culture of overwork' in cybersecurity.""
+}"
+1caapje,"Psychological resilience training applications for cybersec roles?
+Is anyone familiar with MRT or other resilience training methods and using it to cope with the stress that comes with cybersecurity jobs? 
+
+If so how applicable and effective would you say it is? 
+
+If it's not effective or applicable, know why? 
+
+I'm looking for effective methods for helping cybersec peeps to avoid burnout.",1,5,"The post explicitly discusses methods to 'cope with the stress that comes with cybersecurity jobs' and seeks 'effective methods for helping cybersec peeps to avoid burnout,' directly addressing work-related stress relief and burnout prevention.","{
+  ""subcategory"": 5,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly discusses methods to 'cope with the stress that comes with cybersecurity jobs' and seeks 'effective methods for helping cybersec peeps to avoid burnout,' directly addressing work-related stress relief and burnout prevention.""
+}"
+1b9mg72,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.
+  
+
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer
+: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:
+  
+·       Perceived lack of control
+  
+·       Lack of clear expectations of you or the role
+  
+·       Heavy workloads/Unreasonable deadlines
+  
+·       Poor relationships/Lack of support/Unfair treatment
+  
+·       Problems with work-life balance
+  
+
+  
+I will add ""A persistent stream of negativity"" to the pile.
+  
+
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",1,1,"The post explicitly discusses 'Actionable advice to mitigate burnout' and identifies work-related root causes including 'Heavy workloads/Unreasonable deadlines,' 'Perceived lack of control,' and 'Problems with work-life balance,' directly addressing chronic work stress and job demands.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly discusses 'Actionable advice to mitigate burnout' and identifies work-related root causes including 'Heavy workloads/Unreasonable deadlines,' 'Perceived lack of control,' and 'Problems with work-life balance,' directly addressing chronic work stress and job demands.""
+}"
+1exp797,"What’s your biggest frustration?
+What’s your biggest frustration with Management, business or non-security people? Work related frustrations 😅",1,2,"The post explicitly asks about 'biggest frustration' and 'Work related frustrations' with management and business people, directly inviting discussion of work-related stress and frustration.","{
+  ""subcategory"": 2,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks about 'biggest frustration' and 'Work related frustrations' with management and business people, directly inviting discussion of work-related stress and frustration.""
+}"
+1e8fwci,Meltdown What Meltdown? Southwest Flew On Time All Day,0,0,"The post refers to Southwest Airlines operations ('Southwest Flew On Time All Day') and appears to be news about an airline operational meltdown, not work-related stress or burnout. The term 'Meltdown' here describes a company operational failure, not psychological burnout or job stress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post refers to Southwest Airlines operations ('Southwest Flew On Time All Day') and appears to be news about an airline operational meltdown, not work-related stress or burnout. The term 'Meltdown' here describes a company operational failure, not psychological burnout or job stress.""
+}"
+1e6xjq4,"Are you affected by the Crowdstrike BSOD error?
+https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960
+
+How has it been coping with the outage? Looking for some advice.",0,0,"The post discusses a specific technical incident (Crowdstrike BSOD outage) and asks for advice on coping with the outage, which refers to technical remediation/handling of the incident rather than psychological burnout or work-related stress. It is a news/technical discussion without mention of chronic stress, exhaustion, or mental health impacts.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post discusses a specific technical incident (Crowdstrike BSOD outage) and asks for advice on coping with the outage, which refers to technical remediation/handling of the incident rather than psychological burnout or work-related stress. It is a news/technical discussion without mention of chronic stress, exhaustion, or mental health impacts.""
+}"
+1d8sd21,"What does ""a day in the life of"" looks like in your cybersecurity job??
+I was wondering what a regular day's work in cybersecurity looks like on a day-to-day basis around the world. Whether it be GRC role, cybersecurity engineering, cybersecurity architecture, etc... Are you happy with what you get to do? Any non-cybersecurity related tasks you had to take onto apart from the ones from your role?",0,0,"The post is a general career exploration inquiry asking about daily job responsibilities and satisfaction across cybersecurity roles, not describing the poster's own work-related stress, burnout, or mental health struggles.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a general career exploration inquiry asking about daily job responsibilities and satisfaction across cybersecurity roles, not describing the poster's own work-related stress, burnout, or mental health struggles.""
+}"
+1dk4n5m,"Mental Health Disorders in the Workplace
+Fellow Cyberspace Cadets and Guardians of the Grid!
+
+I seek your counsel on a matter that extends beyond our usual discussions of firewalls and encryption. In our high-stakes world of cybersecurity, how do mental health disorders affect our professional lives?
+
+Mental health issues can impact anyone, regardless of their profession. Do any of you struggle with mental health challenges such as anxiety, depression, or other disorders? Have you worked with colleagues who face these issues? I'm curious about how open people are about these struggles. Do you discuss them with your team, or do you prefer to keep them private?
+
+For those who are open about their mental health, do you inform your HR department about your condition? Has there been a time when you had to disclose this information to HR, perhaps because you needed to be admitted to a psychiatric hospital? If so, how did HR handle it? Did you feel supported or stigmatized?
+
+In professions like the police or military, there's often a strong stigma attached to mental health issues. Officers might fear that admitting to a mental health problem could jeopardize their career. Do you think our field of cybersecurity has a similar stigma? How would you feel if a coworker on your team was struggling with mental health issues? Would you be comfortable knowing a team member might have periods of instability, or would it make you uneasy?
+
+Beyond common conditions like anxiety and depression, what about more serious conditions like Borderline Personality Disorder (BPD), schizophrenia, or bipolar disorder? If a colleague disclosed they had one of these conditions, how would it affect your perception of their ability to perform in our high-pressure environment?
+
+For instance, imagine a scenario where a team member with bipolar disorder has mood swings that sometimes affect their ability to focus during critical security incidents. How would your team handle this? Would you support them, or would there be concerns about their ability to perform under pressure?
+
+Or consider a situation where someone had to take time off for treatment related to schizophrenia. Would your team be understanding and accommodating, or would there be whispers and doubts about their reliability?
+
+For those working as civilians for the Department of Defense (DoD), the situation can be even more complex. Civilians in DoD cybersecurity roles must pass a security clearance background check since these positions require handling information pertinent to national security. Many of us in these roles have served prior to becoming civilian employees, and if you've deployed or been around others who have, chances are you know someone with an acquired mental disorder, such as PTSD. PTSD can at times present symptoms not too different from BPD.
+
+Does collecting VA benefits for PTSD disqualify you from these roles? Does having any mental health disorder disqualify you, or do you or others you know successfully manage their conditions while performing these critical duties?
+
+Your insights and experiences would be incredibly valuable. How do we as a community balance the need for mental health support with the demands of our high-pressure jobs? Do you think there are ways to improve how our field handles these issues?
+
+Thank you in advance for your candid thoughts and shared experiences.",1,4,"The post explicitly discusses PTSD, bipolar disorder, schizophrenia, and other mental health disorders in the cybersecurity workplace, asking professionals about their personal experiences with these conditions, disclosure to HR, and workplace stigma.","{
+  ""subcategory"": 4,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly discusses PTSD, bipolar disorder, schizophrenia, and other mental health disorders in the cybersecurity workplace, asking professionals about their personal experiences with these conditions, disclosure to HR, and workplace stigma.""
+}"
+1h8wyo4,What is this,0,0,"The post consists solely of the vague phrase 'What is this' with no mention of work, stress, burnout, mental health, or any context that would relate to occupational burnout or cybersecurity professional experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post consists solely of the vague phrase 'What is this' with no mention of work, stress, burnout, mental health, or any context that would relate to occupational burnout or cybersecurity professional experiences.""
+}"
+1ct13t1,"Future in cybersecurity
+I am thinking about majoring in Computer Security but I have a few doubts.  
+1. How is job security? Do I have to worry about mass layoffs or anything like that?  
+2.  How stressful is it? Do I have long work hours or overtime to worry about?  
+3. Is the workload manageable? Will I be overworked?",0,0,"The post is from a prospective student asking hypothetical questions about future career conditions (stress, workload, overtime) rather than describing any current or past personal experience with work-related burnout or stress. Per the guidelines, hypothetical/future scenarios lean toward out-of-scope unless another category clearly applies.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is from a prospective student asking hypothetical questions about future career conditions (stress, workload, overtime) rather than describing any current or past personal experience with work-related burnout or stress. Per the guidelines, hypothetical/future scenarios lean toward out-of-scope unless another category clearly applies.""
+}"
+1dhoenj,"If you could start fresh today as a do over, what would you do?
+In this day and age how would y’all restart y’all’s career? Looking for tips 😅",0,0,"The post is a hypothetical question asking for general career advice about restarting a career ('If you could start fresh today as a do over'), with no mention of work stress, burnout, exhaustion, or mental health struggles. It is a pure career guidance inquiry seeking tips, not a description of work-related psychological distress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a hypothetical question asking for general career advice about restarting a career ('If you could start fresh today as a do over'), with no mention of work stress, burnout, exhaustion, or mental health struggles. It is a pure career guidance inquiry seeking tips, not a description of work-related psychological distress.""
+}"
+1dti99m,"Challenges in Tabletop exercises?
+We run regular tabletop exercises in our company, my main objective is to raise top management awareness for strategic challenges in information security.
+Yet,  I find them sometimes to time consuming for the output we generate. Management is made aware of some problems. We write a report and then nothing happens till the next time.
+That's a bit frustrating and I am wondering if I approach the problem from the wrong side.
+
+Whats your approach to them? 
+How often do you run them, if you run them at all?
+Do you use a third party to prepare?
+ Does it make a difference in impact on top management or does the report just land at your desk?
+
+Maybe you have some other resources to share to make the process more efficient?",1,2,"The post explicitly describes work-related frustration ('That's a bit frustrating') regarding the inefficacy of tabletop exercises, noting they are 'time consuming for the output we generate' and expressing concern that reports lead to no action, indicating a stressful work situation.","{
+  ""subcategory"": 2,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly describes work-related frustration ('That's a bit frustrating') regarding the inefficacy of tabletop exercises, noting they are 'time consuming for the output we generate' and expressing concern that reports lead to no action, indicating a stressful work situation.""
+}"
+1dgwtln,"How did you overcome burnout?
+So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout?",1,1,"The post explicitly mentions 'burnout' and describes hitting a 'brick wall' with no motivation to study after accumulating 23 certifications in 3 years, indicating work-related exhaustion and chronic stress from job demands.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly mentions 'burnout' and describes hitting a 'brick wall' with no motivation to study after accumulating 23 certifications in 3 years, indicating work-related exhaustion and chronic stress from job demands.""
+}"
+1950lqb,"Live Box Walkthrough featuring the PG-Practice machine ""Exfiltrated,"" hosted by our Student Mentor, iKourosh in 30 Minutes",0,0,"This is a promotional announcement for a technical walkthrough of a practice cybersecurity machine (PG-Practice 'Exfiltrated'), containing no references to work stress, burnout, mental health, or job-related pressure.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a promotional announcement for a technical walkthrough of a practice cybersecurity machine (PG-Practice 'Exfiltrated'), containing no references to work stress, burnout, mental health, or job-related pressure.""
+}"
+1bos6in,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?",1,6,"The post explicitly asks for 'Work/life balance tips' and seeks advice on 'personal habits to manage your time appropriately, and make time for life outside of work' and 'maintaining a work life balance that keeps loved ones happy,' which directly aligns with category 6 (Work-life balance, work-related health, workload balance).","{
+  ""subcategory"": 6,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks for 'Work/life balance tips' and seeks advice on 'personal habits to manage your time appropriately, and make time for life outside of work' and 'maintaining a work life balance that keeps loved ones happy,' which directly aligns with category 6 (Work-life balance, work-related health, workload balance).""
+}"
+190upfp,"Taking an extended leave
+If burnout was a destination I’d have to turn around and drive back to it because I’m whatever comes after that and before death. 
+
+I’ve been in the field for over 24 years (but still in my early 40s) so it’s the only job I’ve ever had. Lots of personal stuff to unpack but whatever. Left pretty much the worst company during the layoffs, and got conned into a new job that had “great wlb” (it’s a global 24 hour IR role, lol)
+
+Anyway long winded way of saying, I need to take a year off, and just let my brain fix itself. This economy is one of the worst I’ve seen and I’m low key terrified I won’t be able to be hired when I return.  
+
+Anyone done something similar? Advice? Solidarity?",1,1,"The poster describes severe work-related burnout ('whatever comes after that and before death') from 24 years in cybersecurity, specifically citing a demanding 'global 24 hour IR role' with poor work-life balance, and is taking extended leave to recover ('let my brain fix itself').","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes severe work-related burnout ('whatever comes after that and before death') from 24 years in cybersecurity, specifically citing a demanding 'global 24 hour IR role' with poor work-life balance, and is taking extended leave to recover ('let my brain fix itself').""
+}"
+1bfj11l,"What's the point of this career if you're so stressed?
+jw, I'm about to graduate soon and it's between this and general software dev",0,0,"Post is a hypothetical career-choice question from a student who has not yet entered the workforce, asking prospectively about stress levels in the field ('if you're so stressed') rather than describing personal past or present burnout experience.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""Post is a hypothetical career-choice question from a student who has not yet entered the workforce, asking prospectively about stress levels in the field ('if you're so stressed') rather than describing personal past or present burnout experience.""
+}"
+1cxvcd2,"Hmm  this seems big...
+[https://x.com/bukastillo](https://x.com/bukastillo)
+
+  
+So sorry for you fiat guys hope you dont get drained",0,0,"The post references a cryptocurrency security incident ('fiat guys,' 'drained') and expresses sympathy for potential victims, containing no discussion of work-related stress, burnout, mental health, or job pressures.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post references a cryptocurrency security incident ('fiat guys,' 'drained') and expresses sympathy for potential victims, containing no discussion of work-related stress, burnout, mental health, or job pressures.""
+}"
+1aixet2,"Storytime...
+What has the biggest Fvckup/Outage you have been involved with in a work situation and why was it avoidable?",0,0,"The post solicits technical war stories about workplace outages and mistakes (what happened and why it was avoidable) without referencing burnout, stress, mental health, or emotional impact; it is purely a technical/operational anecdote request.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post solicits technical war stories about workplace outages and mistakes (what happened and why it was avoidable) without referencing burnout, stress, mental health, or emotional impact; it is purely a technical/operational anecdote request.""
+}"
+1cfnxvb,"Burnout
+I’m currently on vacation from work. For the first time in so long, I feel actual peace. My phone will not ring randomly from an OpsGenie on-call alert. I deleted Microsoft Teams so nobody can ping me when I am eating or after 5pm. I deleted Microsoft Outlook so I have no status update emails.
+
+I really liked my job, but I don’t think I am going to go back. I do not have another job lined up. I know that’s a bad idea, but I have enough in savings to feel comfortable quitting when I get back.
+
+My job used to be really cool. And then they fired half my team. And then the other half left because the company thought about outsourcing. I know you’re not supposed to be best friends with the people you worked with, but all the breaches we went through really bonded me to them. We worked awful hours to save the day and we made it happen time and time again.
+
+Now my company has a layoff every few months. I had a private conversation with of the VPs and he told me not to worry about the upcoming layoffs because “people just don’t know how to take it”. He was laid off right after them. They fired one of the few people telling everyone things were okay.
+
+I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways. I just want to enjoy Security again.",1,1,"The post explicitly describes work-related burnout through references to 'OpsGenie on-call alert' disruptions, 'awful hours' worked during breaches, chronic layoffs creating a toxic environment, and the statement that the job 'really messed with my head.' The author is currently on vacation to escape this chronic stress and is considering quitting without another job lined up due to exhaustion from workload and instability.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly describes work-related burnout through references to 'OpsGenie on-call alert' disruptions, 'awful hours' worked during breaches, chronic layoffs creating a toxic environment, and the statement that the job 'really messed with my head.' The author is currently on vacation to escape this chronic stress and is considering quitting without another job lined up due to exhaustion from workload and instability.""
+}"
+1ayx0xi,"What did you guys do to not become overwhelmed?
+I am sorry if this is not the correct place to post this, I’m just looking for some insight. I’m doing the Google Certification for cybersecurity and am hoping to land some kind of entry level job but am becoming very overwhelmed by the amount of knowledge I’m trying to memorize all at once. Does anyone have any tips? I need a career change and this feels like a field I would really enjoy doing. I’m just having a hard time convincing myself it will be worth it.",1,5,"The post explicitly asks 'What did you guys do to not become overwhelmed?' and describes currently 'becoming very overwhelmed by the amount of knowledge I'm trying to memorize,' seeking stress relief strategies while studying for a cybersecurity certification.","{
+  ""subcategory"": 5,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly asks 'What did you guys do to not become overwhelmed?' and describes currently 'becoming very overwhelmed by the amount of knowledge I'm trying to memorize,' seeking stress relief strategies while studying for a cybersecurity certification.""
+}"
+1bqojwy,Exorcise Mystery Processes with Task Manager!,0,0,"This is a purely technical post offering a tip about using Task Manager to terminate processes, with no mention of work stress, burnout, mental health, or job-related pressure.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a purely technical post offering a tip about using Task Manager to terminate processes, with no mention of work stress, burnout, mental health, or job-related pressure.""
+}"
+1g3kjny,The War on Passwords Is One Step Closer to Being Over,0,0,"The post is a technical news headline about password authentication technology with no mention of work stress, burnout, mental health, or personal experiences.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical news headline about password authentication technology with no mention of work stress, burnout, mental health, or personal experiences.""
+}"
+1b301s2,"Questionnaire for college work
+Hi if possible can you please fill in this questionnaire for my college work (IK its lazy but cba)
+
+https://docs.google.com/forms/d/1KTmamnqPrgYifUn91aVEsbq4gbM5Ncr4zhn3BdE\_ZR4",0,0,"The post is a request for survey participation for college coursework ('fill in this questionnaire for my college work'), which is unrelated to work stress or burnout. The phrase 'cba' (can't be arsed) indicates casual laziness about the assignment rather than clinical burnout or work-related exhaustion.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a request for survey participation for college coursework ('fill in this questionnaire for my college work'), which is unrelated to work stress or burnout. The phrase 'cba' (can't be arsed) indicates casual laziness about the assignment rather than clinical burnout or work-related exhaustion.""
+}"
+1gipr35,"Would 70 hours be enough to prepare for a FAANG interview for a security engineer position?
+Please let me know if it isn't okay for me to post this here! None of my friends are in the same field so I'm resorting to posting about it. Basically, I have an upcoming FAANG interview next week and I'm nervous about it. I want to know study everything. I actually had the past 4-5 days off and I wanted to put in 30-40 hours of work but that didn't pan out. By the end of today, during the course of 5 days, I would have put maybe around 25 hours into studying, which is basically nothing. I wanted to do 10 hour days. One of the days, I actually wasted because I was anxious about something completely irrelevant and petty (which I beat up myself pretty bad over). 
+
+I have the rest of today, and several days off during the week to study (including next weekend), so I want to put in 50 hours of studying during the course of this week. In total, before the interview next week, I would like to have put 70 hours into studying. I have a list of topics I'd like to study that seemed to relate to the job posting and I'm just taking notes for it. I will also be practicing interview questions (got a bunch of questions I found from different resources online that I can pull from), and I want to go over a couple coding-related stuff as well. I'm nervous. I've had 3.5 years of full-time experience in the field (and an additional one year as an intern). I'm upset at myself that I wasted time during the past few days and I'm hoping I can play catch up this week, so I'll be able to go in completely prepared. It's a phone interview. I'd appreciate any other tips if you guys got any! I've been super stressed all week and it doesn't help that I tend to procrastinate when I'm feeling this way.",1,7,"The poster describes current stress and anxiety specifically related to an upcoming FAANG interview, including procrastination due to stress, self-criticism over wasted preparation time ('I beat up myself pretty bad'), and feeling 'super stressed all week' about the job search process, which falls under job search/interview stress.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes current stress and anxiety specifically related to an upcoming FAANG interview, including procrastination due to stress, self-criticism over wasted preparation time ('I beat up myself pretty bad'), and feeling 'super stressed all week' about the job search process, which falls under job search/interview stress.""
+}"
+1hg5old,"Seeking Guidance on Transitioning from SOC to Threat Intelligence
+Hi everyone,
+
+I’ve been working as a SOC analyst for the past 4 years and recently joined a Big 4 firm about 3 months ago as an L2 analyst, supporting a large client. While it’s been exciting in some ways, I’m really struggling to adapt here.
+
+Most of my teammates are already familiar with the tools and processes since they’ve been part of this project for a while. I, on the other hand, feel like I’m constantly playing catch-up. I haven’t been given access to all the tools yet, and just when I start to get a grip on something, there’s a new tool or process thrown into the mix. It’s overwhelming, and no matter how much I try, I feel like I’m not learning or contributing as much as I should be.
+
+In my previous role with an MSS project, my tasks were mostly ticket-based, and the client-side team handled the resolution. I wasn’t directly working for a single client or communicating with end users, which, I realize now, has made the learning curve here even steeper.
+
+On top of it, the rotational 24/7 shifts have been tough to handle. My previous job had fixed early morning shifts, which worked well for me, but this setup is really starting to take a toll. I honestly feel so overwhelmed at times that I’m considering quitting, even though this company was once my dream place to work and the pay is great.
+
+That said, I’ve been thinking about moving away from SOC altogether and transitioning into roles like Threat Intelligence or Threat Hunting. I feel like these fields align better with my skills and interests, but I’m not sure how to start or what the roadmap looks like. Also, most cybersecurity job postings I see on LinkedIn seem to require 24/7 availability, and I wonder if that’s just the reality of the industry or if there are better options out there.
+
+If anyone here has moved from SOC into Threat Intel or similar roles, I’d love to hear how you did it. Any advice, guidance, or even sharing your own experience would really help me right now.",1,1,"The poster describes current work-related burnout with explicit language including feeling 'overwhelming,' 'this setup is really starting to take a toll,' and feeling 'so overwhelmed at times that I'm considering quitting,' alongside stress from rotational 24/7 shifts and high job demands.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes current work-related burnout with explicit language including feeling 'overwhelming,' 'this setup is really starting to take a toll,' and feeling 'so overwhelmed at times that I'm considering quitting,' alongside stress from rotational 24/7 shifts and high job demands.""
+}"
+1d4dyvd,"Easiest GRC role?
+Which industry/role/job title within GRC has least amount of responsibilities with the least amount of stress?
+
+I heard GRC within financial institutions is never busy. I also heard government GRC positions don’t so shit but then I heard the opposite, that they’re super busy all the time so I’m not sure.
+
+Obviously I am lazy as fuck and have no passion for this stuff and I’m just looking for which role pays pretty well with very little responsibility.
+
+Any suggestions?",0,0,"The post is asking for career advice about future job roles with low stress/responsibility, not describing personal burnout or work-related stress experiences. It is a hypothetical inquiry about job characteristics rather than a discussion of the poster's own mental health or burnout state.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is asking for career advice about future job roles with low stress/responsibility, not describing personal burnout or work-related stress experiences. It is a hypothetical inquiry about job characteristics rather than a discussion of the poster's own mental health or burnout state.""
+}"
+1dnleqp,Google: Stop Burning Counterterrorism Operations,0,0,"The phrase 'burning operations' refers to the intelligence term meaning to compromise or expose covert operations, not workplace burnout. This appears to be a news headline or policy discussion about Google and counterterrorism activities, unrelated to work stress or employee mental health.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The phrase 'burning operations' refers to the intelligence term meaning to compromise or expose covert operations, not workplace burnout. This appears to be a news headline or policy discussion about Google and counterterrorism activities, unrelated to work stress or employee mental health.""
+}"
+1cg4mcz,"Stress in Tech Jobs
+Hi,  I'm doing a research paper for my psych class about stress in tech professions.  I would love to speak with someone over the phone.  But I understand you may be too busy for that.  
+
+  
+If anyone could answer a few questions, I'd greatly appreciate it
+
+  
+1)  What causes you stress?
+
+  
+2)  How would you feel if there was less stress in your job?  Is there an ideal outcome you'd want?
+
+  
+3) What's stopping you from getting help for your stress?
+
+  
+4) What have you done that has worked/hasn't worked when it comes to stress management?
+
+  
+5)  If there's anything else you'd like to mention about this topic, I'd greatly appreciate it
+
+  
+Thanks again.  I feel people are often struggling with mental health, so maybe your anonymous answers might help someone else out there know they aren't alone",1,1,"The post explicitly solicits experiences about work-related stress causes, stress management techniques, and barriers to seeking help within tech professions, directly addressing burnout and mental health struggles in the industry.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The post explicitly solicits experiences about work-related stress causes, stress management techniques, and barriers to seeking help within tech professions, directly addressing burnout and mental health struggles in the industry.""
+}"
+1aeiz0n,"might backfire
+https://youtu.be/S6uoq-8jOl0",0,0,"The post contains only the vague phrase 'might backfire' and a YouTube link with no mention of work stress, burnout, mental health, or job-related pressure. It appears to be a technical or general content share unrelated to burnout.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post contains only the vague phrase 'might backfire' and a YouTube link with no mention of work stress, burnout, mental health, or job-related pressure. It appears to be a technical or general content share unrelated to burnout.""
+}"
+1gjoa65,"how to deal with organizational sexism?
+i'm in an enterprise architect sort of position and have been for a while but my career has stalled out pretty hard and i was hoping some of you wonderful people might have some advice. 
+
+**background:**
+i have a couple decades of IT experience and for most of my career i had a predictable process when i joined a new organization: get hired, be confident and prove myself in progressive projects and then like within the first year or so i'd be able to transition to my actual job of like steering the organization's tech goals.
+
+**issue:** 
+post-transitioning to a girl (🏳️‍⚧️) my job at the time started finding faults with what i was doing when they didn't before, stakeholders would argue with me when before they would have deferred, and coworkers would assume they knew better than me instead of actually listening to what i was saying. i figured it was just the job i was at and found a new one but at that second job, despite being hired as an EA, I never got to the point where I had enough institutional confidence in me to be able to like effectively do my job. after the same non stop issues with stakeholders / coworkers / clients as before I switched to my current job, as a sr ea, and have the same issues again.
+
+**question:**
+so i say all that to say - how do i work around this? i haven't changed my approach to my job, whatever gender i'm appearing as to my coworkers, but its like the bottom fell out on my ability to make organizational change. am i working at the wrong companies, does this take a different approach now, do i need to best several coworkers in mortal combat, or what's the deal?",1,7,"The poster describes experiencing organizational sexism and a toxic work environment where 'stakeholders would argue with me' and 'coworkers would assume they knew better than me,' leading to career stagnation and inability to make organizational change despite decades of experience.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes experiencing organizational sexism and a toxic work environment where 'stakeholders would argue with me' and 'coworkers would assume they knew better than me,' leading to career stagnation and inability to make organizational change despite decades of experience.""
+}"
+1sn4fev,"""Hypercare""
+Been in IT a long time, 33yrs. This HyperCare every vendor states they do is so bad. It worthless.  Can we just go back to post implementation support?  At least back then people actually provided support.  Just a vent I had to put somewhere. Good day!",0,0,"The post is a general vent about vendor support terminology and industry practices (HyperCare vs. post-implementation support) but does not describe personal burnout, chronic stress, workload pressure, or mental health struggles related to work.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a general vent about vendor support terminology and industry practices (HyperCare vs. post-implementation support) but does not describe personal burnout, chronic stress, workload pressure, or mental health struggles related to work.""
+}"
+1eurtz0,"Cyberark PAM to IAM career change
+Out of college I was able to land a position as a CyberArk PAM junior engineer mostly doing consulting and implementation. I worked there for almost a year then was let go, I’m currently looking for another position but cant find much work relating to cyberark. Should I transition to more general IAM work and how would I?",1,7,"The poster describes being 'let go' from their position and is 'currently looking for another position but cant find much work,' asking about transitioning to general IAM due to limited CyberArk opportunities, which falls under job search difficulties and career change confusion.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes being 'let go' from their position and is 'currently looking for another position but cant find much work,' asking about transitioning to general IAM due to limited CyberArk opportunities, which falls under job search difficulties and career change confusion.""
+}"
+1lpc43l,"Need Help Choosing My Path
+Hey everyone! I’m a computer science student, and I’m kind of stuck on what to focus on. I really liked the cybersecurity and database courses, but I don’t have much time to figure out what I actually want because my co-op is coming up this year",0,0,"Post describes a student seeking neutral career advice on specialization choices for an upcoming co-op; contains no mention of work-related stress, burnout, exhaustion, or mental health struggles, and represents a future planning scenario rather than current or past burnout experience.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""Post describes a student seeking neutral career advice on specialization choices for an upcoming co-op; contains no mention of work-related stress, burnout, exhaustion, or mental health struggles, and represents a future planning scenario rather than current or past burnout experience.""
+}"
+1oqrpg4,"Unsure where to go next in my cybersecurity career
+Hey folks,
+
+I could use some guidance about where to head next in my cybersecurity career.
+
+Right now I work as a **Cybercrime Analyst**, mainly blocking phishing sites and fake investment platforms. I also do some phishkit analysis. I’ve been doing this for about a year. I enjoy it, but the day-to-day work is starting to feel a bit easy, and I want to push myself more on the academic and technical side.
+
+My company is great about supporting upskilling. I’m nearly finished with the internal course they provided, and now I need to choose a direction to specialise in. The problem is that I’m not sure what certifications to aim for.
+
+I’ve heard of **CompTIA+** and **CISSP**, but CISSP seems too advanced since it needs five years of experience. That feels like a non-starter for now. CompTIA+ looks more approachable, but there are so many training providers that it’s confusing to know who to trust.
+
+I’m also not sure how tough these certifications really are. For context, I have a **First Class MEng in Software Engineering**, so I can handle the academic side of things. My only concern is time. I get around **two hours a week** at work to study, plus another two at the weekend. Would that be enough to make steady progress?
+
+Another thing I’ve found is that I really enjoy **researching new cyber threats**. I even wrote a blog post for my company about a novel threat, and I loved doing it.
+
+I’d really appreciate any advice, personal experiences, or reassurance about where to go next. What would you recommend as a next step or cert for someone in my position?
+
+Thanks in advance.",0,0,"The post is a straightforward request for career guidance and certification advice without any mention of burnout, chronic stress, exhaustion, or mental health struggles. The poster explicitly states they enjoy their work and company, and is simply seeking direction for professional development and upskilling.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a straightforward request for career guidance and certification advice without any mention of burnout, chronic stress, exhaustion, or mental health struggles. The poster explicitly states they enjoy their work and company, and is simply seeking direction for professional development and upskilling.""
+}"
+u4d0e8,"What is up with WSUS and my VDI
+I have WSUS installed on a windows 2016 servers. We have some Azure tenant virtual desktops. I refresh on WSUS and I keep seeing one individual desktop pop in, shows it has an error update, next refresh it goes blank or another unit shows up. I have 30 of these machines when I check status of ANY they should all show up. Not just one at a time, then they go away!! Weird! I have physical machines too they behave and stay in the list once assigned in WSUS. Also, has anyone replaced WSUS with Intune yet for critical and security updates, Windows 10?",0,0,"The post is a pure technical troubleshooting question regarding WSUS and VDI infrastructure behavior, asking why virtual desktops appear and disappear in the console and whether to migrate to Intune, with no mention of work-related stress, burnout, or mental health concerns.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical troubleshooting question regarding WSUS and VDI infrastructure behavior, asking why virtual desktops appear and disappear in the console and whether to migrate to Intune, with no mention of work-related stress, burnout, or mental health concerns.""
+}"
+karc09,"Random Outlook Password Prompts?
+After removing <email #2> from Windows Outlook app, it started asking for the credentials of <email #1> that was still added. It asks for the credentials of <email #1> when Outlook is launched.   
+
+
+Within the Microsoft Exchange account settings, the ""Always prompt for logon credentials"" is disabled.  
+When credential is entered on the prompt, it doesn't like the account's actual password.  
+We got the prompt to stop asking by entering the ""App password"" and checking ""remember credentials"" on the prompt.
+
+&#x200B;
+
+I just wanna understand why removing <email #2> cause the other email to require to enter credentials again. The account removed is under a different M365 domain/Azure tenant. No other changes were done on on the <email #2> account.",0,0,"The post is a pure technical troubleshooting question regarding Outlook password prompts, Exchange account settings, and Azure tenant configurations, with no mention of work stress, burnout, mental health, or job-related anxiety.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical troubleshooting question regarding Outlook password prompts, Exchange account settings, and Azure tenant configurations, with no mention of work stress, burnout, mental health, or job-related anxiety.""
+}"
+oj1171,"GPO Help
+Hey everyone, I'm having an issue where I feel like I'm just overlooking something. I have 2 servers (I mention the 2nd one only because it's working on the 2nd one), Windows Server 2019 and Windows Server 2012 respectively. I am trying to deploy AD with no password complexity just to onboard and step by step introduce more security. On the 2012 I can reset a password to only 4 characters, no numbers or symbols and everything is fine. Trying to do it on the 2019 the GPO is saved but when I go to reset the password it says it's not complex enough. Both systems are integrated with O365 with ADConnect. I tried running the gpupdate command and rebooting the server. I' not 100% sure the policy is being applied but I can't seem to figure out why not, I added it to the OU I wanted it at and made sure it was enabled. Any help or point in the right direction is greatly appreciated.",0,0,"Pure technical troubleshooting question regarding Group Policy Object (GPO) configuration and Active Directory password complexity settings with no mention of work stress, burnout, mental health, or job-related anxiety.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""Pure technical troubleshooting question regarding Group Policy Object (GPO) configuration and Active Directory password complexity settings with no mention of work stress, burnout, mental health, or job-related anxiety.""
+}"
+f3ey01,"Cloud Backup Recommendations
+I want to offload my current backup situation to the cloud, have replication to a NAS offsite but I want to create something more redundant by backing up to the cloud, any recommendations? Currently using Veeam B&R",0,0,"This is a pure technical question seeking product recommendations for cloud backup solutions and redundancy strategies using Veeam B&R. There is no mention of work stress, burnout, mental health, workload pressure, or any psychological factors related to employment.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a pure technical question seeking product recommendations for cloud backup solutions and redundancy strategies using Veeam B&R. There is no mention of work stress, burnout, mental health, workload pressure, or any psychological factors related to employment.""
+}"
+cz0r4t,"Online courses
+I did some course on Coursera years ago where we did practical coding like buffer overflow exploits. Are there any good online courses that cover the practicalities of this sort of thing?",0,0,"The post is a pure technical inquiry asking for recommendations on online courses about buffer overflow exploits ('Are there any good online courses that cover the practicalities of this sort of thing?'). It contains no mention of work stress, burnout, mental health, job pressure, or motivational struggles.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical inquiry asking for recommendations on online courses about buffer overflow exploits ('Are there any good online courses that cover the practicalities of this sort of thing?'). It contains no mention of work stress, burnout, mental health, job pressure, or motivational struggles.""
+}"
+94nfk8,"Which Information Security/Cybersecurity Certifications Are ""The Gold Standard""?
+I've researched this, and it seems everyone names a different one as the gold standard in the industry. What is it/what are they, in your assessment? 
+
+Also, of them, which are the easiest to study and get? Which are the hardest to study and get?",0,0,"The post is a pure technical/career information question asking which certifications are considered 'the gold standard' and which are easiest/hardest to obtain. It contains no mention of work stress, burnout, mental health, exhaustion, or any emotional distress related to certification study or work.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a pure technical/career information question asking which certifications are considered 'the gold standard' and which are easiest/hardest to obtain. It contains no mention of work stress, burnout, mental health, exhaustion, or any emotional distress related to certification study or work.""
+}"
+1eh32my,"ISO 27001 lead auditor/implementor exams (Aust)
+Hi guys, just wondering if anyone knows who facilitates exams for ISO 27001 lead auditor and lead implementor - I'm skilling up to perform both these roles and am trying to find someone who facilitates the exams/awards the credential. I'm based in Australia if that's relevant.",0,0,"The post is a straightforward technical inquiry about ISO 27001 certification exam providers in Australia, containing no references to work stress, burnout, mental health, job search anxiety, or career-related distress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a straightforward technical inquiry about ISO 27001 certification exam providers in Australia, containing no references to work stress, burnout, mental health, job search anxiety, or career-related distress.""
+}"
+15kk5jg,"I have an interview scheduled for tomorrow (SERVICE DESK ANALYST)
+i passed the 2 rounds which were HR & spotting grammatical mistakes. 
+
+I did my research on the active directory and so far it makes sense to me. i think i am understanding it simply. 
+
+now the main focus will be on my communication in english (im sort of bad at speaking & not typing) sure i will just practice it. i want to know from you experienced people how i prepare myself to answer the questions they'll ask me. 
+
+it's also my first cybersecurity interview. i really want the job.. so any help, ill appreciate it 🙏",1,7,"The post focuses on preparing for an upcoming cybersecurity job interview ('first cybersecurity interview'), asking for advice on how to answer questions, and expressing nervousness about communication skills during the hiring process.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post focuses on preparing for an upcoming cybersecurity job interview ('first cybersecurity interview'), asking for advice on how to answer questions, and expressing nervousness about communication skills during the hiring process.""
+}"
+1ddhms5,"Trying to up-skill and escape ‘front line’ support
+I have been in 2nd line support for approaching 7 years now and I have realised that the only way out is to actually put the work in and upskill.
+
+I have been looking into the Azure Administrator and Security Engineer routes, but I was wondering if anyone here has experience with these paths or can weigh in on pros and cons of each.",0,0,"The post is a technical career advice question about Azure certification paths and upskilling to change roles, with no mention of work stress, burnout, mental health impacts, or job-related distress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical career advice question about Azure certification paths and upskilling to change roles, with no mention of work stress, burnout, mental health impacts, or job-related distress.""
+}"
+ut3ima,"System Admin for 3 buildings
+Hello,
+
+&#x200B;
+
+I'm a systems admin for 3 buildings. I am the only one, ton's of different technologies from desktops , laptops to iPads , smart boards , printers etc. (you know the deal since this is the syst. admin thread).
+
+&#x200B;
+
+I have over 50+ users and a few thousand technologies. I am the only man and point of contact.
+
+&#x200B;
+
+I'm trying to find a better paying job within systems admin or somehow try to move to the Networking Side.
+
+&#x200B;
+
+has anyone dealt with this situation or has had any experience transitioning  to a better paying role or job?",1,7,"The poster describes being the sole systems admin supporting 50+ users and thousands of devices across three buildings, then explicitly asks about finding a 'better paying job' and 'transitioning to a better paying role or job,' which falls under job change/job search (category 7).","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes being the sole systems admin supporting 50+ users and thousands of devices across three buildings, then explicitly asks about finding a 'better paying job' and 'transitioning to a better paying role or job,' which falls under job change/job search (category 7).""
+}"
+oyx34n,"Cyber security and hacking experience
+Hey y’all. Here’s a bit of info on me. I graduated a year ago with a degree in cybersecurity and currently working on an ITF + certificate. I am currently struggling to get a job related to my field as well as experience (literally all of the entry level jobs require 3 years of experience minimum). I was wondering how can I obtain experience in other ways besides getting a job in cyber security as well as hacking. I know bug bounties and hackthebox are the way to go but with that said what are other ways of obtaining experience so I can finally land a job? Thanks y’all for reading",1,7,"The poster explicitly states they are 'currently struggling to get a job related to my field' and expresses frustration that 'literally all of the entry level jobs require 3 years of experience minimum,' which falls under job search difficulties and job market burnout.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states they are 'currently struggling to get a job related to my field' and expresses frustration that 'literally all of the entry level jobs require 3 years of experience minimum,' which falls under job search difficulties and job market burnout.""
+}"
+1988cgl,"AI poisoning could turn open models into destructive “sleeper agents,” says Anthropic",0,0,"This is a technical news headline about AI security risks and 'sleeper agents' in machine learning models, with no mention of work stress, burnout, mental health, or personal job-related pressure.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a technical news headline about AI security risks and 'sleeper agents' in machine learning models, with no mention of work stress, burnout, mental health, or personal job-related pressure.""
+}"
+1c54tkk,"Cybersecurity Job that doesn't involve customer facing interaction
+[27F] Been an IT support for 4yrs . And for the past 6 months in my cybersecurity career, I realized that I can easily pick up and understand the technical know how of the product easily rather than my colleagues. But I'm having a hardtime explaining to a customer and the everyday exhaustion talking to a customer guiding them, troubleshooting, investigating and stuff. Though, our day to day customer is talking to a lot of IT peeps as well. I think I'm good in technical but not explaining how stuff works. Yup,I suck at commskills. Though, I'm always included in the top agent/engineer since I started. I just don't like the fact that talking to different customer everyday. 
+It is really exhausting. The fact that I cannot sleep because I always think of my ticket and troubleshoot it on my mind 🥲
+
+I'm planning to get comptia sec+ so I will pursue a SOC analyst job in my next work. Does being SOC analyst is a customer facing too? Or should I pursue blue/red team or ethical hacking ?",1,1,"The poster describes current work-related exhaustion ('everyday exhaustion talking to a customer', 'It is really exhausting') and sleep disruption caused by intrusive work thoughts ('I cannot sleep because I always think of my ticket'), indicating active burnout from job demands and customer-facing pressures.","{
+  ""subcategory"": 1,
+  ""label"": 1,
+  ""label_reason"": ""The poster describes current work-related exhaustion ('everyday exhaustion talking to a customer', 'It is really exhausting') and sleep disruption caused by intrusive work thoughts ('I cannot sleep because I always think of my ticket'), indicating active burnout from job demands and customer-facing pressures.""
+}"
+1ew6r14,"Do hackers stay awake at night when they want to be within working hours of another continent to not be suspicious with login attempts?
+Or do they like automate login attempts, and go to sleep?",0,0,"The post is a technical question about threat actor tactics and automation (whether malicious hackers manually operate across time zones or automate login attempts), with no mention of personal work stress, burnout, mental health, or the poster's own job demands.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical question about threat actor tactics and automation (whether malicious hackers manually operate across time zones or automate login attempts), with no mention of personal work stress, burnout, mental health, or the poster's own job demands.""
+}"
+pynpys,"Feedback on my resume? Switching careers mid-career, ""recent"" security grad, slim on tech skills(working on it).
+I'm looking to switch careers and suffer from imposter syndrome. I've been in IT for a while but lack the higher-end technical skills, but am working on it. There must be a position for me that I could grow into. Thank you for any feedback you may provide.
+
+https://imgur.com/a/War0Gxv",1,3,"The poster explicitly states 'I suffer from imposter syndrome' when describing their feelings about switching careers and lacking technical skills, which directly aligns with category 3 (Imposter syndrome in work life).","{
+  ""subcategory"": 3,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states 'I suffer from imposter syndrome' when describing their feelings about switching careers and lacking technical skills, which directly aligns with category 3 (Imposter syndrome in work life).""
+}"
+fu2j3j,"CIO/CTO's be straight bonkers...
+My company is on it's third CIO/CTO in a year and each one gets more batshit insane.  The first over engineered (at least one order of magnitude) our on premise colocation.  The 2nd pitched to the business that we should ditch everything we just bought.  And the last said we should move our entire operation to the cloud and that any young helpdesk tier 1 can be top tier network engineer with 'just a little bit of training'.  What are they teaching these MBA people... it's clearly not IT. /rant",1,7,"The post describes a toxic work environment with three leadership changes in a year and 'batshit insane' management decisions, expressing significant work-related frustration and ethical stress about incompetent leadership, ending with '/rant'.","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post describes a toxic work environment with three leadership changes in a year and 'batshit insane' management decisions, expressing significant work-related frustration and ethical stress about incompetent leadership, ending with '/rant'.""
+}"
+1f40vjd,"Implementing and managing an EDR for ~250 endpoints
+As helpdesk grunt with sysadmin tendencies, I've been given the (un)enviable task of researching our options to strengthen our security posture. We're a smaller shop with about 250 endpoints (including on prem servers) so I figured an EDR would be in order, especially so given that we supposedly take security very seriously.  
+One of the considerations I'm running into is that I don't think we have the manpower to properly configure and monitor any type of EDR we were to implement. Currently our IT team is me and two actual sysadmins, I'm not sure how much extra work it would create to also properly manage something like this, but I feel like we might be understaffed. 
+
+
+
+Does anyone have any experience implementing and managing an EDR in a similar situation? I haven't been given any clear indication on budget but I assume a managed EDR might be outside of our price range.",0,0,"The post is a technical question about EDR implementation for 250 endpoints. While the poster mentions being 'understaffed' and concerns about 'manpower,' this is framed as a resource/logistical constraint for the project ('I don't think we have the manpower to properly configure and monitor') rather than a description of personal burnout, chronic stress, exhaustion, or mental health struggles. The core content seeks technical recommendations and product advice.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a technical question about EDR implementation for 250 endpoints. While the poster mentions being 'understaffed' and concerns about 'manpower,' this is framed as a resource/logistical constraint for the project ('I don't think we have the manpower to properly configure and monitor') rather than a description of personal burnout, chronic stress, exhaustion, or mental health struggles. The core content seeks technical recommendations and product advice.""
+}"
+155fko5,"What are some other career fields you’ve thought of?
+I’m ready to move on. I’m almost 40 and have done IT since my early 20s. I feel trapped. What else is out there that IT skills can transfer into?",1,7,"The poster explicitly states 'I feel trapped' in their IT career and is 'ready to move on,' asking about alternative career fields where their skills can transfer, which directly aligns with category 7 (job change/career transition due to work dissatisfaction).","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The poster explicitly states 'I feel trapped' in their IT career and is 'ready to move on,' asking about alternative career fields where their skills can transfer, which directly aligns with category 7 (job change/career transition due to work dissatisfaction).""
+}"
+nly534,"I Recently had a data breach and i think i secured everything. But did i? Help me please.
+so around 3 weeks ago I downloaded a couple of malicious files by accident and i was in for a world of stress. The very next day i see my PC acting strangely. 100% CPU and GPU usage Doing nothing at the home screen. My rig is getting hot, heating up my whole room which isn't normal for me. I know this isn't right so i start to get suspicious that my Computer is being used for crypto mining and behold, I open Task manager and notice that for a flash second, i can see the program causing it before it hides itself.  I used Process Hacker to see if there was a miner on my PC and of course there was, it's called **pmstart.exe.** I panic and jumped on this fast and spent hours looking for solutions to get rid of this malware and any other unwanted malwares/viruses/trojans that might've been included during my downloading of said previous malicious files. I spent the whole day figuring out what i could do to rid my PC of all harmful files once and for all  by downloading gridinsoft anti malware and doing a full scan. oh yeah, It caught more than just the miner, and i did what i had to do to secure my PC the best i could by removing them all. After gridinsoft goes to work and removes all of them, I think i should be okay now right? All the viruses, Malwares, Trojans have been removed. I Started frantically scanning and restarting my PC every hour the whole day and week to make sure nothing came back and to make sure that i was officially. I was sure at this point that im okay now.. right? My computer wont get bricked as there are no malicious programs running on it anymore. but i missed something that should have been obvious. 1 week later i cant login to facebook, Discord, Or Battle.net.   
+
+
+this is the moment I Realized i have had a complete data breach.  But How bad is it? How much do they got, how much do they know. What could they can and can't get into? What can i do to make sure that im still secure, along with everyone else in my house that owns a computer thats running on the same wifi. I Changed my passwords for The really important stuff such as my bank and my Emails. but i dont know how severe this can get. Currently as im typing this post. Ive only lost access to my Facebook, Discord, And battle.net.  My bank is ok so far. no weird activity, no charges, changed password as said. I Can still get into my Emails, also changed those passwords. My steam account is fine, since  has 2 step verification/ phone number linked and AGAIN changed password. but Even though all the viruses are removed and my anti malware tells me my computer is clean, will i be ok? I want to asssume that the data that was breached and available to whoever the attacker is, was only available to them if the viruses/malware was on my computer. so after i removed all of those harmful files, is it ok to say they couldnt get any of my new updated passwords? How does this work? I Have not ran into any other accounts that have been messed with. I am scared, i feel exposed online. i dont feel safe on my computer at all even if the anti virus softwares i have say that im ok. Im going to buy a new computer and download everything from scratch. will the new computer be safe? Is my network safe?  Im not educated much on cyber security what to do's and dont's. All and any help will be much appreciated. And just to finish things up i will say again that only my Facebook, Discord, And battle.net accounts have been inaccessible to me currently at the time of this post. Im thankful thats its nothing more than those 3, but i can only hope that its only those 3. Sorry if this post is hard to read, im extremely tired and stressed. Im hoping that when i get the new computer ill be free from this all even though according to anti virus softwares ''im safe now''.",0,0,"This is a personal technical support request regarding a malware infection on a home computer and subsequent compromise of personal accounts (Facebook, Discord, Battle.net), not a post about work-related burnout or occupational stress. While the poster mentions feeling stressed and panicked about the security incident, this is situational anxiety about a personal cybersecurity issue rather than chronic work-related burnout, job demands, or professional mental health concerns in the cybersecurity field.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""This is a personal technical support request regarding a malware infection on a home computer and subsequent compromise of personal accounts (Facebook, Discord, Battle.net), not a post about work-related burnout or occupational stress. While the poster mentions feeling stressed and panicked about the security incident, this is situational anxiety about a personal cybersecurity issue rather than chronic work-related burnout, job demands, or professional mental health concerns in the cybersecurity field.""
+}"
+1c7yzmm,"How to get started in Detection & Response Engineering
+My background is in forensics and security operations (S0C Analyst). I've used a lot of the tools seen in both roles (SIEM, EDR, a ton of forensic tools). I've responded to incidents both as an internal employee and as a consultant. 
+
+l'd like to move away from first responder type of roles which usually involves shifts or crazy hours to a role that's more 8-5 and where I have to figure out solutions and not do repetitive tasks (SOC) or deal with wild incidents and no work/life balance (consultant).
+
+Also, I know Python and SQL (not an expert) and want to focus on the best things to learn to be successful in this role. 
+
+Researching this position and applying I've gotten denied to a couple of roles. Most job descriptions mention the following: 
+
+- SIEM Engineering (log ingestion, management) 
+- Playbook creation (l'm assuming SOAR) 
+- Creating rules and detections (not sure if they expect YARA, Sigma, Regex) 
+
+Other companies mention familiarity with CI/CD pipelines, containers (docker, kubernetes) and are more heavily focused on coding. Please feel free to share your thoughts and resources to learn any of these.",1,7,Post describes job search struggles ('gotten denied to a couple of roles') and a desire to change careers specifically to escape 'crazy hours' and 'no work/life balance' in current SOC/consultant roles.,"{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""Post describes job search struggles ('gotten denied to a couple of roles') and a desire to change careers specifically to escape 'crazy hours' and 'no work/life balance' in current SOC/consultant roles.""
+}"
+begz93,"Possible to become pentester first job out of college
+I’m currently a Jr. working on my CS degree. I work part time as a year round intern at a major tech company known for processors. My role is an undergrad software engineer intern, and after being there about a year I’ve come to realize that software engineering isn’t really my passion. I’ve had a infoSec / cyber security internship and liked it much more then my current situation (besides the pay). I really want to get into penetration testing but have been told by a few people that 1) getting a pentesting job right out of college is very hard. And 2) that pentesting pays far below software engineers. I understand money isn’t everything, with that being said it’s always a plus if something you seem to have a passion for also pays the bills and gives you a decent lifestyle. So I guess my question is, what are some things I can actively do before I graduate to stand out and be considered to such a job? And also, not to be that guy.. but how’s the pay?",1,7,"The post discusses job search strategies for obtaining a penetration testing role immediately after college ('what are some things I can actively do before I graduate to stand out'), expresses career confusion about transitioning from software engineering to cybersecurity ('software engineering isn't really my passion... I really want to get into penetration testing'), and raises concerns about job market difficulty ('getting a pentesting job right out of college is very hard').","{
+  ""subcategory"": 7,
+  ""label"": 1,
+  ""label_reason"": ""The post discusses job search strategies for obtaining a penetration testing role immediately after college ('what are some things I can actively do before I graduate to stand out'), expresses career confusion about transitioning from software engineering to cybersecurity ('software engineering isn't really my passion... I really want to get into penetration testing'), and raises concerns about job market difficulty ('getting a pentesting job right out of college is very hard').""
+}"
+15lflu5,"Microsoft 365 is stroke inducing
+I'm trying to set up Microsoft 365 Standard to work for one, one single person for now -- me.
+
+I wanted
+- To set up MFA
+- To use my own domain (yes, pos sharepoint too)
+- To create an info@ distribution list
+- Set up my notebook as a work device
+
+Literally every 2nd action I try do on the UI throws an error like ""Oops, that failed"", ""That's like totally invalid"", ""Not serializable, bruv."" -- Elaborate a bit? ""Noooooo.""
+
+This is the second tenant Ive tried to set up. I've abandoned the previous one after failing to rename the domain name of sharepoint with zero clue on how to move forward. (Google, Bing chat, ChatGPT had no clue either) -- lol I couldn't even delete this tenant, because even that has failed on multiple points.
+
+Now for the new organization MFA is just not working. The authenticator just scans it then nothing, not even an error message.
+
+How can so many companies use this garbage? I'm not a sysadmin, but I'm a pretty technical person (swe) and I can't fuckin believe I'm the only one failing at this shit.",0,0,"Post is a technical rant focused on Microsoft 365 configuration difficulties, UI errors, and product usability issues. While the author uses hyperbolic frustration ('stroke inducing', 'can't fuckin believe'), the content centers on criticizing the software rather than describing work-related burnout, chronic stress, or mental health impacts.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""Post is a technical rant focused on Microsoft 365 configuration difficulties, UI errors, and product usability issues. While the author uses hyperbolic frustration ('stroke inducing', 'can't fuckin believe'), the content centers on criticizing the software rather than describing work-related burnout, chronic stress, or mental health impacts.""
+}"
+1g0agyv,"Conference Recommendations
+I work for a service provider in the Pacific Northwest. Last year I was promoted to Sr System Administrator at my organization. One of the criteria of the promotion was to attend a conference at least once a year. That wasn't possible this past year due to a few work and personal obligations.
+
+I am looking to attend a conference this coming year and I'm looking for recommendations. Company will pay for transportation, hotel, conference fees, and daily food allowance.
+
+I've done some research into various conferences, but a lot of the event pages of the ones I'm finding are so vague that I'm not confident in booking them. I don't want to waste my time or the company's money going to a conference that I won't gain anything from.
+
+Primary goals are to social network with other people in similar positions and organizations as mine, and to gain insights into future trends and technologies that I can possibly introduce into our organization to benefit the staff or customers.
+
+Does anyone have any recommendations? Thanks in advance!",0,0,"The post is a straightforward request for conference recommendations for professional development and networking purposes. While the poster mentions prior work obligations prevented attendance, there is no discussion of burnout, chronic stress, mental health struggles, or work-related psychological distress.","{
+  ""subcategory"": 0,
+  ""label"": 0,
+  ""label_reason"": ""The post is a straightforward request for conference recommendations for professional development and networking purposes. While the poster mentions prior work obligations prevented attendance, there is no discussion of burnout, chronic stress, mental health struggles, or work-related psychological distress.""
+}"

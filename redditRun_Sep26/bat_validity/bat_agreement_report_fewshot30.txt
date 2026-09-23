@@ -1,0 +1,90 @@
+======================================================================
+BAT ANNOTATION AGREEMENT ANALYSIS
+======================================================================
+
+--- Loading files & normalizing values ---
+
+======================================================================
+STEP 1: SANITY CHECK — do all files cover the same posts?
+======================================================================
+  LLM vs Nadia: MISMATCH
+    Rows only in Nadia: ['1aj80uw_NONE', '1b9mg72_NONE', '1bc28ef_NONE', '1bos6in_NONE', '1bu50qq_NONE', '1c1u1na_NONE', '1cfnxvb_NONE', '1d6k4br_NONE', '1dokjdp_NONE', '1e5a03e_NONE', '1ektxux_NONE', '1fchbkh_NONE', '1fdw53a_NONE', '1fuf9pw_NONE', '1fz5d4m_NONE', '1g1kclu_NONE', '1ga6hmb_NONE', '1gdqpjt_NONE']
+  LLM vs Jihyun: MISMATCH
+    Rows only in Jihyun: ['1aj80uw_NONE', '1b9mg72_NONE', '1bc28ef_NONE', '1bos6in_NONE', '1bu50qq_NONE', '1c1u1na_NONE', '1cfnxvb_NONE', '1d6k4br_NONE', '1dokjdp_NONE', '1e5a03e_NONE', '1ektxux_NONE', '1fchbkh_NONE', '1fdw53a_NONE', '1fuf9pw_NONE', '1fz5d4m_NONE', '1g1kclu_NONE', '1ga6hmb_NONE', '1gdqpjt_NONE']
+  Nadia vs Jihyun: MATCH
+  Row count [LLM]: 22 (unique keys: 22)
+  Row count [Nadia]: 40 (unique keys: 40)
+  Row count [Jihyun]: 40 (unique keys: 40)
+
+  RESULT: MISMATCH DETECTED. Only overlapping posts will be used for agreement analysis below.
+
+  Using 22 common posts for all analyses below.
+  Row order identical across files: False (not an issue — analysis merges on post_id/comment_id, not row position).
+
+======================================================================
+STEP 2: PER-CONSTRUCT YES/NO COUNTS & AGREEMENT
+======================================================================
+
+--- EX ---
+  YES / NO counts:
+    LLM     : YES=  2  NO= 20
+    Nadia   : YES=  3  NO= 19
+    Jihyun  : YES=  6  NO= 16
+  Pairwise agreement:
+    LLM      vs Nadia   :  21/22 agree ( 95.5%)   Cohen's kappa = 0.776 (substantial)
+    LLM      vs Jihyun  :  18/22 agree ( 81.8%)   Cohen's kappa = 0.421 (moderate)
+    Nadia    vs Jihyun  :  19/22 agree ( 86.4%)   Cohen's kappa = 0.593 (moderate)
+  Three-way agreement (all 3 annotators match): 18/22 (81.8%)
+  Fleiss' kappa (all 3 annotators): 0.564 (moderate)
+
+--- EMO ---
+  YES / NO counts:
+    LLM     : YES=  4  NO= 18
+    Nadia   : YES=  8  NO= 14
+    Jihyun  : YES=  6  NO= 16
+  Pairwise agreement:
+    LLM      vs Nadia   :  14/22 agree ( 63.6%)   Cohen's kappa = 0.120 (slight)
+    LLM      vs Jihyun  :  18/22 agree ( 81.8%)   Cohen's kappa = 0.488 (moderate)
+    Nadia    vs Jihyun  :  18/22 agree ( 81.8%)   Cohen's kappa = 0.585 (moderate)
+  Three-way agreement (all 3 annotators match): 14/22 (63.6%)
+  Fleiss' kappa (all 3 annotators): 0.389 (fair)
+
+--- COG ---
+  YES / NO counts:
+    LLM     : YES=  0  NO= 22
+    Nadia   : YES=  3  NO= 19
+    Jihyun  : YES=  2  NO= 20
+  Pairwise agreement:
+    LLM      vs Nadia   :  19/22 agree ( 86.4%)   Cohen's kappa = 0.000 (slight)
+    LLM      vs Jihyun  :  20/22 agree ( 90.9%)   Cohen's kappa = 0.000 (slight)
+    Nadia    vs Jihyun  :  19/22 agree ( 86.4%)   Cohen's kappa = 0.327 (fair)
+  Three-way agreement (all 3 annotators match): 18/22 (81.8%)
+  Fleiss' kappa (all 3 annotators): 0.134 (slight)
+
+--- MD ---
+  YES / NO counts:
+    LLM     : YES=  1  NO= 21
+    Nadia   : YES=  1  NO= 21
+    Jihyun  : YES=  5  NO= 17
+  Pairwise agreement:
+    LLM      vs Nadia   :  20/22 agree ( 90.9%)   Cohen's kappa = -0.048 (poor (worse than chance))
+    LLM      vs Jihyun  :  16/22 agree ( 72.7%)   Cohen's kappa = -0.082 (poor (worse than chance))
+    Nadia    vs Jihyun  :  18/22 agree ( 81.8%)   Cohen's kappa = 0.279 (fair)
+  Three-way agreement (all 3 annotators match): 16/22 (72.7%)
+  Fleiss' kappa (all 3 annotators): 0.041 (slight)
+
+======================================================================
+STEP 3: OVERALL bat_score AGREEMENT
+======================================================================
+  Exact bat_score match across all annotators: 11/22 (50.0%)
+  LLM      vs Nadia   : mean abs diff = 0.64, exact match = 50.0%
+  LLM      vs Jihyun  : mean abs diff = 0.64, exact match = 54.5%
+  Nadia    vs Jihyun  : mean abs diff = 0.45, exact match = 68.2%
+
+======================================================================
+STEP 4: SUMMARY TABLE (three-way agreement % by construct)
+======================================================================
+  EX   :  81.8% three-way agreement
+  EMO  :  63.6% three-way agreement
+  COG  :  81.8% three-way agreement
+  MD   :  72.7% three-way agreement

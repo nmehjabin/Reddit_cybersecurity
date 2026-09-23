@@ -1,0 +1,86 @@
+row_type,post_id,comment_id,text,triage,na_subtype,triage_reason,EX,EMO,COG,MD,bat_score,EX_reasoning,EMO_reasoning,COG_reasoning,MD_reasoning
+post,1aj80uw,,"Help Me by Sharing Your Career Break Experience
+Hi everyone, I landed a security consulting job last year and have been miserable since. No work life balance, rowdy clients, etc. As a result, my health has been deteriorating since I then. So I have been considering a career break for about 6-12 months (depending on when I will land another job).
+
+Can anyone share their career-break experience and how it impacts your life? I just want another perspective from people in security to push/deter me from pursuing this",N/A,,,YES,YES,NO,YES,3,my health has been deteriorating since I then,have been miserable since,"The post describes emotional and physical distress but does not mention cognitive symptoms such as memory problems, brain fog, or difficulty concentrating.",considering a career break for about 6-12 months
+post,1b9mg72,,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.  
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:  
+·       Perceived lack of control  
+·       Lack of clear expectations of you or the role  
+·       Heavy workloads/Unreasonable deadlines  
+·       Poor relationships/Lack of support/Unfair treatment  
+·       Problems with work-life balance  
+  
+I will add ""A persistent stream of negativity"" to the pile.  
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",N/A,,,NO,NO,NO,NO,0,"The post discusses burnout causes and statistics generally but does not express personal energy depletion, physical tiredness, or feeling drained.","The author maintains a professional, solution-oriented tone discussing burnout conceptually without expressing personal intense emotions like hate, misery, or irritability.","No personal cognitive difficulties such as brain fog, memory issues, or trouble concentrating are described in the text.","The author demonstrates active engagement in solving burnout issues rather than expressing personal withdrawal, cynicism, or indifference toward work."
+post,1bc28ef,,"Burnout
+Anyone ever feel they would just want a “normal job”. 
+
+Zero disrespect to anyone that has a different job, no offence meant. 
+
+Iv been in cybersecurity 6.5 years now have had multiple roles and generally very very happy with the line of work. 
+
+BUT I am starting to feel I would just want a job where I can go do what I need to do and go home. The nature of the field of work is very fast paced meaning the constant upkeep in news , threats , vulnerabilities and general information sometimes gets a bit much ! 
+
+And the constant need to up skill is a killer sometimes when you just want to work away for a while if life is super busy outside work. 
+
+For context I got my degree in cybersecurity nearly 7 years ago. Since then I feel like it’s been nonstop and a bit of a pressure cooker since then. 
+
+Granted maybe I need a new role with a different company that has more of a balance. 
+
+But can’t help feel I’d love to just have a job and go home and not worry about anything in between. 
+
+
+If and when you have felt like this what steps did you take to shake it up and help ?",N/A,,,YES,NO,NO,YES,2,nonstop and a bit of a pressure cooker since then,"No intense or persistent emotional reactions such as irritability, anger, or loss of control described; tone is weary and resigned rather than emotionally volatile","No specific cognitive symptoms like memory issues, trouble concentrating, or indecision described; the overwhelm expressed relates to workload volume rather than cognitive functioning",just want a job where I can go do what I need to do and go home and not worry about anything in between
+post,1bos6in,,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?",N/A,,,NO,NO,NO,NO,0,"The post asks others for work/life balance tips but does not express personal exhaustion, energy depletion, or sustained overload.","The post contains no personal expression of intense negative emotions, irritability, or emotional distress tied to work.","The post does not describe personal cognitive difficulties such as trouble concentrating, memory issues, or feeling overwhelmed by job demands.","The post seeks advice on maintaining career engagement and balance rather than expressing personal withdrawal, cynicism, or loss of meaning."
+post,1bu50qq,,"Cybersecurity Analyst US/ Europe
+Hello,
+
+I am a Cybersecurity Analyst with a master's degree in cyber, I moved to the US from North Africa 6 years ago,
+I worked everything except IT jobs.. I couldn't land an IT job, I have severe anxiety and forget a lot and recently diagnosed with ADHD so every interview is a nightmare to me, which impacted my health more and more.
+
+I have a small car and I finally got a good place where to live  with not very expensive rent but I feel that I have no energy anymore and I am very depressed.
+
+I am planning to go back to my country and take some rest and try to start again from over there to look for a job in Europe or maybe come back here but it is like I am going to start everything again from scratch and I am very scared of that.
+
+I am lost and can't even decide because of my health problems.
+
+What is the best move in my case?",N/A,,,YES,YES,YES,NO,3,I feel that I have no energy anymore and I am very depressed,"severe anxiety, every interview is a nightmare to me, very depressed, very scared, I am lost","forget a lot, can't even decide because of my health problems","The text expresses active distress and fear about career decisions rather than indifference, cynicism, or psychological withdrawal from work"
+post,1c1u1na,,"anyone w/ mental illness (ie. bipolar disorder) pursuing or have a career in cybersecurity
+I am exploring a career change, and having doubts whether to pursue cybersecurity. I'm wondering if it is viable and reasonable for someone with a mental illness to puruse and be successful academically and professional in the field of cybersecurity.",N/A,,,NO,NO,NO,NO,0,Asking about future career viability rather than expressing personal exhaustion or energy depletion from work.,Inquiring about others' experiences with mental illness rather than describing personal emotional reactions or distress tied to work.,"No description of cognitive difficulties such as brain fog, memory issues, or trouble concentrating at work; only asking general questions about field viability.",Exploring a potential career change indicates active interest rather than withdrawal or detachment from work; asking about others' experiences rather than expressing personal cynicism or indifference.
+post,1dokjdp,,"I am burnt out and need advice
+Let me start off with saying that I am a person with ADHD and currently work as a Security Architect.
+
+For the past few months I cannot handle my job. I feel burnt out, I feel like everything I do is boring and monotonous. I do the same things every day and I no longer want to expand my knowledge at work. I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it. I was considering starting with pentesting but with ADHD it is incredibly hard as any obstacle just stops me from trying. 
+
+I start reading about ethical hacking, pentesting, programming and I get excited but the moment I try it, I just get bored of it instantly.
+
+Currently I feel like maybe I cannot do any other job correctly or perhaps that I am not made for this job or even that I will end up jobless without any perspectives. 
+
+Is there anyone here that can advise, suggest or share tips? I am already seeing psychiatrist and therapist and this hasn't helped much.",N/A,,,YES,NO,NO,YES,2,For the past few months I cannot handle my job,"No evidence of intense emotional reactions, irritability, or disproportionate anger at work; distress expressed is primarily hopelessness about future rather than emotional dysregulation","While user mentions ADHD, there are no specific work-related cognitive symptoms such as brain fog, forgetting procedures, or difficulty concentrating at the current job",I no longer want to expand my knowledge at work and I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it
+post,1e5a03e,,"Pushback - rant
+A bit of a background, I'm a Security Engineer working in the banking industry. Prior to this I came from a company that was pretty lax. Meaning, no red tape - things get done, fast, proficiently and effectively. 
+
+If a project, such as a new security solution was approved and budgeted from the top down, all I needed to do was do my due diligence - questions, risk assessment, demos, POC, documentation, etc., and once I give my thumbs up, it was good to go. Things would get done in a matter of days if not week or two.
+
+Now, in my new gig, it takes so much time, effort, and energy just to roll something out. For example, the project I am working on is board approved from the top down. All relevant stake holders were aware from day one. All were invited and only some joined some of the meetings. We've been having discussions/demos with multiple vendors for the past few months. We had a meeting to finally kick off the POC, but all of the folks on the IT side suddenly decided to have questions from out of left field, questions that needed to be asked to the vendors, which they had plenty of opportunities to. This put me in a bind. I didn't have the answers. It was so frustrating. I wasn't unprepared. I was prepared to talk about the solution. What it is. What it can do to help the bank succeed. Relevant stakeholders roles and responsibilities as it pertains to integrations. How it fills a gap. How it meets an audit/compliance check box, etc...this whole process started back in Q4 2023 for perspective.
+
+I don't like to throw folks under the bus, but it needed to be done today. A C level and IT Manager were asking questions, which should have been asked to the vendor during one of the many calls we've had. We even had a scoping call to flesh out any questions or concerns that IT may have had. They were part of this call, and yet, the questions wasn't asked! I called them out on this.
+
+If it takes this much effort, energy, and time to roll something out, I don't think I want to be a part of it. Not worth my time. Thoughts?",N/A,,,YES,YES,NO,YES,3,"it takes so much time, effort, and energy just to roll something out and If it takes this much effort, energy, and time to roll something out sustained since Q4 2023",It was so frustrating and I called them out on this / throw folks under the bus,"No evidence of memory, focus, or decision-making difficulties; the poster explicitly states they were prepared and does not describe brain fog or cognitive overwhelm.",I don't think I want to be a part of it. Not worth my time
+post,1fchbkh,,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out",N/A,,,YES,NO,NO,NO,1,im already burnt out,"No specific emotional reactions, irritability, or loss of emotional control described beyond the general term 'burnt out'.","No mention of memory issues, concentration problems, or cognitive overwhelm.","While the word 'burnt out' is used, there are no supporting signals of psychological withdrawal, cynicism, indifference, or disengagement from work."
+post,1fdw53a,,"Work/life balance in cybersecurity.. is there really such a thing?
+Hey folks.. I am about to move from a Coordinator to a management role within Cybersecurity. It’s been a tough couple of years honestly. Huge projects, impossible deadlines, big demanding incidents, GRC, compliance and the never ending VM cycle.. found it very difficult to find that sweet spot in between work and life.. was wondering if y’all might have some tips and tricks to balance this shit out..",N/A,,,YES,NO,NO,NO,1,"""It's been a tough couple of years honestly"", ""impossible deadlines"", and ""never ending VM cycle""","The post expresses workload frustration but does not describe intense or persistent emotional reactions such as hate, crying, snapping, or loss of emotional control.","The text does not mention any cognitive difficulties such as brain fog, forgetfulness, trouble concentrating, or indecision.","The author is actively seeking advice for an upcoming management role and attempting to improve work/life balance, showing engagement rather than withdrawal or indifference."

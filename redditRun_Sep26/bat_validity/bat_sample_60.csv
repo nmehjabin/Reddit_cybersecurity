@@ -1,0 +1,871 @@
+row_type,post_id,comment_id,text,triage,na_subtype,triage_reason,EX,EMO,COG,MD,bat_score,EX_reasoning,EMO_reasoning,COG_reasoning,MD_reasoning,sampled_for_construct
+post,1r13xch,,"Nuke Hyper-V cluster and start over?
+Hello all,
+
+A couple of months ago, the Hyper-V environment I inherited became screwed up seemingly beyond repair. The majority of our production servers are still in a VMware VXrail cluster which is stable but no longer supported. The Hyper-V cluster is new and has active support, but the previous IT staff hadn't begun the process of moving servers over yet by the time I took over. I had just started moving servers over when all this went down. The good news is only a few important servers were affected, and I was able to restore them from backups to our standalone test Hyper-V host that wasn't part of the new cluster.
+
+Highlights of the environment in case it may be relevant:
+
+* 3 Dell PowerEdge R660 hosts
+* 2 Dell PowerStore 1200T appliances (1 primary, 1 replication)
+* iSCSI network for storage
+* Will eventually host around 50 VMs
+
+This would turn into a novel if I were to go through all the details, but suffice to say I've spent the last two months researching and trying to get the issue fixed, to no avail. We have basically no budget for consultation, and at this point I want to just nuke it and build a new cluster from scratch. What I'm looking for, ideally, is any guidance on the best procedure to wipe out the old cluster and start fresh.",,,,YES,NO,NO,NO,1,spent the last two months researching and trying to get the issue fixed,"The post describes technical frustration but lacks intense or sustained emotional reactions like hate, crying, or snapping; tone remains problem-solving rather than emotionally impaired.","The poster describes a complex technical problem but does not report cognitive symptoms such as brain fog, memory issues, trouble concentrating, or inability to make decisions.","The poster is actively seeking guidance on rebuilding the cluster rather than expressing withdrawal, cynicism, indifference, or loss of meaning regarding the work.",EX
+post,1dfaa19,,"Brain Fog and Dopamine Seeking brhaviour impacting work
+Hi folks, I'm having issues working on tickets for months now. When I look at my list of tickets to work on I feel exhausted and it's like forcing myself to put my hand on a hot stove. And instead I find myself doing dopamine seeking behaviour during work hours instead of working on tickets (browsing reddit, reading manga, listening to youtube videos). 
+
+On the rare moments I can force myself to work on tickets, I feel especially exhausted. And I only have rare days when I can spend hours working on tickets without issue. Sometimes caffeine and my ADHD meds help, but most days all they do is keep me from wanting to take a nap under my desk.
+
+Any ideas on what I can do? My current next step is calling employee councelling my employer provides, and maybe asking about anti-depressants with a telehealth doctor. 
+
+Before the typical, ""you're burnt out, take six months off,"" comments  come in. I literally can't take time off from work, as I only have a week of vacation time piled up, and have used up my sick days for the year already. I don't have savings to live off of, and I'm the only source of income for my household.",,,,YES,YES,YES,YES,4,"""When I look at my list of tickets to work on I feel exhausted"" and ""On the rare moments I can force myself to work on tickets, I feel especially exhausted"" and ""wanting to take a nap under my desk""","""it's like forcing myself to put my hand on a hot stove"" indicating intense aversion to work tasks","""Brain Fog"" and ""having issues working on tickets for months now"" with inability to focus on tasks","""dopamine seeking behaviour during work hours instead of working on tickets (browsing reddit, reading manga, listening to youtube videos)"" showing active avoidance and withdrawal",EX
+post,1lnyq5u,,"Mangers how do you deal with sloppy work sysadmins?
+We have a guy, who accidentally restarted one node out of 6 node hyper-v cluster. Not one, at least 3,4 times within 6 months.  We were in the process of doing vm migration and replication. The same guy turned on a out of sync about a week VM as primary VM.  And I caught him again with that mistake. I am so tired and worried about all these causing me having sleep issues. If you are in my situation, how do you deal with this? Look for new job, or just resign?Mangers know all those mistakes he made .",,,,YES,YES,NO,NO,2,I am so tired and worried about all these causing me having sleep issues,worried about all these causing me having sleep issues,"No cognitive symptoms such as memory problems, brain fog, or difficulty concentrating are described by the poster","While considering leaving, the poster remains actively engaged with work problems (catching mistakes, involving managers) and is seeking solutions rather than expressing indifference, cynicism, or autopilot",EX
+post,bc86db,,"Whats your work/life balance in Cyber Security?
+Going back to school to get my diploma in Network technician but my dream would be to get into cyber security. 
+
+Just want to know what’s the usual work life balance for most people in the industry? 
+
+I currently work in the film industry and the hours are brutal! Especially with someone like me with a family. I just don’t want to get out of an industry and into another one where I’m working 16-18 hour days for 6-9 months out of the year. TIA",,,,YES,NO,NO,NO,1,working 16-18 hour days for 6-9 months out of the year,"The text describes workload concerns but does not express intense, persistent emotional reactions, irritability, or loss of emotional control tied to work.","The post contains no mention of brain fog, memory issues, difficulty concentrating, or cognitive overwhelm.","The user expresses a 'dream' to enter cybersecurity and is actively planning a career change, showing no signs of withdrawal, cynicism, or indifference.",EX
+post,xqy9os,,"Started working at an MSP and instantly regretted it
+So I recently started at an MSP and holy cow this understaffed hellscape wants me to basically do the work of 3 separate positions(and know all the things of said positions) meanwhile a manager recently left and two more people are leaving next week. If I wasn't in such a situation that I needed a job right away I wouldent have taken it because this is a nightmare",,,,YES,YES,NO,NO,2,understaffed hellscape wants me to basically do the work of 3 separate positions,instantly regretted it and this is a nightmare,"No mention of memory problems, brain fog, concentration difficulties, or decision-making impairment; only describes unrealistic cognitive demands of learning multiple roles simultaneously","Expresses immediate regret and distress but does not indicate persistent withdrawal, indifference, cynicism, or going through the motions",EX
+post,1cktr4a,,"Is Scripting Required for Your Role?
+How important is scripting for your role? Would you leave if you had to do everything manual?  
+  
+My employer won't give me permissions to install or use any scripting language. I'm repeatedly doing tasks manually that could be scripted and have a report generated. I've spent over a decade becoming proficient in multiple programming and scripting languages. I switched to a new role a year ago. I initially thought it was just until I earned trust but it's became evident my manager does not know any scripting language and won't help me get approval. Work load is increasing. 
+
+I'm considering switching job but could also just accept this and live comfortable getting an average salary. I'm also concerned missing opportunities to skill up by not practicing.
+
+Has anyone faced this issue and found a resolution?",,,,YES,NO,NO,NO,1,Work load is increasing,"The post describes frustration with constraints but lacks intense emotional reactions, strong aversion, or sustained distress signals.","No difficulty with memory, focus, decision-making, or feeling cognitively overwhelmed is described.","The user is actively considering solutions and concerned about skill development, showing no indifference, cynicism, or psychological withdrawal from work.",EX
+post,dwxs6a,,"A Sudden Sys Admin
+My boss resigned today. 
+
+Right when i got hired, he went on paternity leave, so I was banking on him to come back and like, *really* walk me through everything that he had in place. He basically built the network, I looked forward to learning a lot from him. 
+
+For the past three months I have been ""putting out fires"" so to speak, and just barely keeping afloat. I had two weeks left before i thought i was saved.
+
+Now that I'm NOT going to be saved, I'm really at a loss of what I'm supposed to be doing. I know that i have to keep like my basic duties but a lot of stuff (inventory, server upgrades, government documents of some kind?) is suddenly on my plate. 
+
+My company is looking to fill his position ASAP, but in the mean time some big projects were coming down the line that are not only above my pay grade, they are also above my skill level. I think I'm justified in saying I'm pretty scared.
+
+I don't know. I 'm looking for advice I guess? I get to sit in on the interviews for his position but I don't know what to ask or to look for in a new boss. I've never interviewed anyone seriously before, especially not anyone who's going to be above me.
+
+&#x200B;
+
+It's all very sudden and I'm just really at a loss.",,,,YES,YES,YES,NO,3,"""putting out fires"" so to speak, and just barely keeping afloat"" for the past three months","""I'm pretty scared"" and ""really at a loss"" regarding the work situation","""at a loss of what I'm supposed to be doing"" and ""don't know what to ask or to look for""","No evidence of withdrawal, cynicism, or indifference; the user is actively seeking advice and engaging with the situation",EX
+post,1505e5k,,"Is there a market for a solo Cybersecurity consultant in the US?
+Tired of corporate america and considering quitting the corporate middle management grind and instead choosing my own projects and teams I work with.
+
+Used to be in tech consulting for a huge consultancy but I find that the pay isn't great unless you can make partner, which I don't think I can do.
+
+The idea of starting my own consultancy and offering my expertise/services is appealing. I have deep experience in a specific Cyber domain and Cyber related regulatory compliance. 
+
+However, I feel like small companies don't have a need to hire for Cyber services because most software is built with security built-in (think about all the built in security in using Google suite), and big companies have deep enough pockets to not even consider solo consultants. Not only that, I think most industries/companies don't have a demand for Cyber services unless they are regulated e.g. SOX, PCI, HIPAA, etc. 
+
+When I think of a solo consultant, I'm thinking a brand/marketing/design guru. I've never met or heard of a solo consultant for cybersecurity.
+
+Any experiences to share?",,,,YES,NO,NO,NO,1,Tired of corporate america and corporate middle management grind,"The post expresses career dissatisfaction but no intense, persistent, or disproportionate emotional reactions tied to work","No difficulties with memory, focus, decision-making, or cognitive overwhelm described","The user is actively planning a new business venture (active agency), not showing psychological withdrawal, indifference, or cynicism",EX
+post,10xlna4,,"Are there any security engineers here that prefer being an analyst?
+Has anyone here made the switch back down to analyst? How did you find the change?
+
+As a sec engineer, I’m finding the most enjoyable aspects of my job are responding to SIEM/EDR alerts and remediating vulnerabilities. 
+
+New tech implementations as an engineer can be interesting but the sheer amount of Excel sheets that I stare at all day, the processes and procedures and other compliance stuff is so dry. I’ve grown really tired of the engineering side and just want to be left to run the daily operations and alerts again.",,,,YES,NO,NO,YES,2,grown really tired of the engineering side,"expresses mild frustration and boredom but no intense, disproportionate, or volatile emotional reactions such as hate, snapping, or crying","no mention of memory issues, concentration problems, brain fog, or difficulty processing information",grown really tired of the engineering side and just want to be left to run the daily operations,EX
+post,1k5janp,,"Is it just me or is gatekeeping info getting really really bad lately?
+One role hired me into a junior position (I'm a senior and they needed a body badly) nobody would give critical info so I eventually left.
+
+Next place, new lead suggesting turning off spanning tree, defended their reasoning (not a correct tshooting practice for our infra needs or scale, or ever honestly)
+
+Prior to that challenge about it I had asked to visit one of our sites since I'm new.  Was grilled for even asking, but my junior was offered.
+
+Getting really tired of folks gate keeping in our industry rather than collaborating, and considering the lead's social media looks like their profile might actually be FAKE I'm concerned I'm stepping into a minefield and will find a malicious infra under our noses.
+
+I should pick up distilling moonshine, seems more rewarding.",,,,YES,YES,NO,YES,3,Getting really tired of folks gate keeping,concerned I'm stepping into a minefield,"No cognitive symptoms such as brain fog, memory problems, or difficulty concentrating are described.","I should pick up distilling moonshine, seems more rewarding",EX
+post,15wpk8e,,"What would you do or what would you recommend in my situation?
+Hello,
+
+I’ve been quite disappointed with my current job and want to see how other sysadmins/sysengineers would proceed. Any feedback would be greatly appreciated!
+
+My Background:
+-AS Degree and 1 year away from bachelors at WGU in Cloud Comp
+-SysAdmin for 2-3 years, currently Sys Engineer (4y of IT exp. total)
+-Recently switched jobs been at current company for less than 3 months
+-looking to break into DevOps
+
+Issues:
+- My current company has all IT teams reporting to CTO
+- I am the only Helpdesk/sysadmin
+- Small company but lacking essentials tools like MDM, business purchasing accounts, and a solid approval process (will elaborate)
+- I have been attempting to roll out an MDM, and other general fixes I believe would improve our security and auditing of internal devices. But have been brushed off and been told “we’ll take a look at it next month” since I started
+- every approval from purchasing, new accounts, implementation must go through the CTO and be approved.
+- I feel like in order for me to do anything I have to pull teeth just to get the initial approval
+- overall company is highly disorganized and it starts at the exec level
+
+
+The root cause of my frustration is the CTO, he’s a nice guy but when it comes to remembering to approve something, purchase something, or to get help it’s taken me 3-4x of constant pestering to get him to take action. Because of this I feel like I’m basically  doing tier 1 Helpdesk 95% of the time and that I’m being blamed when something doesn’t work (ex. Not able to configure radius properly since we don’t have an MDM to push out the profiles). I do not have the tools I need to automate processes and have been constantly dismissed when I’ve made attempts to explain why we need the tools.
+
+I feel like I’m wasting my time here but on the other hand it does free up time for me to work on school and home labs when I can.
+
+If you were in my position would you try and go scorched earth and bring up how inefficient things are run? Or continue but put your time in effort on personal improvement?
+
+I’ve considered the “scorched earth” path but I think the likely outcomes are:
+
+Best case - but I’ll be stuck doing his job (vendor reviews, security reviews, policy enforcement) along with the things I think I should be doing (purchasing, basic approvals, policy creation) and likely for the same pay
+
+Worst case - Since I’m so new to the company this could ruin relationships and then they just ignore me and make my life so miserable I end up quitting.
+
+I have been looking at other places but I’d rather not switch jobs so early in and I know these issues are apart of every company but I’ve never have seen anything this bad before.
+
+I’m also have reason to believe the CTO is leaving which would explain his lack of action.
+
+I apologize for the rant but am I just overreacting or how would you handle this if you were in my shoes?",,,,YES,YES,NO,NO,2,I feel like I'm wasting my time here; I feel like in order for me to do anything I have to pull teeth; constantly pestering to get him to take action; doing tier 1 Helpdesk 95% of the time; brushed off and been told 'we'll take a look at it next month' since I started,quite disappointed with my current job; root cause of my frustration; I feel like I'm being blamed; constantly dismissed when I've made attempts; I apologize for the rant; make my life so miserable,"The author demonstrates clear analytical thinking by weighing pros and cons of 'scorched earth' versus personal improvement, with no mention of brain fog, memory issues, or difficulty concentrating.","Despite frustration, the author remains actively engaged in trying to implement improvements (MDM rollout attempts) and shows career ambition (school, home labs, DevOps goals), with no evidence of indifference, autopilot, or cynicism about the work itself.",EX
+post,9eimol,,"From Literature to Cybersecurity
+Hi everyone,
+
+I’m hoping you can straightforward advice on a life decision. I’m a first year PhD student in English. I have a BA and MA in English Literature. At the end of my MA, I applied to both a number of PhD programs and a MS in Information Systems. I felt burned out on Literature Studies and academia. I should have taken up the MS in IS, but I felt completely insecure about my lackluster tech background. When the PhD acceptance came, I took it with a little bit of renewed energy despite the terrible job market.
+
+Now I’m barely into the PhD program and the burn out is back. I regret skipping the MS in IS. I found an online MS in Cybersecurity nearby at a private college that I may be able to get into after my first year in the PhD program is up. I’m not in great shape financially, so any decision is huge. My wife and I need the extra student loans to get by right now, so whatever I do, it must be a graduate degree. I understand that the general good advice would be to take free online classes and work towards certifications. I agree, but my financial state makes the degree seem like a more lucrative option to start learning.
+
+Should I forgo the next 5 years of literary study and attempt to pursue a MS in CS? Can I, after a 30 credit program, get a crack at an internship when it’s over? Am I too far behind, and should I kill this newly found desire?
+
+All thoughts are welcome. Both the easy and difficult ones to swallow.
+
+Notes: I specialize in narrative patterns and puzzles. I think this will help me once my tech knowledge catches up. I’m also against the grain. I tend to always see the devil’s advocate side of every problem or issue.
+
+My MA does qualify me to adjunct for a meager $1100 per class a semester. 
+
+I cannot code. Like I said, background isn’t strong.",,,,YES,NO,NO,NO,1,I felt burned out on Literature Studies and academia,"The post mentions insecurity and regret but does not describe intense, persistent emotional reactions, snapping, or loss of emotional control at work","The author mentions lacking technical background and coding skills but does not describe brain fog, memory problems, or difficulty concentrating","While the author wants to change careers due to burnout, they do not describe current psychological withdrawal, indifference, cynicism, or going through the motions regarding their PhD work",EX
+post,llf38v,,"[Serious] What's worse, constantly being stressed out, or just saying ""Fuck it."" ?
+Without giving too much detail (OPSEC), I've been stressed out beyond what I thought my limits were, and it's been going on for months. I've been to the point where I dread getting up in the morning and dragging myself to the office, or my computer depending on the work schedule. 
+
+ After the lecture I got today for a minor mistake I made 2 months ago that was already corrected and long forgotten about, I felt the strangest feeling come over me. I just didn't care what anyone had to say. I didn't let it bother me. I didn't stew on it  It just ceased to matter. I acknowledged what my boss had to say, hung up and went on about my business standing on my head. It was truly an office space-esque feeling. 
+
+Saying that I work in a *hostile work environment* is a major understatement, but the fact remains that I made the choice to accept the role and the responsibility that comes with it. 
+
+So I guess this brings me to my question.
+*What's worse: being stressed to 13/10 or hitting the point where you don't care anymore?*",,,,YES,NO,NO,YES,2,"stressed out beyond what I thought my limits were, and it's been going on for months","No disproportionate emotional reactions, irritability, or loss of emotional control described beyond general stress and dread","No mention of memory problems, concentration difficulties, or decision-making struggles",I just didn't care what anyone had to say. It just ceased to matter. hitting the point where you don't care anymore,EX
+post,h9ksmv,,"Im tired of the constant learning
+Im trying to work my way into the Web App Penetration Testing but there is a constant need to learn, learn and learn. Its exhausting. I know this is what i wanna do. I dont wanna change fields. But its a challenge I am currently facing. Does anyone have any tips or advice?",,,,YES,NO,NO,NO,1,"""Im tired"", ""Its exhausting"", ""constant need to learn, learn and learn""","No intense or persistent emotional reactions such as irritability, anger, or sadness described beyond general weariness.","No specific cognitive symptoms such as memory issues, brain fog, or difficulty concentrating mentioned.","Explicitly states ""I dont wanna change fields"" and seeks advice to continue, showing no withdrawal, cynicism, or loss of meaning.",EX
+post,15los64,,"Feeling Abandoned by my Dept
+Not sure if this is the right place to get this off my chest or not, the rest of my colleages seem to have no sympathy so maybe its just a 'me' problem. However, im incredibly depressed and dont know what to do other than to talk about it. Its kind of a long complicated story hopefully i can condense it.
+
+I started working for this large global company (30k emp) nearly 10 years ago as a bright passionate young coop student. I worked my ass off in a fast paced environment with waaaay too small of an IT team backing me up on helpdesk. Over the years my role has transformed from local helpdesk to a role with global access wearing just about every hat there is. Im solely responsible for most of the global software procurement, I handle the global ediscovery and archive search process, and also am in charge of things like our patch management service, esignatures etc. on top of normal helpdesk duty. Due to my seniority and level of permissions to almost everything often the toughest tickets make their way to me as the halfway point between t1 and t2. I am also unofficially tasked with being a helpdesk team lead, and i hold weekly meetings with them as a manager would discussing tickets and such. But im still considered an IT Support Associate just like the day i joined.
+
+For many years now ive discussed my concerns about my professional growth with my manager. Im wearing all these hats and feel like a critical member of the team, but im worried about my career. I feel trapped here, as leaving would mean basically taking another entry level job with a big pay cut, presenting with college education and one helpdesk job. My manager kept assuring me there were opportunities for me to either become Helpdesk Team Lead or Jr Sysadmin, but it simply never happened. Now most of my helpdesk colleagues also have gained Senior IT Analyst titles while mine has gone unchanged.
+
+A lot of the reason ive been given so many hats over the years has been working closely with my incredible boss. When i wanted to leave the company due to my mental health 4 years ago this man kept me on board with hints of these opportunities in the future which kept me well motivated.
+
+About 4 years ago the company split in half. As part of this split the IT team was divided. I was placed on the NEW side of the company with my awesome boss which i was really happy about. Over this time, the OG side of the company's IT grew and grew with a new security team, network admins, sysadmins etc. Which finally brings me to the current situation. 
+
+Ive been informed that my boss is being transferred back to the OG side and i will no longer report to him. On this new side im on, they are centralizing management to a different country than the one i work in. I am now effectively cut off from all the colleagues i have worked with for 10 years and will report to a new external hire senior manager in the other country who doesnt report to our Director.
+
+I feel completely abandoned and almost betrayed by management. I feel like if they ever had a plan for my future it was only to string me along until they can hand it off to someone else like an inconvenient problem. This new manager will see the fact that i work in a country with only 20 employees on the ""new"" side and wonder why not just get rid of me (despite being critical for all entities under our umbrella). I dont see how the new manager will even understand my role. I dont know how my role even works without weekly 1on1s with my old boss.
+
+Do you think im acting too entitled or rather that management has let me down? Its not an issue with pay, im happy there but also feel making top of helpdesk bracket puts me on the chopping block. I feel set up to fail. Id be willing to clarify anything if i missed details which i surely did.",,,,YES,YES,NO,YES,3,"""worked my ass off in a fast paced environment with waaaay too small of an IT team"", ""wearing just about every hat there is"", ""When i wanted to leave the company due to my mental health 4 years ago"", ""incredibly depressed"", ""I feel trapped here""","""incredibly depressed"", ""Feeling Abandoned"", ""feel completely abandoned and almost betrayed by management"", ""I feel set up to fail""","The text describes situational confusion about organizational changes and career options, but shows no evidence of memory problems, brain fog, concentration difficulties, or inability to process information.","""Feeling Abandoned"", ""betrayed by management"", ""string me along until they can hand it off to someone else like an inconvenient problem"", ""I feel trapped here"", ""wanted to leave the company""",EX
+post,1roi3ne,,"I'm quitting my job due to vibe coders and poor leadership
+Our exec leadership this year is making a big push for AI. They're encouraging everyone to generate ideas and try to make them real with vibe code. The team with the best idea that generates real results gets a bonus.  This has led to a huge influx of users creating their own apps. Honestly, some of the ideas aren't bad. But most of them don't know how to integrate them, support them when there's an issue, use good security practices or basic IT knowledge. When you try to debate one of these people you'll get a ""well ChatGPT said.."" response that drives me up the wall.  
+
+We're flooded with vibe-coded app requests, we can't keep up with them and real work at the same time. We're forced to take them seriously. When I see a red flag, I call it out, I report it to security and my boss which turns into a meeting, which turns into a debate, lots of messages back and forth.. Eventually many of them get approved one way or another. All I did was waste time.
+
+To make things worse, users are installing AI agents on their work computers, despite some of us saying ""absolutely not"" it's fucking approved from the top down. I feel like we're holding onto a ticking time bomb. 
+
+We already have a very full plate of work but there's so much noise from this that its so hard to keep up. Everyone is suddenly an expert on everything, telling us how to improve our infrastructure with AI. 
+
+Tomorrow I'm giving notice, I don't have a job lined up but I don't care. I have savings and I plan on taking a year off from work. I'm not sure if I'm coming back to this career. I know the market is horrible but I've lost what joy I had left with this career after 20 years of working in it.",,,,YES,YES,YES,YES,4,We already have a very full plate of work but there's so much noise from this that its so hard to keep up,drives me up the wall,so much noise from this that its so hard to keep up,I've lost what joy I had left with this career,EMO
+post,8dz9wu,,"How do you guys cope?? (Rant.. Sorry)
+I've been working for an MSP, travelling to customer sites, repairing what Helpdesk cant do remotely, the odd AD migration, DR and Exchange migrations, from 2007, 2010, 2013 to O365 yada yada yada (nothing in comparison to most of you lot!!)
+
+I think I've hit my limit.
+This year I've had nothing but family illnesses, and I know that this has affected my work performance. I've told my new Operations Manager about this, and she seemed to understand, but yet she's just throwing every single ticket at me, and expecting me to go onsite, whilst completing tickets within SLA times.
+
+The other day, I had planned to spend my lunch break (1 hour) with an aunt that had travelled down to see family, but she demanded me to reschedule, and go to do the jobs. I could understand if a Server had died, the MD couldn't work or something that seemed important, but it was measly updates that the Helpdesk team could have remotely triggered.
+Of course I told her that I cant do it, why do I have to work through my break? Now it was brought up in my review that I'm ""refusing to work"".
+
+I'm fuming, upset, and I feel that I'll be losing my job.
+
+I'm actually thinking I'd rather become a bin cleaner or something a lot less stressful at this rate, and I'd rather not lose interest as I enjoy the fun of fault finding, but I feel the new Manager is loving making my life more difficult.
+
+How do you guys deal with the stress of managers, receptionists that think their printer ink running low is a main priority, webdevs thinking that they rule the roost and want DNS changes as soon as Monday morning comes, along with all this crap???",,,,YES,YES,NO,NO,2,"""I think I've hit my limit"" combined with sustained overload description: ""she's just throwing every single ticket at me, and expecting me to go onsite, whilst completing tickets within SLA times"" and family illnesses creating sustained depletion","""I'm fuming, upset"" and ""I feel that I'll be losing my job"" indicating strong sustained negative emotional reactions to work situation","No specific mention of memory problems, difficulty concentrating, decision-making issues, or cognitive overwhelm; performance issues attributed to family circumstances and unreasonable workload demands rather than cognitive impairment","Explicitly states ""I enjoy the fun of fault finding"" and ""I'd rather not lose interest"" indicating no withdrawal or indifference has occurred; anger is present but not psychological detachment from the work itself",EMO
+post,s38can,,"Questio/rant: I'm the last person left from IT and my Ceo barely raises my salaray
+Just a disclousure I'm from Eastern Europe so if numbers seem low keep that in mind.
+
+So long story short. We got a new CEO and over the year we went from 5 people in IT, 2 developers, 2 helpdesk where I was and a manager. My manager was responsible for servers too.
+
+Before Christmas my manager, who was absolutely amazing person and that thaught me a lot, left and I became the last member of IT. I had to take over all manager roles like talking to vendors ordering equipment, manage projects, server management and helpdesk. I also have to take make sure and fix any system that was created by our developers with limited documentation. 
+
+When my boss left there was a rushed decision to give our helpdesk to contractors, that I personally am against because we are civil engineering company that use a lot of CAD softwere and you know how easy it is to service it. But the decision was made without my opion in consideration.
+
+I spoke to my CEO who is my direct manager now about salary increase since I'm taking over manager roles. He stalled for a month and today I got to talk to him about it with solid numbers. He offered me a 100 euro, after tax, increase in month salary, thats less than 10% and dosent even cover this years inflation. When I pointed out there were 5 of us he was like do you really think that you have a lot of work with contractors taking over helpdesk and I should be gratefull for my salary increase. 
+
+Oh we also moving our servers to data center with VM level managemnt from data center no admin rights for us. That decision was made without IT opinion considered
+
+My work title wont change I would be IT engineer who does no actual computer maintenence. There is no carrier perspectives here and salary too. To be honest I was expecting to get a closer salary to my old manager, I knew how much he was making, since they should really want to keep me here, but I was wrong.
+
+So whats my options here? Should I start sending out my CV already? Or do you think I'm being unreasonable here? What should I do if money show up if I put my notice?",,,,NO,YES,NO,YES,2,"While the post describes sustained overload (taking over 5 people's roles), there is no mention of energy depletion, physical tiredness, mental drain, or health deterioration attributed to the workload; the focus is on unfair compensation rather than personal exhaustion.","Stacked frustration signals including the 'rant' tag, anger at the CEO's dismissive comment 'I should be gratefull' for a minimal raise, and sustained irritation over decisions made 'without my opion in consideration' and 'without IT opinion considered'.","No mention of brain fog, memory problems, difficulty concentrating, or feeling cognitively overwhelmed by the volume of work; the post describes complex tasks but no impairment in ability to perform them.","Explicit loss of meaning and cynicism: 'There is no carrier perspectives here', resentment that decisions are made without IT input, and active withdrawal signaled by 'Should I start sending out my CV already?'",EMO
+post,1hhdudw,,"Patching Help
+TLDR; I work for an MSP, we use CyberCNS and ConnectWise Automate for patching. I need any advice on patching procedures (cadences, policies, approvals, etc.) 
+
+I am sorry if this is a long winded post (or not long enough idk), I've never used reddit for help, let alone work help. I work for an MSP and we use CyberCNS as our vulnerability and patch management solution. We use CNS for 3rd party patches and we use ConnectWise Automate for our 1st party patches. I am trying to lower the ""risk score"" CNS provides. I'd explain how this score is calculated, but I don't know if they (CNS) themselves can explain it. Regardless, it's what my manager wants me to lower. I have been having a TON of connection/patching issues with CNS, and they continuously blame it on our firewall for why (only some!) patches aren't getting through, but that's worthy of it's own post (hint: it's not our firewalls). 
+
+  
+THIS POST needs to be about - How should patches properly be tested? How many devices should I have in my test group? How often do I push out 1st or 3rd party patches? How do we feel about automatic approvals? How would one go about lowering vulnerabilities in the environment in a time-efficient practical way? I know half-answers to some of these questions, but just treat me like I am stupid. fr I am very over it like at my wit's end type bs 
+
+  
+Honestly, I just need someone to info dump on me. Like a crash course in patching. I want to be able to make a plan of action or just steps in the right direction to lower our risk score. I just feel really frustrated and very isolated because I am the only one tasked with this. No one really knows anything about proper procedures on patching, or legit anything useful. I just need help and I am really really hoping to get some guidance here. feels like im drowning tbh :(",,,,YES,YES,YES,YES,4,"""at my wit's end type bs"" and ""feels like im drowning tbh :("" describing energy depletion, combined with sustained overload as ""the only one tasked with this""","""very over it"", ""really frustrated"", and ""feels like im drowning"" indicating intense sustained negative emotions and aversion","""treat me like I am stupid"" and ""I know half-answers"" indicating cognitive overwhelm and indecision about patching procedures","""very over it"" indicating aversion/withdrawal, cynical tone toward colleagues (""No one really knows anything... or legit anything useful""), and ""feels like im drowning"" suggesting psychological withdrawal",EMO
+post,1aibsxk,,"MSP is walking all over me
+So it’s been a month since I’ve been hired. I’ve learned the systems we have as advised by this Reddit. I’ve begun creating a playbook for the organization as the MSP never had one. So far I’ve been tasked with desktop support tasks as well as researching new applications to use. Recently I asked for administrative access to the server where I was told they did not want me having access because if anything went wrong they would be to blame. I call bullshit because you can see who logged in and made changes. Help me out here.",,,,NO,YES,NO,NO,1,"No mention of physical or mental energy depletion, tiredness, or sustained workload causing exhaustion.","""MSP is walking all over me"" and ""I call bullshit"" indicate intense frustration and anger toward the work situation.","No mention of difficulty with memory, focus, decision-making, or feeling cognitively overwhelmed.","No signs of psychological withdrawal, indifference, or cynicism; the user is actively engaged in creating solutions and asking for help.",EMO
+post,1pgq68v,,"Is this my life now?
+I've been in IT for 10+ years now. I've mostly been a jack of all trades, but always wanted to be a sysadmin, and since about 3 years, here I am. I thought I would also be the cool Sysadmin guy, teaching the new guys from Servicedesk, having nerdy fun with my Sysadmin coworkers, collaborating with the cool application, security and network guys, solving complex issues. So what did I find you ask? 
+Lazy snotnosed Servicedesk employees. No affinity with IT, no experience, no effort, no nothing. All they can do is click the 'Escalate' button and moan when I ask them to troubleshoot before escalating. If the should do any troubleshooting or solving, they want knowledge items on where to click for which problem, not the logic behind the solution. 
+Every fkn ""IT"" department within my company feels like the sysadmins should build, maintain, know, document, fix, upgrade their shit. What their own responsibility is? No one knows. My own sysadmin colleagues, one 20 something, same attitude as the service desk guys. One late fifties, in constant panic, no clue what he's doing, breaks what he touches. One guy my age, rather not speaks with me anymore because I hurt his feelings once I guess (called him awesome but too accommodating). 
+Project managers not knowing anything about It but meddling with anything and everything except managing the project. 2nd and third line colleagues, internal and external, completely clueless. Rather shit talk everyone else and pretend being busy with stuff rather than learning a skill and actually doing the job they're required to do. 
+The biggest letdown of all.. Security. I've always seen them from a distance and thought it would be pretty cool to work there. Now I work alongside them. The guys fake *everything*. They try to make me build shit you wouldn't do in a sandbox because of the risks. The senior of the department has no clue about least privilege. Tries to make me nest 8 or 9 Entra roles because he needs to activate them all manually each day. Want me to create service accounts that multiple people will use, so give us the credentials. Want to have personal MS Graph access. When asking them to react to something they state they just make policy. When asking them to make policy, they state they are just advisory. When telling me they want full owner or contributor access or whatever god mode, they are suddenly the messiah's of the company because what if they are required to fix everything when I mess up. 
+
+Now.. I'm just constantly tired and angry.. 
+
+What happened? We're my eyes closed the last years or did something change? Is it my company or is this my life now?",,,,YES,YES,NO,YES,3,constantly tired,constantly angry,"The post contains no mention of memory problems, brain fog, trouble concentrating, or difficulty making decisions.",Is this my life now?,EMO
+post,8gqzpb,,"We lost our MYSQL Live DB. We have FRM and IDB files left. We can't get it done. 8 hours of google didn't help. You are our last chance.
+We are devestated and can't make anything work anymore. We lost 1 week of customer data and it might kill the company.
+
+
+we try any infos of replacing the IDB file.
+
+whatever we do we get
+
+    ERROR 1812 (HY000): Tablespace is missing for table
+
+or
+
+    mysql> select * from table;
+    ERROR 1814 (HY000): Tablespace has been discarded for table 'table'
+
+what is our last chance?
+
+
+
+----
+
+https://ufile.io/6is6v
+
+it includes the *.frm and the *.idb from a (no user-data) table. can you find a way to recover it?
+
+
+
+
+
+
+
+------
+
+gg everybody. thanks for help. i'll quit. 
+whatever i can import, only till april 11th. that's less then we have backup. seems like the shit is really dead. while we deployed the mysql server hang up which eventually corrupted the files to a degree where they are dead. 
+
+trying Percona tomorrow.",,,,NO,YES,NO,YES,2,The post describes an acute technical crisis (8 hours of troubleshooting) rather than chronic energy depletion or sustained overload over weeks/months; no explicit physical or mental exhaustion symptoms like 'drained' or 'tired' are present.,"""We are devestated"" and ""i'll quit""","The inability to recover the database is due to technical file corruption, not personal cognitive impairment such as brain fog, memory issues, or inability to concentrate; the poster is coherently troubleshooting specific errors.","""i'll quit"" and ""gg everybody""",EMO
+post,8fcz4u,,"[RANT] Fracking state mandated reporting! Aaarrrgh!!
+*raaaaaant!!*
+
+State agency sends out submission guide requiring new reporting of PII.  I spend a month going through the guide and breaking out all the data fields they want into easy to understand chunks.  Meetings with various directors and management to review this new mandate and it's report requirements.
+
+We don't collect over 50% of the data being requested.  There's no law or regulation requiring we do so, so it doesn't exist for us.  Per the submission guideline, the data we don't collect will cause all reports to fail in the states system.  So per the regulation, we request an extension on the reporting because we're 6 months from implementing a full Electronic Medical Records system that will contain all that data and can do the required reporting.  Currently, *everything* is on paper.
+
+Just received an email from the agency.  Basically saying *We don't care if you don't collect the data or don't have a way of creating the report.  You need to report in.  If you don't, we'll send in a review and you will be fined for non-compliance.*
+
+How the F**K are we supposed to comply with something we can't comply with?!  The data doesn't exist!",,,,NO,YES,NO,NO,1,"No personal energy depletion, physical tiredness, or sustained overload described as a personal cost; the post focuses on external frustration with the state agency rather than personal exhaustion.","""[RANT]"", ""*raaaaaant!!*"", ""Aaarrrgh!!"", ""How the F**K are we supposed to comply"" - intense anger and frustration expressed through profanity, all-caps, and explicit rant markers indicating strong emotional reaction to the work situation.","No difficulty with memory, focus, or decision-making described; the poster clearly articulates the compliance problem and has successfully analyzed the reporting requirements.","No withdrawal, indifference, or cynicism toward their own work described; the anger indicates active engagement rather than psychological detachment or autopilot.",EMO
+post,1nhnfru,,"HPE Instant On Logs RANT
+I have a small 8 port HPE instant on switch. The switch is cloud managed and for some reason rebooted over the weekend. I got alerts from our iDracs that the ports connected to this switch went offline. I tried to check the logs and or events on the instant on portal only to find out there are none. I checked the switch web interface to also find no logs or events. 
+
+I contacted HPE support for guidance at finding the logs in the portal and was told the only way to access the logs is support has to do it. The end user cannot access logs for Instant On hardware that is cloud managed. 
+
+A task that would take me 15 minutes to do took over 2 hours of chatting with online and then ended up opening a high priority P1 case with HPE support just to be able to see the logs via screen sharing of the tech.
+
+The tech is not even allowed to send the logs to the end user.
+
+The tech said the only way to see the logs is to contact support, the tech just said open a P1 case when you need to see the logs. 
+
+**HOW does this make sense, to have an end user call support and open a high priority P1 case and tie up a tech just to see switch logs.**",,,,NO,YES,NO,NO,1,"The post describes a specific technical frustration with a vendor but does not mention energy depletion, physical tiredness, mental drain, or sustained work overload over weeks or months.","The post is explicitly labeled as a ""RANT"" and uses bold/caps formatting (""**HOW does this make sense...**"") to express strong frustration and anger at the work situation of dealing with HPE support.","The text contains no mention of memory issues, difficulty concentrating, brain fog, indecision, or feeling cognitively overwhelmed by job demands.","The user shows active engagement in solving the problem (contacting support, opening a case) with no indication of withdrawal, indifference, cynicism toward work, or going through the motions.",EMO
+post,1cgrygn,,"Automation to replace automation - bad manageers
+Anyone else experience a manager who is constantly trying to re-invent the wheel in regards to your current workflows and automation around basically ....everything you already have automated and working soundly and effectively?  
+
+
+I have a manager who is up my ass using automation buzzwords every single week, we've already automated almost 100% of our IAM workflows for departments and user accounts from our HRIS and our IDP by using unique custom attributes and workflow rules and triggers.  
+
+
+We've got all of our security alerts automated through our on call application and slack, we've got all of our mdm alerting automated for anything work automating, we even have alerting setup for specific triggers in our MDM so that if a user's device isn't encrypted with filevault we get a report of it to slack (there's actually way too much noise in our slack environment as it is, there's too many notifications and channels for alerting - there's absolutely no way to keep up with it)  
+
+
+We've automated our ticketing system! all of our slack communications migrate directly over to our ticketing system so we don't have to do double the work, tickets are created automatically in specific slack channels and assigned based on other automations on top of that and workflows on top of that.  
+
+
+This guy is now telling me that he wants us to basically stop using all of the tools we currently use for automations and use new tools that nobody as the org has any experience using to automate the same things we already have automated.  
+
+
+This guy is just a bad manager who has no idea what he's asking. Why would we replace all of our functioning sound effective tools for tools that nobody knows how to use and then create high level automations around it? What a fucking disaster.  
+
+
+I went into engineering and system administration with the idea to make complicated services less complex and simplify them. These fucking morons come in trying to make complex problems even more complex for the sake of complexity. It's mind numbing.  
+
+
+How many things are you going to automate to re-automate it, what is the point of an automation if every 3 months you're going to be told your production automations (that work properly) aren't enough, you need to re-invent the wheel, rip the automations out of prod and somehow get an entire team up to speed on the new tools we are using to automate the same shit we already automated.",,,,YES,YES,YES,YES,4,"sustained overload from manager 'constantly trying to re-invent the wheel' and 'every 3 months' having to replace working systems, described as 'mind numbing' with 'no way to keep up with it'","intense aversion and strong negative emotion: 'These fucking morons', 'What a fucking disaster', 'bad manager who has no idea what he's asking'","overwhelmed by volume and complexity: 'there's absolutely no way to keep up with it' regarding notification noise, and burden of learning new tools while maintaining existing automations","explicit loss of meaning and cynicism: 'what is the point of an automation', 're-invent the wheel', and persistent resentful tone toward work demands",EMO
+post,bogshq,,"Just sent the 'how much would it cost you to replace me' email in hopes for more money
+I won't give the whole thing but I showed how much I do that the honcho's don't know about .. security and updates and all that jaz.  Also i wrote half the code running this place and I'm not being paid enough 
+
+so we'll see how it goes, but I'm fed up with working like a donkey and not seeing enough gold coins in my pocket.
+
+grrr hate this shit but WTF man.. Pay me more!
+
+edit: this was a shit post sorry I was frustrated working late last night.  I think we have a solution in the works
+
+Feel free to downvote :)",,,,NO,YES,NO,NO,1,"While the post mentions 'working like a donkey,' there is no explicit description of energy depletion, physical tiredness, or mental drainage; the focus is on frustration about pay rather than exhaustion.","Multiple strong emotional signals: 'fed up with working like a donkey', 'grrr hate this shit', and 'frustrated working late last night' indicate intense aversion and sustained negative emotion toward the work situation.","No mention of memory issues, difficulty concentrating, brain fog, or feeling cognitively overwhelmed by job demands.","Despite expressing frustration, the author is actively negotiating for a raise ('how much would it cost you to replace me') and mentions 'we have a solution in the works,' indicating engagement rather than psychological withdrawal or indifference.",EMO
+post,1bj5k0v,,"How Can I Successfully Work With and Transform A Heavily Entrenched Security Team with a Gatekeeping Culture Into Effective Resources with a Collaborative Culture?
+At my previous employer, the Infrastructure and Security teams collaborated closely. I wouldn't say either team was subordinate to the other, but generally speaking if I wanted to stand up a new set of resources with security requirements that had implications external to my own networks then this is where security would be involved. I would submit my requirements - these were for the most part non-negotiable, I have spent many hours researching the vendor's requirements and adapting them to our infra - the requirements are reviewed and now begins the process of applying company security policies within the context of those requirements.
+
+From time to time, a requirement may conflict directly with a policy - this was fairly rare tbh, but when it did happen we reviewed together and worked on figuring out a solution by applying both of our technical expertise synergistically. Most of the time, it was a badly written application/service that had a req that I didn't realize was stupidly insecure and I disable it or we mitigate.
+
+In my current company, the workflow is laughably ineffective. All communication besides basically ICMP is blocked inbound and outbound every time a packet needs to leave its subnet unless explicitly allowed. So, I have 6 different VLANs that belong to me - litterally I run everything in them - If I want any server to reach any other I must fill a long excel template with source+destination, protocol, port. In both directions. And then attach that excel template to a tickrt . I can request that a host group be created, but I have no way of knowing what groups exist, nor what firewall rules exist currently in general unless I write them down somewhere as I create them.
+
+Depending what tech I hit, I may be allowed to add an entire subnet in the source or destination (but never both! that is too broad!), but if I fill this template with too many rules and the tech feels the number is too big - he wants to discuss. Now, it's important to tell you, this tech has absolutely no idea what I am talking about when I justify my request, his job is seemingly to intimidate me into limiting the scope of my request because the numbers he sees on the template are too big. Depending on his mood and depending on my determination, I may be successful or I may have to concede something random. But I could litterally spesk gibberish to this person and theybwould never know better unless the 1st hit on google was ""your sys admin is fucking with you"".
+
+If I instead submit 15 requests over 15 weeks, or ask my colleagues to help and submit 5 each once weekly - they will all get approved. I know this because we did it accidentally - and then we did it on purpose. We gave up after we managed to add the nearly the entire datacentre.
+
+We all know from a technical perspective all the things that are wrong with this. That's not what I am asking. What I am asking is how... do I even begin to change this. There are a million improvements to this process and I know all those things - but how do I deal with the human/bureacratic/culture/managerial part of this to get it changed? In the context of arguing my position, how do can i avoid the trap of having all my points be reduced to basically ""I don't want to secuity cause it's hard and stuff and like wtv it's no biggie wth us guys"" and presenting arguments that convey the absolutely dire circumstances we find ourselves in. How do I do this is a way that security's ego is not overly bruised and maybe even try to pivot to a collaborative user(as in me)-centric service model?
+
+Some pieces of data:
+-I've spoken to Manager, he has told me that it's not my job to worry about that fw rules - the architect is responsible for creating these rules. I don't really understand what this even means tbh. I guess maybe this is a fight from before me. The architect is so over worked though that he looks like he is an inch from quitting or dropping dead.
+-To everyone's knowledge, there is no regulatory compliance that we need to pass that requires this level of ""security"". We do have contracts that are sensitive, and closely regulated by law - all data and systems related to these are airgapped.
+-Organizationally, security is horizontally related to my group. However everyone is afraid of them and no one will stand up to them at all in any way, even in other groups. Product engineering is the exception, they somehow have their own little island of a few VLANs where nobody bothers them and everything is open.
+-There is absolutely no cost tracking for secuirty being done. If I submit a request, the time I spend justifying my request, preparing it, scoping it down and/or modifying based on demands by security, that is billed to infra. When I troubleshoot failures because either the rules are not applied as they were requested or because I rescoped them smaller than best practice and the application has now failed in an expected and impossible to diagnose manner - this is also all billed to infra cost centre, not security. The security department is huge, 60 people.10 i interact with regularly including department head.
+-The security personnel are not very technical and generally unpleaseant to deal with but they can be reasoned with logically provided you have enough time and crayons to get them there.
+
+Thanks, Andrei",,,,NO,YES,NO,NO,1,"The post describes systemic inefficiency and mentions a colleague (the architect) is overworked and 'an inch from quitting or dropping dead,' but the author does not describe personal energy depletion, physical tiredness, or feeling drained themselves.","Multiple stacked emotional signals including 'laughably ineffective,' feeling intimidated by security staff ('his job is seemingly to intimidate me'), sarcastic contempt ('I could litterally spesk gibberish to this person,' 'provided you have enough time and crayons'), 'absolutely dire circumstances,' and describing the team as 'generally unpleaseant to deal with.'","The author articulates complex technical and organizational problems clearly and logically; there is no mention of brain fog, memory issues, trouble concentrating, or difficulty making decisions beyond normal strategic uncertainty about how to approach management.","Despite cynicism about the security team, the author is actively engaged in seeking solutions to transform the culture rather than withdrawing; they demonstrate care and investment in improving the situation rather than indifference or autopilot.",EMO
+post,11z5i8s,,"[RANT] I am the amateur mystery janitor/detective
+I am *not* an infrastructure engineer. My firm was heavy on full-stack management by application teams with mixed skillsets until the COVID retirement cliff hit, and after that we are starting to sort responsibilities between infrastructure, platform and application-level admins.
+
+Early December 2021, I go on a much-needed vacation and the first day, I find out about some plugin I've never heard of being the worst thing ever. I check our systems on VPN from the hotel, realize we're screwed, and have ulcers the rest of the trip. January 2021, we patch the unused .jars and get that shit taken care of, but other teams in our same situation don't know how to do the basics. Their 'admins' are just web developers with server admin rights, and the guys and ladies they relied on for patching before 2020 are now administering RVs and vacation homes.
+
+The serious engineers and sysadmins are too busy with well-defined infrastructure and high-capacity applications, there's departmental shooting wars over responsibility, InfoSec is always pissed, and when someone quits without leaving documentation, run books, or even HLAs to refer to, everyone kicks the can until I catch it. By the time it gets to me, every other SME has recognized the issue as toxic and more risk than reward, and every bone in my body tells me to find someone less important to hand it to.
+
+It keeps happening over and over again- the shit flows downhill until I have to pick it up and beat environments and platforms and even teams into shape (""What's a CAB?"", ""it works fine now, why would we need to patch?"", ""I'm on a development contract, why do I need to care about a vulnerability?"").
+
+Every time someone transfers from my team somewhere else  they end up bringing their new baggage back, because the scope of their new team's ignorance and previous mismanagement needs multiple hands to fix. Our people are good, but they end up inheriting SO MUCH CRAP that it defaults back.
+
+My C-Level boss alternates between thinking I'm a good platform developer (accurate, good for their goals), or a jack-of-all-trades admin(I am not, and a distraction from their goals) but it looks good when I fix up a server and write the run books and defend it before the CAB, if *only* because I'm the first person to seriously do so and bring shadow IT into the light.
+
+Aside from moving into a serious engineer position, had anyone else managed being the bottom-feeder/fixer for hidden IT stuff?",,,,YES,YES,NO,NO,2,have ulcers the rest of the trip,every bone in my body tells me to find someone less important to hand it to,"No cognitive symptoms such as memory issues, brain fog, or difficulty concentrating are described; the poster appears competent in handling complex technical tasks.","While frustrated with workload distribution, the poster shows active engagement in solving problems and seeking solutions rather than indifference, cynicism, or psychological withdrawal from work.",EMO
+post,14ammb2,,"I want to get out of Ops/CloudOps - any suggestions?
+Hello,
+
+I want to get out of Infrastructure Operations. My past jobs and current have been some form of System Administrator with Linux (held RHCSA but it expired), Windows, VMWare, AWS, and some network stuff. About 8-9 years of IT experience.
+
+Main reasons for wanting to get out are, tired of being on-call, tired of supporting garbage, tired of office politics. I'm not sure which direction to head, or even if there is anything within IT per say. I get along well with most people, but kinda hate office politics (unavoidable).
+
+I was thinking something like Security, or being some sort of Architect, but I have no idea what to focus in. I love Linux, VMware has become convoluted, and I enjoy Security stuff. I even though about becoming a developer, but I'm not sure I'd enjoy it. Although, I like creating stuff (music). 
+
+I saw some people suggesting something like a CISSP. Other ones I've seen are IT Auditing but I'm not too sure the best way to get into that.
+
+The other part of me is thinking of ditching IT altogether and just working with my hands but I haven't found anything yet. I almost went for a Jet Mechanic program until I found that jobs are minimal. And you can still have a shi\*\*y boss. At least in IT you can jump around till you find a good fit.
+
+&#x200B;",,,,YES,YES,NO,YES,3,"tired of being on-call, tired of supporting garbage, tired of office politics",kinda hate office politics and sustained expression of being tired of multiple work aspects indicating persistent negative emotional state,"Uncertainty about future career direction represents normal career planning indecision rather than cognitive impairment in performing current job duties; no mention of brain fog, memory issues, or concentration problems at work","want to get out of Infrastructure Operations, tired of supporting garbage, thinking of ditching IT altogether",EMO
+post,8zfe9c,,"Why do Fob systems need a Leprechaun’s luck to fix?
+I’m running a side job for a club house and low and behold the last guy who managed the fob system entered users in bulk loads and never wrote down or ID’d the fobs for each user. 
+
+With there being over 1500 users so far, this is going to be a pain to manually assign each user to fob.
+
+Another thing to note is before the system ran on the controller alone. No servers are present unless the guy needed to add more fobs.
+
+And to top things off. I changed one fob users “username” (Ive read this is just a name field, not actually ID of the fob) from “Batch user load 2 to “John Smith” and low and behold, only that Fob works now. All the other ones don’t and I’m assuming that’s the 1500.
+
+Why does cansec smartlock surf have to be such a useless pile of garbage😂😂",,,,NO,YES,NO,NO,1,"No explicit depletion, tiredness, or sustained energy loss described; only frustration with a specific technical task.",useless pile of garbage,"No difficulty with memory, focus, or decision-making mentioned.","No withdrawal, indifference, or cynicism about work engagement expressed.",EMO
+post,ollrwo,,"Should I be able to handle this workload?
+I took a position at a small municipality (132 users) a couple of years ago. I am the only IT person and I am responsible for everything tech related (including the irrigation system for the parks, SCADA, security system, ACM, phones, software (what ever anyone wants apparently), servers, batteries, printers, CCTV, council recordings/publications, website, and so much more I don't remember right now).
+
+They were running on 4 physical Servers ( 2008 R2). One was on the floor of the ""server room"" because ""that's the only place it works"". One was only used exclusively to share an external drive that housed all the AutoCAD drawings for the past 15 years (with no backup). The other 2 were VM Hosts to 8 server VMs. All 10+ years old. The network had Aruba, HP, Ubiquity, and Meraki devices. There are 9 locations with 3-25 users each. There were 80+ computers that were 5-12 years old with Windows 7. The IT folder on the shared drive had a couple of pictures of the old IT Manager and that was it. No documentation. No inventory. No ticketing system. Backups that went to the same server rack, and second backup that went to a drive I had to take home every night with the VMs on it. Everything I have found so far still had the default administrator password.
+
+I have been improving the infrastructure as much as I can, but I find I am putting out fires 100% of the time and the rest of my time is filled with meetings (public, staff or vendors). For software, hardware, tools, training and contractor support I have a total of $125k/year.
+
+I really have been finding it difficult not having anyone else with IT knowledge to tell me when I am doing something the slow way. Or even just to ask if someone else has seen an issue I am having difficulty with.
+
+My Director seemed to think it was a time management issue, so I was micromanaged for 10 days. I addressed around 15 tickets/day and after the two weeks the ticket queue went from 352 to 347.
+
+I have been asking for another employee or even a Co-op student. Am I being unreasonable?",,,,YES,YES,YES,NO,3,putting out fires 100% of the time and sustained impossible workload evidenced by addressing 15 tickets/day for 10 days while queue only dropped from 352 to 347 (net decrease of 5 tickets despite closing ~150),I really have been finding it difficult not having anyone else with IT knowledge combined with distress of being micromanaged for 'time management' despite the overwhelming solo workload,so much more I don't remember right now and expressed uncertainty about whether they are doing things 'the slow way' indicating cognitive overload and decision-making difficulty,"The poster remains actively engaged in problem-solving and infrastructure improvements, seeking solutions rather than withdrawing or expressing cynicism or loss of meaning",COG
+post,yyso3u,,"Fastest way to learn how to admin New Relic One?
+I was just hired as a system admin and inherited a New Relic One instance to manage. I've never used applications like New Relic or Splunk before. Nobody in my company really understands how to use it either. So no training from that direction. I'm trying to fix broken stuff, while the change requests that I'm struggling to understand are piling up for me already. I'm now trying to find out if we have an account manager to assist me with getting my feet wet, but I don't expect much from that angle.
+
+I figure while I'm chipping away at docs and troubleshooting stuff I'm barely able to understand, I figured I'd ask r/sysadmin to see if any New Relic wizards out there that have already been through this, or have any recommendations for an accelerated learning track of sorts.
+
+My first goal is to become capable of day-to-day tasks as soon as possible. So I can complete stuff like adding services to monitor, adding/modifying alerts, etc. As someone who has never seen this stuff before, figuring this stuff out on my own has felt pretty unintuitive.
+
+My second goal is to learn enough to audit what we have, how it's connected and go from there. Hopefully write some documentation for the next guy. Thanks!
+
+EDIT: I've already spoken to senior management about paying for additional New Relic support. That got shot down...",,,,NO,NO,YES,NO,1,"No explicit depletion, tiredness, or sustained energy loss described; user just started role and describes situational challenge without physical or mental exhaustion signals.","No intense, disproportionate, or persistent emotional reactions expressed; tone remains problem-solving focused without strong hate, irritability, or loss of emotional control.",change requests that I'm struggling to understand are piling up for me already,"User demonstrates active engagement through goal-setting and seeking solutions, with no signs of withdrawal, cynicism, or loss of meaning.",COG
+post,1nvo1q7,,"In way over my head
+I have been in my current position for a little over a year now (Jr. System Administrator). Our senior admin left last year which opened up my position.  
+
+I have reached a point where I feel way in over my head with my assigned tasks. Some tasks include: 
+
+Migrating off of VMWare, Windows server 2016 upgrades, Exchange 2016 migration, along with day to day tasks. 
+
+I legitimately feel stuck and not being able to make substantial progress on these things is greatly impacting my personal life. I go home and can only think about what I need to do the next day at work. 
+
+I've talked to my boss about these feelings and I am trying to be better about delegating tasks to other team members but ultimately still feel like I can't keep this up.",,,,YES,NO,YES,NO,2,greatly impacting my personal life and I go home and can only think about what I need to do the next day at work,"While the poster expresses stress, there are no explicit intense emotional reactions such as anger, hate, crying, or snapping described; the distress appears primarily cognitive and anxiety-based rather than emotional impairment",feel way in over my head with my assigned tasks and not being able to make substantial progress,"The poster shows high engagement and preoccupation with work (cannot stop thinking about it) rather than withdrawal, indifference, or cynicism",COG
+post,11c3d06,,"Worst workflow ever
+This is a very long Rant post. But I need somewhere to spit it out and ask for advice. 
+Thanks for reading.
+
+TL:DR.
+I've been a sysadmin for four years now. We have no endpoint management, no ticket systems, nothing. I don't even have access to email administration. 
+Employees ignore documentation, instructions, security rules.
+The supervisor and CEO doesn't want to implement anything or respond to it in any way. How do I convince CEO to give permission to do something?
+
+
+I joined this company four years ago. Before that, I did user and equipment support in the catering industry. As well as various personal projects.
+
+From the very beginning, I started out as a helpdesk and ""equipment supply manager"" and I had almost none of the access I needed to do my job and some that I absolutely didn't need. For example, I couldn't write out access to the corporate VPN or create email for a new employee. But I did have full access to video surveillance and its server. Why? No one knows except my supervisor at the time, He was a sysadmin back then. And now he's a ""IT director.""
+
+Already at that time, I should have seen ""red"" flags by then. No documentation, no monitoring, no ticket system for 100+ clients, no access to the necessary tools. But I was so happy at the time with normal office work (the previous one was even worse) that I ignored it and decided that I could fix it all.
+
+Over time, I was able to build some monitoring system, write documentation, and generally do all the things I could have done without ""approval"" from upper management.
+
+My ""sysadmin"" supervisor went on a promotion and became IT director about a year after I was hired. Now he handles development and projects with the rest of the IT department, which sort of lives separately. The employees and offices remained on my shoulders.
+
+It was around this point that I began to realize how bad things were. I'm alone on over a hundred employees and as far as I'm concerned management thinks I should minimally:
+1. Provide full boarding/deboarding for the employees.
+2. provide them with equipment.
+3. Provide equipment for the offices.
+4. provide the network.
+5. Cybersecurity.
+6. Help Desk.
+
+But you know what? At this point and to this day, I still don't have access to a shitty email admin. We don't even have AD, nothing at all.
+Until last year, we didn't even have RADIUS on the WiFi network in the offices.
+
+I found myself alone and had no tools to perform my duties. So I started telling my ""IT Director"" and CEO regularly that we needed to make reforms. Get everything in order. Do at least some standard stuff and give me access.
+To this day, most of what you all think is common practice has not been implemented.
+
+From what I have been able to do over the years is to: Implement RADIUS. A physical office access control system and alarm system. Redo the corporate VPN and finally get access to it. Make a good Network of the offices.
+
+But to implement any changes or processes that go beyond the IT department is literally like bashing your head through a wall.
+You're faced with such a mountain of whining that you can't even imagine. 
+
+Let me give you a RADIUS implementation as an example.
+I've made everything as ""user friendly"" as possible. You can use a corporate app for your phone or computer to authorize on the network. From the same application you can open the doors in the office, connect to VPNs, etc.
+Everything is as convenient and clear as possible. Authorization via SSO by email.
+Or the old-fashioned way. Login/password and change every three months.
+
+Somehow I managed to explain to the CEO that WPA2-Personal is not normal and it must be changed, after the third time I got my approval. And I wrote a letter to all of the employees notifying them of the change in a month. I attached the most understandable instructions to the letter. I duplicated the notifications and instructions closer to the date. I went over every person in the office with my assistant (I already had one at this point)
+
+And what do you think? After I pushed the button in the general chat room there was a howl of how bad it was. That I'm setting up a ""digital gulag"" (c) and will be SPYING to everyone. I tried to explain something, but it's clear that it's like talking to a wall.
+
+In the end, the CEO says that ""everyone who does not like my ideas"" can use the guest network and I have to make it so that it does not restrict users in any way. RADIUS is kind of a thing but 59% of the employees are on the guest network.
+He just threw out all my arguments because a conditional ""soy"" manager with a corporate macbook couldn't read the letter. 
+
+And so with everything. 
+
+I tried to introduce a ticket system, just to not get lost along with the assistant in the number of requests and have at least some metrics about our work. Also through a single application and space. And guess what? 
+Three million ""jokes"" that we are bureaucrats. Superiors just doesn't care. Everyone keeps calling or texting on messenger.
+
+I don't even talk about cybersecurity. You have already understood from the text above that no one can even read the letter.
+Not to mention the requirements and instructions on cybersecurity.
+In their words, the leadership says they take safety very seriously. In practice, they don't care 
+
+Helpdesk turned into the seventh circle of hell a year ago. 
+For some reason, every third employee has activated the ""Karen"" syndrome and now people consider it their duty to call me at any time of the day or night if they have something wrong. Even if their problems have nothing to do with us.
+And if you tell them to get off from you because they're not doing everything as you told/it's your weekend or etc they will whine to the CEO.
+
+End-user infrastructure is a maximum mess. Windows, MacOS. A bunch of different devices.
+BYOD in all its glory. 
+And what is not BYOD is used as personal devices without any control. And also by the way the vast majority of it is now MacBooks. And do you know why? The director loves apple.
+
+
+
+In general, the system administration in this company is a complete wreck.
+
+And any one of you would say that you should pack your bags and leave. But unfortunately that is not an option for me.
+
+You see, some time ago our company completely relocated from one country to another. 
+That, by the way, helped me introduce most of the changes. Before that I had been pounding on the wall for several years.
+
+Actually, the problem is that I don't know the language of this new country and I can't leave it for certain reasons. I tried to apply for jobs in the languages I know, but I was rejected everywhere. 
+I fell into the trap of having very little experience in some of the things that are used everywhere. For example AD.
+
+So I am ""stuck"" with this company. 
+And I had already lost any motivation to do anything. Every day I sit at work with a stone face, and I'm already fighting not to tell the next employee who decides that I should fix the coffee machine in the kitchen to fuck off.
+I haven't updated the documentation for about a year now because there's no sense in writing it if you're the only one who reads it and I don't even want to run any new projects related to IT standardization anymore.
+
+I certainly won't get fired. Because no normal admin will come to this dump and the salary in general is decent.
+
+So what do you think I should do? 
+Continue to sit back and just go with the flow? Maybe it is normal?
+Or should I somehow explain to the leadership that it is still necessary to do those things that are everywhere in IT? 
+Or maybe I should somehow sharpen my skills and keep trying to change jobs?",,,,YES,YES,YES,YES,4,Helpdesk turned into the seventh circle of hell a year ago; alone on over a hundred employees; call me at any time of the day or night,howl of how bad it was; mountain of whining; like talking to a wall; seventh circle of hell,get lost along with the assistant in the number of requests; End-user infrastructure is a maximum mess,like bashing your head through a wall; Superiors just doesn't care; I don't even talk about cybersecurity,COG
+post,1q7ct6w,,"I’ve been given a golden opportunity, and I fear I’ll mess it up
+I’ve graduated and entered the devops and infra field, but I’ve always liked and enjoyed security but thought it was too hard to get into and always thought it’d just stay as a hobby.
+
+3 months in in my full time job, my senior noticed my interest in security and hinted that I could shift to focus on DevSecOps and Cloud security. I immediately accepted and got some learning material and decided to ask around. Now I am extremely grateful for the opportunity I’ve been given, but I feel overwhelmed.
+
+I always liked the idea of a security engineer, basically have understand the concepts of code and reverse engineering as well as infra, but I’ve then been told by people to focus more on cloud security as it’s the future and the “right” path to security engineer and then others warned me and told me to focus on DevSecOps and appsec as it’ll be the future and the shortest path.
+
+Now I understand this may sound silly but I’m not sure I know the difference now and it’s getting confusing on what I should focus on to improve upon the more I ask people. I will keep doing both DevSecOps and Cloud but I sense that I need to focus on something to grow in it more.",,,,NO,NO,YES,NO,1,"The post expresses situational stress about career decisions but does not describe physical or mental energy depletion, sustained workload overload, or feeling drained from work demands.","While the poster expresses fear about messing up the opportunity, the emotional reaction appears proportionate to the situation and does not indicate intense, persistent, or disproportionate emotional impairment such as hatred, irritability, or loss of control.","""it's getting confusing on what I should focus on"" and ""not sure I know the difference now"" indicate cognitive overwhelm and indecision regarding complex career path choices, meeting the threshold for difficulty with decision-making.","The poster explicitly states being ""extremely grateful for the opportunity"" and actively seeks to grow and focus their learning, showing engagement rather than withdrawal or indifference.",COG
+post,ofnzrc,,"RAID 6 Help
+I was given the task to replace the drive in a server due to the fact the drive was failing. I did not setup the system, just told to get it working.  I replaced the drive and the system is currently rebuilding the array.  The system is used as a PC based NVR running 6 10tb HDDs in RAID 6. and an SSD in RAID 1.  It has an Adaptec controller, I just want to know being that I have never really dealt with RAID on this scale.  I want to know if the system is configured for RAID 6 and a drive fails you should be able to replace the drive while the system is on and it should repair itself?  Also if the system has a hot spare, would that mean you need an additional 10TB HDD for it to access if a drive fails?  I have spent few days trying to understand this system and my mind was fried.",,,,YES,NO,YES,NO,2,my mind was fried,"The post describes technical confusion but contains no intense or persistent emotional reactions such as anger, sadness, or irritability.",spent few days trying to understand this system and my mind was fried,"The author is actively seeking solutions and engaging with the problem rather than showing withdrawal, cynicism, or disengagement.",COG
+post,1dfaa19,,"Brain Fog and Dopamine Seeking brhaviour impacting work
+Hi folks, I'm having issues working on tickets for months now. When I look at my list of tickets to work on I feel exhausted and it's like forcing myself to put my hand on a hot stove. And instead I find myself doing dopamine seeking behaviour during work hours instead of working on tickets (browsing reddit, reading manga, listening to youtube videos). 
+
+On the rare moments I can force myself to work on tickets, I feel especially exhausted. And I only have rare days when I can spend hours working on tickets without issue. Sometimes caffeine and my ADHD meds help, but most days all they do is keep me from wanting to take a nap under my desk.
+
+Any ideas on what I can do? My current next step is calling employee councelling my employer provides, and maybe asking about anti-depressants with a telehealth doctor. 
+
+Before the typical, ""you're burnt out, take six months off,"" comments  come in. I literally can't take time off from work, as I only have a week of vacation time piled up, and have used up my sick days for the year already. I don't have savings to live off of, and I'm the only source of income for my household.",,,,YES,YES,YES,YES,4,"""When I look at my list of tickets to work on I feel exhausted"" and ""On the rare moments I can force myself to work on tickets, I feel especially exhausted"" and ""wanting to take a nap under my desk""","""it's like forcing myself to put my hand on a hot stove"" indicating intense aversion to work tasks","""Brain Fog"" and ""having issues working on tickets for months now"" with inability to focus on tasks","""dopamine seeking behaviour during work hours instead of working on tickets (browsing reddit, reading manga, listening to youtube videos)"" showing active avoidance and withdrawal",COG
+post,94dks8,,"Dealing with error. More difficult than it seems.
+Hi,
+
+I'm a sysadmin for the past 15 years. I'm at the current $job for about 18 months.
+
+My unit are doing IT integration for every acquisition that the $job did. We have a pretty good track of records integrating everyone (email, A.D. accounts, server - domain transfer, security, etc...) This week I migrated one file server, like have done it hundred of times.
+
+Well the migration did not go as well as everyone has hoped. 
+
+So this part of business is not 24 but 8h to 20h. The migration was planned at 22h00. At 0h00 I know everything shit the bed, our failback procedure failed. So I begin manually (well scripting) a solution got 90% fixed by 5h00 (only had 50 peoples left who I anticipated still not fixed) I couldn't thing anymore, was beyond tired, so I hit the bed and decide to be at the office first thing in the morning. I communicate with our incident manager that some will have problem with accessing the server. At 9h30 everything was fixed. At 10h00 everything was tested 100%.
+
+Everybody (direct boss, boss's boss, ops boss, helpdesk boss) was pissed because I didn't communication earlier and better. Got to go to a postmortem and everyone told me that communication was lacking. I apologize, can't change the passed.
+
+They left me alone to call the 10 users that bugged the helpdesk. So I took me a day and a half to reach everyone by phone. No support. Oh yeah the sysadmin on-call that night just told me to fix my shit since he's going to sleep and better to no wake him.
+
+Now I have to migrate another server for next week. First stage of the change process is to have the ops boss approve my change.  And the question begin, did you match the user SID, did you match the Group SID, will you add both domain security during migration, will you create a CNAME for the old server name. After that last question, my answer was that is was sad that one mistake was defining how to do my job. The 500 servers that was migrated earlier didn't mean anything.
+
+The $job employ around 10000 peoples.
+
+Got email from boss's boss saying that it's important to better communicate.
+
+Honestly thing about updating my resume.
+
+tldr; Migrated 500 servers without issues. Got one wrong, cause a 2 hours downtime for 50 peoples and it's hard to have change approval. Thinking about switching job.",,,,YES,YES,YES,YES,4,"I couldn't thing anymore, was beyond tired",it was sad that one mistake was defining how to do my job,I couldn't thing anymore,Honestly thing about updating my resume,COG
+post,b845pn,,"Those ""done"" moments..
+Applying rant flair cause I feel it may be more interpreted that way, even though this is mostly about my career and change..
+
+Been working MSP space now for a decade primarily. Worked my way up the ranks to my current ""Tier 3"" position. Even though that's my official title, the company I currently work for has me wearing multiple job hats (~3), 2 of which are not related to Managed IT at all. 
+
+Been here for almost 2 years and the MIT side has been grueling and stressful as any other MIT op, with the added:
+
+- national directive for MIT with a changing target for operation and back end service support
+-. Lack of observable interest in our region / OpCo even though our momentum has been greater than majority of other OpCos
+- A never ending supply of people in another state dictating what my daily duties should be without any face time or physically being present.
+- the constant struggle of ""who do I report to today / who am I going to disappoint today""
+- unresponsive billing backend that has literally caused us to lose MIT deals before we could onboard due to processing delays and hold ups
+- etc etc etc
+
+There is a lot I want to put here but I know it would be all over the place and probably hard to read (especially with me doing this via mobile). I guess what I am really saying is this morning I hit my ""done"" moment. I don't want to see or hear about another timesheet. I don't care what the ""leading"" OpCo thinks or says about direction. Really that's the core of it.... I'm starting to just ""not care."" I am burnt out on managed IT as a whole. It's never enough pay for the workload even in the shops where they mostly have their shit together.
+
+I went from entertaining other employment solicitations quietly and contemplatively, to actively applying and searching.
+
+Mondays I have blanked out on my (one of three exchange mailbox) calendar(s) for internal maintenance, (guess I forgot to mention: one of my job hats is the primary internal IT for our OpCo which consists of nearly 100 users, 10 servers, and ~100 workstation endpoints across three cities) and today while I try to troubleshoot my poor man's infrastructure and delayed / failing veeam backups, I am also actively applying to what I can find that appears to be exclusively non Managed IT. 
+
+I think there is a good place for Managed IT in any sysadmin's portfolio but would caution those currently in the rut, or just breaking into the market, to make sure you have your goals and specialization focus at least mostly mapped out. Don't spend too long in this ""fast food for IT"" sector or you can burn yourself out of your career as a whole.
+
+Technology is my passion and my love since I was in diapers, so I haven't burnt out of my career yet. But after this, God willing, I can close the chapter on managed IT work and evolve from here.
+
+God speed to the rest of you.
+
+Thanks for reading.",,,,YES,YES,YES,YES,4,"grueling and stressful as any other MIT op, with the added... wearing multiple job hats (~3)... never ending supply... constant struggle... workload",I hit my 'done' moment... burnt out on managed IT as a whole... rant flair,blanked out on my (one of three exchange mailbox) calendar(s)... all over the place and probably hard to read... who do I report to today,I'm starting to just 'not care'... I don't want to see or hear about another timesheet... close the chapter on managed IT work... fast food for IT,COG
+post,1kz4fy5,,"Security is just overwhelming anymore these days....
+I have been a Network/Firewall Engineer for like 15 years and things are shifting all the time in this industry. So I wanted to start just peeling off a bit and become more knowledgeable in the security realm. I invested into the INE platform recently for some network things I was trying to learn and saw all the security content they have and thought that might be a good place to start. Well there is so much its almost impossible to know where to start. People say ""learn the basics"" ""learn the foundations"" but what the heck is the foundational skills?! I prob have some currently with just working in Networking and Firewalls. I have used ISE, Clearpass, Palo Alto Firewalls, MFA, SAML, etc, etc. I read some people say start with SOC, but man that seems boring and prob really hard to get practice in without working in a SOC itself. 
+
+So while I understand the options are unlimited and everyone is different, I am just looking for general opinions or practical exp that people have taken to progress. I would like to stay hands on technical and not just be a paper/policy pusher.",,,,NO,NO,YES,NO,1,"No mention of physical depletion, sustained energy loss, or health deterioration attributed to work; 'overwhelming' refers to cognitive complexity rather than exhaustion.",No intense or persistent emotional reactions described; 'boring' and mild frustration with vague advice do not meet the threshold for emotional impairment.,"""Security is just overwhelming anymore these days"" and ""there is so much its almost impossible to know where to start""","No withdrawal, cynicism, or loss of meaning described; the poster actively seeks engagement and hands-on technical work rather than disengaging.",COG
+post,17xs47j,,"Replacing an HPE C7000's VC Modules
+Hi r/sysadmin,
+
+I'm a junior sysadmin / network admin that inherited a set of 3 C7000 chassis when everyone above me got poached in quick succession. Two of them are stacked, and the third is a spare that I've been using to play around and try to familiarize myself with the platform. I need to replace the flex-10 enet modules in the stacked pair with something newer, as these modules only support VirtualConnect version 4.75, which still requires Adobe Flash to manage. Newer compute hardware is a discussion item for next year's budget but probably won't make it in since these C7000s are, unfortunately, some of the newer components of our network. Other replacements and upgrades have higher priority. Thankfully, there's actually been a lot of movement on that front lately compared to the last few years of stagnation.
+
+I've obtained a set of four Flex-10/10D modules, which as far as i can tell, are a direct replacement for the existing modules, and I've gotten them up to date with version 4.85 (HP did a great job making finding the firmware into a wild goose chase!) I've largely been stumbling around in the dark so far, finding it extraordinarily difficult to find information on how to do anything I need to do with this chassis. A great deal of the documentation links I find are 404s or link to HP domains that no longer resolve. In addition to the 10/10Ds I also have two each of FlexFabric 10Gb/24-port and VC 8Gb 24-port FC modules. The OAs on all three chassis are already up to date with version 4.97.
+
+Could anyone familiar with these machines tell me if this upgrade/replacement can be done in a non-disruptive or at least minimally disruptive way? Or am I going to be scheduling a 3am change for myself, if it's even possible at all?
+
+These systems are managed and configured so differently from the 1u and 2u servers I'm used to that I feel like I'm floundering aimlessly!",,,,NO,NO,YES,NO,1,"The poster describes increased responsibility due to colleagues being poached and technical challenges, but does not describe physical tiredness, mental depletion, or sustained energy loss.","While the poster expresses mild frustration with HP's firmware being a 'wild goose chase', there are no intense, persistent, or disproportionate emotional reactions such as hate, misery, or snapping described.","""stumbling around in the dark so far"", ""finding it extraordinarily difficult to find information"", and ""I feel like I'm floundering aimlessly!""","The poster actively seeks solutions, experiments with spare equipment to learn, and engages with infrastructure improvements, showing no signs of withdrawal, cynicism, or indifference.",COG
+post,qclz7b,,"Ticketsystem or similar (local or selfmade?)
+Hi, I hope this is the right subreddit for this question.
+
+English aint my first language but I hope I get some of the less-used words right.
+
+Pre-information that might help understand my maybe weird question.
+
+I currently work as a tech-support, roughly said, in a public school/county school (municipal?), background from different IT-related work, never had the title Sysadmin but worked with several stuff related to it, so I know my way around to get the basics.
+
+I am somewhat limited in my access, but not fully, compared to other schools in our municipal (is that even the right word?) I work a bit differently due to the age of ""my kids"",  and my previous knowledge and the schools structure also makes it so I cant really ask them on how they handle stuff.
+
+I have no direct co-workers on site and work between 2 buildings, a bit too much for one person, but thats another story.
+
+I can contact our IT-support desk for various things, but they work in ""general workspace support"" and do not have or know half the stuff we use, we have another support-desk for the other half (schoolworld), but they mostly only know that part and direction in general, and its like a small wall trying to get help from them on the overall issues we have.
+
+Contacting the other school-supporters do help, but they also work differently or have a way lighter role than I have, so I sit here in between it all, where we need to change/remake or create routines and a new foundation for several areas related to IT, it works as it is now, but not good enough, and the way people work can be improved heavily, meaning reducded workload for them, and me, and less issues in general.
+
+When I came into this position the previous guy gave me half a day of training and most of the stuff was nono to do anyway, and then he was gone
+
+With the workload, limitations, and whatnot I have a pattern I cant get off, and with the ever increasing workload, and rules/routines that are outdated or for completely different machines/software it gets worse.
+Combine that with new hardware, updates and new software that keeps rolling out.
+
+Add the pandemic to all that (meaning all support-desks are overflowing right now with workload so everyone for themselves!)
+
+
+----------------------------
+
+* How do I handle the workload?
+Post-IT, mail, notes, documents, piles in the room. (since I started here 2 years ago I remade my own ways to handle stuff several times, everytime with small improvements, but not good enough and no real time to dive deeper into it)
+
+* How do I get said requests? 
+Spoken, notes, mail, etc. (I try to ask them to mail me, but getting so much mail its easy to lose track, and its hard to ""add notes"" on what parts have been done)
+
+For the students computer cases I made folders, lots of folders and .txt for each ""case"", it works somewhat, but its still a bit messy and its only for those I send for repairs/warranty.
+
+-------------------------------
+
+I do not have a ticket-system, I might be able to get the same our It-supportdesk has, but I got warned its kinda crap and slow, and it also have some limitations as well.
+
+I have tried several ways to organize myself, and I know there is plenty of free ticketsystems out there, problem is, most of the information I put in aint allowed on the web, and our It-department must approve said software, wich they wont, and providing me with something has a cost etc.etc so thats out of the question, I am now a lowly grunt in their eyes. :)
+
+I have been thinking about doing something in like excel, that I can have in our local network, so it can be accessed by those that might need it and have rights to look at it, and that requires a bit of learning of the more advanced excel stuff, so I guess its on my free time.
+
+Is there other solutions you guys might be able to suggest? 
+I cant use a template or other software, since I have no clue if its securerd, or whats in the code/macro in said premade stuff at this point. (until I learn more)
+
+Maybe create something in php/html?
+
+We have the basic office tools, I could probably get access to some other ""classic"" microsoft tools/software, but slightly limited, seen some guides on setting up ticketing in sharepoints and whatnot.
+
+We are talking basic requirements, for me only, but still advanced enough to maybe have categories, status, notes, etc, no mails should be sent from the system and it should not sync with anything that aint local or in the same folder as whatever I use.
+(Example, if I have an excel that creates a .txt per ticket and opens up that one with all the info)",,,,YES,NO,YES,NO,2,"ever increasing workload, work between 2 buildings a bit too much for one person, pattern I cant get off, no real time to dive deeper into it, support-desks are overflowing right now with workload","No intense or persistent emotional reactions described; the post maintains a practical, problem-solving tone without expressing strong hate, misery, snapping, or sustained irritability","getting so much mail its easy to lose track, hard to add notes on what parts have been done, remade my own ways to handle stuff several times but not good enough","Actively seeking solutions to build a ticket system and improve workflows; no evidence of withdrawal, cynicism, going through motions, or loss of interest in the role",COG
+post,1kh1zqv,,"This crippling interview anxiety – how do I deal with it?
+Guys, I'm trying to find new/different ways to deal with this INTENSE interview anxiety. I don't just mean I get a little nervous beforehand; I mean severe, paralyzing anxiety, shaking, nausea, diarrhea on the day (TMI I know, sorry), I can't think about anything else but the interview leading up to it and even after it, all these things. It got to the point where I had a Zoom interview for a company a few months ago, and I got so extremely anxious while being asked a question because I couldn't think of an answer quickly, so I just hung up on them, and I never looked back. My mind completely freezes, and I can't pull myself out of this state to say a coherent sentence, and in the end, I find myself saying any meaningless nonsense.
+
+I'm currently in therapy and trying to resolve this, but I've been unemployed for 4 months now, and financially, I need to find a job as soon as possible. I've tried several different types of depression and anxiety medications, but none of them are really working.
+
+I've tried to remind myself that it's just a normal conversation, and ask myself ""What's the worst/best that could happen?"" but I simply can't accept or believe that.
+
+I genuinely feel like I'll never be mentally ready to have an AWESOME interview and be calm, confident, and able to perform well. So, any tips, tricks, or recommendations, I would be very grateful for them. Thank you very much, and please, no harsh comments or replies.",,,,NO,YES,YES,NO,2,"Physical symptoms (shaking, nausea, diarrhea) are acute anxiety reactions to interviews, not chronic energy depletion from sustained work demands; poster is unemployed with no current job overload described.","severe, paralyzing anxiety, can't pull myself out of this state, and hanging up on the interview indicate intense emotional reactions and loss of control in a work-related context.","My mind completely freezes and can't say a coherent sentence describe cognitive impairment during the interview, with inability to think of answers or speak coherently under work evaluation pressure.","No evidence of indifference, cynicism, or psychological withdrawal from work; poster is actively seeking employment and highly emotionally engaged (anxiously) rather than detached.",COG
+post,fgjkjf,,"What am I doing here?
+I recently started a job last week as a sys admin, but while my paperwork is being processed to join that team I am assisting another team, who are not local, with patch management. My problem is I have never really done patch management as my previous work experiences all revolved around hardware repair, installations and the like. So in short I don't know what the hell I'm doing and I'm afraid I will not last long in this position (even though this was not the position I applied for) or this field for that matter. I enjoyed my previous work well enough but I also felt like I was a fraud in it. Those feelings have returned with a vengeance and I feel like I'm drowning. Thank you for listening.",,,,NO,YES,YES,NO,2,"Only one week into the role with no mention of physical tiredness, energy depletion, or sustained overload; 'drowning' refers to cognitive/emotional overwhelm rather than exhaustion.","""Those feelings have returned with a vengeance"" and ""I feel like I'm drowning"" indicate intense, disproportionate emotional distress and anxiety tied to the work situation.","""I don't know what the hell I'm doing"" combined with significant distress ('with a vengeance', 'drowning') indicates cognitive overwhelm beyond normal new-job adjustment.","The post expresses anxiety about performance and fear of failure rather than indifference, cynicism, or psychological withdrawal from work.",COG
+post,1gbgu3j,,"Overworked and Burnt Out
+Burnout Hitting Hard – Overworked and Understaffed, Need Advice
+
+Hey everyone,
+I’ve been in the sysadmin game for a while, but lately, I’m feeling completely overwhelmed and burnt out. I’m managing a RDS environment for 500 to serve an application that’s absolute garbage, but the entire company relies on it daily. It’s constantly breaking, and I’m the one stuck holding it together.
+
+On top of that, I’m responsible for a plant location and fulfillment location that’s running on ancient tech (thanks to the old paper printing presses), so every day feels like a battle just to keep things operational. And to add insult to injury, a coworker quit months ago, and there’s still no sign of a replacement, so all his work has been dumped on me.
+
+To make things even worse, we’ve acquired a few companies recently, and I’m getting pulled into projects for them too. Right now, I’m building VMware clusters to support this dumpster fire of an application we’re stuck with. I’m constantly firefighting and feel like I’m spread too thin to be effective anywhere.
+
+I’m running on fumes here. Has anyone else been in a similar situation where management hasn’t addressed the staffing issues or the overwhelming workload? How did you navigate through it? I love the work, but I’m seriously at my breaking point. Any advice would be appreciated.",,,,YES,YES,YES,NO,3,"running on fumes here, completely overwhelmed and burnt out, spread too thin, every day feels like a battle, sustained overload from coworker quitting months ago with no replacement","absolute garbage, dumpster fire of an application, add insult to injury, seriously at my breaking point","spread too thin to be effective anywhere, constantly firefighting","Explicitly states 'I love the work' and seeks advice to fix the situation rather than showing withdrawal, indifference, or cynicism toward the work itself",COG
+post,1o15s25,,"Why is everything these days so broken and unstable?
+Am I going crazy? Feels like these days every new software, update, hardware or website has some sort of issues. Things like crashing, being unstable or just plain weird bugs.
+
+These days I am starting to dread when we deploy anything new. No matter how hard we test things, always some weird issues starting popping up and then we have users calling.",,,,NO,YES,NO,YES,2,"No explicit energy depletion, physical tiredness, or sustained personal overload described; focus remains on external software issues rather than personal exhaustion.",Sustained frustration and emotional distress tied to work: 'Why is everything these days so broken' and 'Am I going crazy?' indicating persistent negative emotional reaction to work conditions.,"No mention of memory issues, concentration problems, brain fog, or decision-making difficulties related to work.",Persistent dread of work tasks: 'starting to dread when we deploy anything new',MD
+post,zea9wz,,"Leaving Organization during a time of Juggling many projects
+Anyone find a nice way to resign while stuck in the middle of several projects?
+
+I just accepted an offer with my old employer after getting fed up with poor corporate culture and being asked to handle too many tasks in the 11 months I have been with new job. I was going to walk from my new job almost immediately but I decided to keep working through my disdain for my current employer. It didn't work out. I am burned out after less than a year. Now I have a heaping plate of projects that I am going to leave up for my Director of IT to deal with all by himself. I'm honestly terrified to hand in my letter of resignation I see it ending with getting screamed at by the IT Director followed by him having a stroke. The place I am at now needs a whole IT Department I carry all the Infrastructure Engineer, Network Engineer, Systems administration and Help Desk Duties for a $500M a year company.
+
+I would honestly just walk out if I didn't live in such a small community. I would run into the people I fuck over pretty frequently if I did.
+
+&#x200B;
+
+UPDATE:
+
+Haha I haven't drafted a resignation letter yet and just had 2 more projects dumped on me.",,,,YES,YES,NO,YES,3,burned out after less than a year and being asked to handle too many tasks and heaping plate of projects,fed up with poor corporate culture and disdain for my current employer and I'm honestly terrified to hand in my letter,"No mention of memory problems, difficulty concentrating, brain fog, or decision-making paralysis; describes workload overwhelm but not cognitive impairment symptoms.",disdain for my current employer and I would honestly just walk out indicating psychological withdrawal and cynicism,MD
+post,1kc02u4,,"Feel I'm living the Milton of office space life as a Jr sysadmin
+Forced into this role from help desk. Environment is more of windows servers and exchange 2012-2019. We cut 1 experienced sysadmin and the one left refuses to train me on the on prem shit. He's not that guy yet blasts me when my boss asks me what else I'm working on. I've done everything the windows admin asked of me. I won't let him call me out for slacking but I'm not paid to sit around 12 ht days when I'm working before 7am and everyone else is on at 9. 
+
+So I basically do basic monitoring of the servers and apps for the client.
+
+Pretty sure they can't fire me without legal issues as it's a potential lawsuit from my side (even though i want at this point my help desk job as I did more than I do now). I feel I'm just here ubtil they can day in court we did our bes
+bestt or I quit. 
+
+I'm there and paid like Milton but don't really exist within our infrastructure team.  Some may like this lifestyle but it kills me and honestly drains my motivation for certs because it's useless for our roles at the moment.
+
+And yes I have my red stapler and no printer issue to beat up",,,,YES,YES,NO,YES,3,12 ht days when I'm working before 7am and everyone else is on at 9,Some may like this lifestyle but it kills me,"No mention of memory problems, concentration difficulties, or decision-making impairment; the barriers described are external (refused training) rather than cognitive",I'm there and paid like Milton but don't really exist within our infrastructure team,MD
+post,16x6m9d,,"SOC Analyst > ???
+I have been a SOC analyst for about 1.5 years. Before this job, my only IT experience was in help desk for 5~ months. I feel I have learned most of what I can at this job and would like to start applying to new jobs in 6~ months. I currently have a BSIT and a handful of certs including Linux Essentials, net+, sec+, cysa+, AWS Solutions Architect Associate, and a few other non important ones. I'm not entirely sure where I would like to go from here. I have a feeling that becoming a SOC analyst so soon may have a pigeon-holed me from other opportunities, but I'm not entirely sure(opinions on this are appreciated). Maybe security engineering, or something cloud related. I've even gotten pretty familiar with Python and would love to do something related to that(I suppose both sec eng or cloud/cloud sec could satisfy this). I know that I don't want to do what I'm currently doing anymore. It is very repetitive and boring. I would like to be someone who creates useful things rather than just responding to bad things.
+
+My question is... How should I dedicate my time the next 6 months to best prepare myself for a move into such a position. I have plenty of time at work for study so all suggestions are welcome.",,,,NO,NO,NO,YES,1,"No mention of energy depletion, exhaustion, or sustained overload; user reports having plenty of time for study indicating available energy.","No intense emotional reactions, persistent irritability, or strong negative emotions expressed; only mild dissatisfaction described.","No cognitive difficulties such as brain fog, memory issues, or trouble concentrating reported; user actively learning new skills.","""I know that I don't want to do what I'm currently doing anymore"" and ""It is very repetitive and boring"" indicating psychological withdrawal and aversion.",MD
+post,8d2e7e,,"Fuck on call
+Our ""cloud"" team is supposed to be engineering but they act like a horrible ops team. Some smart decided they should funnel every single fucking alert to PagerDuty and have it call/text/email on every single god damn alert. The best part or it all is they're not even doing the integrations correctly so resolved messages open a new ticket. So for each page you get notified 3 times for the closed and the resolved.
+
+Then they think it's funny to test alerting mid day when the tester doesn't have the phone and they won't put shit into maintenance mode. It's so bad that whenever my coworker and I are on call we have multi hour rants about it to our boss and he understands and has to apologise to us because he knows it's bad.
+
+I've blocked the number before and just let it ring up the chain. Tonight my boss just said ""Turn off your phone, I've texted them""
+
+Also it's unpaid oncall and this is the 4th hell week, the last one was so bad I took 2 days off work just because the fucking phone rang 17 times each night throughout the AM.
+
+Oh and my favorite thing is I don't even have credentials so I can't fix it even if I wanted to. They don't understand that so they want me answering the phone and rerouting it. No I'm not your god damn tier 1.
+
+/rant
+
+I'm done with this and if I get put back on call ever again I don't know what I'm going to do.
+
+Edit: Good news! I'm no longer in this on call tree! My group will finally be on call for only our services!",,,,YES,YES,NO,YES,3,the last one was so bad I took 2 days off work just because the fucking phone rang 17 times each night throughout the AM,multi hour rants about it to our boss and he understands and has to apologise to us,"The post describes external system frustrations but contains no mention of memory problems, concentration difficulties, brain fog, or cognitive overwhelm.",I've blocked the number before and just let it ring up the chain,MD
+post,1jxr4jc,,"SIEM for SMB with low requirements to functionality
+Disclaimer: I don't want to run my own SIEM as I'm not a SOC analyst and I'm not paid to be 24/7, but my boss insists. He knows that I won't be tuning the SIEM.
+
+We're a team of 6, managing 200 servers and 600 clients.
+
+Main purposes are network troubleshooting, basic alerting and basic forensics going back a week or two. We're not trying to detect adversaries in real time (I've made sure to tell my boss that very thoroughly), they just want some syslog from their firewalls and logs from AD, they couldn't spell out Sysmon if I asked them to. It should be easy to patch by a network engineer with limited Linux experience who can read a step-by-step.
+
+* They've ""heard"" good things about Elasticsearch, so just the basic ELK stack with no frills.
+* I would personally rather prefer Wazuh to get more security-focused features included
+* Security Onion kind of includes the best of both worlds there, but it does contain a lot of moving parts plus some custom dependencies on top
+
+I want to hand the daily ops of the platform to the network engineers (my boss + his greybeard friend), but I want them to feel like they own it, so trivial questions won't get forwarded to me. I do feel like that rules out Wazuh, unless someone can tell me that the Wazuh Dashboards vs Kibana user experiences are almost identical. I somewhat also feel like this rules out Security Onion, as it's more of a black box, and includes more than what they asked for and understand. My own preference would probably be Wazuh > Security Onion > ELK, but I know that a barebones ELK installation is probably the easiest to troubleshoot and get help for.
+
+I haven't spent much time testing, as I'm kind of dissolutioned with the fact that we have no business running our own SIEM when we won't even be watching it. Thanks in advance for taking the time to reply.",,,,YES,YES,NO,YES,3,I'm not paid to be 24/7,I'm kind of dissolutioned with the fact that we have no business running our own SIEM,"The post describes analytical decision-making about technology options with no mention of memory, focus, or concentration difficulties",I don't want to run my own SIEM,MD
+post,smrfzk,,"Shared Nothin Live Migration slow - single Hyper-V host to Cluster
+Hello there,
+
+for months I'm having trouble now getting shared nothing migration to run in my environment. Since our holding company cancelled microsoft support recently and that support didn't help either I try my luck one last time at this wonderful here place before I finally give up.
+
+The problem briefly explained:
+
+Livemigration, once initiated, get's stuck for several minutes until it actually starts each time I migrate a vm from a single Hyper-V host to my Hyper-V Cluster. It works as expected the other way round.
+
+During that initial time the system seems to be free wheeling, nothing gets logged (and I went through every nook and cranny in the event-logs to verify that).
+
+&#x200B;
+
+This is the process as it happens in detail (when I say nothing happens I'm reffering to the migration network - there is continuous high activity on the management network):
+
+&#x200B;
+
+**single host->cluster**
+
+Initiation 0:00: hyper-v console displays computer being created
+
+\-not much happening then
+
+1:06 a short spike on the webtraffic indicates something happening - hyper-v console displays hardware compatibility checks for the vm
+
+\-another pause
+
+2:07 Hyper-V-VMMs logs tells me the migration was started
+
+\-another minute of nothing happening
+
+3:21 Eventlog mentions the server found a certificate
+
+3:30 -> 5:20: actual traffic happens, vm is being migrated
+
+\-another pause8:11:19 -> 8:11:20 - delta is being migrated and vm-migration is being finalized
+
+&#x200B;
+
+**cluster->single host**
+
+0:00 Migration initiated (immediatly started and being logged as expected)
+
+about 2:00 done, the vm migrated with continuos traffic
+
+&#x200B;
+
+**Does anybody have any idea what wtf might be happening here? If you do please contact Microsoft - they need you! Just pls  before you do also drop a line here to help me out. Thx!**
+
+&#x200B;
+
+Things that aren't it:
+
+\-I checked delegation.
+
+\-Windows Firewall blocks nothing.
+
+\-Antivirus on or off has no effect.
+
+\-Compression or smb makes no difference.
+
+\-Protocal is Kerberos, CreddSSP is disabled by MS security baseline.
+
+\-Cluster was rebuild node by node last fall in windows server 2019. Behavior was the same with 2016.
+
+\-The single hosts in this scenario were exchanged and behave the same across several sever versions and hardware-platforms.",,,,YES,YES,NO,YES,3,for months I'm having trouble now,what wtf might be happening here,"Post demonstrates clear systematic troubleshooting and detailed technical analysis with no mention of memory, focus, or decision-making difficulties",before I finally give up,MD
+post,111h080,,"How do you all do it?
+I've been working this job for only about 6 months now, and I've already done more work than over half our staff. I'm getting stressed from the unrealistic expectations being given to us with patching.
+
+I have a manager who knows nothing about IT and never remembers anything we teach them. 
+
+For the first time today, I had to step out while I had a breakdown because I couldn't take this. Shit is in flames every other day, but we can't even improve our infrastructure because we don't have time to do anything outside of playong catch up with patching.
+
+Nobody has specified tasks or jobs, and nobody is being held accountable for their mistakes. How the hell do you guys do this, because I'm already second-guessing my choice of taking this path. I didn't sign up for a job where I do tickets, patch EUDs, troubleshoot server issues, and am being screamed at in my ear to hurry to Win11. 
+
+For reference, we have 1000+ rotating users and devices across the entire US. We have staff at each site, but most only do tickets.",,,,YES,YES,YES,YES,4,"I've already done more work than over half our staff, don't have time to do anything outside of playing catch up with patching, had a breakdown","had a breakdown because I couldn't take this, being screamed at in my ear to hurry","unrealistic expectations being given to us with patching, do tickets, patch EUDs, troubleshoot server issues, and am being screamed at in my ear to hurry to Win11, Nobody has specified tasks or jobs","second-guessing my choice of taking this path, I didn't sign up for a job where...",MD
+post,1ne1532,,"I have had my Gmail for at least 27 years. Its almost useless due to the spam
+I mean, yes, 99% of the spam is prevented from entering my inbox but I get almost no personal emails, mostly tech related emails. I am almost not even interested in tech anymore its becomes a bit of a real turn off. I started in 1998, was a software test engineer at Microsoft. Went on to work for other companies but due to the LOW or ppr federal or state laws, as a contractor, I would last a year due to budget cuts for profit taking, and many other reasons. As I feared in 1999, I asked a IRC admin group what is the risk of Ai doing the administration..they laughed! did I anticipate it could impact IT administration? It has so far decimated low-level software developer jobs. What email do you use? Thanks much!",,,,NO,NO,NO,YES,1,"No explicit description of physical tiredness, mental depletion, or sustained energy drain from work; job instability is mentioned but without reference to exhaustion or health deterioration.","While the user describes tech as a 'turn off', this represents mild aversion rather than intense hate, persistent irritability, or disproportionate emotional reactions tied to work.","No mention of brain fog, memory issues, trouble concentrating, or feeling overwhelmed by cognitive demands.",I am almost not even interested in tech anymore,MD
+post,1izlkqn,,"Anyone else kinda dislike security after being in the field for a while?
+I know most posts are just everyone clamoring to get into the field but...give me a comparable-paying job outside of security and I'm willing to trade",,,,NO,NO,NO,YES,1,"No mention of energy depletion, physical tiredness, or mental exhaustion; only expresses dislike of the field.",Mild expression of 'kinda dislike' does not meet the threshold for intense or persistent emotional impairment.,"No evidence of memory issues, focus problems, or difficulty with decision-making described.",'kinda dislike security' and 'willing to trade' for comparable job outside the field indicates aversion and psychological withdrawal from the profession.,MD
+post,aemrka,,"It's Lonely Out Here...
+Do you remember when you first started your journey into cybersecurity? I don't know if this is the same for all of you but for me, I was a lost 14-year-old black boy who barely understood HTML and made websites in WIX. Looking back I was ambitious to become a ""security researcher"" and dip my hands into this new field of technology, so eager to try out new things. As a novice looking for new ways to hone my talents, I often found myself getting into trouble. I would poke around systems and get the attention of the school's IT team who wasn't as ambitious and excited as I was. One day the school got fed up with me and I was suspended for port scanning and slowing down the school's network, but upon my return, the vice principal gave me a choice that I will never forget. He told me I could ""use my powers for good"" and inform him of any vulnerabilities I found on their systems, I was finally given the chance to use my skills productively in a way that helped others. Right?
+
+Now I am 18, I have been forced out of my school, disconnected from my peers and am facing criminal charges for Computer Tampering. So what happened?
+
+What happened is a problem I see A LOT when it comes to youth in cybersecurity and I feel like it needs to be discussed. You see at the time, the vice principal had used his offer as a way for me to incriminate myself through signature despite already serving my punishment and not being of legal age to sign documents. Because I could not be expelled (my IEP protects me), the school used both my mental health and ""technology issues"" as a ""scapegoat"" to get me transferred out to a therapeutic school (which did not end up working out), what's worse is I am facing multiple punishments for doing something as harmless as helping the school after I was ASKED (or tricked) into doing so. All of this didn't help my mental health. I spiraled down a deep depression and then got admitted to an inpatient facility for suicidal ideation twice within a months time only to come back to the police charging me with something the school already punished me for several times.
+
+What's funny is everything seems to be getting worse. Since I have no friends I find it easier to get into trouble. I have picked up really bad habits and stopped eating, I have become skinny and sulky and worst of all lost much of my motivation to ever want to do anything sort of offensive-security work in the future, I feel betrayed.
+
+This is something that I see happening a lot in the cybersecurity community, especially amongst the youth. There is this criminalization for curiosity and it scares hackers away from cybersecurity. There is no reason why I should be sitting here alone at 1:44 PM when I am supposed to be at school interacting with my peers. What is even more frustrating is the fact that my school has actual trouble to worry about such as gangs and drug dealer, not some computer nerd, yet they are still attending high school whereas I am not. I have been punished for doing what I was told and have always wanted to do: ""use my powers for good"", but being good only brought me loneliness. There has to be another way to have gone about this...",,,,YES,YES,NO,YES,3,"I spiraled down a deep depression and then got admitted to an inpatient facility for suicidal ideation twice within a months time, stopped eating, I have become skinny and sulky","I feel betrayed, What is even more frustrating, I spiraled down a deep depression, suicidal ideation","The text describes emotional distress and depression but does not mention specific cognitive symptoms such as memory problems, difficulty concentrating, brain fog, or trouble making decisions","lost much of my motivation to ever want to do anything sort of offensive-security work in the future, I feel betrayed, being good only brought me loneliness, sitting here alone",MD
+post,1sgbpmd,,"List of small things done in the last 4 months.
+I am not really writing this out to complain more writing this out for myself to realize how crazy this situation has gotten.
+
+Configured 2 palo alto firewalls in high availability to replace an older one EOL, setup an edge switch to properly allow for policy based forwarding and path monitoring to seamlessly have dual wan without BGP because we do not have a /24 and cannot apply for an ASN.
+
+Configured an entirely new network on top of ours to properly deploy 802.1x, dhcp snooping and dai to harden the network. 
+
+Configured an entirely new active directory on a separate interface and security zone with hardened group policies to disable NTLM and also prevent kerberos relay attacks to start moving people over onto.
+
+Deployed checkpoint email & collaboration harmony.
+
+Deployed crowdstrike on 100 endpoints
+
+All with zero downtime and between doing all of this the single IT person for 100 end points, 6 companies and give or take so providing helpdesk support and deploying new computers and cell phones for any new hires or replacing old ones.
+
+Logging all the assets, also doing all the purchasing of everything mentioned. A bunch of other shit I cant be assed to list like network cable runs and replacing switches, etc.
+
+Had ZERO support from anyone else.
+
+The one saving grace is I managed to do all of this refusing to work more than 40 hours a week monday to friday.
+
+All for under 100k CAD a year. Been at this for around 20 years.
+
+I used to put up with this because I have ZERO degrees and kinda felt like trapped because if I lose this job I wont make it past HR to get another but after writing all this down I do not think I really give a fuck anymore and am willing to start over from scratch to do something else.
+
+I am tired.",,,,YES,NO,NO,YES,2,"""I am tired"", ""cannot be assed to list"", and sustained overload described over 4 months as ""single IT person for 100 end points, 6 companies"" with ""ZERO support""","Tone is resigned and detached rather than describing intense emotional reactions such as anger, crying, snapping, or irritability; ""don't give a fuck"" signals indifference/withdrawal (MD) rather than emotional impairment","No mention of memory problems, brain fog, trouble concentrating, or decision-making difficulties; the poster successfully completed complex technical tasks requiring high cognitive function","""I do not think I really give a fuck anymore"" and ""willing to start over from scratch to do something else"" indicating loss of meaning and psychological withdrawal from the field after 20 years",MD
+post,1d5oxbl,,"Transitioning from R&D Engineering to Network Engineering/SysAdmin? Sanity check sought!
+I'm 31 next week and going through a bit of a mid-life crisis I suppose it could be called. I've become disillusioned with my current career path especially.
+
+I have a failed HW manufacturing business behind me which took 6 years of my life and more money than I would dare admit even to myself. But it was my apprenticeship in engineering. I'm self taught in everything I do from PCB design to CAD to programming and UX design. I don't have a single qualification to my name, yet I've designed, manufactured and tested automotive electronics at race tracks.
+
+I moved from that into an R&D Engineer position with a company manufacturing mobility scooters, but it was too familiar to my work in my own business and I didn't last long there before I got fed up with the daily drain on creativity pouring my all into IP that I don't own.
+
+From there I started working on a very promising prototype I'd had in the works for a while, and even managed to get an investor on board very early on, but within 6 months it fell apart as I lost trust in said investor. I could have continued under my own funding had I decided to go back to work and carry on developing the prototype on the side, or even landed another investor, but I decided I'd had enough of riding that train. I just don't have the energy to deal with starting a new business and all the difficulties that go along with it, the spark is gone.
+
+All that said, I've taken an interest in networking, and I believe it could be the career move I've been looking for. I need a job that requires use of intellect to solve real world problems, but I don't want to be so attached to the work itself. Network Engineer seems to fit this bill perfectly. I've downloaded a CCNA course, and started building my own homelab including a couple dozen WiFi enabled microcontrollers (what good they will be in practical terms I'm not sure yet, but I figure the more devices I can add to the lab the better!).
+
+I guess the main point of this post is the aforementioned ""sanity check"". At this point I doubt most of my decisions. Is this transition a realistic move to make in the UK in 2024? I know the CCNA cert alone doesn't mean a thing if you can't prove your knowledge. My lack of certs/quals makes me worry. I'm very much a hands on person, I love learning, so I'm not going to even bother applying for jobs in the field if I don't feel I have a certain level of competency in the first place. I couldn't imagine embarassing myself by trying to blag my way through an interview on the back of a cert alone.",,,,YES,YES,YES,YES,4,I just don't have the energy to deal with starting a new business and daily drain on creativity,disillusioned with my current career path and got fed up with the daily drain,I doubt most of my decisions,the spark is gone and I don't want to be so attached to the work itself,MD
+post,1bkgbzl,,"Too many priorities, manager can't choose one
+Context: I wrote this email about my manager but never sent it. It's raw and stream of consciousness. It probably doesn't have full detail but I'm over it.
+
+>Dear no one,  
+My manager is really chaotic, she is constantly changing what is priority and does not listen to what I tell her I am working on. Instead she brushes that off and her priorities trump everything else.  
+I canon work with her because she never know's what to work, nor does she ask me on my progress of work she just assumes it's done.  
+Sometimes, she'll ask me how a project is going and then, two seconds later, hit me with another project.  
+Recently I asked for two days WFH to complete a project she said was pressing. She denied the work from home then got upset when I couldn't make progress on it because team members and guests were pulling me away so I can help with other things.  
+I can't do my job if everything is so high priority that I'm constantly switching back and forth  
+I also can't do my job well if my manager is not accommodating me to work at my best. It doesn't make sense that she gets upset with me when I told her before hand, if I work from home I can complete all the digital work in a few days. Instead she made me work from home, and now she's upset that nothing of hers is complete.
+
+I plan on leaving real soon. I'm going to get the certifications while I interview.",,,,YES,YES,YES,YES,4,"""constantly switching back and forth"" and ""everything is so high priority"" indicating sustained work overload and depletion","""I can't work with her"" and ""I'm over it"" expressing strong aversion and frustration toward the work situation","""constantly switching back and forth"" and ""Too many priorities"" indicating overwhelm from chaotic cognitive demands and inability to focus","""I'm over it"" and ""I plan on leaving real soon"" indicating psychological withdrawal and desire to escape the role",MD
+post,x3l9i9,,"Is this a horrible first job (two months in)?
+Background: at 36, I decided to pursue a career in IT- late last year, I installed Linux on VMware Fusion and started trying to learn as much as possible. Took courses on Coursera, read books, setup a homelab with a variety of distros, Windows Server, Hyper-V, etc. I loved Linux and started looking into what a career in IT would look like. I graduated w/a degree in sociology in May (well, sort of- I got an incomplete in two classes that I'm finishing up currently) and started blasting out applications on Indeed, LinkedIn, Dice, etc.
+
+After less than two weeks of applying (close to if not more than 200 applications), I got a phone interview. The person interviewing me was the owner of the company and he said he was hiring for a senior network engineer, but I guess we got along well and he liked my passion and enthusiasm. He said he'd create a network admin apprentice position for me and if I'd be interested in that. I said yes and he said he'd reach out. Less than a week later, I had formal offer to be a 1099 contractor making just under $50k/year. I was pretty thrilled- this guy was super nice and super excited for my/our future- promises of teaching me lots and all that good stuff. I did not embellish my skills whatsoever- I told him I'd never worked in IT before and that I didn't have TOO much Windows experience, aside from being a casual user/troubleshooting networking stuff years ago, etc- that I'd been studying Linux for the last 7 or 8 months and that I'd love to learn about system/network administration. He said this would be a tremendous opportunity and I agreed- especially considering I had no IT experience.
+
+Well, turns out the other admin/engineer had given their two weeks and he had literally like 4 days to train me on anything he could. This is a tiny MSP- literally it's the boss and I, and we have like ten fucking clients- and he's barely taught me shit. He lives halfway across the country (we're in the US) and it can take him HOURS to respond to a text/email- even if I'm onsite trying to repair something or if I'm remoted into a user's machine literally waiting for him to send me software that I've been asked to install- he can be VERY unresponsive. I've without a doubt learned more from Google, our main vendor and my best friend who's a senior devops engineer than from my boss. He promises stuff and then doesn't do it, says we'll do this and that and it never fucking happens. 
+
+Yesterday I kind of fucked up- I needed to provision some VMs for one of our clients for remote use. I made a proposal for a small desktop, threw on 64gbs of RAM, and spun up two VMs using Hyper-V. I neglected to find out that the users needed to print remotely from the domain that they were remoted into onto a printer local them and one of the users flipped their shit (understandably), said wtf was I doing the past few weeks, this shit should've been squared away and asked that my boss get involved. I told him this. He didn't. He suggested a half-baked solution that didn't work and I ended up fixing it on my own. This guy also uses SOME (not all) unlicensed versions of software (which if that wasn't the case, I would've been able to call for support yesterday). This is a Windows shop- the previous ""engineer"" had never touched PowerShell or any kind of scripting in his three years there.
+
+I've been here b/w 2 and 3 months now and today I called I recruiter I spoke to before I started working here and am considering blasting out applications again. I don't mind reading the fucking manual and learning shit the hard way and I know for a fact there will be difficult users that I'll have to deal with anywhere I go, but what bothers me most is the lack of support and the lack of learning/teaching. I get reading StackOverflow and digging through documentation, but isn't it more effective for someone as green as me to IDK, maybe have someone fucking teaching me, instead of spinning my wheels for several hours googling shit? 
+
+IDK, I'm just wondering if I should keep this job or really start looking elsewhere. On a human level, I really like my boss and I really like 99% of our users. I get to travel a little bit and I also get to work from home the majority of the time. And another thing which I fucking hate and think is insane- when he introduces me to clients, he says this is my network engineer LMFAO- like, really, bro???? Jesus, you must really bank on your clients not knowing shit about fuck.
+
+Am I being a whiney little bitch, or is this actually a fucked up working environment? Sorry for the long read and I very much appreciate any input or insults everyone has.",,,,YES,YES,YES,YES,4,spinning my wheels for several hours googling shit,this shit should've been squared away and it never fucking happens,I neglected to find out that the users needed to print remotely,today I called I recruiter I spoke to before I started working here and am considering blasting out applications again,MD

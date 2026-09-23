@@ -1,0 +1,291 @@
+id,text,similarity_score,Label,label_reason
+1c7n2as,"New 2022 Server Login Issue
+Installed server 2022 in my home lab to do some testing. Promoted the server to a DC and after restart I can't login.
+
+Has anyone experienced this before?",,,
+lnizm4,"Calendly and Microsoft Bookings alternatives
+Hello all,
+
+Curious as to any good alternatives you guys in the field use for customer appointment scheduling that interacts with exchange calendars.
+
+\- We currently use Calendly, have had some issues with their services and their support hasn't been the greatest. (Management is not happy about it)
+
+\-Microsoft Bookings isn't viable at the moment, we have 365, but we are hybrid and still on prem exchange for now (Project scheduled for next Quarter). From my research, it appears it is only a viable option when you are Exchange Online.
+
+Thanks, and Happy Friday!",,,
+10vabk7,"Exchange calendar sharing sync problem w/ Gmail
+Morning all,
+
+Having a problem with an executive who shares his Exchange (cloud based) calendar with his personal Gmail account and is complaining that the sync between the two breaks sporadically... Is there any logging in Exchange admin center I can look at or any powershell commands that would shed some light?  I haven't been able to find any.
+
+Config I'm referring to:  [https://learn.microsoft.com/en-us/microsoft-365/admin/manage/share-calendars-with-external-users?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/share-calendars-with-external-users?view=o365-worldwide)
+
+And yeah, why he even feels the need to do this is beyond me....
+
+Thanks,",,,
+10weq0x,"Who ""owns"" or manages SQL Server & databases within your IT department?
+I started a new job on the Infrastructure side of IT and am still wrapping my arms around the org's environment.  Overall department has around 40 people working collectively within IT with some clear guard rails around what everyone is responsible for.  The exception to this is the SQL Environment.  
+
+Nobody wants to own it, but it is such a massive part of the IT stack.  There are people in App Dev roles who use it and actively add DBs, but they don't want to own or manage SQL.  There is pushback on every SQL related issue saying that this is something Infrastructure owns.  Tickets that are DB / Query / SQL software related flow into our queue all the time.  None of us know what to do with them.  
+
+At some point up until a few years ago there was one person on the Infrastructure side who wore 10+ hats that setup everything and maintained it.  Obviously, this wasn't sustainable and this person got burnt out and left for greener pastures.  The business seems to have never adjusted their viewpoint on this and there has been a lot of turnover with no replacement on the SQL skillset side.  Basically, nobody we have on staff today, myself included, know much about the inner workings of running a healthy SQL environment.
+
+My group is being asked by leadership to migrate a large amount of SQL servers to Azure (20+) and when we asked for help from the other IT staff in our area who are actively using it, nobody wants to touch it or give us more than 30 min of their time to help us understand how everything is even setup.  
+
+Other orgs I've worked at in my career had DBAs on staff, part of a larger Data/BI team that owned everything relating to SQL, including database backups.  I was part of a Systems team that would patch the underlying Windows Server OS that SQL was running on top of, or in the case of physical hardware, we'd own and manage the physical server hardware/drivers/firmware that SQL was running on top of.
+
+How does your org manage SQL?  Am I out of line thinking that there should be another team dedicated to the care and feeding of SQL?",,,
+y5759t,"Any way to customize the Adobe log in screen/experience?
+Our users have to enter the company domain when Adobe asks for their email address, which then takes them to our company's MFA page to sign in with their credentials. I explain this to everyone during their onboarding, but it doesn't always stick, and users enter their email when prompted (can't blame them) and inadvertently sign in to a personal account.
+
+Is there any way to prefill the domain? Or can I change the Adobe login page background image to include instructions on signing in?",,,
+cz05g8,"2-way video conference for two offices
+Hey everyone, I have been tasked to find a solution to connect our office in Utah and California through a video feed so that teams can quickly collaborate and get in touch without having to send a zoom link or google hangout. 
+
+Ideally it would work like this: both offices have a dedicated office with a camera that is sending a feed of both rooms on to a tv that is running for all if not most of the day.
+
+My question: is there a service or software that is ideal for this? Or would it just be easiest to set up the hardware and have both rooms participating in a zoom meeting at all times.
+
+I am just looking for leads or pointers, any help would be appreciated!",,,
+1rmpgsw,"Network and AI scanner
+Been working on something and figured I'd share it.  
+  
+Agrus Scanner is a network scanner I built that finds AI and ML services running on your network. Shadow AI is becoming a real thing, people spinning up Ollama, LM Studio, Stable Diffusion, you name it. It could help if you don't have another tool for this kind of visibility.  
+  
+So I made a tool that handles it. Point it at a subnet, hit start, and it finds what's out there. Not just open ports it actually probes services and pulls back model names, GPU info, container details, all of it. 45 detection signatures across 25+ AI services.  
+  
+It also just works as a solid general-purpose network scanner if that's all you need, and you can resize it. One of the main things I hate about other scanners when using them on a 4k monitor. Its all Native C#/.NET, so its very light.  
+  
+Oh and it doubles as an MCP server, so AI agents like Claude Code can use it as a tool to scan networks on their own. Pretty fun to watch.  
+  
+Free and open source. There is a link to my Github as well, so give it a star if you like it.  
+  
+[https://jpftech.com/#agrus](https://jpftech.com/#agrus)",,,
+1cmk7vw,"MS Edge Managed Favorites
+I have the GPO setup and working. My question is how do you allow users to add their own bookmarks and to not overwrite their current or new ones after they log back in?",,,
+1i9y960,"How do you manage your Win Updates on VM?
+Hi, I'm managing something like 50 Windows server VM. How do you manage the updates ? Currently I launch the update on everything not related to our production with an Ansible playbook manually the Friday after the Patch Tuesday and reboot manually each servers. Then the next week do the same for the production.
+
+Is it safe to automate that with AWX ? Can I automate everything except the HyperV hosts ?",,,
+8481p1,"AMD allegedly has its own Spectre-like security flaws
+**CTS-Labs, a security company based in Israel, announced Tuesday that its researchers had found 13 critical security vulnerabilities that would let attackers access data stored on AMD's Ryzen and EPYC processors, as well as install malware on them. Ryzen chips power desktop and laptop computers, while EPYC processors are found in servers.**
+
+&nbsp;
+
+**The researchers gave AMD less than 24 hours to look at the vulnerabilities and respond before publishing the report. Standard vulnerability disclosure calls for at least 90 days notice so companies have time to address flaws properly. Disclosing a vulnerability to the public without first giving a company enough time to fix it can be irresponsible, as it leaves the flaw open for attackers to exploit. Google's researchers gave Intel six months to fix issues related to Spectre and Meltdown.**
+
+&nbsp;
+
+This is shady as fuck. Who funded this? Who is behind the amdflaws.com domain? If this is the start of some security vulnerability war between Intel and AMD, this will get interesting. 
+
+&nbsp;
+
+
+
+https://www.cnet.com/news/amd-has-a-spectre-meltdown-like-security-flaw-of-its-own/",,,
+8nruu6,"Vista By Viewpoint ERP Software
+Hello, I am currently trying to find a 3rd party company that will help aid my company in the implementation of Vista by Viewpoint. We have been unsuccessful in the implementation process for the past 2 years. I am just a summer student brought in to help aid in the implementation for 4 months.  My company has spent over 50K CAD in training services done by Viewpoint in the past and to be honest I know more about the software than anyone here and I haven't received any training. To sum it up, the software looks great when working, but we have are in need of training to proceed with the switch to viewpoint. This leaves me to an idea of getting involved with a 3rd party company that will help aid in the implementation of the software. Has anyone in this sub dealt with Vista by Viewpoint or know of anyone who has?",,,
+1mlpn70,"Virtual Media errors with ""Channel Access Denied"" no matter what I do
+Hey. So, I have a server in Thailand and I'm trying to mount netboot.xyz.img via virtual media to get an OS on it, but I keep getting a ""Channel Access Denied"" error. Attach Mode is set to auto-attach (also tried attach), I have Administrator permissions, but it still gives that error. Resetting the SSL certificate doesn't help either. Anyone here knows how to help me?",,,
+1qhe83s,"WOW outage South East US?
+anyone else having issues with WOW internet, looks like it dropped out in my town about an hour ago but I don't see anything reported anywhere else.",,,
+utd7n8,"Mailman 3 with Postorius GUI - Header Filtering
+I'm trying to get a list configured to accept emails from a specific group of senders, but automatically reject them from all others. This list can be generalized as the List Moderators, but I'd be 100% ok with creating header filters that apply to each individual sender, if needed.
+
+I've done some testing using the From header and some regex matching to an email, but I think I'm missing something as it's not catching things as I had hoped.
+
+This is my first encounter with Mailman, so it's a learn-as-I roll-out-the system experience, but I've gotten most of it working and would like to make this work as well as the List Moderators want to, well, not moderate when they want to send messages.
+
+Thanks in advance.",,,
+14lmecl,"Question about Intune
+We have an enterprise 365 license and are migrating our mailboxes with the assistance of a 3rd party.  We would also like to utilize Intune, as our current PDQ solution struggles with offsite devices.  Can anyone assist in the difficulty or mindful steps to installed the Intune Connector into our AD environment?",,,
+8uwg2o,"Pretty hilarious ticket came in through our helpdesk this afternoon.
+Hi, I’m at my wits end with trying to get into our Facebook account.
+ 
+My predecessor was let go, and deleted a document with all usernames and passwords which left us guessing credentials and was cause for the initial lock out. I eventually regained access but was quickly locked out again for reasons unknown. I had to send them a bunch of documents which got me back in, but again was locked out.
+ 
+I don’t know what else to do. The Facebook page was a significant driver for revenue via ads (that we PAID for), media engagement, visitor engagement, answering questions, and promoting events.
+ 
+It has been sitting idle almost a month now.
+ 
+We are also delinquent in our payments, as the ad account was in $terminatedemployee’s name and her company credit card. So owe $750.28 in UNPAID bills for ads that we couldn’t even post because we are locked out of account.
+ 
+Every time I get a notice, the overdue bill price increases.
+ 
+I’ve been working on this for WEEKS now, and I’m out of ideas. I don’t know what’s going to happen if we don’t pay these bills.
+ 
+Please help.",,,
+18ziojv,"Force users to New Teams, don't let them switch back
+We want to force all of our users over to New Teams before MS's 31 March cut off date because we have a huge offsite at that time, and don't want to deal with a ton of tickets. We can use the Teams policy to make the New Teams the default, and it works nicely to gracefully bring the user over to New Teams, but is there a way to prevent them from toggling back to Teams Classic or prevent them from re-downloading and re-launching Teams Classic. We are a large org and just want everyone over to new Teams before MS's deadline.",,,
+8xcv8m,"Free degree - what to get?
+Hello everybody. 
+
+Here is some background quick. I've been in IT for about 7 years. First was at a small business and was jack of all trades guy and I loved it but the company wasn't the greatest. Moved into a job at a University and get free education. I currently have an Associates degree from a tech school and some other credits. 
+
+So I'm looking to get my Bachelors degree and I really don't want to take the Computer Science program offered since most of it is programming/software development which is not what I want to do. From a SysAdmin, I think I am looking more toward a management role - my future in IT isn't necessarily clear to me yet. With that said, I think I want to get my Bachelors in Business Administration and minor in CS.
+
+My question is would a BS in Business in Administration with a minor in CS be helpful in IT? I know people have mixed feelings with degrees in IT, but its free so why not. Also as more of a fun question, what degree would you get if you have the chance for free education? I'm definitely going to take some astronomy and philosophy classes. 
+
+TLDR: Free education from job at university - looking at a BS in Business Admin w/ minor in Computer Science because the CS degree should really be software development - is that a good degree for future IT after being a sysadmin?",,,
+1d8ylzr,"Whitelisting ""Mass Storage Devices""
+We are in need of whitelisting certain USB ""mass storage devices"" and allowing these devices only by whitelist.  We have been accomplishing this via rules in Intune. The problem is, it's very cumbersome to manage this way. I'm wondering what other tools are out there?",,,
+xeqo49,"""VPN users"" login time to windows too long
+Hi all,
+
+I've got the following situation : 
+
+Some users are working at home through coporate VPN (Pulse Secure). When users do a login, they're waiting between 1 and 15 minutes to see the system appearing (taskbar, desktop icons, etc...). 
+
+Basically, DC is not reachable and therefore group policies are not applied (we've got folder redirection, mapping drives, etc...). And that's normal behaviour here. 
+
+Checked on event viewer and found this : 
+
+[https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/netlogon-event-id-5719-or-group-policy-event-1129](https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/netlogon-event-id-5719-or-group-policy-event-1129)
+
+I tried some methods, but that's not working. 
+
+The idea is to not applying GPO, until users are connecting through VPN, so no GPOs will process and the login will be smoothely done without any delay between login screen and windows screen. 
+
+Any idea on how can I manage that? 
+
+Thanks!",,,
+104xjod,"What software would make your job easier?
+Hello everyone!
+
+I was a system administrator for the better part of 10 years, working for a small MSP. I got a little bored with it and went back to college to pursue a degree in Computer Science. I still work part-time for that MSP, largely because my employer treats me really well.
+
+This is my last semester, and as part of it I am expected to take on a software engineering internship. My previous employer has tentatively agreed to let me do that internship with that company, with the mutual understanding that the work I do has to be in line with software engineering, and NOT system administration.
+
+Now, my goal after college is to write software for system administrators and/or helpdesk personnel. Mark Russinovich is a bit of a personal hero. Therefore, I'd like to use this opportunity to take a step in that direction. So I wanted to reach out to a community of sys admins to ask: If you had a CS intern at your disposal, what kind of software would you have that person write to make your job/business either easier, more efficient, or more profitable?",,,
+m5echl,"How do you handle setting up new computers for users that already exist without getting their password or having Enterprise version of Windows 10?
+Also, no Intune or MDM because budget. Whats your go to way to deal with that?",,,
+1mph8qe,"Worth buying a Windows license when doing malware analysis on a VM?
+I dont mind buying a license but im concerned about it essentially being a 1 time use deal, especially if I need to spin up a new vm instance after destroying the other.",,,
+9te9k6,"Advice on capturing DNS Traffic between client and resource
+There's a project I've been working on, and I'm on the final leg of it.  I'm trying to capture dns traffic from a Windows DNS Server (without installing any additional tools).  The final piece I'm looking for, that I'm not sure how to achieve, is:
+
+User (10.10.10.10) requests a specific A-Record for (10.10.10.200).
+
+User (10.10.10.10) made a change to txt-Record on DNS Server.
+
+How do I capture this in Windows?",,,
+1bak3wx,"ELI5: What is the point of buffer overflow attacks?
+Every video/material I read talks about HOW to do a buffer overflow.
+
+I dont understand WHY to do a buffer overflow.
+
+Say I have a malicious code ""DROP TABLE XYZ""
+
+1. Why wont the program/OS run the code if I input it to the buffer as is.
+
+2. But if I input the code in the buffer and overflow it and then make the return address to point to the line in the buffer that has the malicious code ""DROP TABLE XYZ"", then it will execute the malicious code.
+
+Either the stack is executable or it is not. I really dont get this. And for some reason every video out there isnt interested in explaining it.
+
+edit: Correct me if Im wrong, after reading some stuff, this is what the reason I understand now:
+
+If you read the assembly code being executed, most of the code says ""add the value in this registry address to this registry address"", ""change the value in this registry address to this registry address"".
+
+- They are all telling the computer to do AN OPERATION/ACTIVITY on some value/address.
+
+(It is obvious, because the developer isnt writing the code to execute more code written by the end user. The developer is writing code to do Operations on inputs given by end user and operations on the results of such operations.
+
+So the developer will never tell the instruction pointer to just execute what the enduser provides because it makes no sense. Even if the end-user is a developer and the program creator wanted to let them execute code, it would be impossible without them knowing the whole memory allocation, etc., at that point just give them access to the source code..)
+
+As the attacker, we cannot change the operation/activity being performed we can only change value/address.
+
+- But the ret function (ie, return address) changes the value of the instruction pointer to whatever the stack pointer is currently pointing at. So now the computer will  EXECUTE WHATEVER VALUE is in the address. It transfers control.
+
+
+
+So, The difference is, 
+
+1. Execute - Add ""%80%80%20"" to 72 vs 
+
+2. Execute - %80%80%20",,,
+rv9kv0,"MSP Evaluation -- How to find a good one? Red flags for a bad one?
+I want to help a friend's small business locate and contract with an MSP. 
+
+Their setup is nothing too complicated -- Windows 2016 Server Standard running a Domain Server, file sharing and print queues, and a couple of shared apps. Also 5 user workstations running Windows 10, and a few office printers. Their email is Exchange, hosted by a cloud service provider. Their VOIP phone system is managed by a separate vendor already.
+
+I could use your help and insight into what to look out for (good and bad) when evaluating MSPs in our area. Also, what kind of pricing considerations to expect. 
+
+After all of the MSP horror stories in this sub, I hope there's a good one out there somewhere! (or should they be looking at a different type of model?) Thank you!",,,
+1ojej15,"If your company uses VESA mounts for monitors... what are you doing with the spare stands that come with every monitor?
+We have like 50 of these goddamn things in our storage room because our manager has a bit of a hoarder mentality. We aren't allowed to throw them out, because we ""might need them someday""
+
+...unless another pandemic comes around, I really can't think of a scenario where we would ever need these. I'm curious what others are doing with them! 
+
+Straight into the dumpster? Shipped off to a secure storage facility, to be handled by ""top men""? Arts & Crafts projects?",,,
+rlcloc,"POP3 PST to Office365 Migration, Multiple Emails in PST File
+I am planning a migration to microsoft 365 for a small company and i am unsure howto handle the import of emails from messy PST files. 
+
+Current Situation:
+
+* \~10 mailboxes for employees + 3 shared mailboxes (which is the same als the other ones)
+* Outlook using POP (also because each online mailbox currently has only 2GB size)
+* Local PST files beteween 5 and 40GB (usually one per computer)
+* It is current practice for a few people to retrieve the emails of everybody else, but the emails go into the same PST file into subfolders (looks like unified inbox). So there are PST files which contain emails from like 6 different mailboxes. Because of this there are multiple copies of one email inside the different PST Files.
+
+Employee Requirement/Expectancy: Everything stays the same in my Outlook or at least i can still easily access emails of other colleagues.
+
+For most migration steps I found information online (creating mailboxes, adding domain, changing mx-record and so on), but not sure howto handle the PST import. I see two options:
+
+1. Import each PST File (with multile email adresses) into the mailbox of the employee
+2. Import each PST File filtered by recipient into the corresponding mailbox (Filter out double emails)
+
+Currently Option 2 looks like the right way forward, even if it is some manual work. After that I would allow users access to the mailboxes which they could access before. I assume the only difference would be that users dont see all the emails in a Outlook folder structure (unified inbox), but split by emailadress. 
+
+Does this approach make sense? Do you have an tips/tricks to handle multiple emailadresses in a pst file?
+
+What are the options to give ""unified inbox"" in Outlook (Windows) to employees using multile emailadresses. (Similar to what i looked like with POP PST File)",,,
+85mvyf,"O365 - Organization-wide Impersonation Rights
+Hey guys,
+
+I've been working on a task for a power user who needs access to all mailboxes in the organization.
+
+It seems ApplicationImpersonation role does not provide such access and I'm not able to access other users' mailboxes with that role on my global admin account.
+
+Did anyone achieve such functionality on O365 / Exchange Online?",,,
+uyl3it,"Anybody using stairwell.com
+Anybody here used/trialed their product ? If so, how does it stack with the others like Sentinel1, Crowdstrike etc.
+
+The website is full of buzz words, so curious if they have been tested here.",,,
+1irm5d4,"Always require password for Entra-Id joined device when using RDP ""Use a web account to sign in""
+I have a device that is Entra-Id joined (AAD joined) and when I try to login with my credentials it complains saying such and needs my work email address to login.  I then enable ""Use a web account to sign in to the remote computer"" and it automatically signs me in.  I want it to always prompt for a password because it seems somewhere it has my creds saved.  I am assuming this could be from Chrome, Cred Manager, or even  the token from signing into Outlook or Teams on my local machine (however I did tell it to only use my creds for Outlook and Teams).",,,
+aa1hwb,"I thought of an analogy to explain how IT management structures should ideally work to everyone's benefit to PM's, VP's and C-levels, but didn't know where to post it.
+Think of whatever your current mental construct of ""project"" covers in it's entirety, with all the people, resources, costs and metrics involved and imagine it as an arm.
+
+As the project initiator or head of the body, you should be taking care of your arm, you send out it's instructions from the brain(storming meeting) and it's eventual goal is to deliver the instructions to your fingertips (your technical staff), complete the requested action and return the feedback on how it went. The best way to do that is to send out detailed instructions, right?
+
+But there's always translation between the different information pathways as the instruction is broken down from ""high level"" (C-level) to ""low level"" (ironically 10x more complicated) for the technical fingertips, the people actually doing the work that really moves the project forward.
+
+In our analogy, the instruction hits the neck of your VP or Exec levels (ironically, somewhat), the shoulder of Business Engagement, the bicep and triceps of Project Management, the elbow joint of whatever Change Management process you have in place and all it's associated machinery and bureaucracy, along the forearm muscles of Resource Team management and navigating the Agile/ITIL wrist before finally being delivered to your instructional instruments, your technical staff, your fingertips.
+
+Treat your fingertips well, make sure the rest of your arm is healthy and your instructions are getting through without distortion and you'll gain good feedback back up the chain, for that sweet dopamine reward (profits I guess) for the brain. Subjecting your fingertips to sandpaper in an effort to get them to comply, when the issue is a bicep that doesn't fully understand it's role in the arm, for example, would be a valuable lesson in how to lose your best fingertips and still have a bad bicep!
+
+Can be expanded to include validated data and accurate reporting as the eyes, inter-departmental communication as the voice, and so on.
+
+Thoughts? I don't want to disparage people at those levels or insult anyone's intelligence, but the actual amount of intricacy and communication drift is completely invisible to most people at these levels, or they simply don't care, and it leads to businesses treating good employees like crap and projects that should be straightforward becoming a tangled mess of missed deadlines and feature creep. (Yes, projecting. Hard. Sue me. Some of you will be in similar positions I'm sure.)",,,
+bsiiwk,"Can someone tell what is causing this oddity?
+Hi,
+
+Can anyone tell me what is causing this behavior  on a Win 2012 server running Citrix XenApp 7.6?  Users are connecting to Shared Server OS desktop and Session Printers are setup through Citrix Policy.
+
+When user logs in to a session and session printers are created, when selecting a printer to view printer properties, the user gets another drop down listing multiple printer duplicates for user to chose from.
+
+I have never seen it before.   We have other servers in the environment and this is the only one affected.  It affects all users on that server.
+
+BTW, other than that, printers work fine.
+
+Thanks.",,,
+1juy7y9,"Recover Microsoft MSP (Comcast Biz) admin password
+Help needed please.
+
+Our small company uses Microsoft 365 for email through an old Comcast Business email. 
+
+The user email [**user@company.comcastbiz.net**](mailto:user@company.comcastbiz.net) has recently hit an issue that it can't send any emails anymore (error: remote server returned '550 5.1.8 Access denied, bad outbound sender AS(42004)'). It seems to be due to an issue that the GDAP (Granular Delegated Admin Privileges) permission for this Microsoft account to Comcast has expired.
+
+I was looking to check Microsoft and Exchange permissions for this user from the company admin account [**admin@company.comcastbiz.net**](mailto:admin@company.comcastbiz.net) on [https://security.microsoft.com/antispam](https://security.microsoft.com/antispam) but I don't have the admin password. The admin left the company 2 years ago and can't be reached.
+
+Is there a way to recover the password of this Microsoft admin account?",,,

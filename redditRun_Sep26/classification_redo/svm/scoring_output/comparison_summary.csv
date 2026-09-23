@@ -1,0 +1,4 @@
+approach,n_scored,n_missing,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted
+Few-shot,82,0,0.878,0.881,0.8792,0.878,0.882,0.878,0.8779
+SVM,82,0,0.8415,0.8429,0.8423,0.8414,0.8436,0.8415,0.8414
+Zero-shot,82,0,0.8293,0.837,0.8274,0.8276,0.8359,0.8293,0.828

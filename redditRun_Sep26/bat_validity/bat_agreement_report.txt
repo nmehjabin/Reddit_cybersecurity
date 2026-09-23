@@ -1,0 +1,88 @@
+======================================================================
+BAT ANNOTATION AGREEMENT ANALYSIS
+======================================================================
+
+--- Loading files & normalizing values ---
+
+======================================================================
+STEP 1: SANITY CHECK — do all files cover the same posts?
+======================================================================
+  LLM vs Nadia: MATCH
+  LLM vs Jihyun: MATCH
+  Nadia vs Jihyun: MATCH
+  Row count [LLM]: 20 (unique keys: 20)
+  Row count [Nadia]: 20 (unique keys: 20)
+  Row count [Jihyun]: 20 (unique keys: 20)
+
+  RESULT: All three files annotate the exact same set of posts. Good.
+
+  Using 20 common posts for all analyses below.
+  Row order identical across files: False (not an issue — analysis merges on post_id/comment_id, not row position).
+
+======================================================================
+STEP 2: PER-CONSTRUCT YES/NO COUNTS & AGREEMENT
+======================================================================
+
+--- EX ---
+  YES / NO counts:
+    LLM     : YES= 11  NO=  9
+    Nadia   : YES=  8  NO= 12
+    Jihyun  : YES=  8  NO= 12
+  Pairwise agreement:
+    LLM      vs Nadia   :  15/20 agree ( 75.0%)   Cohen's kappa = 0.510 (moderate)
+    LLM      vs Jihyun  :  17/20 agree ( 85.0%)   Cohen's kappa = 0.706 (substantial)
+    Nadia    vs Jihyun  :  16/20 agree ( 80.0%)   Cohen's kappa = 0.583 (moderate)
+  Three-way agreement (all 3 annotators match): 14/20 (70.0%)
+  Fleiss' kappa (all 3 annotators): 0.596 (moderate)
+
+--- EMO ---
+  YES / NO counts:
+    LLM     : YES=  8  NO= 12
+    Nadia   : YES=  5  NO= 15
+    Jihyun  : YES=  7  NO= 13
+  Pairwise agreement:
+    LLM      vs Nadia   :  15/20 agree ( 75.0%)   Cohen's kappa = 0.444 (moderate)
+    LLM      vs Jihyun  :  15/20 agree ( 75.0%)   Cohen's kappa = 0.468 (moderate)
+    Nadia    vs Jihyun  :  18/20 agree ( 90.0%)   Cohen's kappa = 0.765 (substantial)
+  Three-way agreement (all 3 annotators match): 14/20 (70.0%)
+  Fleiss' kappa (all 3 annotators): 0.550 (moderate)
+
+--- COG ---
+  YES / NO counts:
+    LLM     : YES=  2  NO= 18
+    Nadia   : YES=  4  NO= 16
+    Jihyun  : YES=  4  NO= 16
+  Pairwise agreement:
+    LLM      vs Nadia   :  16/20 agree ( 80.0%)   Cohen's kappa = 0.231 (fair)
+    LLM      vs Jihyun  :  18/20 agree ( 90.0%)   Cohen's kappa = 0.615 (substantial)
+    Nadia    vs Jihyun  :  18/20 agree ( 90.0%)   Cohen's kappa = 0.687 (substantial)
+  Three-way agreement (all 3 annotators match): 16/20 (80.0%)
+  Fleiss' kappa (all 3 annotators): 0.520 (moderate)
+
+--- MD ---
+  YES / NO counts:
+    LLM     : YES=  7  NO= 13
+    Nadia   : YES=  3  NO= 17
+    Jihyun  : YES=  6  NO= 14
+  Pairwise agreement:
+    LLM      vs Nadia   :  16/20 agree ( 80.0%)   Cohen's kappa = 0.494 (moderate)
+    LLM      vs Jihyun  :  15/20 agree ( 75.0%)   Cohen's kappa = 0.432 (moderate)
+    Nadia    vs Jihyun  :  17/20 agree ( 85.0%)   Cohen's kappa = 0.583 (moderate)
+  Three-way agreement (all 3 annotators match): 14/20 (70.0%)
+  Fleiss' kappa (all 3 annotators): 0.489 (moderate)
+
+======================================================================
+STEP 3: OVERALL bat_score AGREEMENT
+======================================================================
+  Exact bat_score match across all annotators: 10/20 (50.0%)
+  LLM      vs Nadia   : mean abs diff = 0.39, exact match = 55.0%
+  LLM      vs Jihyun  : mean abs diff = 0.55, exact match = 55.0%
+  Nadia    vs Jihyun  : mean abs diff = 0.39, exact match = 65.0%
+
+======================================================================
+STEP 4: SUMMARY TABLE (three-way agreement % by construct)
+======================================================================
+  EX   :  70.0% three-way agreement
+  EMO  :  70.0% three-way agreement
+  COG  :  80.0% three-way agreement
+  MD   :  70.0% three-way agreement
